@@ -9,15 +9,11875 @@
 - yes please
 - yes plz
 
-## intent: stock_price
+## intent:stock_price
+- Find the price of [AAIT](symbol)
+- Find the price of [AAL](symbol)
+- Find the price of [AAME](symbol)
+- Find the price of [AAOI](symbol)
+- Find the price of [AAON](symbol)
+- Find the price of [AAPL](symbol)
+- Find the price of [AAVL](symbol)
+- Find the price of [AAWW](symbol)
+- Find the price of [AAXJ](symbol)
+- Find the price of [ABAC](symbol)
+- Find the price of [ABAX](symbol)
+- Find the price of [ABCB](symbol)
+- Find the price of [ABCD](symbol)
+- Find the price of [ABCO](symbol)
+- Find the price of [ABCW](symbol)
+- Find the price of [ABDC](symbol)
+- Find the price of [ABGB](symbol)
+- Find the price of [ABIO](symbol)
+- Find the price of [ABMD](symbol)
+- Find the price of [ABTL](symbol)
+- Find the price of [ABY](symbol)
+- Find the price of [ACAD](symbol)
+- Find the price of [ACAS](symbol)
+- Find the price of [ACAT](symbol)
+- Find the price of [ACET](symbol)
+- Find the price of [ACFC](symbol)
+- Find the price of [ACFN](symbol)
+- Find the price of [ACGL](symbol)
+- Find the price of [ACHC](symbol)
+- Find the price of [ACHN](symbol)
+- Find the price of [ACIW](symbol)
+- Find the price of [ACLS](symbol)
+- Find the price of [ACNB](symbol)
+- Find the price of [ACOR](symbol)
+- Find the price of [ACPW](symbol)
+- Find the price of [ACRX](symbol)
+- Find the price of [ACSF](symbol)
+- Find the price of [ACST](symbol)
+- Find the price of [ACTA](symbol)
+- Find the price of [ACTG](symbol)
+- Find the price of [ACTS](symbol)
+- Find the price of [ACUR](symbol)
+- Find the price of [ACWI](symbol)
+- Find the price of [ACWX](symbol)
+- Find the price of [ACXM](symbol)
+- Find the price of [ADAT](symbol)
+- Find the price of [ADBE](symbol)
+- Find the price of [ADEP](symbol)
+- Find the price of [ADES](symbol)
+- Find the price of [ADHD](symbol)
+- Find the price of [ADI](symbol)
+- Find the price of [ADMA](symbol)
+- Find the price of [ADMP](symbol)
+- Find the price of [ADMS](symbol)
+- Find the price of [ADNC](symbol)
+- Find the price of [ADP](symbol)
+- Find the price of [ADRA](symbol)
+- Find the price of [ADRD](symbol)
+- Find the price of [ADRE](symbol)
+- Find the price of [ADRU](symbol)
+- Find the price of [ADSK](symbol)
+- Find the price of [ADTN](symbol)
+- Find the price of [ADUS](symbol)
+- Find the price of [ADVS](symbol)
+- Find the price of [ADXS](symbol)
+- Find the price of [ADXSW](symbol)
+- Find the price of [AEGN](symbol)
+- Find the price of [AEGR](symbol)
+- Find the price of [AEHR](symbol)
+- Find the price of [AEIS](symbol)
+- Find the price of [AEPI](symbol)
+- Find the price of [AERI](symbol)
+- Find the price of [AETI](symbol)
+- Find the price of [AEY](symbol)
+- Find the price of [AEZS](symbol)
+- Find the price of [AFAM](symbol)
+- Find the price of [AFCB](symbol)
+- Find the price of [AFFX](symbol)
+- Find the price of [AFH](symbol)
+- Find the price of [AFMD](symbol)
+- Find the price of [AFOP](symbol)
+- Find the price of [AFSI](symbol)
+- Find the price of [AGEN](symbol)
+- Find the price of [AGII](symbol)
+- Find the price of [AGIIL](symbol)
+- Find the price of [AGIO](symbol)
+- Find the price of [AGNC](symbol)
+- Find the price of [AGNCB](symbol)
+- Find the price of [AGNCP](symbol)
+- Find the price of [AGND](symbol)
+- Find the price of [AGRX](symbol)
+- Find the price of [AGTC](symbol)
+- Find the price of [AGYS](symbol)
+- Find the price of [AGZD](symbol)
+- Find the price of [AHGP](symbol)
+- Find the price of [AHPI](symbol)
+- Find the price of [AIMC](symbol)
+- Find the price of [AINV](symbol)
+- Find the price of [AIQ](symbol)
+- Find the price of [AIRM](symbol)
+- Find the price of [AIRR](symbol)
+- Find the price of [AIRT](symbol)
+- Find the price of [AIXG](symbol)
+- Find the price of [AKAM](symbol)
+- Find the price of [AKAO](symbol)
+- Find the price of [AKBA](symbol)
+- Find the price of [AKER](symbol)
+- Find the price of [AKRX](symbol)
+- Find the price of [ALCO](symbol)
+- Find the price of [ALDR](symbol)
+- Find the price of [ALDX](symbol)
+- Find the price of [ALGN](symbol)
+- Find the price of [ALGT](symbol)
+- Find the price of [ALIM](symbol)
+- Find the price of [ALKS](symbol)
+- Find the price of [ALLB](symbol)
+- Find the price of [ALLT](symbol)
+- Find the price of [ALNY](symbol)
+- Find the price of [ALOG](symbol)
+- Find the price of [ALOT](symbol)
+- Find the price of [ALQA](symbol)
+- Find the price of [ALSK](symbol)
+- Find the price of [ALTR](symbol)
+- Find the price of [ALXA](symbol)
+- Find the price of [ALXN](symbol)
+- Find the price of [AMAG](symbol)
+- Find the price of [AMAT](symbol)
+- Find the price of [AMBA](symbol)
+- Find the price of [AMBC](symbol)
+- Find the price of [AMBCW](symbol)
+- Find the price of [AMCC](symbol)
+- Find the price of [AMCF](symbol)
+- Find the price of [AMCN](symbol)
+- Find the price of [AMCX](symbol)
+- Find the price of [AMD](symbol)
+- Find the price of [AMDA](symbol)
+- Find the price of [AMED](symbol)
+- Find the price of [AMGN](symbol)
+- Find the price of [AMIC](symbol)
+- Find the price of [AMKR](symbol)
+- Find the price of [AMNB](symbol)
+- Find the price of [AMOT](symbol)
+- Find the price of [AMOV](symbol)
+- Find the price of [AMPH](symbol)
+- Find the price of [AMRB](symbol)
+- Find the price of [AMRI](symbol)
+- Find the price of [AMRK](symbol)
+- Find the price of [AMRN](symbol)
+- Find the price of [AMRS](symbol)
+- Find the price of [AMSC](symbol)
+- Find the price of [AMSF](symbol)
+- Find the price of [AMSG](symbol)
+- Find the price of [AMSGP](symbol)
+- Find the price of [AMSWA](symbol)
+- Find the price of [AMTX](symbol)
+- Find the price of [AMWD](symbol)
+- Find the price of [AMZN](symbol)
+- Find the price of [ANAC](symbol)
+- Find the price of [ANAD](symbol)
+- Find the price of [ANAT](symbol)
+- Find the price of [ANCB](symbol)
+- Find the price of [ANCI](symbol)
+- Find the price of [ANCX](symbol)
+- Find the price of [ANDE](symbol)
+- Find the price of [ANGI](symbol)
+- Find the price of [ANGO](symbol)
+- Find the price of [ANIK](symbol)
+- Find the price of [ANIP](symbol)
+- Find the price of [ANSS](symbol)
+- Find the price of [ANTH](symbol)
+- Find the price of [ANY](symbol)
+- Find the price of [AOSL](symbol)
+- Find the price of [APAGF](symbol)
+- Find the price of [APDN](symbol)
+- Find the price of [APDNW](symbol)
+- Find the price of [APEI](symbol)
+- Find the price of [APOG](symbol)
+- Find the price of [APOL](symbol)
+- Find the price of [APPY](symbol)
+- Find the price of [APRI](symbol)
+- Find the price of [APSA](symbol)
+- Find the price of [APTO](symbol)
+- Find the price of [APWC](symbol)
+- Find the price of [AQXP](symbol)
+- Find the price of [ARAY](symbol)
+- Find the price of [ARCB](symbol)
+- Find the price of [ARCC](symbol)
+- Find the price of [ARCI](symbol)
+- Find the price of [ARCP](symbol)
+- Find the price of [ARCPP](symbol)
+- Find the price of [ARCW](symbol)
+- Find the price of [ARDM](symbol)
+- Find the price of [ARDX](symbol)
+- Find the price of [AREX](symbol)
+- Find the price of [ARGS](symbol)
+- Find the price of [ARIA](symbol)
+- Find the price of [ARII](symbol)
+- Find the price of [ARIS](symbol)
+- Find the price of [ARKR](symbol)
+- Find the price of [ARLP](symbol)
+- Find the price of [ARMH](symbol)
+- Find the price of [ARNA](symbol)
+- Find the price of [AROW](symbol)
+- Find the price of [ARQL](symbol)
+- Find the price of [ARRS](symbol)
+- Find the price of [ARRY](symbol)
+- Find the price of [ARTNA](symbol)
+- Find the price of [ARTW](symbol)
+- Find the price of [ARTX](symbol)
+- Find the price of [ARUN](symbol)
+- Find the price of [ARWR](symbol)
+- Find the price of [ASBB](symbol)
+- Find the price of [ASBI](symbol)
+- Find the price of [ASCMA](symbol)
+- Find the price of [ASEI](symbol)
+- Find the price of [ASFI](symbol)
+- Find the price of [ASMB](symbol)
+- Find the price of [ASMI](symbol)
+- Find the price of [ASML](symbol)
+- Find the price of [ASNA](symbol)
+- Find the price of [ASPS](symbol)
+- Find the price of [ASPX](symbol)
+- Find the price of [ASRV](symbol)
+- Find the price of [ASRVP](symbol)
+- Find the price of [ASTC](symbol)
+- Find the price of [ASTE](symbol)
+- Find the price of [ASTI](symbol)
+- Find the price of [ASUR](symbol)
+- Find the price of [ASYS](symbol)
+- Find the price of [ATAI](symbol)
+- Find the price of [ATAX](symbol)
+- Find the price of [ATEA](symbol)
+- Find the price of [ATEC](symbol)
+- Find the price of [ATHN](symbol)
+- Find the price of [ATHX](symbol)
+- Find the price of [ATLC](symbol)
+- Find the price of [ATLO](symbol)
+- Find the price of [ATML](symbol)
+- Find the price of [ATNI](symbol)
+- Find the price of [ATNY](symbol)
+- Find the price of [ATOS](symbol)
+- Find the price of [ATRA](symbol)
+- Find the price of [ATRC](symbol)
+- Find the price of [ATRI](symbol)
+- Find the price of [ATRM](symbol)
+- Find the price of [ATRO](symbol)
+- Find the price of [ATRS](symbol)
+- Find the price of [ATSG](symbol)
+- Find the price of [ATTU](symbol)
+- Find the price of [ATVI](symbol)
+- Find the price of [AUBN](symbol)
+- Find the price of [AUDC](symbol)
+- Find the price of [AUMA](symbol)
+- Find the price of [AUMAU](symbol)
+- Find the price of [AUMAW](symbol)
+- Find the price of [AUPH](symbol)
+- Find the price of [AUXL](symbol)
+- Find the price of [AVAV](symbol)
+- Find the price of [AVEO](symbol)
+- Find the price of [AVGO](symbol)
+- Find the price of [AVHI](symbol)
+- Find the price of [AVID](symbol)
+- Find the price of [AVNR](symbol)
+- Find the price of [AVNW](symbol)
+- Find the price of [AWAY](symbol)
+- Find the price of [AWRE](symbol)
+- Find the price of [AXAS](symbol)
+- Find the price of [AXDX](symbol)
+- Find the price of [AXGN](symbol)
+- Find the price of [AXJS](symbol)
+- Find the price of [AXPW](symbol)
+- Find the price of [AXPWW](symbol)
+- Find the price of [AXTI](symbol)
+- Find the price of [AZPN](symbol)
+- Find the price of [BABY](symbol)
+- Find the price of [BAGR](symbol)
+- Find the price of [BAMM](symbol)
+- Find the price of [BANF](symbol)
+- Find the price of [BANFP](symbol)
+- Find the price of [BANR](symbol)
+- Find the price of [BANX](symbol)
+- Find the price of [BASI](symbol)
+- Find the price of [BBBY](symbol)
+- Find the price of [BBC](symbol)
+- Find the price of [BBCN](symbol)
+- Find the price of [BBEP](symbol)
+- Find the price of [BBEPP](symbol)
+- Find the price of [BBGI](symbol)
+- Find the price of [BBLU](symbol)
+- Find the price of [BBNK](symbol)
+- Find the price of [BBOX](symbol)
+- Find the price of [BBP](symbol)
+- Find the price of [BBRG](symbol)
+- Find the price of [BBRY](symbol)
+- Find the price of [BBSI](symbol)
+- Find the price of [BCBP](symbol)
+- Find the price of [BCLI](symbol)
+- Find the price of [BCOM](symbol)
+- Find the price of [BCOR](symbol)
+- Find the price of [BCOV](symbol)
+- Find the price of [BCPC](symbol)
+- Find the price of [BCRX](symbol)
+- Find the price of [BDBD](symbol)
+- Find the price of [BDCV](symbol)
+- Find the price of [BDE](symbol)
+- Find the price of [BDGE](symbol)
+- Find the price of [BDMS](symbol)
+- Find the price of [BDSI](symbol)
+- Find the price of [BEAT](symbol)
+- Find the price of [BEAV](symbol)
+- Find the price of [BEBE](symbol)
+- Find the price of [BECN](symbol)
+- Find the price of [BELFA](symbol)
+- Find the price of [BELFB](symbol)
+- Find the price of [BFIN](symbol)
+- Find the price of [BGCP](symbol)
+- Find the price of [BGFV](symbol)
+- Find the price of [BGMD](symbol)
+- Find the price of [BHBK](symbol)
+- Find the price of [BIB](symbol)
+- Find the price of [BICK](symbol)
+- Find the price of [BIDU](symbol)
+- Find the price of [BIIB](symbol)
+- Find the price of [BIND](symbol)
+- Find the price of [BIOC](symbol)
+- Find the price of [BIOD](symbol)
+- Find the price of [BIOL](symbol)
+- Find the price of [BIOS](symbol)
+- Find the price of [BIRT](symbol)
+- Find the price of [BIS](symbol)
+- Find the price of [BJRI](symbol)
+- Find the price of [BKCC](symbol)
+- Find the price of [BKEP](symbol)
+- Find the price of [BKEPP](symbol)
+- Find the price of [BKMU](symbol)
+- Find the price of [BKSC](symbol)
+- Find the price of [BKYF](symbol)
+- Find the price of [BLCM](symbol)
+- Find the price of [BLDP](symbol)
+- Find the price of [BLDR](symbol)
+- Find the price of [BLFS](symbol)
+- Find the price of [BLIN](symbol)
+- Find the price of [BLKB](symbol)
+- Find the price of [BLMN](symbol)
+- Find the price of [BLMT](symbol)
+- Find the price of [BLRX](symbol)
+- Find the price of [BLUE](symbol)
+- Find the price of [BLVD](symbol)
+- Find the price of [BLVDU](symbol)
+- Find the price of [BLVDW](symbol)
+- Find the price of [BMRC](symbol)
+- Find the price of [BMRN](symbol)
+- Find the price of [BMTC](symbol)
+- Find the price of [BNCL](symbol)
+- Find the price of [BNCN](symbol)
+- Find the price of [BNDX](symbol)
+- Find the price of [BNFT](symbol)
+- Find the price of [BNSO](symbol)
+- Find the price of [BOBE](symbol)
+- Find the price of [BOCH](symbol)
+- Find the price of [BOFI](symbol)
+- Find the price of [BOKF](symbol)
+- Find the price of [BONA](symbol)
+- Find the price of [BONT](symbol)
+- Find the price of [BOOM](symbol)
+- Find the price of [BOSC](symbol)
+- Find the price of [BOTA](symbol)
+- Find the price of [BOTJ](symbol)
+- Find the price of [BPFH](symbol)
+- Find the price of [BPFHP](symbol)
+- Find the price of [BPFHW](symbol)
+- Find the price of [BPOP](symbol)
+- Find the price of [BPOPM](symbol)
+- Find the price of [BPOPN](symbol)
+- Find the price of [BPTH](symbol)
+- Find the price of [BRCD](symbol)
+- Find the price of [BRCM](symbol)
+- Find the price of [BRDR](symbol)
+- Find the price of [BREW](symbol)
+- Find the price of [BRID](symbol)
+- Find the price of [BRKL](symbol)
+- Find the price of [BRKR](symbol)
+- Find the price of [BRKS](symbol)
+- Find the price of [BRLI](symbol)
+- Find the price of [BSDM](symbol)
+- Find the price of [BSET](symbol)
+- Find the price of [BSF](symbol)
+- Find the price of [BSFT](symbol)
+- Find the price of [BSPM](symbol)
+- Find the price of [BSQR](symbol)
+- Find the price of [BSRR](symbol)
+- Find the price of [BSTC](symbol)
+- Find the price of [BTUI](symbol)
+- Find the price of [BUR](symbol)
+- Find the price of [BUSE](symbol)
+- Find the price of [BV](symbol)
+- Find the price of [BVA](symbol)
+- Find the price of [BVSN](symbol)
+- Find the price of [BWEN](symbol)
+- Find the price of [BWFG](symbol)
+- Find the price of [BWINA](symbol)
+- Find the price of [BWINB](symbol)
+- Find the price of [BWLD](symbol)
+- Find the price of [BYBK](symbol)
+- Find the price of [BYFC](symbol)
+- Find the price of [BYLK](symbol)
+- Find the price of [CA](symbol)
+- Find the price of [CAAS](symbol)
+- Find the price of [CAC](symbol)
+- Find the price of [CACB](symbol)
+- Find the price of [CACC](symbol)
+- Find the price of [CACG](symbol)
+- Find the price of [CACGU](symbol)
+- Find the price of [CACGW](symbol)
+- Find the price of [CACH](symbol)
+- Find the price of [CACQ](symbol)
+- Find the price of [CADC](symbol)
+- Find the price of [CADT](symbol)
+- Find the price of [CADTR](symbol)
+- Find the price of [CADTU](symbol)
+- Find the price of [CADTW](symbol)
+- Find the price of [CAKE](symbol)
+- Find the price of [CALA](symbol)
+- Find the price of [CALD](symbol)
+- Find the price of [CALI](symbol)
+- Find the price of [CALL](symbol)
+- Find the price of [CALM](symbol)
+- Find the price of [CAMB](symbol)
+- Find the price of [CAMBU](symbol)
+- Find the price of [CAMBW](symbol)
+- Find the price of [CAMP](symbol)
+- Find the price of [CAMT](symbol)
+- Find the price of [CAPN](symbol)
+- Find the price of [CAPNW](symbol)
+- Find the price of [CAR](symbol)
+- Find the price of [CARA](symbol)
+- Find the price of [CARB](symbol)
+- Find the price of [CARO](symbol)
+- Find the price of [CART](symbol)
+- Find the price of [CARV](symbol)
+- Find the price of [CARZ](symbol)
+- Find the price of [CASH](symbol)
+- Find the price of [CASI](symbol)
+- Find the price of [CASM](symbol)
+- Find the price of [CASS](symbol)
+- Find the price of [CASY](symbol)
+- Find the price of [CATM](symbol)
+- Find the price of [CATY](symbol)
+- Find the price of [CATYW](symbol)
+- Find the price of [CAVM](symbol)
+- Find the price of [CBAK](symbol)
+- Find the price of [CBAN](symbol)
+- Find the price of [CBAY](symbol)
+- Find the price of [CBDE](symbol)
+- Find the price of [CBF](symbol)
+- Find the price of [CBFV](symbol)
+- Find the price of [CBIN](symbol)
+- Find the price of [CBLI](symbol)
+- Find the price of [CBMG](symbol)
+- Find the price of [CBMX](symbol)
+- Find the price of [CBNJ](symbol)
+- Find the price of [CBNK](symbol)
+- Find the price of [CBOE](symbol)
+- Find the price of [CBPO](symbol)
+- Find the price of [CBRL](symbol)
+- Find the price of [CBRX](symbol)
+- Find the price of [CBSH](symbol)
+- Find the price of [CBSHP](symbol)
+- Find the price of [CBST](symbol)
+- Find the price of [CBSTZ](symbol)
+- Find the price of [CCBG](symbol)
+- Find the price of [CCCL](symbol)
+- Find the price of [CCCR](symbol)
+- Find the price of [CCIH](symbol)
+- Find the price of [CCLP](symbol)
+- Find the price of [CCMP](symbol)
+- Find the price of [CCNE](symbol)
+- Find the price of [CCOI](symbol)
+- Find the price of [CCRN](symbol)
+- Find the price of [CCUR](symbol)
+- Find the price of [CCXI](symbol)
+- Find the price of [CDC](symbol)
+- Find the price of [CDK](symbol)
+- Find the price of [CDNA](symbol)
+- Find the price of [CDNS](symbol)
+- Find the price of [CDTI](symbol)
+- Find the price of [CDW](symbol)
+- Find the price of [CDXS](symbol)
+- Find the price of [CDZI](symbol)
+- Find the price of [CECE](symbol)
+- Find the price of [CECO](symbol)
+- Find the price of [CELG](symbol)
+- Find the price of [CELGZ](symbol)
+- Find the price of [CEMI](symbol)
+- Find the price of [CEMP](symbol)
+- Find the price of [CENT](symbol)
+- Find the price of [CENTA](symbol)
+- Find the price of [CENX](symbol)
+- Find the price of [CERE](symbol)
+- Find the price of [CERN](symbol)
+- Find the price of [CERS](symbol)
+- Find the price of [CERU](symbol)
+- Find the price of [CETV](symbol)
+- Find the price of [CEVA](symbol)
+- Find the price of [CFA](symbol)
+- Find the price of [CFBK](symbol)
+- Find the price of [CFFI](symbol)
+- Find the price of [CFFN](symbol)
+- Find the price of [CFGE](symbol)
+- Find the price of [CFNB](symbol)
+- Find the price of [CFNL](symbol)
+- Find the price of [CFO](symbol)
+- Find the price of [CFRX](symbol)
+- Find the price of [CFRXW](symbol)
+- Find the price of [CFRXZ](symbol)
+- Find the price of [CG](symbol)
+- Find the price of [CGEN](symbol)
+- Find the price of [CGIX](symbol)
+- Find the price of [CGNX](symbol)
+- Find the price of [CGO](symbol)
+- Find the price of [CHCI](symbol)
+- Find the price of [CHCO](symbol)
+- Find the price of [CHDN](symbol)
+- Find the price of [CHEF](symbol)
+- Find the price of [CHEV](symbol)
+- Find the price of [CHFC](symbol)
+- Find the price of [CHFN](symbol)
+- Find the price of [CHI](symbol)
+- Find the price of [CHKE](symbol)
+- Find the price of [CHKP](symbol)
+- Find the price of [CHLN](symbol)
+- Find the price of [CHMG](symbol)
+- Find the price of [CHNR](symbol)
+- Find the price of [CHOP](symbol)
+- Find the price of [CHRS](symbol)
+- Find the price of [CHRW](symbol)
+- Find the price of [CHSCM](symbol)
+- Find the price of [CHSCN](symbol)
+- Find the price of [CHSCO](symbol)
+- Find the price of [CHSCP](symbol)
+- Find the price of [CHTR](symbol)
+- Find the price of [CHUY](symbol)
+- Find the price of [CHW](symbol)
+- Find the price of [CHXF](symbol)
+- Find the price of [CHY](symbol)
+- Find the price of [CHYR](symbol)
+- Find the price of [CIDM](symbol)
+- Find the price of [CIFC](symbol)
+- Find the price of [CIMT](symbol)
+- Find the price of [CINF](symbol)
+- Find the price of [CISAW](symbol)
+- Find the price of [CISG](symbol)
+- Find the price of [CIZ](symbol)
+- Find the price of [CIZN](symbol)
+- Find the price of [CJJD](symbol)
+- Find the price of [CKEC](symbol)
+- Find the price of [CKSW](symbol)
+- Find the price of [CLAC](symbol)
+- Find the price of [CLACU](symbol)
+- Find the price of [CLACW](symbol)
+- Find the price of [CLBH](symbol)
+- Find the price of [CLCT](symbol)
+- Find the price of [CLDN](symbol)
+- Find the price of [CLDX](symbol)
+- Find the price of [CLFD](symbol)
+- Find the price of [CLIR](symbol)
+- Find the price of [CLMS](symbol)
+- Find the price of [CLMT](symbol)
+- Find the price of [CLNE](symbol)
+- Find the price of [CLNT](symbol)
+- Find the price of [CLRB](symbol)
+- Find the price of [CLRBW](symbol)
+- Find the price of [CLRO](symbol)
+- Find the price of [CLRX](symbol)
+- Find the price of [CLSN](symbol)
+- Find the price of [CLTX](symbol)
+- Find the price of [CLUB](symbol)
+- Find the price of [CLVS](symbol)
+- Find the price of [CLWT](symbol)
+- Find the price of [CMCO](symbol)
+- Find the price of [CMCSA](symbol)
+- Find the price of [CMCSK](symbol)
+- Find the price of [CMCT](symbol)
+- Find the price of [CME](symbol)
+- Find the price of [CMFN](symbol)
+- Find the price of [CMGE](symbol)
+- Find the price of [CMLS](symbol)
+- Find the price of [CMPR](symbol)
+- Find the price of [CMRX](symbol)
+- Find the price of [CMSB](symbol)
+- Find the price of [CMTL](symbol)
+- Find the price of [CNAT](symbol)
+- Find the price of [CNBKA](symbol)
+- Find the price of [CNCE](symbol)
+- Find the price of [CNDO](symbol)
+- Find the price of [CNET](symbol)
+- Find the price of [CNIT](symbol)
+- Find the price of [CNLM](symbol)
+- Find the price of [CNLMR](symbol)
+- Find the price of [CNLMU](symbol)
+- Find the price of [CNLMW](symbol)
+- Find the price of [CNMD](symbol)
+- Find the price of [CNOB](symbol)
+- Find the price of [CNSI](symbol)
+- Find the price of [CNSL](symbol)
+- Find the price of [CNTF](symbol)
+- Find the price of [CNTY](symbol)
+- Find the price of [CNV](symbol)
+- Find the price of [CNXR](symbol)
+- Find the price of [CNYD](symbol)
+- Find the price of [COB](symbol)
+- Find the price of [COBK](symbol)
+- Find the price of [COBZ](symbol)
+- Find the price of [COCO](symbol)
+- Find the price of [COHR](symbol)
+- Find the price of [COHU](symbol)
+- Find the price of [COKE](symbol)
+- Find the price of [COLB](symbol)
+- Find the price of [COLM](symbol)
+- Find the price of [COMM](symbol)
+- Find the price of [COMT](symbol)
+- Find the price of [CONE](symbol)
+- Find the price of [CONN](symbol)
+- Find the price of [COOL](symbol)
+- Find the price of [CORE](symbol)
+- Find the price of [CORI](symbol)
+- Find the price of [CORT](symbol)
+- Find the price of [COSI](symbol)
+- Find the price of [COST](symbol)
+- Find the price of [COVS](symbol)
+- Find the price of [COWN](symbol)
+- Find the price of [COWNL](symbol)
+- Find the price of [CPAH](symbol)
+- Find the price of [CPGI](symbol)
+- Find the price of [CPHC](symbol)
+- Find the price of [CPHD](symbol)
+- Find the price of [CPHR](symbol)
+- Find the price of [CPIX](symbol)
+- Find the price of [CPLA](symbol)
+- Find the price of [CPLP](symbol)
+- Find the price of [CPRT](symbol)
+- Find the price of [CPRX](symbol)
+- Find the price of [CPSI](symbol)
+- Find the price of [CPSS](symbol)
+- Find the price of [CPST](symbol)
+- Find the price of [CPTA](symbol)
+- Find the price of [CPXX](symbol)
+- Find the price of [CRAI](symbol)
+- Find the price of [CRAY](symbol)
+- Find the price of [CRDC](symbol)
+- Find the price of [CRDS](symbol)
+- Find the price of [CRDT](symbol)
+- Find the price of [CREE](symbol)
+- Find the price of [CREG](symbol)
+- Find the price of [CRESW](symbol)
+- Find the price of [CRESY](symbol)
+- Find the price of [CRIS](symbol)
+- Find the price of [CRME](symbol)
+- Find the price of [CRMT](symbol)
+- Find the price of [CRNT](symbol)
+- Find the price of [CROX](symbol)
+- Find the price of [CRRC](symbol)
+- Find the price of [CRRS](symbol)
+- Find the price of [CRTN](symbol)
+- Find the price of [CRTO](symbol)
+- Find the price of [CRUS](symbol)
+- Find the price of [CRVL](symbol)
+- Find the price of [CRWN](symbol)
+- Find the price of [CRWS](symbol)
+- Find the price of [CRZO](symbol)
+- Find the price of [CSBK](symbol)
+- Find the price of [CSCD](symbol)
+- Find the price of [CSCO](symbol)
+- Find the price of [CSF](symbol)
+- Find the price of [CSFL](symbol)
+- Find the price of [CSGP](symbol)
+- Find the price of [CSGS](symbol)
+- Find the price of [CSII](symbol)
+- Find the price of [CSIQ](symbol)
+- Find the price of [CSOD](symbol)
+- Find the price of [CSPI](symbol)
+- Find the price of [CSQ](symbol)
+- Find the price of [CSRE](symbol)
+- Find the price of [CSTE](symbol)
+- Find the price of [CSUN](symbol)
+- Find the price of [CSWC](symbol)
+- Find the price of [CTAS](symbol)
+- Find the price of [CTBI](symbol)
+- Find the price of [CTCM](symbol)
+- Find the price of [CTCT](symbol)
+- Find the price of [CTG](symbol)
+- Find the price of [CTHR](symbol)
+- Find the price of [CTIB](symbol)
+- Find the price of [CTIC](symbol)
+- Find the price of [CTRE](symbol)
+- Find the price of [CTRL](symbol)
+- Find the price of [CTRN](symbol)
+- Find the price of [CTRP](symbol)
+- Find the price of [CTRX](symbol)
+- Find the price of [CTSH](symbol)
+- Find the price of [CTSO](symbol)
+- Find the price of [CTWS](symbol)
+- Find the price of [CTXS](symbol)
+- Find the price of [CU](symbol)
+- Find the price of [CUBA](symbol)
+- Find the price of [CUI](symbol)
+- Find the price of [CUNB](symbol)
+- Find the price of [CUTR](symbol)
+- Find the price of [CVBF](symbol)
+- Find the price of [CVCO](symbol)
+- Find the price of [CVCY](symbol)
+- Find the price of [CVGI](symbol)
+- Find the price of [CVGW](symbol)
+- Find the price of [CVLT](symbol)
+- Find the price of [CVLY](symbol)
+- Find the price of [CVTI](symbol)
+- Find the price of [CVV](symbol)
+- Find the price of [CWAY](symbol)
+- Find the price of [CWBC](symbol)
+- Find the price of [CWCO](symbol)
+- Find the price of [CWST](symbol)
+- Find the price of [CXDC](symbol)
+- Find the price of [CY](symbol)
+- Find the price of [CYAN](symbol)
+- Find the price of [CYBE](symbol)
+- Find the price of [CYBR](symbol)
+- Find the price of [CYBX](symbol)
+- Find the price of [CYCC](symbol)
+- Find the price of [CYCCP](symbol)
+- Find the price of [CYHHZ](symbol)
+- Find the price of [CYNO](symbol)
+- Find the price of [CYOU](symbol)
+- Find the price of [CYRN](symbol)
+- Find the price of [CYTK](symbol)
+- Find the price of [CYTR](symbol)
+- Find the price of [CYTX](symbol)
+- Find the price of [CZFC](symbol)
+- Find the price of [CZNC](symbol)
+- Find the price of [CZR](symbol)
+- Find the price of [CZWI](symbol)
+- Find the price of [DAEG](symbol)
+- Find the price of [DAIO](symbol)
+- Find the price of [DAKT](symbol)
+- Find the price of [DARA](symbol)
+- Find the price of [DATE](symbol)
+- Find the price of [DAVE](symbol)
+- Find the price of [DAX](symbol)
+- Find the price of [DBVT](symbol)
+- Find the price of [DCIX](symbol)
+- Find the price of [DCOM](symbol)
+- Find the price of [DCTH](symbol)
+- Find the price of [DENN](symbol)
+- Find the price of [DEPO](symbol)
+- Find the price of [DERM](symbol)
+- Find the price of [DEST](symbol)
+- Find the price of [DFRG](symbol)
+- Find the price of [DFVL](symbol)
+- Find the price of [DFVS](symbol)
+- Find the price of [DGAS](symbol)
+- Find the price of [DGICA](symbol)
+- Find the price of [DGICB](symbol)
+- Find the price of [DGII](symbol)
+- Find the price of [DGLD](symbol)
+- Find the price of [DGLY](symbol)
+- Find the price of [DGRE](symbol)
+- Find the price of [DGRS](symbol)
+- Find the price of [DGRW](symbol)
+- Find the price of [DHIL](symbol)
+- Find the price of [DHRM](symbol)
+- Find the price of [DIOD](symbol)
+- Find the price of [DISCA](symbol)
+- Find the price of [DISCB](symbol)
+- Find the price of [DISCK](symbol)
+- Find the price of [DISH](symbol)
+- Find the price of [DJCO](symbol)
+- Find the price of [DLBL](symbol)
+- Find the price of [DLBS](symbol)
+- Find the price of [DLHC](symbol)
+- Find the price of [DLTR](symbol)
+- Find the price of [DMLP](symbol)
+- Find the price of [DMND](symbol)
+- Find the price of [DMRC](symbol)
+- Find the price of [DNBF](symbol)
+- Find the price of [DNKN](symbol)
+- Find the price of [DORM](symbol)
+- Find the price of [DOVR](symbol)
+- Find the price of [DOX](symbol)
+- Find the price of [DPRX](symbol)
+- Find the price of [DRAD](symbol)
+- Find the price of [DRAM](symbol)
+- Find the price of [DRIV](symbol)
+- Find the price of [DRNA](symbol)
+- Find the price of [DRRX](symbol)
+- Find the price of [DRWI](symbol)
+- Find the price of [DRWIW](symbol)
+- Find the price of [DRYS](symbol)
+- Find the price of [DSCI](symbol)
+- Find the price of [DSCO](symbol)
+- Find the price of [DSGX](symbol)
+- Find the price of [DSKX](symbol)
+- Find the price of [DSKY](symbol)
+- Find the price of [DSLV](symbol)
+- Find the price of [DSPG](symbol)
+- Find the price of [DSWL](symbol)
+- Find the price of [DTLK](symbol)
+- Find the price of [DTSI](symbol)
+- Find the price of [DTUL](symbol)
+- Find the price of [DTUS](symbol)
+- Find the price of [DTV](symbol)
+- Find the price of [DTYL](symbol)
+- Find the price of [DTYS](symbol)
+- Find the price of [DVAX](symbol)
+- Find the price of [DVCR](symbol)
+- Find the price of [DWA](symbol)
+- Find the price of [DWAT](symbol)
+- Find the price of [DWCH](symbol)
+- Find the price of [DWSN](symbol)
+- Find the price of [DXCM](symbol)
+- Find the price of [DXGE](symbol)
+- Find the price of [DXJS](symbol)
+- Find the price of [DXKW](symbol)
+- Find the price of [DXLG](symbol)
+- Find the price of [DXM](symbol)
+- Find the price of [DXPE](symbol)
+- Find the price of [DXPS](symbol)
+- Find the price of [DXYN](symbol)
+- Find the price of [DYAX](symbol)
+- Find the price of [DYNT](symbol)
+- Find the price of [DYSL](symbol)
+- Find the price of [EA](symbol)
+- Find the price of [EAC](symbol)
+- Find the price of [EARS](symbol)
+- Find the price of [EBAY](symbol)
+- Find the price of [EBIO](symbol)
+- Find the price of [EBIX](symbol)
+- Find the price of [EBMT](symbol)
+- Find the price of [EBSB](symbol)
+- Find the price of [EBTC](symbol)
+- Find the price of [ECHO](symbol)
+- Find the price of [ECOL](symbol)
+- Find the price of [ECPG](symbol)
+- Find the price of [ECTE](symbol)
+- Find the price of [ECYT](symbol)
+- Find the price of [EDAP](symbol)
+- Find the price of [EDGW](symbol)
+- Find the price of [EDS](symbol)
+- Find the price of [EDUC](symbol)
+- Find the price of [EEFT](symbol)
+- Find the price of [EEI](symbol)
+- Find the price of [EEMA](symbol)
+- Find the price of [EEME](symbol)
+- Find the price of [EEML](symbol)
+- Find the price of [EFII](symbol)
+- Find the price of [EFOI](symbol)
+- Find the price of [EFSC](symbol)
+- Find the price of [EFUT](symbol)
+- Find the price of [EGAN](symbol)
+- Find the price of [EGBN](symbol)
+- Find the price of [EGHT](symbol)
+- Find the price of [EGLE](symbol)
+- Find the price of [EGLT](symbol)
+- Find the price of [EGOV](symbol)
+- Find the price of [EGRW](symbol)
+- Find the price of [EGRX](symbol)
+- Find the price of [EGT](symbol)
+- Find the price of [EHTH](symbol)
+- Find the price of [EIGI](symbol)
+- Find the price of [ELGX](symbol)
+- Find the price of [ELNK](symbol)
+- Find the price of [ELON](symbol)
+- Find the price of [ELOS](symbol)
+- Find the price of [ELRC](symbol)
+- Find the price of [ELSE](symbol)
+- Find the price of [ELTK](symbol)
+- Find the price of [EMCB](symbol)
+- Find the price of [EMCF](symbol)
+- Find the price of [EMCG](symbol)
+- Find the price of [EMCI](symbol)
+- Find the price of [EMDI](symbol)
+- Find the price of [EMEY](symbol)
+- Find the price of [EMIF](symbol)
+- Find the price of [EMITF](symbol)
+- Find the price of [EMKR](symbol)
+- Find the price of [EML](symbol)
+- Find the price of [EMMS](symbol)
+- Find the price of [EMMSP](symbol)
+- Find the price of [ENDP](symbol)
+- Find the price of [ENFC](symbol)
+- Find the price of [ENG](symbol)
+- Find the price of [ENOC](symbol)
+- Find the price of [ENPH](symbol)
+- Find the price of [ENSG](symbol)
+- Find the price of [ENT](symbol)
+- Find the price of [ENTA](symbol)
+- Find the price of [ENTG](symbol)
+- Find the price of [ENTR](symbol)
+- Find the price of [ENVI](symbol)
+- Find the price of [ENZN](symbol)
+- Find the price of [ENZY](symbol)
+- Find the price of [EOPN](symbol)
+- Find the price of [EPAX](symbol)
+- Find the price of [EPAY](symbol)
+- Find the price of [EPIQ](symbol)
+- Find the price of [EPRS](symbol)
+- Find the price of [EPZM](symbol)
+- Find the price of [EQIX](symbol)
+- Find the price of [ERI](symbol)
+- Find the price of [ERIC](symbol)
+- Find the price of [ERIE](symbol)
+- Find the price of [ERII](symbol)
+- Find the price of [EROC](symbol)
+- Find the price of [ERS](symbol)
+- Find the price of [ERW](symbol)
+- Find the price of [ESBF](symbol)
+- Find the price of [ESBK](symbol)
+- Find the price of [ESCA](symbol)
+- Find the price of [ESCR](symbol)
+- Find the price of [ESCRP](symbol)
+- Find the price of [ESEA](symbol)
+- Find the price of [ESGR](symbol)
+- Find the price of [ESIO](symbol)
+- Find the price of [ESLT](symbol)
+- Find the price of [ESMC](symbol)
+- Find the price of [ESPR](symbol)
+- Find the price of [ESRX](symbol)
+- Find the price of [ESSA](symbol)
+- Find the price of [ESSX](symbol)
+- Find the price of [ESXB](symbol)
+- Find the price of [ESYS](symbol)
+- Find the price of [ETFC](symbol)
+- Find the price of [ETRM](symbol)
+- Find the price of [EUFN](symbol)
+- Find the price of [EVAL](symbol)
+- Find the price of [EVAR](symbol)
+- Find the price of [EVBS](symbol)
+- Find the price of [EVEP](symbol)
+- Find the price of [EVK](symbol)
+- Find the price of [EVLV](symbol)
+- Find the price of [EVOK](symbol)
+- Find the price of [EVOL](symbol)
+- Find the price of [EVRY](symbol)
+- Find the price of [EWBC](symbol)
+- Find the price of [EXA](symbol)
+- Find the price of [EXAC](symbol)
+- Find the price of [EXAS](symbol)
+- Find the price of [EXEL](symbol)
+- Find the price of [EXFO](symbol)
+- Find the price of [EXLP](symbol)
+- Find the price of [EXLS](symbol)
+- Find the price of [EXPD](symbol)
+- Find the price of [EXPE](symbol)
+- Find the price of [EXPO](symbol)
+- Find the price of [EXTR](symbol)
+- Find the price of [EXXI](symbol)
+- Find the price of [EYES](symbol)
+- Find the price of [EZCH](symbol)
+- Find the price of [EZPW](symbol)
+- Find the price of [FALC](symbol)
+- Find the price of [FANG](symbol)
+- Find the price of [FARM](symbol)
+- Find the price of [FARO](symbol)
+- Find the price of [FAST](symbol)
+- Find the price of [FATE](symbol)
+- Find the price of [FB](symbol)
+- Find the price of [FBIZ](symbol)
+- Find the price of [FBMS](symbol)
+- Find the price of [FBNC](symbol)
+- Find the price of [FBNK](symbol)
+- Find the price of [FBRC](symbol)
+- Find the price of [FBSS](symbol)
+- Find the price of [FCAP](symbol)
+- Find the price of [FCBC](symbol)
+- Find the price of [FCCO](symbol)
+- Find the price of [FCCY](symbol)
+- Find the price of [FCEL](symbol)
+- Find the price of [FCFS](symbol)
+- Find the price of [FCHI](symbol)
+- Find the price of [FCLF](symbol)
+- Find the price of [FCNCA](symbol)
+- Find the price of [FCS](symbol)
+- Find the price of [FCSC](symbol)
+- Find the price of [FCTY](symbol)
+- Find the price of [FCVA](symbol)
+- Find the price of [FCZA](symbol)
+- Find the price of [FCZAP](symbol)
+- Find the price of [FDEF](symbol)
+- Find the price of [FDIV](symbol)
+- Find the price of [FDML](symbol)
+- Find the price of [FDUS](symbol)
+- Find the price of [FEIC](symbol)
+- Find the price of [FEIM](symbol)
+- Find the price of [FELE](symbol)
+- Find the price of [FEMB](symbol)
+- Find the price of [FES](symbol)
+- Find the price of [FEUZ](symbol)
+- Find the price of [FEYE](symbol)
+- Find the price of [FFBC](symbol)
+- Find the price of [FFBCW](symbol)
+- Find the price of [FFHL](symbol)
+- Find the price of [FFIC](symbol)
+- Find the price of [FFIN](symbol)
+- Find the price of [FFIV](symbol)
+- Find the price of [FFKT](symbol)
+- Find the price of [FFNM](symbol)
+- Find the price of [FFNW](symbol)
+- Find the price of [FFWM](symbol)
+- Find the price of [FGEN](symbol)
+- Find the price of [FHCO](symbol)
+- Find the price of [FIBK](symbol)
+- Find the price of [FINL](symbol)
+- Find the price of [FISH](symbol)
+- Find the price of [FISI](symbol)
+- Find the price of [FISV](symbol)
+- Find the price of [FITB](symbol)
+- Find the price of [FITBI](symbol)
+- Find the price of [FIVE](symbol)
+- Find the price of [FIVN](symbol)
+- Find the price of [FIZZ](symbol)
+- Find the price of [FLAT](symbol)
+- Find the price of [FLDM](symbol)
+- Find the price of [FLEX](symbol)
+- Find the price of [FLIC](symbol)
+- Find the price of [FLIR](symbol)
+- Find the price of [FLL](symbol)
+- Find the price of [FLML](symbol)
+- Find the price of [FLWS](symbol)
+- Find the price of [FLXN](symbol)
+- Find the price of [FLXS](symbol)
+- Find the price of [FMB](symbol)
+- Find the price of [FMBH](symbol)
+- Find the price of [FMBI](symbol)
+- Find the price of [FMER](symbol)
+- Find the price of [FMI](symbol)
+- Find the price of [FMNB](symbol)
+- Find the price of [FNBC](symbol)
+- Find the price of [FNFG](symbol)
+- Find the price of [FNGN](symbol)
+- Find the price of [FNHC](symbol)
+- Find the price of [FNJN](symbol)
+- Find the price of [FNLC](symbol)
+- Find the price of [FNRG](symbol)
+- Find the price of [FNSR](symbol)
+- Find the price of [FOLD](symbol)
+- Find the price of [FOMX](symbol)
+- Find the price of [FONE](symbol)
+- Find the price of [FONR](symbol)
+- Find the price of [FORD](symbol)
+- Find the price of [FORM](symbol)
+- Find the price of [FORR](symbol)
+- Find the price of [FORTY](symbol)
+- Find the price of [FOSL](symbol)
+- Find the price of [FOX](symbol)
+- Find the price of [FOXA](symbol)
+- Find the price of [FOXF](symbol)
+- Find the price of [FPRX](symbol)
+- Find the price of [FPXI](symbol)
+- Find the price of [FRAN](symbol)
+- Find the price of [FRBA](symbol)
+- Find the price of [FRBK](symbol)
+- Find the price of [FRED](symbol)
+- Find the price of [FREE](symbol)
+- Find the price of [FRGI](symbol)
+- Find the price of [FRME](symbol)
+- Find the price of [FRP](symbol)
+- Find the price of [FRPH](symbol)
+- Find the price of [FRPHV](symbol)
+- Find the price of [FRPT](symbol)
+- Find the price of [FRSH](symbol)
+- Find the price of [FSAM](symbol)
+- Find the price of [FSBK](symbol)
+- Find the price of [FSBW](symbol)
+- Find the price of [FSC](symbol)
+- Find the price of [FSCFL](symbol)
+- Find the price of [FSFG](symbol)
+- Find the price of [FSFR](symbol)
+- Find the price of [FSGI](symbol)
+- Find the price of [FSLR](symbol)
+- Find the price of [FSNN](symbol)
+- Find the price of [FSRV](symbol)
+- Find the price of [FSTR](symbol)
+- Find the price of [FSYS](symbol)
+- Find the price of [FTCS](symbol)
+- Find the price of [FTD](symbol)
+- Find the price of [FTEK](symbol)
+- Find the price of [FTGC](symbol)
+- Find the price of [FTHI](symbol)
+- Find the price of [FTLB](symbol)
+- Find the price of [FTNT](symbol)
+- Find the price of [FTR](symbol)
+- Find the price of [FTSL](symbol)
+- Find the price of [FTSM](symbol)
+- Find the price of [FUEL](symbol)
+- Find the price of [FULL](symbol)
+- Find the price of [FULLL](symbol)
+- Find the price of [FULT](symbol)
+- Find the price of [FUNC](symbol)
+- Find the price of [FUND](symbol)
+- Find the price of [FV](symbol)
+- Find the price of [FWM](symbol)
+- Find the price of [FWP](symbol)
+- Find the price of [FWRD](symbol)
+- Find the price of [FXCB](symbol)
+- Find the price of [FXEN](symbol)
+- Find the price of [FXENP](symbol)
+- Find the price of [GABC](symbol)
+- Find the price of [GAI](symbol)
+- Find the price of [GAIA](symbol)
+- Find the price of [GAIN](symbol)
+- Find the price of [GAINO](symbol)
+- Find the price of [GAINP](symbol)
+- Find the price of [GALE](symbol)
+- Find the price of [GALT](symbol)
+- Find the price of [GALTU](symbol)
+- Find the price of [GALTW](symbol)
+- Find the price of [GAME](symbol)
+- Find the price of [GARS](symbol)
+- Find the price of [GASS](symbol)
+- Find the price of [GBCI](symbol)
+- Find the price of [GBDC](symbol)
+- Find the price of [GBIM](symbol)
+- Find the price of [GBLI](symbol)
+- Find the price of [GBNK](symbol)
+- Find the price of [GBSN](symbol)
+- Find the price of [GCBC](symbol)
+- Find the price of [GCVRZ](symbol)
+- Find the price of [GDEF](symbol)
+- Find the price of [GENC](symbol)
+- Find the price of [GENE](symbol)
+- Find the price of [GEOS](symbol)
+- Find the price of [GERN](symbol)
+- Find the price of [GEVA](symbol)
+- Find the price of [GEVO](symbol)
+- Find the price of [GFED](symbol)
+- Find the price of [GFN](symbol)
+- Find the price of [GFNCP](symbol)
+- Find the price of [GFNSL](symbol)
+- Find the price of [GGAC](symbol)
+- Find the price of [GGACR](symbol)
+- Find the price of [GGACU](symbol)
+- Find the price of [GGACW](symbol)
+- Find the price of [GGAL](symbol)
+- Find the price of [GHDX](symbol)
+- Find the price of [GIFI](symbol)
+- Find the price of [GIGA](symbol)
+- Find the price of [GIGM](symbol)
+- Find the price of [GIII](symbol)
+- Find the price of [GILD](symbol)
+- Find the price of [GILT](symbol)
+- Find the price of [GK](symbol)
+- Find the price of [GKNT](symbol)
+- Find the price of [GLAD](symbol)
+- Find the price of [GLADO](symbol)
+- Find the price of [GLBS](symbol)
+- Find the price of [GLBZ](symbol)
+- Find the price of [GLDC](symbol)
+- Find the price of [GLDD](symbol)
+- Find the price of [GLDI](symbol)
+- Find the price of [GLMD](symbol)
+- Find the price of [GLNG](symbol)
+- Find the price of [GLPI](symbol)
+- Find the price of [GLRE](symbol)
+- Find the price of [GLRI](symbol)
+- Find the price of [GLUU](symbol)
+- Find the price of [GLYC](symbol)
+- Find the price of [GMAN](symbol)
+- Find the price of [GMCR](symbol)
+- Find the price of [GMLP](symbol)
+- Find the price of [GNBC](symbol)
+- Find the price of [GNCA](symbol)
+- Find the price of [GNCMA](symbol)
+- Find the price of [GNMA](symbol)
+- Find the price of [GNMK](symbol)
+- Find the price of [GNTX](symbol)
+- Find the price of [GNVC](symbol)
+- Find the price of [GOGO](symbol)
+- Find the price of [GOLD](symbol)
+- Find the price of [GOMO](symbol)
+- Find the price of [GOOD](symbol)
+- Find the price of [GOODN](symbol)
+- Find the price of [GOODO](symbol)
+- Find the price of [GOODP](symbol)
+- Find the price of [GOOG](symbol)
+- Find the price of [GOOGL](symbol)
+- Find the price of [GPIC](symbol)
+- Find the price of [GPOR](symbol)
+- Find the price of [GPRE](symbol)
+- Find the price of [GPRO](symbol)
+- Find the price of [GRBK](symbol)
+- Find the price of [GRFS](symbol)
+- Find the price of [GRID](symbol)
+- Find the price of [GRIF](symbol)
+- Find the price of [GRMN](symbol)
+- Find the price of [GROW](symbol)
+- Find the price of [GRPN](symbol)
+- Find the price of [GRVY](symbol)
+- Find the price of [GSBC](symbol)
+- Find the price of [GSIG](symbol)
+- Find the price of [GSIT](symbol)
+- Find the price of [GSM](symbol)
+- Find the price of [GSOL](symbol)
+- Find the price of [GSVC](symbol)
+- Find the price of [GT](symbol)
+- Find the price of [GTIM](symbol)
+- Find the price of [GTIV](symbol)
+- Find the price of [GTLS](symbol)
+- Find the price of [GTWN](symbol)
+- Find the price of [GTXI](symbol)
+- Find the price of [GUID](symbol)
+- Find the price of [GULF](symbol)
+- Find the price of [GULTU](symbol)
+- Find the price of [GURE](symbol)
+- Find the price of [GWGH](symbol)
+- Find the price of [GWPH](symbol)
+- Find the price of [GYRO](symbol)
+- Find the price of [HA](symbol)
+- Find the price of [HABT](symbol)
+- Find the price of [HAFC](symbol)
+- Find the price of [HAIN](symbol)
+- Find the price of [HALL](symbol)
+- Find the price of [HALO](symbol)
+- Find the price of [HART](symbol)
+- Find the price of [HAS](symbol)
+- Find the price of [HAWK](symbol)
+- Find the price of [HAWKB](symbol)
+- Find the price of [HAYN](symbol)
+- Find the price of [HBAN](symbol)
+- Find the price of [HBANP](symbol)
+- Find the price of [HBCP](symbol)
+- Find the price of [HBHC](symbol)
+- Find the price of [HBIO](symbol)
+- Find the price of [HBK](symbol)
+- Find the price of [HBMD](symbol)
+- Find the price of [HBNC](symbol)
+- Find the price of [HBNK](symbol)
+- Find the price of [HBOS](symbol)
+- Find the price of [HBP](symbol)
+- Find the price of [HCAC](symbol)
+- Find the price of [HCACU](symbol)
+- Find the price of [HCACW](symbol)
+- Find the price of [HCAP](symbol)
+- Find the price of [HCBK](symbol)
+- Find the price of [HCCI](symbol)
+- Find the price of [HCKT](symbol)
+- Find the price of [HCOM](symbol)
+- Find the price of [HCSG](symbol)
+- Find the price of [HCT](symbol)
+- Find the price of [HDNG](symbol)
+- Find the price of [HDP](symbol)
+- Find the price of [HDRA](symbol)
+- Find the price of [HDRAR](symbol)
+- Find the price of [HDRAU](symbol)
+- Find the price of [HDRAW](symbol)
+- Find the price of [HDS](symbol)
+- Find the price of [HDSN](symbol)
+- Find the price of [HEAR](symbol)
+- Find the price of [HEES](symbol)
+- Find the price of [HELE](symbol)
+- Find the price of [HEOP](symbol)
+- Find the price of [HERO](symbol)
+- Find the price of [HFBC](symbol)
+- Find the price of [HFBL](symbol)
+- Find the price of [HFFC](symbol)
+- Find the price of [HFWA](symbol)
+- Find the price of [HGSH](symbol)
+- Find the price of [HIBB](symbol)
+- Find the price of [HIFS](symbol)
+- Find the price of [HIHO](symbol)
+- Find the price of [HIIQ](symbol)
+- Find the price of [HILL](symbol)
+- Find the price of [HIMX](symbol)
+- Find the price of [HKTV](symbol)
+- Find the price of [HLIT](symbol)
+- Find the price of [HLSS](symbol)
+- Find the price of [HMHC](symbol)
+- Find the price of [HMIN](symbol)
+- Find the price of [HMNF](symbol)
+- Find the price of [HMNY](symbol)
+- Find the price of [HMPR](symbol)
+- Find the price of [HMST](symbol)
+- Find the price of [HMSY](symbol)
+- Find the price of [HMTV](symbol)
+- Find the price of [HNH](symbol)
+- Find the price of [HNNA](symbol)
+- Find the price of [HNRG](symbol)
+- Find the price of [HNSN](symbol)
+- Find the price of [HOFT](symbol)
+- Find the price of [HOLI](symbol)
+- Find the price of [HOLX](symbol)
+- Find the price of [HOMB](symbol)
+- Find the price of [HOTR](symbol)
+- Find the price of [HOTRW](symbol)
+- Find the price of [HOVNP](symbol)
+- Find the price of [HPJ](symbol)
+- Find the price of [HPTX](symbol)
+- Find the price of [HQY](symbol)
+- Find the price of [HRTX](symbol)
+- Find the price of [HRZN](symbol)
+- Find the price of [HSGX](symbol)
+- Find the price of [HSIC](symbol)
+- Find the price of [HSII](symbol)
+- Find the price of [HSKA](symbol)
+- Find the price of [HSNI](symbol)
+- Find the price of [HSOL](symbol)
+- Find the price of [HSON](symbol)
+- Find the price of [HSTM](symbol)
+- Find the price of [HTBI](symbol)
+- Find the price of [HTBK](symbol)
+- Find the price of [HTBX](symbol)
+- Find the price of [HTCH](symbol)
+- Find the price of [HTHT](symbol)
+- Find the price of [HTLD](symbol)
+- Find the price of [HTLF](symbol)
+- Find the price of [HTWO](symbol)
+- Find the price of [HTWR](symbol)
+- Find the price of [HUBG](symbol)
+- Find the price of [HURC](symbol)
+- Find the price of [HURN](symbol)
+- Find the price of [HWAY](symbol)
+- Find the price of [HWBK](symbol)
+- Find the price of [HWCC](symbol)
+- Find the price of [HWKN](symbol)
+- Find the price of [HYGS](symbol)
+- Find the price of [HYLS](symbol)
+- Find the price of [HYND](symbol)
+- Find the price of [HYZD](symbol)
+- Find the price of [HZNP](symbol)
+- Find the price of [IACI](symbol)
+- Find the price of [IART](symbol)
+- Find the price of [IBB](symbol)
+- Find the price of [IBCA](symbol)
+- Find the price of [IBCP](symbol)
+- Find the price of [IBKC](symbol)
+- Find the price of [IBKR](symbol)
+- Find the price of [IBOC](symbol)
+- Find the price of [IBTX](symbol)
+- Find the price of [ICAD](symbol)
+- Find the price of [ICCC](symbol)
+- Find the price of [ICEL](symbol)
+- Find the price of [ICFI](symbol)
+- Find the price of [ICLD](symbol)
+- Find the price of [ICLDW](symbol)
+- Find the price of [ICLN](symbol)
+- Find the price of [ICLR](symbol)
+- Find the price of [ICON](symbol)
+- Find the price of [ICPT](symbol)
+- Find the price of [ICUI](symbol)
+- Find the price of [IDCC](symbol)
+- Find the price of [IDRA](symbol)
+- Find the price of [IDSA](symbol)
+- Find the price of [IDSY](symbol)
+- Find the price of [IDTI](symbol)
+- Find the price of [IDXX](symbol)
+- Find the price of [IEP](symbol)
+- Find the price of [IESC](symbol)
+- Find the price of [IEUS](symbol)
+- Find the price of [IFAS](symbol)
+- Find the price of [IFEU](symbol)
+- Find the price of [IFGL](symbol)
+- Find the price of [IFNA](symbol)
+- Find the price of [IFON](symbol)
+- Find the price of [IFV](symbol)
+- Find the price of [IGLD](symbol)
+- Find the price of [IGOV](symbol)
+- Find the price of [IGTE](symbol)
+- Find the price of [III](symbol)
+- Find the price of [IIIN](symbol)
+- Find the price of [IIJI](symbol)
+- Find the price of [IILG](symbol)
+- Find the price of [IIN](symbol)
+- Find the price of [IIVI](symbol)
+- Find the price of [IKAN](symbol)
+- Find the price of [IKGH](symbol)
+- Find the price of [IKNX](symbol)
+- Find the price of [ILMN](symbol)
+- Find the price of [IMDZ](symbol)
+- Find the price of [IMGN](symbol)
+- Find the price of [IMI](symbol)
+- Find the price of [IMKTA](symbol)
+- Find the price of [IMMR](symbol)
+- Find the price of [IMMU](symbol)
+- Find the price of [IMMY](symbol)
+- Find the price of [IMNP](symbol)
+- Find the price of [IMOS](symbol)
+- Find the price of [IMRS](symbol)
+- Find the price of [INAP](symbol)
+- Find the price of [INBK](symbol)
+- Find the price of [INCR](symbol)
+- Find the price of [INCY](symbol)
+- Find the price of [INDB](symbol)
+- Find the price of [INDY](symbol)
+- Find the price of [INFA](symbol)
+- Find the price of [INFI](symbol)
+- Find the price of [INFN](symbol)
+- Find the price of [INGN](symbol)
+- Find the price of [ININ](symbol)
+- Find the price of [INNL](symbol)
+- Find the price of [INO](symbol)
+- Find the price of [INOD](symbol)
+- Find the price of [INPH](symbol)
+- Find the price of [INSM](symbol)
+- Find the price of [INSY](symbol)
+- Find the price of [INTC](symbol)
+- Find the price of [INTG](symbol)
+- Find the price of [INTL](symbol)
+- Find the price of [INTLL](symbol)
+- Find the price of [INTU](symbol)
+- Find the price of [INTX](symbol)
+- Find the price of [INVE](symbol)
+- Find the price of [INVT](symbol)
+- Find the price of [INWK](symbol)
+- Find the price of [IOSP](symbol)
+- Find the price of [IPAR](symbol)
+- Find the price of [IPAS](symbol)
+- Find the price of [IPCC](symbol)
+- Find the price of [IPCI](symbol)
+- Find the price of [IPCM](symbol)
+- Find the price of [IPDN](symbol)
+- Find the price of [IPGP](symbol)
+- Find the price of [IPHS](symbol)
+- Find the price of [IPKW](symbol)
+- Find the price of [IPWR](symbol)
+- Find the price of [IPXL](symbol)
+- Find the price of [IQNT](symbol)
+- Find the price of [IRBT](symbol)
+- Find the price of [IRDM](symbol)
+- Find the price of [IRDMB](symbol)
+- Find the price of [IRDMZ](symbol)
+- Find the price of [IRG](symbol)
+- Find the price of [IRIX](symbol)
+- Find the price of [IRMD](symbol)
+- Find the price of [IROQ](symbol)
+- Find the price of [IRWD](symbol)
+- Find the price of [ISBC](symbol)
+- Find the price of [ISCA](symbol)
+- Find the price of [ISHG](symbol)
+- Find the price of [ISIG](symbol)
+- Find the price of [ISIL](symbol)
+- Find the price of [ISIS](symbol)
+- Find the price of [ISLE](symbol)
+- Find the price of [ISM](symbol)
+- Find the price of [ISNS](symbol)
+- Find the price of [ISRG](symbol)
+- Find the price of [ISRL](symbol)
+- Find the price of [ISSC](symbol)
+- Find the price of [ISSI](symbol)
+- Find the price of [ISTR](symbol)
+- Find the price of [ITCI](symbol)
+- Find the price of [ITIC](symbol)
+- Find the price of [ITRI](symbol)
+- Find the price of [ITRN](symbol)
+- Find the price of [IVAC](symbol)
+- Find the price of [IVAN](symbol)
+- Find the price of [IXYS](symbol)
+- Find the price of [JACK](symbol)
+- Find the price of [JACQ](symbol)
+- Find the price of [JACQU](symbol)
+- Find the price of [JACQW](symbol)
+- Find the price of [JAKK](symbol)
+- Find the price of [JASN](symbol)
+- Find the price of [JASNW](symbol)
+- Find the price of [JASO](symbol)
+- Find the price of [JAXB](symbol)
+- Find the price of [JAZZ](symbol)
+- Find the price of [JBHT](symbol)
+- Find the price of [JBLU](symbol)
+- Find the price of [JBSS](symbol)
+- Find the price of [JCOM](symbol)
+- Find the price of [JCS](symbol)
+- Find the price of [JCTCF](symbol)
+- Find the price of [JD](symbol)
+- Find the price of [JDSU](symbol)
+- Find the price of [JGBB](symbol)
+- Find the price of [JIVE](symbol)
+- Find the price of [JJSF](symbol)
+- Find the price of [JKHY](symbol)
+- Find the price of [JMBA](symbol)
+- Find the price of [JOBS](symbol)
+- Find the price of [JOEZ](symbol)
+- Find the price of [JOUT](symbol)
+- Find the price of [JRJC](symbol)
+- Find the price of [JRVR](symbol)
+- Find the price of [JSM](symbol)
+- Find the price of [JST](symbol)
+- Find the price of [JTPY](symbol)
+- Find the price of [JUNO](symbol)
+- Find the price of [JVA](symbol)
+- Find the price of [JXSB](symbol)
+- Find the price of [JYNT](symbol)
+- Find the price of [KALU](symbol)
+- Find the price of [KANG](symbol)
+- Find the price of [KBAL](symbol)
+- Find the price of [KBIO](symbol)
+- Find the price of [KBSF](symbol)
+- Find the price of [KCAP](symbol)
+- Find the price of [KCLI](symbol)
+- Find the price of [KE](symbol)
+- Find the price of [KELYA](symbol)
+- Find the price of [KELYB](symbol)
+- Find the price of [KEQU](symbol)
+- Find the price of [KERX](symbol)
+- Find the price of [KEYW](symbol)
+- Find the price of [KFFB](symbol)
+- Find the price of [KFRC](symbol)
+- Find the price of [KFX](symbol)
+- Find the price of [KGJI](symbol)
+- Find the price of [KIN](symbol)
+- Find the price of [KINS](symbol)
+- Find the price of [KIRK](symbol)
+- Find the price of [KITE](symbol)
+- Find the price of [KLAC](symbol)
+- Find the price of [KLIC](symbol)
+- Find the price of [KLXI](symbol)
+- Find the price of [KMDA](symbol)
+- Find the price of [KNDI](symbol)
+- Find the price of [KONA](symbol)
+- Find the price of [KONE](symbol)
+- Find the price of [KOOL](symbol)
+- Find the price of [KOPN](symbol)
+- Find the price of [KOSS](symbol)
+- Find the price of [KPTI](symbol)
+- Find the price of [KRFT](symbol)
+- Find the price of [KRNY](symbol)
+- Find the price of [KTCC](symbol)
+- Find the price of [KTEC](symbol)
+- Find the price of [KTOS](symbol)
+- Find the price of [KTWO](symbol)
+- Find the price of [KUTV](symbol)
+- Find the price of [KVHI](symbol)
+- Find the price of [KWEB](symbol)
+- Find the price of [KYTH](symbol)
+- Find the price of [KZ](symbol)
+- Find the price of [LABC](symbol)
+- Find the price of [LABL](symbol)
+- Find the price of [LACO](symbol)
+- Find the price of [LAKE](symbol)
+- Find the price of [LALT](symbol)
+- Find the price of [LAMR](symbol)
+- Find the price of [LANC](symbol)
+- Find the price of [LAND](symbol)
+- Find the price of [LARK](symbol)
+- Find the price of [LAWS](symbol)
+- Find the price of [LAYN](symbol)
+- Find the price of [LBAI](symbol)
+- Find the price of [LBIX](symbol)
+- Find the price of [LBRDA](symbol)
+- Find the price of [LBRDK](symbol)
+- Find the price of [LBRKR](symbol)
+- Find the price of [LBTYA](symbol)
+- Find the price of [LBTYB](symbol)
+- Find the price of [LBTYK](symbol)
+- Find the price of [LCNB](symbol)
+- Find the price of [LCUT](symbol)
+- Find the price of [LDRH](symbol)
+- Find the price of [LDRI](symbol)
+- Find the price of [LE](symbol)
+- Find the price of [LECO](symbol)
+- Find the price of [LEDS](symbol)
+- Find the price of [LEVY](symbol)
+- Find the price of [LEVYU](symbol)
+- Find the price of [LEVYW](symbol)
+- Find the price of [LFUS](symbol)
+- Find the price of [LFVN](symbol)
+- Find the price of [LGCY](symbol)
+- Find the price of [LGCYO](symbol)
+- Find the price of [LGCYP](symbol)
+- Find the price of [LGIH](symbol)
+- Find the price of [LGND](symbol)
+- Find the price of [LHCG](symbol)
+- Find the price of [LIME](symbol)
+- Find the price of [LINC](symbol)
+- Find the price of [LINE](symbol)
+- Find the price of [LION](symbol)
+- Find the price of [LIOX](symbol)
+- Find the price of [LIQD](symbol)
+- Find the price of [LIVE](symbol)
+- Find the price of [LJPC](symbol)
+- Find the price of [LKFN](symbol)
+- Find the price of [LKQ](symbol)
+- Find the price of [LLEX](symbol)
+- Find the price of [LLNW](symbol)
+- Find the price of [LLTC](symbol)
+- Find the price of [LMAT](symbol)
+- Find the price of [LMBS](symbol)
+- Find the price of [LMCA](symbol)
+- Find the price of [LMCB](symbol)
+- Find the price of [LMCK](symbol)
+- Find the price of [LMIA](symbol)
+- Find the price of [LMNR](symbol)
+- Find the price of [LMNS](symbol)
+- Find the price of [LMNX](symbol)
+- Find the price of [LMOS](symbol)
+- Find the price of [LMRK](symbol)
+- Find the price of [LNBB](symbol)
+- Find the price of [LNCE](symbol)
+- Find the price of [LNCO](symbol)
+- Find the price of [LNDC](symbol)
+- Find the price of [LOAN](symbol)
+- Find the price of [LOCM](symbol)
+- Find the price of [LOCO](symbol)
+- Find the price of [LOGI](symbol)
+- Find the price of [LOGM](symbol)
+- Find the price of [LOJN](symbol)
+- Find the price of [LONG](symbol)
+- Find the price of [LOOK](symbol)
+- Find the price of [LOPE](symbol)
+- Find the price of [LORL](symbol)
+- Find the price of [LOXO](symbol)
+- Find the price of [LPCN](symbol)
+- Find the price of [LPHI](symbol)
+- Find the price of [LPLA](symbol)
+- Find the price of [LPNT](symbol)
+- Find the price of [LPSB](symbol)
+- Find the price of [LPSN](symbol)
+- Find the price of [LPTH](symbol)
+- Find the price of [LPTN](symbol)
+- Find the price of [LQDT](symbol)
+- Find the price of [LRAD](symbol)
+- Find the price of [LRCX](symbol)
+- Find the price of [LSBK](symbol)
+- Find the price of [LSCC](symbol)
+- Find the price of [LSTR](symbol)
+- Find the price of [LTBR](symbol)
+- Find the price of [LTRE](symbol)
+- Find the price of [LTRPA](symbol)
+- Find the price of [LTRPB](symbol)
+- Find the price of [LTRX](symbol)
+- Find the price of [LTXB](symbol)
+- Find the price of [LULU](symbol)
+- Find the price of [LUNA](symbol)
+- Find the price of [LVNTA](symbol)
+- Find the price of [LVNTB](symbol)
+- Find the price of [LWAY](symbol)
+- Find the price of [LXRX](symbol)
+- Find the price of [LYTS](symbol)
+- Find the price of [MACK](symbol)
+- Find the price of [MAG](symbol)
+- Find the price of [MAGS](symbol)
+- Find the price of [MAMS](symbol)
+- Find the price of [MANH](symbol)
+- Find the price of [MANT](symbol)
+- Find the price of [MAR](symbol)
+- Find the price of [MARA](symbol)
+- Find the price of [MARK](symbol)
+- Find the price of [MARPS](symbol)
+- Find the price of [MASI](symbol)
+- Find the price of [MAT](symbol)
+- Find the price of [MATR](symbol)
+- Find the price of [MATW](symbol)
+- Find the price of [MAYS](symbol)
+- Find the price of [MBCN](symbol)
+- Find the price of [MBFI](symbol)
+- Find the price of [MBFIP](symbol)
+- Find the price of [MBII](symbol)
+- Find the price of [MBLX](symbol)
+- Find the price of [MBRG](symbol)
+- Find the price of [MBSD](symbol)
+- Find the price of [MBTF](symbol)
+- Find the price of [MBUU](symbol)
+- Find the price of [MBVT](symbol)
+- Find the price of [MBWM](symbol)
+- Find the price of [MCBC](symbol)
+- Find the price of [MCBK](symbol)
+- Find the price of [MCEP](symbol)
+- Find the price of [MCGC](symbol)
+- Find the price of [MCHP](symbol)
+- Find the price of [MCHX](symbol)
+- Find the price of [MCOX](symbol)
+- Find the price of [MCRI](symbol)
+- Find the price of [MCRL](symbol)
+- Find the price of [MCUR](symbol)
+- Find the price of [MDAS](symbol)
+- Find the price of [MDCA](symbol)
+- Find the price of [MDCO](symbol)
+- Find the price of [MDIV](symbol)
+- Find the price of [MDLZ](symbol)
+- Find the price of [MDM](symbol)
+- Find the price of [MDRX](symbol)
+- Find the price of [MDSO](symbol)
+- Find the price of [MDSY](symbol)
+- Find the price of [MDVN](symbol)
+- Find the price of [MDVXU](symbol)
+- Find the price of [MDWD](symbol)
+- Find the price of [MDXG](symbol)
+- Find the price of [MEET](symbol)
+- Find the price of [MEIL](symbol)
+- Find the price of [MEILW](symbol)
+- Find the price of [MEILZ](symbol)
+- Find the price of [MEIP](symbol)
+- Find the price of [MELA](symbol)
+- Find the price of [MELI](symbol)
+- Find the price of [MELR](symbol)
+- Find the price of [MEMP](symbol)
+- Find the price of [MENT](symbol)
+- Find the price of [MEOH](symbol)
+- Find the price of [MERC](symbol)
+- Find the price of [MERU](symbol)
+- Find the price of [METR](symbol)
+- Find the price of [MFI](symbol)
+- Find the price of [MFLX](symbol)
+- Find the price of [MFNC](symbol)
+- Find the price of [MFRI](symbol)
+- Find the price of [MFRM](symbol)
+- Find the price of [MFSF](symbol)
+- Find the price of [MGCD](symbol)
+- Find the price of [MGEE](symbol)
+- Find the price of [MGI](symbol)
+- Find the price of [MGIC](symbol)
+- Find the price of [MGLN](symbol)
+- Find the price of [MGNX](symbol)
+- Find the price of [MGPI](symbol)
+- Find the price of [MGRC](symbol)
+- Find the price of [MGYR](symbol)
+- Find the price of [MHGC](symbol)
+- Find the price of [MHLD](symbol)
+- Find the price of [MHLDO](symbol)
+- Find the price of [MICT](symbol)
+- Find the price of [MICTW](symbol)
+- Find the price of [MIDD](symbol)
+- Find the price of [MIFI](symbol)
+- Find the price of [MIK](symbol)
+- Find the price of [MIND](symbol)
+- Find the price of [MINI](symbol)
+- Find the price of [MITK](symbol)
+- Find the price of [MITL](symbol)
+- Find the price of [MKSI](symbol)
+- Find the price of [MKTO](symbol)
+- Find the price of [MKTX](symbol)
+- Find the price of [MLAB](symbol)
+- Find the price of [MLHR](symbol)
+- Find the price of [MLNK](symbol)
+- Find the price of [MLNX](symbol)
+- Find the price of [MLVF](symbol)
+- Find the price of [MMAC](symbol)
+- Find the price of [MMLP](symbol)
+- Find the price of [MMSI](symbol)
+- Find the price of [MMYT](symbol)
+- Find the price of [MNDL](symbol)
+- Find the price of [MNDO](symbol)
+- Find the price of [MNGA](symbol)
+- Find the price of [MNKD](symbol)
+- Find the price of [MNOV](symbol)
+- Find the price of [MNRK](symbol)
+- Find the price of [MNRO](symbol)
+- Find the price of [MNST](symbol)
+- Find the price of [MNTA](symbol)
+- Find the price of [MNTX](symbol)
+- Find the price of [MOBI](symbol)
+- Find the price of [MOBL](symbol)
+- Find the price of [MOCO](symbol)
+- Find the price of [MOFG](symbol)
+- Find the price of [MOKO](symbol)
+- Find the price of [MOLG](symbol)
+- Find the price of [MOMO](symbol)
+- Find the price of [MORN](symbol)
+- Find the price of [MOSY](symbol)
+- Find the price of [MPAA](symbol)
+- Find the price of [MPB](symbol)
+- Find the price of [MPEL](symbol)
+- Find the price of [MPET](symbol)
+- Find the price of [MPWR](symbol)
+- Find the price of [MRCC](symbol)
+- Find the price of [MRCY](symbol)
+- Find the price of [MRD](symbol)
+- Find the price of [MRGE](symbol)
+- Find the price of [MRKT](symbol)
+- Find the price of [MRLN](symbol)
+- Find the price of [MRNS](symbol)
+- Find the price of [MRTN](symbol)
+- Find the price of [MRTX](symbol)
+- Find the price of [MRVC](symbol)
+- Find the price of [MRVL](symbol)
+- Find the price of [MSBF](symbol)
+- Find the price of [MSCC](symbol)
+- Find the price of [MSEX](symbol)
+- Find the price of [MSFG](symbol)
+- Find the price of [MSFT](symbol)
+- Find the price of [MSG](symbol)
+- Find the price of [MSLI](symbol)
+- Find the price of [MSON](symbol)
+- Find the price of [MSTR](symbol)
+- Find the price of [MTBC](symbol)
+- Find the price of [MTEX](symbol)
+- Find the price of [MTGE](symbol)
+- Find the price of [MTGEP](symbol)
+- Find the price of [MTLS](symbol)
+- Find the price of [MTRX](symbol)
+- Find the price of [MTSC](symbol)
+- Find the price of [MTSI](symbol)
+- Find the price of [MTSL](symbol)
+- Find the price of [MTSN](symbol)
+- Find the price of [MU](symbol)
+- Find the price of [MULT](symbol)
+- Find the price of [MVIS](symbol)
+- Find the price of [MWIV](symbol)
+- Find the price of [MXIM](symbol)
+- Find the price of [MXWL](symbol)
+- Find the price of [MYGN](symbol)
+- Find the price of [MYL](symbol)
+- Find the price of [MYOS](symbol)
+- Find the price of [MYRG](symbol)
+- Find the price of [MZOR](symbol)
+- Find the price of [NAII](symbol)
+- Find the price of [NAME](symbol)
+- Find the price of [NANO](symbol)
+- Find the price of [NATH](symbol)
+- Find the price of [NATI](symbol)
+- Find the price of [NATL](symbol)
+- Find the price of [NATR](symbol)
+- Find the price of [NAUH](symbol)
+- Find the price of [NAVG](symbol)
+- Find the price of [NAVI](symbol)
+- Find the price of [NBBC](symbol)
+- Find the price of [NBIX](symbol)
+- Find the price of [NBN](symbol)
+- Find the price of [NBS](symbol)
+- Find the price of [NBTB](symbol)
+- Find the price of [NBTF](symbol)
+- Find the price of [NCIT](symbol)
+- Find the price of [NCLH](symbol)
+- Find the price of [NCMI](symbol)
+- Find the price of [NCTY](symbol)
+- Find the price of [NDAQ](symbol)
+- Find the price of [NDLS](symbol)
+- Find the price of [NDRM](symbol)
+- Find the price of [NDSN](symbol)
+- Find the price of [NECB](symbol)
+- Find the price of [NEO](symbol)
+- Find the price of [NEOG](symbol)
+- Find the price of [NEON](symbol)
+- Find the price of [NEOT](symbol)
+- Find the price of [NEPT](symbol)
+- Find the price of [NERV](symbol)
+- Find the price of [NETE](symbol)
+- Find the price of [NEWP](symbol)
+- Find the price of [NEWS](symbol)
+- Find the price of [NEWT](symbol)
+- Find the price of [NFBK](symbol)
+- Find the price of [NFEC](symbol)
+- Find the price of [NFLX](symbol)
+- Find the price of [NGHC](symbol)
+- Find the price of [NGHCP](symbol)
+- Find the price of [NHTB](symbol)
+- Find the price of [NICE](symbol)
+- Find the price of [NICK](symbol)
+- Find the price of [NILE](symbol)
+- Find the price of [NKSH](symbol)
+- Find the price of [NKTR](symbol)
+- Find the price of [NLNK](symbol)
+- Find the price of [NLST](symbol)
+- Find the price of [NMIH](symbol)
+- Find the price of [NMRX](symbol)
+- Find the price of [NNBR](symbol)
+- Find the price of [NPBC](symbol)
+- Find the price of [NPSP](symbol)
+- Find the price of [NRCIA](symbol)
+- Find the price of [NRCIB](symbol)
+- Find the price of [NRIM](symbol)
+- Find the price of [NRX](symbol)
+- Find the price of [NSEC](symbol)
+- Find the price of [NSIT](symbol)
+- Find the price of [NSPH](symbol)
+- Find the price of [NSSC](symbol)
+- Find the price of [NSTG](symbol)
+- Find the price of [NSYS](symbol)
+- Find the price of [NTAP](symbol)
+- Find the price of [NTCT](symbol)
+- Find the price of [NTES](symbol)
+- Find the price of [NTGR](symbol)
+- Find the price of [NTIC](symbol)
+- Find the price of [NTK](symbol)
+- Find the price of [NTLS](symbol)
+- Find the price of [NTRI](symbol)
+- Find the price of [NTRS](symbol)
+- Find the price of [NTRSP](symbol)
+- Find the price of [NTWK](symbol)
+- Find the price of [NUAN](symbol)
+- Find the price of [NURO](symbol)
+- Find the price of [NUTR](symbol)
+- Find the price of [NUVA](symbol)
+- Find the price of [NVAX](symbol)
+- Find the price of [NVCN](symbol)
+- Find the price of [NVDA](symbol)
+- Find the price of [NVDQ](symbol)
+- Find the price of [NVEC](symbol)
+- Find the price of [NVEE](symbol)
+- Find the price of [NVEEW](symbol)
+- Find the price of [NVFY](symbol)
+- Find the price of [NVGN](symbol)
+- Find the price of [NVMI](symbol)
+- Find the price of [NVSL](symbol)
+- Find the price of [NWBI](symbol)
+- Find the price of [NWBO](symbol)
+- Find the price of [NWBOW](symbol)
+- Find the price of [NWFL](symbol)
+- Find the price of [NWLI](symbol)
+- Find the price of [NWPX](symbol)
+- Find the price of [NWS](symbol)
+- Find the price of [NWSA](symbol)
+- Find the price of [NXPI](symbol)
+- Find the price of [NXST](symbol)
+- Find the price of [NXTD](symbol)
+- Find the price of [NXTDW](symbol)
+- Find the price of [NXTM](symbol)
+- Find the price of [NYMT](symbol)
+- Find the price of [NYMTP](symbol)
+- Find the price of [NYMX](symbol)
+- Find the price of [NYNY](symbol)
+- Find the price of [OBAS](symbol)
+- Find the price of [OBCI](symbol)
+- Find the price of [OCC](symbol)
+- Find the price of [OCFC](symbol)
+- Find the price of [OCLR](symbol)
+- Find the price of [OCLS](symbol)
+- Find the price of [OCRX](symbol)
+- Find the price of [OCUL](symbol)
+- Find the price of [ODFL](symbol)
+- Find the price of [ODP](symbol)
+- Find the price of [OFED](symbol)
+- Find the price of [OFIX](symbol)
+- Find the price of [OFLX](symbol)
+- Find the price of [OFS](symbol)
+- Find the price of [OGXI](symbol)
+- Find the price of [OHAI](symbol)
+- Find the price of [OHGI](symbol)
+- Find the price of [OHRP](symbol)
+- Find the price of [OIIM](symbol)
+- Find the price of [OKSB](symbol)
+- Find the price of [OLBK](symbol)
+- Find the price of [OLED](symbol)
+- Find the price of [OMAB](symbol)
+- Find the price of [OMCL](symbol)
+- Find the price of [OMED](symbol)
+- Find the price of [OMER](symbol)
+- Find the price of [OMEX](symbol)
+- Find the price of [ONB](symbol)
+- Find the price of [ONCY](symbol)
+- Find the price of [ONEQ](symbol)
+- Find the price of [ONFC](symbol)
+- Find the price of [ONNN](symbol)
+- Find the price of [ONTX](symbol)
+- Find the price of [ONTY](symbol)
+- Find the price of [ONVI](symbol)
+- Find the price of [OPB](symbol)
+- Find the price of [OPHC](symbol)
+- Find the price of [OPHT](symbol)
+- Find the price of [OPOF](symbol)
+- Find the price of [OPTT](symbol)
+- Find the price of [OPXA](symbol)
+- Find the price of [ORBC](symbol)
+- Find the price of [ORBK](symbol)
+- Find the price of [OREX](symbol)
+- Find the price of [ORIG](symbol)
+- Find the price of [ORIT](symbol)
+- Find the price of [ORLY](symbol)
+- Find the price of [ORMP](symbol)
+- Find the price of [ORPN](symbol)
+- Find the price of [ORRF](symbol)
+- Find the price of [OSBC](symbol)
+- Find the price of [OSBCP](symbol)
+- Find the price of [OSHC](symbol)
+- Find the price of [OSIR](symbol)
+- Find the price of [OSIS](symbol)
+- Find the price of [OSM](symbol)
+- Find the price of [OSN](symbol)
+- Find the price of [OSTK](symbol)
+- Find the price of [OSUR](symbol)
+- Find the price of [OTEL](symbol)
+- Find the price of [OTEX](symbol)
+- Find the price of [OTIC](symbol)
+- Find the price of [OTIV](symbol)
+- Find the price of [OTTR](symbol)
+- Find the price of [OUTR](symbol)
+- Find the price of [OVAS](symbol)
+- Find the price of [OVBC](symbol)
+- Find the price of [OVLY](symbol)
+- Find the price of [OVTI](symbol)
+- Find the price of [OXBR](symbol)
+- Find the price of [OXBRW](symbol)
+- Find the price of [OXFD](symbol)
+- Find the price of [OXGN](symbol)
+- Find the price of [OXLC](symbol)
+- Find the price of [OXLCN](symbol)
+- Find the price of [OXLCO](symbol)
+- Find the price of [OXLCP](symbol)
+- Find the price of [OZRK](symbol)
+- Find the price of [PAAS](symbol)
+- Find the price of [PACB](symbol)
+- Find the price of [PACW](symbol)
+- Find the price of [PAGG](symbol)
+- Find the price of [PAHC](symbol)
+- Find the price of [PANL](symbol)
+- Find the price of [PARN](symbol)
+- Find the price of [PATIV](symbol)
+- Find the price of [PATK](symbol)
+- Find the price of [PAYX](symbol)
+- Find the price of [PBCP](symbol)
+- Find the price of [PBCT](symbol)
+- Find the price of [PBHC](symbol)
+- Find the price of [PBIB](symbol)
+- Find the price of [PBIP](symbol)
+- Find the price of [PBMD](symbol)
+- Find the price of [PBPB](symbol)
+- Find the price of [PBSK](symbol)
+- Find the price of [PCAR](symbol)
+- Find the price of [PCBK](symbol)
+- Find the price of [PCCC](symbol)
+- Find the price of [PCH](symbol)
+- Find the price of [PCLN](symbol)
+- Find the price of [PCMI](symbol)
+- Find the price of [PCO](symbol)
+- Find the price of [PCOM](symbol)
+- Find the price of [PCRX](symbol)
+- Find the price of [PCTI](symbol)
+- Find the price of [PCTY](symbol)
+- Find the price of [PCYC](symbol)
+- Find the price of [PCYG](symbol)
+- Find the price of [PCYO](symbol)
+- Find the price of [PDBC](symbol)
+- Find the price of [PDCE](symbol)
+- Find the price of [PDCO](symbol)
+- Find the price of [PDEX](symbol)
+- Find the price of [PDFS](symbol)
+- Find the price of [PDII](symbol)
+- Find the price of [PDLI](symbol)
+- Find the price of [PEBK](symbol)
+- Find the price of [PEBO](symbol)
+- Find the price of [PEGA](symbol)
+- Find the price of [PEGI](symbol)
+- Find the price of [PEIX](symbol)
+- Find the price of [PENN](symbol)
+- Find the price of [PENX](symbol)
+- Find the price of [PEOP](symbol)
+- Find the price of [PERF](symbol)
+- Find the price of [PERI](symbol)
+- Find the price of [PERY](symbol)
+- Find the price of [PESI](symbol)
+- Find the price of [PETM](symbol)
+- Find the price of [PETS](symbol)
+- Find the price of [PETX](symbol)
+- Find the price of [PFBC](symbol)
+- Find the price of [PFBI](symbol)
+- Find the price of [PFBX](symbol)
+- Find the price of [PFIE](symbol)
+- Find the price of [PFIN](symbol)
+- Find the price of [PFIS](symbol)
+- Find the price of [PFLT](symbol)
+- Find the price of [PFMT](symbol)
+- Find the price of [PFPT](symbol)
+- Find the price of [PFSW](symbol)
+- Find the price of [PGC](symbol)
+- Find the price of [PGNX](symbol)
+- Find the price of [PGTI](symbol)
+- Find the price of [PHII](symbol)
+- Find the price of [PHIIK](symbol)
+- Find the price of [PHMD](symbol)
+- Find the price of [PICO](symbol)
+- Find the price of [PIH](symbol)
+- Find the price of [PINC](symbol)
+- Find the price of [PKBK](symbol)
+- Find the price of [PKOH](symbol)
+- Find the price of [PKT](symbol)
+- Find the price of [PLAB](symbol)
+- Find the price of [PLAY](symbol)
+- Find the price of [PLBC](symbol)
+- Find the price of [PLCE](symbol)
+- Find the price of [PLCM](symbol)
+- Find the price of [PLKI](symbol)
+- Find the price of [PLMT](symbol)
+- Find the price of [PLNR](symbol)
+- Find the price of [PLPC](symbol)
+- Find the price of [PLPM](symbol)
+- Find the price of [PLTM](symbol)
+- Find the price of [PLUG](symbol)
+- Find the price of [PLUS](symbol)
+- Find the price of [PLXS](symbol)
+- Find the price of [PMBC](symbol)
+- Find the price of [PMCS](symbol)
+- Find the price of [PMD](symbol)
+- Find the price of [PME](symbol)
+- Find the price of [PMFG](symbol)
+- Find the price of [PNBK](symbol)
+- Find the price of [PNFP](symbol)
+- Find the price of [PNNT](symbol)
+- Find the price of [PNQI](symbol)
+- Find the price of [PNRA](symbol)
+- Find the price of [PNRG](symbol)
+- Find the price of [PNTR](symbol)
+- Find the price of [PODD](symbol)
+- Find the price of [POOL](symbol)
+- Find the price of [POPE](symbol)
+- Find the price of [POWI](symbol)
+- Find the price of [POWL](symbol)
+- Find the price of [POZN](symbol)
+- Find the price of [PPBI](symbol)
+- Find the price of [PPC](symbol)
+- Find the price of [PPHM](symbol)
+- Find the price of [PPHMP](symbol)
+- Find the price of [PPSI](symbol)
+- Find the price of [PRAA](symbol)
+- Find the price of [PRAH](symbol)
+- Find the price of [PRAN](symbol)
+- Find the price of [PRCP](symbol)
+- Find the price of [PRFT](symbol)
+- Find the price of [PRFZ](symbol)
+- Find the price of [PRGN](symbol)
+- Find the price of [PRGNL](symbol)
+- Find the price of [PRGS](symbol)
+- Find the price of [PRGX](symbol)
+- Find the price of [PRIM](symbol)
+- Find the price of [PRKR](symbol)
+- Find the price of [PRLS](symbol)
+- Find the price of [PRMW](symbol)
+- Find the price of [PROV](symbol)
+- Find the price of [PRPH](symbol)
+- Find the price of [PRQR](symbol)
+- Find the price of [PRSC](symbol)
+- Find the price of [PRSS](symbol)
+- Find the price of [PRTA](symbol)
+- Find the price of [PRTK](symbol)
+- Find the price of [PRTO](symbol)
+- Find the price of [PRTS](symbol)
+- Find the price of [PRXI](symbol)
+- Find the price of [PRXL](symbol)
+- Find the price of [PSAU](symbol)
+- Find the price of [PSBH](symbol)
+- Find the price of [PSCC](symbol)
+- Find the price of [PSCD](symbol)
+- Find the price of [PSCE](symbol)
+- Find the price of [PSCF](symbol)
+- Find the price of [PSCH](symbol)
+- Find the price of [PSCI](symbol)
+- Find the price of [PSCM](symbol)
+- Find the price of [PSCT](symbol)
+- Find the price of [PSCU](symbol)
+- Find the price of [PSDV](symbol)
+- Find the price of [PSEC](symbol)
+- Find the price of [PSEM](symbol)
+- Find the price of [PSIX](symbol)
+- Find the price of [PSMT](symbol)
+- Find the price of [PSTB](symbol)
+- Find the price of [PSTI](symbol)
+- Find the price of [PSTR](symbol)
+- Find the price of [PSUN](symbol)
+- Find the price of [PTBI](symbol)
+- Find the price of [PTBIW](symbol)
+- Find the price of [PTC](symbol)
+- Find the price of [PTCT](symbol)
+- Find the price of [PTEN](symbol)
+- Find the price of [PTIE](symbol)
+- Find the price of [PTLA](symbol)
+- Find the price of [PTNR](symbol)
+- Find the price of [PTNT](symbol)
+- Find the price of [PTRY](symbol)
+- Find the price of [PTSI](symbol)
+- Find the price of [PTX](symbol)
+- Find the price of [PULB](symbol)
+- Find the price of [PVTB](symbol)
+- Find the price of [PVTBP](symbol)
+- Find the price of [PWOD](symbol)
+- Find the price of [PWRD](symbol)
+- Find the price of [PWX](symbol)
+- Find the price of [PXLW](symbol)
+- Find the price of [PZZA](symbol)
+- Find the price of [QABA](symbol)
+- Find the price of [QADA](symbol)
+- Find the price of [QADB](symbol)
+- Find the price of [QAT](symbol)
+- Find the price of [QBAK](symbol)
+- Find the price of [QCCO](symbol)
+- Find the price of [QCLN](symbol)
+- Find the price of [QCOM](symbol)
+- Find the price of [QCRH](symbol)
+- Find the price of [QDEL](symbol)
+- Find the price of [QGEN](symbol)
+- Find the price of [QINC](symbol)
+- Find the price of [QIWI](symbol)
+- Find the price of [QKLS](symbol)
+- Find the price of [QLGC](symbol)
+- Find the price of [QLIK](symbol)
+- Find the price of [QLTI](symbol)
+- Find the price of [QLTY](symbol)
+- Find the price of [QLYS](symbol)
+- Find the price of [QNST](symbol)
+- Find the price of [QQEW](symbol)
+- Find the price of [QQQ](symbol)
+- Find the price of [QQQC](symbol)
+- Find the price of [QQQX](symbol)
+- Find the price of [QQXT](symbol)
+- Find the price of [QRHC](symbol)
+- Find the price of [QRVO](symbol)
+- Find the price of [QSII](symbol)
+- Find the price of [QTEC](symbol)
+- Find the price of [QTNT](symbol)
+- Find the price of [QTNTW](symbol)
+- Find the price of [QTWW](symbol)
+- Find the price of [QUIK](symbol)
+- Find the price of [QUMU](symbol)
+- Find the price of [QUNR](symbol)
+- Find the price of [QURE](symbol)
+- Find the price of [QVCA](symbol)
+- Find the price of [QVCB](symbol)
+- Find the price of [QYLD](symbol)
+- Find the price of [RADA](symbol)
+- Find the price of [RAIL](symbol)
+- Find the price of [RAND](symbol)
+- Find the price of [RARE](symbol)
+- Find the price of [RAVE](symbol)
+- Find the price of [RAVN](symbol)
+- Find the price of [RBCAA](symbol)
+- Find the price of [RBCN](symbol)
+- Find the price of [RBPAA](symbol)
+- Find the price of [RCII](symbol)
+- Find the price of [RCKY](symbol)
+- Find the price of [RCMT](symbol)
+- Find the price of [RCON](symbol)
+- Find the price of [RCPI](symbol)
+- Find the price of [RCPT](symbol)
+- Find the price of [RDCM](symbol)
+- Find the price of [RDEN](symbol)
+- Find the price of [RDHL](symbol)
+- Find the price of [RDI](symbol)
+- Find the price of [RDIB](symbol)
+- Find the price of [RDNT](symbol)
+- Find the price of [RDUS](symbol)
+- Find the price of [RDVY](symbol)
+- Find the price of [RDWR](symbol)
+- Find the price of [RECN](symbol)
+- Find the price of [REDF](symbol)
+- Find the price of [REFR](symbol)
+- Find the price of [REGI](symbol)
+- Find the price of [REGN](symbol)
+- Find the price of [REIS](symbol)
+- Find the price of [RELL](symbol)
+- Find the price of [RELV](symbol)
+- Find the price of [REMY](symbol)
+- Find the price of [RENT](symbol)
+- Find the price of [REPH](symbol)
+- Find the price of [RESN](symbol)
+- Find the price of [REXI](symbol)
+- Find the price of [REXX](symbol)
+- Find the price of [RFIL](symbol)
+- Find the price of [RGCO](symbol)
+- Find the price of [RGDO](symbol)
+- Find the price of [RGDX](symbol)
+- Find the price of [RGEN](symbol)
+- Find the price of [RGLD](symbol)
+- Find the price of [RGLS](symbol)
+- Find the price of [RGSE](symbol)
+- Find the price of [RIBT](symbol)
+- Find the price of [RIBTW](symbol)
+- Find the price of [RICK](symbol)
+- Find the price of [RIGL](symbol)
+- Find the price of [RITT](symbol)
+- Find the price of [RITTW](symbol)
+- Find the price of [RIVR](symbol)
+- Find the price of [RJET](symbol)
+- Find the price of [RLJE](symbol)
+- Find the price of [RLOC](symbol)
+- Find the price of [RLOG](symbol)
+- Find the price of [RLYP](symbol)
+- Find the price of [RMBS](symbol)
+- Find the price of [RMCF](symbol)
+- Find the price of [RMGN](symbol)
+- Find the price of [RMTI](symbol)
+- Find the price of [RNA](symbol)
+- Find the price of [RNET](symbol)
+- Find the price of [RNST](symbol)
+- Find the price of [RNWK](symbol)
+- Find the price of [ROBO](symbol)
+- Find the price of [ROCK](symbol)
+- Find the price of [ROIA](symbol)
+- Find the price of [ROIAK](symbol)
+- Find the price of [ROIC](symbol)
+- Find the price of [ROIQ](symbol)
+- Find the price of [ROIQU](symbol)
+- Find the price of [ROIQW](symbol)
+- Find the price of [ROKA](symbol)
+- Find the price of [ROLL](symbol)
+- Find the price of [ROSE](symbol)
+- Find the price of [ROSG](symbol)
+- Find the price of [ROST](symbol)
+- Find the price of [ROVI](symbol)
+- Find the price of [ROYL](symbol)
+- Find the price of [RP](symbol)
+- Find the price of [RPRX](symbol)
+- Find the price of [RPRXW](symbol)
+- Find the price of [RPRXZ](symbol)
+- Find the price of [RPTP](symbol)
+- Find the price of [RPXC](symbol)
+- Find the price of [RRD](symbol)
+- Find the price of [RRGB](symbol)
+- Find the price of [RRST](symbol)
+- Find the price of [RSTI](symbol)
+- Find the price of [RSYS](symbol)
+- Find the price of [RTGN](symbol)
+- Find the price of [RTIX](symbol)
+- Find the price of [RTK](symbol)
+- Find the price of [RTRX](symbol)
+- Find the price of [RUSHA](symbol)
+- Find the price of [RUSHB](symbol)
+- Find the price of [RUTH](symbol)
+- Find the price of [RVBD](symbol)
+- Find the price of [RVLT](symbol)
+- Find the price of [RVNC](symbol)
+- Find the price of [RVSB](symbol)
+- Find the price of [RWLK](symbol)
+- Find the price of [RXDX](symbol)
+- Find the price of [RXII](symbol)
+- Find the price of [RYAAY](symbol)
+- Find the price of [SAAS](symbol)
+- Find the price of [SABR](symbol)
+- Find the price of [SAEX](symbol)
+- Find the price of [SAFM](symbol)
+- Find the price of [SAFT](symbol)
+- Find the price of [SAGE](symbol)
+- Find the price of [SAIA](symbol)
+- Find the price of [SAJA](symbol)
+- Find the price of [SAL](symbol)
+- Find the price of [SALE](symbol)
+- Find the price of [SALM](symbol)
+- Find the price of [SAMG](symbol)
+- Find the price of [SANM](symbol)
+- Find the price of [SANW](symbol)
+- Find the price of [SANWZ](symbol)
+- Find the price of [SAPE](symbol)
+- Find the price of [SASR](symbol)
+- Find the price of [SATS](symbol)
+- Find the price of [SAVE](symbol)
+- Find the price of [SBAC](symbol)
+- Find the price of [SBBX](symbol)
+- Find the price of [SBCF](symbol)
+- Find the price of [SBCP](symbol)
+- Find the price of [SBFG](symbol)
+- Find the price of [SBGI](symbol)
+- Find the price of [SBLK](symbol)
+- Find the price of [SBLKL](symbol)
+- Find the price of [SBNY](symbol)
+- Find the price of [SBNYW](symbol)
+- Find the price of [SBRA](symbol)
+- Find the price of [SBRAP](symbol)
+- Find the price of [SBSA](symbol)
+- Find the price of [SBSI](symbol)
+- Find the price of [SBUX](symbol)
+- Find the price of [SCAI](symbol)
+- Find the price of [SCHL](symbol)
+- Find the price of [SCHN](symbol)
+- Find the price of [SCLN](symbol)
+- Find the price of [SCMP](symbol)
+- Find the price of [SCOK](symbol)
+- Find the price of [SCON](symbol)
+- Find the price of [SCOR](symbol)
+- Find the price of [SCSC](symbol)
+- Find the price of [SCSS](symbol)
+- Find the price of [SCTY](symbol)
+- Find the price of [SCVL](symbol)
+- Find the price of [SCYX](symbol)
+- Find the price of [SEAC](symbol)
+- Find the price of [SEED](symbol)
+- Find the price of [SEIC](symbol)
+- Find the price of [SEMI](symbol)
+- Find the price of [SENEA](symbol)
+- Find the price of [SENEB](symbol)
+- Find the price of [SEV](symbol)
+- Find the price of [SFBC](symbol)
+- Find the price of [SFBS](symbol)
+- Find the price of [SFLY](symbol)
+- Find the price of [SFM](symbol)
+- Find the price of [SFNC](symbol)
+- Find the price of [SFST](symbol)
+- Find the price of [SFXE](symbol)
+- Find the price of [SGBK](symbol)
+- Find the price of [SGC](symbol)
+- Find the price of [SGEN](symbol)
+- Find the price of [SGI](symbol)
+- Find the price of [SGMA](symbol)
+- Find the price of [SGMO](symbol)
+- Find the price of [SGMS](symbol)
+- Find the price of [SGNL](symbol)
+- Find the price of [SGNT](symbol)
+- Find the price of [SGOC](symbol)
+- Find the price of [SGRP](symbol)
+- Find the price of [SGYP](symbol)
+- Find the price of [SGYPU](symbol)
+- Find the price of [SGYPW](symbol)
+- Find the price of [SHBI](symbol)
+- Find the price of [SHEN](symbol)
+- Find the price of [SHIP](symbol)
+- Find the price of [SHLD](symbol)
+- Find the price of [SHLDW](symbol)
+- Find the price of [SHLM](symbol)
+- Find the price of [SHLO](symbol)
+- Find the price of [SHOO](symbol)
+- Find the price of [SHOR](symbol)
+- Find the price of [SHOS](symbol)
+- Find the price of [SHPG](symbol)
+- Find the price of [SIAL](symbol)
+- Find the price of [SIBC](symbol)
+- Find the price of [SIEB](symbol)
+- Find the price of [SIEN](symbol)
+- Find the price of [SIFI](symbol)
+- Find the price of [SIFY](symbol)
+- Find the price of [SIGA](symbol)
+- Find the price of [SIGI](symbol)
+- Find the price of [SIGM](symbol)
+- Find the price of [SILC](symbol)
+- Find the price of [SIMG](symbol)
+- Find the price of [SIMO](symbol)
+- Find the price of [SINA](symbol)
+- Find the price of [SINO](symbol)
+- Find the price of [SIRI](symbol)
+- Find the price of [SIRO](symbol)
+- Find the price of [SIVB](symbol)
+- Find the price of [SIVBO](symbol)
+- Find the price of [SIXD](symbol)
+- Find the price of [SKBI](symbol)
+- Find the price of [SKIS](symbol)
+- Find the price of [SKOR](symbol)
+- Find the price of [SKUL](symbol)
+- Find the price of [SKYS](symbol)
+- Find the price of [SKYW](symbol)
+- Find the price of [SKYY](symbol)
+- Find the price of [SLAB](symbol)
+- Find the price of [SLCT](symbol)
+- Find the price of [SLGN](symbol)
+- Find the price of [SLM](symbol)
+- Find the price of [SLMAP](symbol)
+- Find the price of [SLMBP](symbol)
+- Find the price of [SLP](symbol)
+- Find the price of [SLRC](symbol)
+- Find the price of [SLTC](symbol)
+- Find the price of [SLVO](symbol)
+- Find the price of [SLXP](symbol)
+- Find the price of [SMAC](symbol)
+- Find the price of [SMACR](symbol)
+- Find the price of [SMACU](symbol)
+- Find the price of [SMBC](symbol)
+- Find the price of [SMCI](symbol)
+- Find the price of [SMED](symbol)
+- Find the price of [SMIT](symbol)
+- Find the price of [SMLR](symbol)
+- Find the price of [SMMF](symbol)
+- Find the price of [SMPL](symbol)
+- Find the price of [SMRT](symbol)
+- Find the price of [SMSI](symbol)
+- Find the price of [SMT](symbol)
+- Find the price of [SMTC](symbol)
+- Find the price of [SMTP](symbol)
+- Find the price of [SMTX](symbol)
+- Find the price of [SNAK](symbol)
+- Find the price of [SNBC](symbol)
+- Find the price of [SNC](symbol)
+- Find the price of [SNCR](symbol)
+- Find the price of [SNDK](symbol)
+- Find the price of [SNFCA](symbol)
+- Find the price of [SNHY](symbol)
+- Find the price of [SNMX](symbol)
+- Find the price of [SNPS](symbol)
+- Find the price of [SNSS](symbol)
+- Find the price of [SNTA](symbol)
+- Find the price of [SOCB](symbol)
+- Find the price of [SOCL](symbol)
+- Find the price of [SODA](symbol)
+- Find the price of [SOFO](symbol)
+- Find the price of [SOHO](symbol)
+- Find the price of [SOHOL](symbol)
+- Find the price of [SOHOM](symbol)
+- Find the price of [SOHU](symbol)
+- Find the price of [SONA](symbol)
+- Find the price of [SONC](symbol)
+- Find the price of [SONS](symbol)
+- Find the price of [SORL](symbol)
+- Find the price of [SOXX](symbol)
+- Find the price of [SP](symbol)
+- Find the price of [SPAN](symbol)
+- Find the price of [SPAR](symbol)
+- Find the price of [SPCB](symbol)
+- Find the price of [SPDC](symbol)
+- Find the price of [SPEX](symbol)
+- Find the price of [SPHS](symbol)
+- Find the price of [SPIL](symbol)
+- Find the price of [SPKE](symbol)
+- Find the price of [SPLK](symbol)
+- Find the price of [SPLS](symbol)
+- Find the price of [SPNC](symbol)
+- Find the price of [SPNS](symbol)
+- Find the price of [SPOK](symbol)
+- Find the price of [SPPI](symbol)
+- Find the price of [SPPR](symbol)
+- Find the price of [SPPRO](symbol)
+- Find the price of [SPPRP](symbol)
+- Find the price of [SPRO](symbol)
+- Find the price of [SPRT](symbol)
+- Find the price of [SPSC](symbol)
+- Find the price of [SPTN](symbol)
+- Find the price of [SPU](symbol)
+- Find the price of [SPWH](symbol)
+- Find the price of [SPWR](symbol)
+- Find the price of [SQBG](symbol)
+- Find the price of [SQBK](symbol)
+- Find the price of [SQI](symbol)
+- Find the price of [SQNM](symbol)
+- Find the price of [SQQQ](symbol)
+- Find the price of [SRCE](symbol)
+- Find the price of [SRCL](symbol)
+- Find the price of [SRDX](symbol)
+- Find the price of [SREV](symbol)
+- Find the price of [SRNE](symbol)
+- Find the price of [SRPT](symbol)
+- Find the price of [SRSC](symbol)
+- Find the price of [SSB](symbol)
+- Find the price of [SSBI](symbol)
+- Find the price of [SSFN](symbol)
+- Find the price of [SSH](symbol)
+- Find the price of [SSNC](symbol)
+- Find the price of [SSRG](symbol)
+- Find the price of [SSRI](symbol)
+- Find the price of [SSYS](symbol)
+- Find the price of [STAA](symbol)
+- Find the price of [STB](symbol)
+- Find the price of [STBA](symbol)
+- Find the price of [STBZ](symbol)
+- Find the price of [STCK](symbol)
+- Find the price of [STEM](symbol)
+- Find the price of [STFC](symbol)
+- Find the price of [STKL](symbol)
+- Find the price of [STLD](symbol)
+- Find the price of [STLY](symbol)
+- Find the price of [STML](symbol)
+- Find the price of [STMP](symbol)
+- Find the price of [STNR](symbol)
+- Find the price of [STPP](symbol)
+- Find the price of [STRA](symbol)
+- Find the price of [STRL](symbol)
+- Find the price of [STRM](symbol)
+- Find the price of [STRN](symbol)
+- Find the price of [STRS](symbol)
+- Find the price of [STRT](symbol)
+- Find the price of [STRZA](symbol)
+- Find the price of [STRZB](symbol)
+- Find the price of [STX](symbol)
+- Find the price of [STXS](symbol)
+- Find the price of [SUBK](symbol)
+- Find the price of [SUMR](symbol)
+- Find the price of [SUNS](symbol)
+- Find the price of [SUPN](symbol)
+- Find the price of [SURG](symbol)
+- Find the price of [SUSQ](symbol)
+- Find the price of [SUTR](symbol)
+- Find the price of [SVA](symbol)
+- Find the price of [SVBI](symbol)
+- Find the price of [SVVC](symbol)
+- Find the price of [SWHC](symbol)
+- Find the price of [SWIR](symbol)
+- Find the price of [SWKS](symbol)
+- Find the price of [SWSH](symbol)
+- Find the price of [SYBT](symbol)
+- Find the price of [SYKE](symbol)
+- Find the price of [SYMC](symbol)
+- Find the price of [SYMX](symbol)
+- Find the price of [SYNA](symbol)
+- Find the price of [SYNC](symbol)
+- Find the price of [SYNL](symbol)
+- Find the price of [SYNT](symbol)
+- Find the price of [SYPR](symbol)
+- Find the price of [SYRX](symbol)
+- Find the price of [SYUT](symbol)
+- Find the price of [SZMK](symbol)
+- Find the price of [SZYM](symbol)
+- Find the price of [TACT](symbol)
+- Find the price of [TAIT](symbol)
+- Find the price of [TAPR](symbol)
+- Find the price of [TASR](symbol)
+- Find the price of [TAST](symbol)
+- Find the price of [TATT](symbol)
+- Find the price of [TAX](symbol)
+- Find the price of [TAXI](symbol)
+- Find the price of [TAYD](symbol)
+- Find the price of [TBBK](symbol)
+- Find the price of [TBIO](symbol)
+- Find the price of [TBK](symbol)
+- Find the price of [TBNK](symbol)
+- Find the price of [TBPH](symbol)
+- Find the price of [TCBI](symbol)
+- Find the price of [TCBIL](symbol)
+- Find the price of [TCBIP](symbol)
+- Find the price of [TCBIW](symbol)
+- Find the price of [TCBK](symbol)
+- Find the price of [TCCO](symbol)
+- Find the price of [TCFC](symbol)
+- Find the price of [TCPC](symbol)
+- Find the price of [TCRD](symbol)
+- Find the price of [TCX](symbol)
+- Find the price of [TDIV](symbol)
+- Find the price of [TEAR](symbol)
+- Find the price of [TECD](symbol)
+- Find the price of [TECH](symbol)
+- Find the price of [TECU](symbol)
+- Find the price of [TEDU](symbol)
+- Find the price of [TENX](symbol)
+- Find the price of [TERP](symbol)
+- Find the price of [TESO](symbol)
+- Find the price of [TESS](symbol)
+- Find the price of [TFM](symbol)
+- Find the price of [TFSC](symbol)
+- Find the price of [TFSCR](symbol)
+- Find the price of [TFSCU](symbol)
+- Find the price of [TFSCW](symbol)
+- Find the price of [TFSL](symbol)
+- Find the price of [TGA](symbol)
+- Find the price of [TGE](symbol)
+- Find the price of [TGEN](symbol)
+- Find the price of [TGLS](symbol)
+- Find the price of [TGTX](symbol)
+- Find the price of [THFF](symbol)
+- Find the price of [THLD](symbol)
+- Find the price of [THOR](symbol)
+- Find the price of [THRM](symbol)
+- Find the price of [THRX](symbol)
+- Find the price of [THST](symbol)
+- Find the price of [THTI](symbol)
+- Find the price of [TICC](symbol)
+- Find the price of [TIGR](symbol)
+- Find the price of [TILE](symbol)
+- Find the price of [TINY](symbol)
+- Find the price of [TIPT](symbol)
+- Find the price of [TISA](symbol)
+- Find the price of [TITN](symbol)
+- Find the price of [TIVO](symbol)
+- Find the price of [TKAI](symbol)
+- Find the price of [TKMR](symbol)
+- Find the price of [TLF](symbol)
+- Find the price of [TLMR](symbol)
+- Find the price of [TLOG](symbol)
+- Find the price of [TNAV](symbol)
+- Find the price of [TNDM](symbol)
+- Find the price of [TNGO](symbol)
+- Find the price of [TNXP](symbol)
+- Find the price of [TOPS](symbol)
+- Find the price of [TORM](symbol)
+- Find the price of [TOUR](symbol)
+- Find the price of [TOWN](symbol)
+- Find the price of [TQQQ](symbol)
+- Find the price of [TRAK](symbol)
+- Find the price of [TRCB](symbol)
+- Find the price of [TRCH](symbol)
+- Find the price of [TREE](symbol)
+- Find the price of [TRGT](symbol)
+- Find the price of [TRIB](symbol)
+- Find the price of [TRIL](symbol)
+- Find the price of [TRIP](symbol)
+- Find the price of [TRIV](symbol)
+- Find the price of [TRMB](symbol)
+- Find the price of [TRMK](symbol)
+- Find the price of [TRNS](symbol)
+- Find the price of [TRNX](symbol)
+- Find the price of [TROV](symbol)
+- Find the price of [TROVU](symbol)
+- Find the price of [TROVW](symbol)
+- Find the price of [TROW](symbol)
+- Find the price of [TRS](symbol)
+- Find the price of [TRST](symbol)
+- Find the price of [TRTL](symbol)
+- Find the price of [TRTLU](symbol)
+- Find the price of [TRTLW](symbol)
+- Find the price of [TRUE](symbol)
+- Find the price of [TRVN](symbol)
+- Find the price of [TSBK](symbol)
+- Find the price of [TSC](symbol)
+- Find the price of [TSCO](symbol)
+- Find the price of [TSEM](symbol)
+- Find the price of [TSLA](symbol)
+- Find the price of [TSRA](symbol)
+- Find the price of [TSRE](symbol)
+- Find the price of [TSRI](symbol)
+- Find the price of [TSRO](symbol)
+- Find the price of [TST](symbol)
+- Find the price of [TSYS](symbol)
+- Find the price of [TTEC](symbol)
+- Find the price of [TTEK](symbol)
+- Find the price of [TTGT](symbol)
+- Find the price of [TTHI](symbol)
+- Find the price of [TTMI](symbol)
+- Find the price of [TTOO](symbol)
+- Find the price of [TTPH](symbol)
+- Find the price of [TTS](symbol)
+- Find the price of [TTWO](symbol)
+- Find the price of [TUBE](symbol)
+- Find the price of [TUES](symbol)
+- Find the price of [TUSA](symbol)
+- Find the price of [TVIX](symbol)
+- Find the price of [TVIZ](symbol)
+- Find the price of [TWER](symbol)
+- Find the price of [TWIN](symbol)
+- Find the price of [TWMC](symbol)
+- Find the price of [TWOU](symbol)
+- Find the price of [TXN](symbol)
+- Find the price of [TXRH](symbol)
+- Find the price of [TYPE](symbol)
+- Find the price of [TZOO](symbol)
+- Find the price of [UACL](symbol)
+- Find the price of [UAE](symbol)
+- Find the price of [UBCP](symbol)
+- Find the price of [UBFO](symbol)
+- Find the price of [UBIC](symbol)
+- Find the price of [UBNK](symbol)
+- Find the price of [UBNT](symbol)
+- Find the price of [UBOH](symbol)
+- Find the price of [UBSH](symbol)
+- Find the price of [UBSI](symbol)
+- Find the price of [UCBA](symbol)
+- Find the price of [UCBI](symbol)
+- Find the price of [UCFC](symbol)
+- Find the price of [UCTT](symbol)
+- Find the price of [UDF](symbol)
+- Find the price of [UEIC](symbol)
+- Find the price of [UEPS](symbol)
+- Find the price of [UFCS](symbol)
+- Find the price of [UFPI](symbol)
+- Find the price of [UFPT](symbol)
+- Find the price of [UG](symbol)
+- Find the price of [UGLD](symbol)
+- Find the price of [UHAL](symbol)
+- Find the price of [UIHC](symbol)
+- Find the price of [ULBI](symbol)
+- Find the price of [ULTA](symbol)
+- Find the price of [ULTI](symbol)
+- Find the price of [ULTR](symbol)
+- Find the price of [UMBF](symbol)
+- Find the price of [UMPQ](symbol)
+- Find the price of [UNAM](symbol)
+- Find the price of [UNB](symbol)
+- Find the price of [UNFI](symbol)
+- Find the price of [UNIS](symbol)
+- Find the price of [UNTD](symbol)
+- Find the price of [UNTY](symbol)
+- Find the price of [UNXL](symbol)
+- Find the price of [UPI](symbol)
+- Find the price of [UPIP](symbol)
+- Find the price of [UPLD](symbol)
+- Find the price of [URBN](symbol)
+- Find the price of [URRE](symbol)
+- Find the price of [USAK](symbol)
+- Find the price of [USAP](symbol)
+- Find the price of [USAT](symbol)
+- Find the price of [USATP](symbol)
+- Find the price of [USBI](symbol)
+- Find the price of [USCR](symbol)
+- Find the price of [USEG](symbol)
+- Find the price of [USLM](symbol)
+- Find the price of [USLV](symbol)
+- Find the price of [USMD](symbol)
+- Find the price of [USTR](symbol)
+- Find the price of [UTEK](symbol)
+- Find the price of [UTHR](symbol)
+- Find the price of [UTIW](symbol)
+- Find the price of [UTMD](symbol)
+- Find the price of [UTSI](symbol)
+- Find the price of [UVSP](symbol)
+- Find the price of [VA](symbol)
+- Find the price of [VALU](symbol)
+- Find the price of [VALX](symbol)
+- Find the price of [VASC](symbol)
+- Find the price of [VBFC](symbol)
+- Find the price of [VBIV](symbol)
+- Find the price of [VBLT](symbol)
+- Find the price of [VBND](symbol)
+- Find the price of [VBTX](symbol)
+- Find the price of [VCEL](symbol)
+- Find the price of [VCIT](symbol)
+- Find the price of [VCLT](symbol)
+- Find the price of [VCSH](symbol)
+- Find the price of [VCYT](symbol)
+- Find the price of [VDSI](symbol)
+- Find the price of [VECO](symbol)
+- Find the price of [VGGL](symbol)
+- Find the price of [VGIT](symbol)
+- Find the price of [VGLT](symbol)
+- Find the price of [VGSH](symbol)
+- Find the price of [VIA](symbol)
+- Find the price of [VIAB](symbol)
+- Find the price of [VIAS](symbol)
+- Find the price of [VICL](symbol)
+- Find the price of [VICR](symbol)
+- Find the price of [VIDE](symbol)
+- Find the price of [VIDI](symbol)
+- Find the price of [VIEW](symbol)
+- Find the price of [VIIX](symbol)
+- Find the price of [VIIZ](symbol)
+- Find the price of [VIMC](symbol)
+- Find the price of [VIP](symbol)
+- Find the price of [VIRC](symbol)
+- Find the price of [VISN](symbol)
+- Find the price of [VIVO](symbol)
+- Find the price of [VLCCF](symbol)
+- Find the price of [VLGEA](symbol)
+- Find the price of [VLTC](symbol)
+- Find the price of [VLYWW](symbol)
+- Find the price of [VMBS](symbol)
+- Find the price of [VNDA](symbol)
+- Find the price of [VNET](symbol)
+- Find the price of [VNOM](symbol)
+- Find the price of [VNQI](symbol)
+- Find the price of [VNR](symbol)
+- Find the price of [VNRAP](symbol)
+- Find the price of [VNRBP](symbol)
+- Find the price of [VNRCP](symbol)
+- Find the price of [VOD](symbol)
+- Find the price of [VOLC](symbol)
+- Find the price of [VONE](symbol)
+- Find the price of [VONG](symbol)
+- Find the price of [VONV](symbol)
+- Find the price of [VOXX](symbol)
+- Find the price of [VPCO](symbol)
+- Find the price of [VRA](symbol)
+- Find the price of [VRML](symbol)
+- Find the price of [VRNG](symbol)
+- Find the price of [VRNGW](symbol)
+- Find the price of [VRNS](symbol)
+- Find the price of [VRNT](symbol)
+- Find the price of [VRSK](symbol)
+- Find the price of [VRSN](symbol)
+- Find the price of [VRTA](symbol)
+- Find the price of [VRTB](symbol)
+- Find the price of [VRTS](symbol)
+- Find the price of [VRTU](symbol)
+- Find the price of [VRTX](symbol)
+- Find the price of [VSAR](symbol)
+- Find the price of [VSAT](symbol)
+- Find the price of [VSCI](symbol)
+- Find the price of [VSCP](symbol)
+- Find the price of [VSEC](symbol)
+- Find the price of [VSTM](symbol)
+- Find the price of [VTAE](symbol)
+- Find the price of [VTHR](symbol)
+- Find the price of [VTIP](symbol)
+- Find the price of [VTL](symbol)
+- Find the price of [VTNR](symbol)
+- Find the price of [VTSS](symbol)
+- Find the price of [VTWG](symbol)
+- Find the price of [VTWO](symbol)
+- Find the price of [VTWV](symbol)
+- Find the price of [VUSE](symbol)
+- Find the price of [VVUS](symbol)
+- Find the price of [VWOB](symbol)
+- Find the price of [VWR](symbol)
+- Find the price of [VXUS](symbol)
+- Find the price of [VYFC](symbol)
+- Find the price of [WABC](symbol)
+- Find the price of [WAFD](symbol)
+- Find the price of [WAFDW](symbol)
+- Find the price of [WASH](symbol)
+- Find the price of [WATT](symbol)
+- Find the price of [WAVX](symbol)
+- Find the price of [WAYN](symbol)
+- Find the price of [WB](symbol)
+- Find the price of [WBA](symbol)
+- Find the price of [WBB](symbol)
+- Find the price of [WBKC](symbol)
+- Find the price of [WBMD](symbol)
+- Find the price of [WDC](symbol)
+- Find the price of [WDFC](symbol)
+- Find the price of [WEBK](symbol)
+- Find the price of [WEN](symbol)
+- Find the price of [WERN](symbol)
+- Find the price of [WETF](symbol)
+- Find the price of [WEYS](symbol)
+- Find the price of [WFBI](symbol)
+- Find the price of [WFD](symbol)
+- Find the price of [WFM](symbol)
+- Find the price of [WGBS](symbol)
+- Find the price of [WHF](symbol)
+- Find the price of [WHFBL](symbol)
+- Find the price of [WHLM](symbol)
+- Find the price of [WHLR](symbol)
+- Find the price of [WHLRP](symbol)
+- Find the price of [WHLRW](symbol)
+- Find the price of [WIBC](symbol)
+- Find the price of [WIFI](symbol)
+- Find the price of [WILC](symbol)
+- Find the price of [WILN](symbol)
+- Find the price of [WIN](symbol)
+- Find the price of [WINA](symbol)
+- Find the price of [WIRE](symbol)
+- Find the price of [WIX](symbol)
+- Find the price of [WLB](symbol)
+- Find the price of [WLBPZ](symbol)
+- Find the price of [WLDN](symbol)
+- Find the price of [WLFC](symbol)
+- Find the price of [WLRH](symbol)
+- Find the price of [WLRHU](symbol)
+- Find the price of [WLRHW](symbol)
+- Find the price of [WMAR](symbol)
+- Find the price of [WMGI](symbol)
+- Find the price of [WMGIZ](symbol)
+- Find the price of [WOOD](symbol)
+- Find the price of [WOOF](symbol)
+- Find the price of [WPCS](symbol)
+- Find the price of [WPPGY](symbol)
+- Find the price of [WPRT](symbol)
+- Find the price of [WRES](symbol)
+- Find the price of [WRLD](symbol)
+- Find the price of [WSBC](symbol)
+- Find the price of [WSBF](symbol)
+- Find the price of [WSCI](symbol)
+- Find the price of [WSFS](symbol)
+- Find the price of [WSFSL](symbol)
+- Find the price of [WSTC](symbol)
+- Find the price of [WSTG](symbol)
+- Find the price of [WSTL](symbol)
+- Find the price of [WTBA](symbol)
+- Find the price of [WTFC](symbol)
+- Find the price of [WTFCW](symbol)
+- Find the price of [WTSL](symbol)
+- Find the price of [WVFC](symbol)
+- Find the price of [WVVI](symbol)
+- Find the price of [WWD](symbol)
+- Find the price of [WWWW](symbol)
+- Find the price of [WYNN](symbol)
+- Find the price of [XBKS](symbol)
+- Find the price of [XCRA](symbol)
+- Find the price of [XENE](symbol)
+- Find the price of [XENT](symbol)
+- Find the price of [XGTI](symbol)
+- Find the price of [XGTIW](symbol)
+- Find the price of [XIV](symbol)
+- Find the price of [XLNX](symbol)
+- Find the price of [XLRN](symbol)
+- Find the price of [XNCR](symbol)
+- Find the price of [XNET](symbol)
+- Find the price of [XNPT](symbol)
+- Find the price of [XOMA](symbol)
+- Find the price of [XONE](symbol)
+- Find the price of [XOOM](symbol)
+- Find the price of [XPLR](symbol)
+- Find the price of [XRAY](symbol)
+- Find the price of [XTLB](symbol)
+- Find the price of [XXIA](symbol)
+- Find the price of [YDIV](symbol)
+- Find the price of [YDLE](symbol)
+- Find the price of [YHOO](symbol)
+- Find the price of [YNDX](symbol)
+- Find the price of [YOD](symbol)
+- Find the price of [YORW](symbol)
+- Find the price of [YPRO](symbol)
+- Find the price of [YRCW](symbol)
+- Find the price of [YY](symbol)
+- Find the price of [Z](symbol)
+- Find the price of [ZAGG](symbol)
+- Find the price of [ZAZA](symbol)
+- Find the price of [ZBRA](symbol)
+- Find the price of [ZEUS](symbol)
+- Find the price of [ZFGN](symbol)
+- Find the price of [ZGNX](symbol)
+- Find the price of [ZHNE](symbol)
+- Find the price of [ZINC](symbol)
+- Find the price of [ZION](symbol)
+- Find the price of [ZIONW](symbol)
+- Find the price of [ZIONZ](symbol)
+- Find the price of [ZIOP](symbol)
+- Find the price of [ZIV](symbol)
+- Find the price of [ZIXI](symbol)
+- Find the price of [ZLTQ](symbol)
+- Find the price of [ZN](symbol)
+- Find the price of [ZNGA](symbol)
+- Find the price of [ZSPH](symbol)
+- Find the price of [ZU](symbol)
+- Find the price of [ZUMZ](symbol)
+- Tell me the price of [AAIT](symbol) before the opening
+- Tell me the price of [AAL](symbol) before the opening
+- Tell me the price of [AAME](symbol) before the opening
+- Tell me the price of [AAOI](symbol) before the opening
+- Tell me the price of [AAON](symbol) before the opening
+- Tell me the price of [AAPL](symbol) before the opening
+- Tell me the price of [AAVL](symbol) before the opening
+- Tell me the price of [AAWW](symbol) before the opening
+- Tell me the price of [AAXJ](symbol) before the opening
+- Tell me the price of [ABAC](symbol) before the opening
+- Tell me the price of [ABAX](symbol) before the opening
+- Tell me the price of [ABCB](symbol) before the opening
+- Tell me the price of [ABCD](symbol) before the opening
+- Tell me the price of [ABCO](symbol) before the opening
+- Tell me the price of [ABCW](symbol) before the opening
+- Tell me the price of [ABDC](symbol) before the opening
+- Tell me the price of [ABGB](symbol) before the opening
+- Tell me the price of [ABIO](symbol) before the opening
+- Tell me the price of [ABMD](symbol) before the opening
+- Tell me the price of [ABTL](symbol) before the opening
+- Tell me the price of [ABY](symbol) before the opening
+- Tell me the price of [ACAD](symbol) before the opening
+- Tell me the price of [ACAS](symbol) before the opening
+- Tell me the price of [ACAT](symbol) before the opening
+- Tell me the price of [ACET](symbol) before the opening
+- Tell me the price of [ACFC](symbol) before the opening
+- Tell me the price of [ACFN](symbol) before the opening
+- Tell me the price of [ACGL](symbol) before the opening
+- Tell me the price of [ACHC](symbol) before the opening
+- Tell me the price of [ACHN](symbol) before the opening
+- Tell me the price of [ACIW](symbol) before the opening
+- Tell me the price of [ACLS](symbol) before the opening
+- Tell me the price of [ACNB](symbol) before the opening
+- Tell me the price of [ACOR](symbol) before the opening
+- Tell me the price of [ACPW](symbol) before the opening
+- Tell me the price of [ACRX](symbol) before the opening
+- Tell me the price of [ACSF](symbol) before the opening
+- Tell me the price of [ACST](symbol) before the opening
+- Tell me the price of [ACTA](symbol) before the opening
+- Tell me the price of [ACTG](symbol) before the opening
+- Tell me the price of [ACTS](symbol) before the opening
+- Tell me the price of [ACUR](symbol) before the opening
+- Tell me the price of [ACWI](symbol) before the opening
+- Tell me the price of [ACWX](symbol) before the opening
+- Tell me the price of [ACXM](symbol) before the opening
+- Tell me the price of [ADAT](symbol) before the opening
+- Tell me the price of [ADBE](symbol) before the opening
+- Tell me the price of [ADEP](symbol) before the opening
+- Tell me the price of [ADES](symbol) before the opening
+- Tell me the price of [ADHD](symbol) before the opening
+- Tell me the price of [ADI](symbol) before the opening
+- Tell me the price of [ADMA](symbol) before the opening
+- Tell me the price of [ADMP](symbol) before the opening
+- Tell me the price of [ADMS](symbol) before the opening
+- Tell me the price of [ADNC](symbol) before the opening
+- Tell me the price of [ADP](symbol) before the opening
+- Tell me the price of [ADRA](symbol) before the opening
+- Tell me the price of [ADRD](symbol) before the opening
+- Tell me the price of [ADRE](symbol) before the opening
+- Tell me the price of [ADRU](symbol) before the opening
+- Tell me the price of [ADSK](symbol) before the opening
+- Tell me the price of [ADTN](symbol) before the opening
+- Tell me the price of [ADUS](symbol) before the opening
+- Tell me the price of [ADVS](symbol) before the opening
+- Tell me the price of [ADXS](symbol) before the opening
+- Tell me the price of [ADXSW](symbol) before the opening
+- Tell me the price of [AEGN](symbol) before the opening
+- Tell me the price of [AEGR](symbol) before the opening
+- Tell me the price of [AEHR](symbol) before the opening
+- Tell me the price of [AEIS](symbol) before the opening
+- Tell me the price of [AEPI](symbol) before the opening
+- Tell me the price of [AERI](symbol) before the opening
+- Tell me the price of [AETI](symbol) before the opening
+- Tell me the price of [AEY](symbol) before the opening
+- Tell me the price of [AEZS](symbol) before the opening
+- Tell me the price of [AFAM](symbol) before the opening
+- Tell me the price of [AFCB](symbol) before the opening
+- Tell me the price of [AFFX](symbol) before the opening
+- Tell me the price of [AFH](symbol) before the opening
+- Tell me the price of [AFMD](symbol) before the opening
+- Tell me the price of [AFOP](symbol) before the opening
+- Tell me the price of [AFSI](symbol) before the opening
+- Tell me the price of [AGEN](symbol) before the opening
+- Tell me the price of [AGII](symbol) before the opening
+- Tell me the price of [AGIIL](symbol) before the opening
+- Tell me the price of [AGIO](symbol) before the opening
+- Tell me the price of [AGNC](symbol) before the opening
+- Tell me the price of [AGNCB](symbol) before the opening
+- Tell me the price of [AGNCP](symbol) before the opening
+- Tell me the price of [AGND](symbol) before the opening
+- Tell me the price of [AGRX](symbol) before the opening
+- Tell me the price of [AGTC](symbol) before the opening
+- Tell me the price of [AGYS](symbol) before the opening
+- Tell me the price of [AGZD](symbol) before the opening
+- Tell me the price of [AHGP](symbol) before the opening
+- Tell me the price of [AHPI](symbol) before the opening
+- Tell me the price of [AIMC](symbol) before the opening
+- Tell me the price of [AINV](symbol) before the opening
+- Tell me the price of [AIQ](symbol) before the opening
+- Tell me the price of [AIRM](symbol) before the opening
+- Tell me the price of [AIRR](symbol) before the opening
+- Tell me the price of [AIRT](symbol) before the opening
+- Tell me the price of [AIXG](symbol) before the opening
+- Tell me the price of [AKAM](symbol) before the opening
+- Tell me the price of [AKAO](symbol) before the opening
+- Tell me the price of [AKBA](symbol) before the opening
+- Tell me the price of [AKER](symbol) before the opening
+- Tell me the price of [AKRX](symbol) before the opening
+- Tell me the price of [ALCO](symbol) before the opening
+- Tell me the price of [ALDR](symbol) before the opening
+- Tell me the price of [ALDX](symbol) before the opening
+- Tell me the price of [ALGN](symbol) before the opening
+- Tell me the price of [ALGT](symbol) before the opening
+- Tell me the price of [ALIM](symbol) before the opening
+- Tell me the price of [ALKS](symbol) before the opening
+- Tell me the price of [ALLB](symbol) before the opening
+- Tell me the price of [ALLT](symbol) before the opening
+- Tell me the price of [ALNY](symbol) before the opening
+- Tell me the price of [ALOG](symbol) before the opening
+- Tell me the price of [ALOT](symbol) before the opening
+- Tell me the price of [ALQA](symbol) before the opening
+- Tell me the price of [ALSK](symbol) before the opening
+- Tell me the price of [ALTR](symbol) before the opening
+- Tell me the price of [ALXA](symbol) before the opening
+- Tell me the price of [ALXN](symbol) before the opening
+- Tell me the price of [AMAG](symbol) before the opening
+- Tell me the price of [AMAT](symbol) before the opening
+- Tell me the price of [AMBA](symbol) before the opening
+- Tell me the price of [AMBC](symbol) before the opening
+- Tell me the price of [AMBCW](symbol) before the opening
+- Tell me the price of [AMCC](symbol) before the opening
+- Tell me the price of [AMCF](symbol) before the opening
+- Tell me the price of [AMCN](symbol) before the opening
+- Tell me the price of [AMCX](symbol) before the opening
+- Tell me the price of [AMD](symbol) before the opening
+- Tell me the price of [AMDA](symbol) before the opening
+- Tell me the price of [AMED](symbol) before the opening
+- Tell me the price of [AMGN](symbol) before the opening
+- Tell me the price of [AMIC](symbol) before the opening
+- Tell me the price of [AMKR](symbol) before the opening
+- Tell me the price of [AMNB](symbol) before the opening
+- Tell me the price of [AMOT](symbol) before the opening
+- Tell me the price of [AMOV](symbol) before the opening
+- Tell me the price of [AMPH](symbol) before the opening
+- Tell me the price of [AMRB](symbol) before the opening
+- Tell me the price of [AMRI](symbol) before the opening
+- Tell me the price of [AMRK](symbol) before the opening
+- Tell me the price of [AMRN](symbol) before the opening
+- Tell me the price of [AMRS](symbol) before the opening
+- Tell me the price of [AMSC](symbol) before the opening
+- Tell me the price of [AMSF](symbol) before the opening
+- Tell me the price of [AMSG](symbol) before the opening
+- Tell me the price of [AMSGP](symbol) before the opening
+- Tell me the price of [AMSWA](symbol) before the opening
+- Tell me the price of [AMTX](symbol) before the opening
+- Tell me the price of [AMWD](symbol) before the opening
+- Tell me the price of [AMZN](symbol) before the opening
+- Tell me the price of [ANAC](symbol) before the opening
+- Tell me the price of [ANAD](symbol) before the opening
+- Tell me the price of [ANAT](symbol) before the opening
+- Tell me the price of [ANCB](symbol) before the opening
+- Tell me the price of [ANCI](symbol) before the opening
+- Tell me the price of [ANCX](symbol) before the opening
+- Tell me the price of [ANDE](symbol) before the opening
+- Tell me the price of [ANGI](symbol) before the opening
+- Tell me the price of [ANGO](symbol) before the opening
+- Tell me the price of [ANIK](symbol) before the opening
+- Tell me the price of [ANIP](symbol) before the opening
+- Tell me the price of [ANSS](symbol) before the opening
+- Tell me the price of [ANTH](symbol) before the opening
+- Tell me the price of [ANY](symbol) before the opening
+- Tell me the price of [AOSL](symbol) before the opening
+- Tell me the price of [APAGF](symbol) before the opening
+- Tell me the price of [APDN](symbol) before the opening
+- Tell me the price of [APDNW](symbol) before the opening
+- Tell me the price of [APEI](symbol) before the opening
+- Tell me the price of [APOG](symbol) before the opening
+- Tell me the price of [APOL](symbol) before the opening
+- Tell me the price of [APPY](symbol) before the opening
+- Tell me the price of [APRI](symbol) before the opening
+- Tell me the price of [APSA](symbol) before the opening
+- Tell me the price of [APTO](symbol) before the opening
+- Tell me the price of [APWC](symbol) before the opening
+- Tell me the price of [AQXP](symbol) before the opening
+- Tell me the price of [ARAY](symbol) before the opening
+- Tell me the price of [ARCB](symbol) before the opening
+- Tell me the price of [ARCC](symbol) before the opening
+- Tell me the price of [ARCI](symbol) before the opening
+- Tell me the price of [ARCP](symbol) before the opening
+- Tell me the price of [ARCPP](symbol) before the opening
+- Tell me the price of [ARCW](symbol) before the opening
+- Tell me the price of [ARDM](symbol) before the opening
+- Tell me the price of [ARDX](symbol) before the opening
+- Tell me the price of [AREX](symbol) before the opening
+- Tell me the price of [ARGS](symbol) before the opening
+- Tell me the price of [ARIA](symbol) before the opening
+- Tell me the price of [ARII](symbol) before the opening
+- Tell me the price of [ARIS](symbol) before the opening
+- Tell me the price of [ARKR](symbol) before the opening
+- Tell me the price of [ARLP](symbol) before the opening
+- Tell me the price of [ARMH](symbol) before the opening
+- Tell me the price of [ARNA](symbol) before the opening
+- Tell me the price of [AROW](symbol) before the opening
+- Tell me the price of [ARQL](symbol) before the opening
+- Tell me the price of [ARRS](symbol) before the opening
+- Tell me the price of [ARRY](symbol) before the opening
+- Tell me the price of [ARTNA](symbol) before the opening
+- Tell me the price of [ARTW](symbol) before the opening
+- Tell me the price of [ARTX](symbol) before the opening
+- Tell me the price of [ARUN](symbol) before the opening
+- Tell me the price of [ARWR](symbol) before the opening
+- Tell me the price of [ASBB](symbol) before the opening
+- Tell me the price of [ASBI](symbol) before the opening
+- Tell me the price of [ASCMA](symbol) before the opening
+- Tell me the price of [ASEI](symbol) before the opening
+- Tell me the price of [ASFI](symbol) before the opening
+- Tell me the price of [ASMB](symbol) before the opening
+- Tell me the price of [ASMI](symbol) before the opening
+- Tell me the price of [ASML](symbol) before the opening
+- Tell me the price of [ASNA](symbol) before the opening
+- Tell me the price of [ASPS](symbol) before the opening
+- Tell me the price of [ASPX](symbol) before the opening
+- Tell me the price of [ASRV](symbol) before the opening
+- Tell me the price of [ASRVP](symbol) before the opening
+- Tell me the price of [ASTC](symbol) before the opening
+- Tell me the price of [ASTE](symbol) before the opening
+- Tell me the price of [ASTI](symbol) before the opening
+- Tell me the price of [ASUR](symbol) before the opening
+- Tell me the price of [ASYS](symbol) before the opening
+- Tell me the price of [ATAI](symbol) before the opening
+- Tell me the price of [ATAX](symbol) before the opening
+- Tell me the price of [ATEA](symbol) before the opening
+- Tell me the price of [ATEC](symbol) before the opening
+- Tell me the price of [ATHN](symbol) before the opening
+- Tell me the price of [ATHX](symbol) before the opening
+- Tell me the price of [ATLC](symbol) before the opening
+- Tell me the price of [ATLO](symbol) before the opening
+- Tell me the price of [ATML](symbol) before the opening
+- Tell me the price of [ATNI](symbol) before the opening
+- Tell me the price of [ATNY](symbol) before the opening
+- Tell me the price of [ATOS](symbol) before the opening
+- Tell me the price of [ATRA](symbol) before the opening
+- Tell me the price of [ATRC](symbol) before the opening
+- Tell me the price of [ATRI](symbol) before the opening
+- Tell me the price of [ATRM](symbol) before the opening
+- Tell me the price of [ATRO](symbol) before the opening
+- Tell me the price of [ATRS](symbol) before the opening
+- Tell me the price of [ATSG](symbol) before the opening
+- Tell me the price of [ATTU](symbol) before the opening
+- Tell me the price of [ATVI](symbol) before the opening
+- Tell me the price of [AUBN](symbol) before the opening
+- Tell me the price of [AUDC](symbol) before the opening
+- Tell me the price of [AUMA](symbol) before the opening
+- Tell me the price of [AUMAU](symbol) before the opening
+- Tell me the price of [AUMAW](symbol) before the opening
+- Tell me the price of [AUPH](symbol) before the opening
+- Tell me the price of [AUXL](symbol) before the opening
+- Tell me the price of [AVAV](symbol) before the opening
+- Tell me the price of [AVEO](symbol) before the opening
+- Tell me the price of [AVGO](symbol) before the opening
+- Tell me the price of [AVHI](symbol) before the opening
+- Tell me the price of [AVID](symbol) before the opening
+- Tell me the price of [AVNR](symbol) before the opening
+- Tell me the price of [AVNW](symbol) before the opening
+- Tell me the price of [AWAY](symbol) before the opening
+- Tell me the price of [AWRE](symbol) before the opening
+- Tell me the price of [AXAS](symbol) before the opening
+- Tell me the price of [AXDX](symbol) before the opening
+- Tell me the price of [AXGN](symbol) before the opening
+- Tell me the price of [AXJS](symbol) before the opening
+- Tell me the price of [AXPW](symbol) before the opening
+- Tell me the price of [AXPWW](symbol) before the opening
+- Tell me the price of [AXTI](symbol) before the opening
+- Tell me the price of [AZPN](symbol) before the opening
+- Tell me the price of [BABY](symbol) before the opening
+- Tell me the price of [BAGR](symbol) before the opening
+- Tell me the price of [BAMM](symbol) before the opening
+- Tell me the price of [BANF](symbol) before the opening
+- Tell me the price of [BANFP](symbol) before the opening
+- Tell me the price of [BANR](symbol) before the opening
+- Tell me the price of [BANX](symbol) before the opening
+- Tell me the price of [BASI](symbol) before the opening
+- Tell me the price of [BBBY](symbol) before the opening
+- Tell me the price of [BBC](symbol) before the opening
+- Tell me the price of [BBCN](symbol) before the opening
+- Tell me the price of [BBEP](symbol) before the opening
+- Tell me the price of [BBEPP](symbol) before the opening
+- Tell me the price of [BBGI](symbol) before the opening
+- Tell me the price of [BBLU](symbol) before the opening
+- Tell me the price of [BBNK](symbol) before the opening
+- Tell me the price of [BBOX](symbol) before the opening
+- Tell me the price of [BBP](symbol) before the opening
+- Tell me the price of [BBRG](symbol) before the opening
+- Tell me the price of [BBRY](symbol) before the opening
+- Tell me the price of [BBSI](symbol) before the opening
+- Tell me the price of [BCBP](symbol) before the opening
+- Tell me the price of [BCLI](symbol) before the opening
+- Tell me the price of [BCOM](symbol) before the opening
+- Tell me the price of [BCOR](symbol) before the opening
+- Tell me the price of [BCOV](symbol) before the opening
+- Tell me the price of [BCPC](symbol) before the opening
+- Tell me the price of [BCRX](symbol) before the opening
+- Tell me the price of [BDBD](symbol) before the opening
+- Tell me the price of [BDCV](symbol) before the opening
+- Tell me the price of [BDE](symbol) before the opening
+- Tell me the price of [BDGE](symbol) before the opening
+- Tell me the price of [BDMS](symbol) before the opening
+- Tell me the price of [BDSI](symbol) before the opening
+- Tell me the price of [BEAT](symbol) before the opening
+- Tell me the price of [BEAV](symbol) before the opening
+- Tell me the price of [BEBE](symbol) before the opening
+- Tell me the price of [BECN](symbol) before the opening
+- Tell me the price of [BELFA](symbol) before the opening
+- Tell me the price of [BELFB](symbol) before the opening
+- Tell me the price of [BFIN](symbol) before the opening
+- Tell me the price of [BGCP](symbol) before the opening
+- Tell me the price of [BGFV](symbol) before the opening
+- Tell me the price of [BGMD](symbol) before the opening
+- Tell me the price of [BHBK](symbol) before the opening
+- Tell me the price of [BIB](symbol) before the opening
+- Tell me the price of [BICK](symbol) before the opening
+- Tell me the price of [BIDU](symbol) before the opening
+- Tell me the price of [BIIB](symbol) before the opening
+- Tell me the price of [BIND](symbol) before the opening
+- Tell me the price of [BIOC](symbol) before the opening
+- Tell me the price of [BIOD](symbol) before the opening
+- Tell me the price of [BIOL](symbol) before the opening
+- Tell me the price of [BIOS](symbol) before the opening
+- Tell me the price of [BIRT](symbol) before the opening
+- Tell me the price of [BIS](symbol) before the opening
+- Tell me the price of [BJRI](symbol) before the opening
+- Tell me the price of [BKCC](symbol) before the opening
+- Tell me the price of [BKEP](symbol) before the opening
+- Tell me the price of [BKEPP](symbol) before the opening
+- Tell me the price of [BKMU](symbol) before the opening
+- Tell me the price of [BKSC](symbol) before the opening
+- Tell me the price of [BKYF](symbol) before the opening
+- Tell me the price of [BLCM](symbol) before the opening
+- Tell me the price of [BLDP](symbol) before the opening
+- Tell me the price of [BLDR](symbol) before the opening
+- Tell me the price of [BLFS](symbol) before the opening
+- Tell me the price of [BLIN](symbol) before the opening
+- Tell me the price of [BLKB](symbol) before the opening
+- Tell me the price of [BLMN](symbol) before the opening
+- Tell me the price of [BLMT](symbol) before the opening
+- Tell me the price of [BLRX](symbol) before the opening
+- Tell me the price of [BLUE](symbol) before the opening
+- Tell me the price of [BLVD](symbol) before the opening
+- Tell me the price of [BLVDU](symbol) before the opening
+- Tell me the price of [BLVDW](symbol) before the opening
+- Tell me the price of [BMRC](symbol) before the opening
+- Tell me the price of [BMRN](symbol) before the opening
+- Tell me the price of [BMTC](symbol) before the opening
+- Tell me the price of [BNCL](symbol) before the opening
+- Tell me the price of [BNCN](symbol) before the opening
+- Tell me the price of [BNDX](symbol) before the opening
+- Tell me the price of [BNFT](symbol) before the opening
+- Tell me the price of [BNSO](symbol) before the opening
+- Tell me the price of [BOBE](symbol) before the opening
+- Tell me the price of [BOCH](symbol) before the opening
+- Tell me the price of [BOFI](symbol) before the opening
+- Tell me the price of [BOKF](symbol) before the opening
+- Tell me the price of [BONA](symbol) before the opening
+- Tell me the price of [BONT](symbol) before the opening
+- Tell me the price of [BOOM](symbol) before the opening
+- Tell me the price of [BOSC](symbol) before the opening
+- Tell me the price of [BOTA](symbol) before the opening
+- Tell me the price of [BOTJ](symbol) before the opening
+- Tell me the price of [BPFH](symbol) before the opening
+- Tell me the price of [BPFHP](symbol) before the opening
+- Tell me the price of [BPFHW](symbol) before the opening
+- Tell me the price of [BPOP](symbol) before the opening
+- Tell me the price of [BPOPM](symbol) before the opening
+- Tell me the price of [BPOPN](symbol) before the opening
+- Tell me the price of [BPTH](symbol) before the opening
+- Tell me the price of [BRCD](symbol) before the opening
+- Tell me the price of [BRCM](symbol) before the opening
+- Tell me the price of [BRDR](symbol) before the opening
+- Tell me the price of [BREW](symbol) before the opening
+- Tell me the price of [BRID](symbol) before the opening
+- Tell me the price of [BRKL](symbol) before the opening
+- Tell me the price of [BRKR](symbol) before the opening
+- Tell me the price of [BRKS](symbol) before the opening
+- Tell me the price of [BRLI](symbol) before the opening
+- Tell me the price of [BSDM](symbol) before the opening
+- Tell me the price of [BSET](symbol) before the opening
+- Tell me the price of [BSF](symbol) before the opening
+- Tell me the price of [BSFT](symbol) before the opening
+- Tell me the price of [BSPM](symbol) before the opening
+- Tell me the price of [BSQR](symbol) before the opening
+- Tell me the price of [BSRR](symbol) before the opening
+- Tell me the price of [BSTC](symbol) before the opening
+- Tell me the price of [BTUI](symbol) before the opening
+- Tell me the price of [BUR](symbol) before the opening
+- Tell me the price of [BUSE](symbol) before the opening
+- Tell me the price of [BV](symbol) before the opening
+- Tell me the price of [BVA](symbol) before the opening
+- Tell me the price of [BVSN](symbol) before the opening
+- Tell me the price of [BWEN](symbol) before the opening
+- Tell me the price of [BWFG](symbol) before the opening
+- Tell me the price of [BWINA](symbol) before the opening
+- Tell me the price of [BWINB](symbol) before the opening
+- Tell me the price of [BWLD](symbol) before the opening
+- Tell me the price of [BYBK](symbol) before the opening
+- Tell me the price of [BYFC](symbol) before the opening
+- Tell me the price of [BYLK](symbol) before the opening
+- Tell me the price of [CA](symbol) before the opening
+- Tell me the price of [CAAS](symbol) before the opening
+- Tell me the price of [CAC](symbol) before the opening
+- Tell me the price of [CACB](symbol) before the opening
+- Tell me the price of [CACC](symbol) before the opening
+- Tell me the price of [CACG](symbol) before the opening
+- Tell me the price of [CACGU](symbol) before the opening
+- Tell me the price of [CACGW](symbol) before the opening
+- Tell me the price of [CACH](symbol) before the opening
+- Tell me the price of [CACQ](symbol) before the opening
+- Tell me the price of [CADC](symbol) before the opening
+- Tell me the price of [CADT](symbol) before the opening
+- Tell me the price of [CADTR](symbol) before the opening
+- Tell me the price of [CADTU](symbol) before the opening
+- Tell me the price of [CADTW](symbol) before the opening
+- Tell me the price of [CAKE](symbol) before the opening
+- Tell me the price of [CALA](symbol) before the opening
+- Tell me the price of [CALD](symbol) before the opening
+- Tell me the price of [CALI](symbol) before the opening
+- Tell me the price of [CALL](symbol) before the opening
+- Tell me the price of [CALM](symbol) before the opening
+- Tell me the price of [CAMB](symbol) before the opening
+- Tell me the price of [CAMBU](symbol) before the opening
+- Tell me the price of [CAMBW](symbol) before the opening
+- Tell me the price of [CAMP](symbol) before the opening
+- Tell me the price of [CAMT](symbol) before the opening
+- Tell me the price of [CAPN](symbol) before the opening
+- Tell me the price of [CAPNW](symbol) before the opening
+- Tell me the price of [CAR](symbol) before the opening
+- Tell me the price of [CARA](symbol) before the opening
+- Tell me the price of [CARB](symbol) before the opening
+- Tell me the price of [CARO](symbol) before the opening
+- Tell me the price of [CART](symbol) before the opening
+- Tell me the price of [CARV](symbol) before the opening
+- Tell me the price of [CARZ](symbol) before the opening
+- Tell me the price of [CASH](symbol) before the opening
+- Tell me the price of [CASI](symbol) before the opening
+- Tell me the price of [CASM](symbol) before the opening
+- Tell me the price of [CASS](symbol) before the opening
+- Tell me the price of [CASY](symbol) before the opening
+- Tell me the price of [CATM](symbol) before the opening
+- Tell me the price of [CATY](symbol) before the opening
+- Tell me the price of [CATYW](symbol) before the opening
+- Tell me the price of [CAVM](symbol) before the opening
+- Tell me the price of [CBAK](symbol) before the opening
+- Tell me the price of [CBAN](symbol) before the opening
+- Tell me the price of [CBAY](symbol) before the opening
+- Tell me the price of [CBDE](symbol) before the opening
+- Tell me the price of [CBF](symbol) before the opening
+- Tell me the price of [CBFV](symbol) before the opening
+- Tell me the price of [CBIN](symbol) before the opening
+- Tell me the price of [CBLI](symbol) before the opening
+- Tell me the price of [CBMG](symbol) before the opening
+- Tell me the price of [CBMX](symbol) before the opening
+- Tell me the price of [CBNJ](symbol) before the opening
+- Tell me the price of [CBNK](symbol) before the opening
+- Tell me the price of [CBOE](symbol) before the opening
+- Tell me the price of [CBPO](symbol) before the opening
+- Tell me the price of [CBRL](symbol) before the opening
+- Tell me the price of [CBRX](symbol) before the opening
+- Tell me the price of [CBSH](symbol) before the opening
+- Tell me the price of [CBSHP](symbol) before the opening
+- Tell me the price of [CBST](symbol) before the opening
+- Tell me the price of [CBSTZ](symbol) before the opening
+- Tell me the price of [CCBG](symbol) before the opening
+- Tell me the price of [CCCL](symbol) before the opening
+- Tell me the price of [CCCR](symbol) before the opening
+- Tell me the price of [CCIH](symbol) before the opening
+- Tell me the price of [CCLP](symbol) before the opening
+- Tell me the price of [CCMP](symbol) before the opening
+- Tell me the price of [CCNE](symbol) before the opening
+- Tell me the price of [CCOI](symbol) before the opening
+- Tell me the price of [CCRN](symbol) before the opening
+- Tell me the price of [CCUR](symbol) before the opening
+- Tell me the price of [CCXI](symbol) before the opening
+- Tell me the price of [CDC](symbol) before the opening
+- Tell me the price of [CDK](symbol) before the opening
+- Tell me the price of [CDNA](symbol) before the opening
+- Tell me the price of [CDNS](symbol) before the opening
+- Tell me the price of [CDTI](symbol) before the opening
+- Tell me the price of [CDW](symbol) before the opening
+- Tell me the price of [CDXS](symbol) before the opening
+- Tell me the price of [CDZI](symbol) before the opening
+- Tell me the price of [CECE](symbol) before the opening
+- Tell me the price of [CECO](symbol) before the opening
+- Tell me the price of [CELG](symbol) before the opening
+- Tell me the price of [CELGZ](symbol) before the opening
+- Tell me the price of [CEMI](symbol) before the opening
+- Tell me the price of [CEMP](symbol) before the opening
+- Tell me the price of [CENT](symbol) before the opening
+- Tell me the price of [CENTA](symbol) before the opening
+- Tell me the price of [CENX](symbol) before the opening
+- Tell me the price of [CERE](symbol) before the opening
+- Tell me the price of [CERN](symbol) before the opening
+- Tell me the price of [CERS](symbol) before the opening
+- Tell me the price of [CERU](symbol) before the opening
+- Tell me the price of [CETV](symbol) before the opening
+- Tell me the price of [CEVA](symbol) before the opening
+- Tell me the price of [CFA](symbol) before the opening
+- Tell me the price of [CFBK](symbol) before the opening
+- Tell me the price of [CFFI](symbol) before the opening
+- Tell me the price of [CFFN](symbol) before the opening
+- Tell me the price of [CFGE](symbol) before the opening
+- Tell me the price of [CFNB](symbol) before the opening
+- Tell me the price of [CFNL](symbol) before the opening
+- Tell me the price of [CFO](symbol) before the opening
+- Tell me the price of [CFRX](symbol) before the opening
+- Tell me the price of [CFRXW](symbol) before the opening
+- Tell me the price of [CFRXZ](symbol) before the opening
+- Tell me the price of [CG](symbol) before the opening
+- Tell me the price of [CGEN](symbol) before the opening
+- Tell me the price of [CGIX](symbol) before the opening
+- Tell me the price of [CGNX](symbol) before the opening
+- Tell me the price of [CGO](symbol) before the opening
+- Tell me the price of [CHCI](symbol) before the opening
+- Tell me the price of [CHCO](symbol) before the opening
+- Tell me the price of [CHDN](symbol) before the opening
+- Tell me the price of [CHEF](symbol) before the opening
+- Tell me the price of [CHEV](symbol) before the opening
+- Tell me the price of [CHFC](symbol) before the opening
+- Tell me the price of [CHFN](symbol) before the opening
+- Tell me the price of [CHI](symbol) before the opening
+- Tell me the price of [CHKE](symbol) before the opening
+- Tell me the price of [CHKP](symbol) before the opening
+- Tell me the price of [CHLN](symbol) before the opening
+- Tell me the price of [CHMG](symbol) before the opening
+- Tell me the price of [CHNR](symbol) before the opening
+- Tell me the price of [CHOP](symbol) before the opening
+- Tell me the price of [CHRS](symbol) before the opening
+- Tell me the price of [CHRW](symbol) before the opening
+- Tell me the price of [CHSCM](symbol) before the opening
+- Tell me the price of [CHSCN](symbol) before the opening
+- Tell me the price of [CHSCO](symbol) before the opening
+- Tell me the price of [CHSCP](symbol) before the opening
+- Tell me the price of [CHTR](symbol) before the opening
+- Tell me the price of [CHUY](symbol) before the opening
+- Tell me the price of [CHW](symbol) before the opening
+- Tell me the price of [CHXF](symbol) before the opening
+- Tell me the price of [CHY](symbol) before the opening
+- Tell me the price of [CHYR](symbol) before the opening
+- Tell me the price of [CIDM](symbol) before the opening
+- Tell me the price of [CIFC](symbol) before the opening
+- Tell me the price of [CIMT](symbol) before the opening
+- Tell me the price of [CINF](symbol) before the opening
+- Tell me the price of [CISAW](symbol) before the opening
+- Tell me the price of [CISG](symbol) before the opening
+- Tell me the price of [CIZ](symbol) before the opening
+- Tell me the price of [CIZN](symbol) before the opening
+- Tell me the price of [CJJD](symbol) before the opening
+- Tell me the price of [CKEC](symbol) before the opening
+- Tell me the price of [CKSW](symbol) before the opening
+- Tell me the price of [CLAC](symbol) before the opening
+- Tell me the price of [CLACU](symbol) before the opening
+- Tell me the price of [CLACW](symbol) before the opening
+- Tell me the price of [CLBH](symbol) before the opening
+- Tell me the price of [CLCT](symbol) before the opening
+- Tell me the price of [CLDN](symbol) before the opening
+- Tell me the price of [CLDX](symbol) before the opening
+- Tell me the price of [CLFD](symbol) before the opening
+- Tell me the price of [CLIR](symbol) before the opening
+- Tell me the price of [CLMS](symbol) before the opening
+- Tell me the price of [CLMT](symbol) before the opening
+- Tell me the price of [CLNE](symbol) before the opening
+- Tell me the price of [CLNT](symbol) before the opening
+- Tell me the price of [CLRB](symbol) before the opening
+- Tell me the price of [CLRBW](symbol) before the opening
+- Tell me the price of [CLRO](symbol) before the opening
+- Tell me the price of [CLRX](symbol) before the opening
+- Tell me the price of [CLSN](symbol) before the opening
+- Tell me the price of [CLTX](symbol) before the opening
+- Tell me the price of [CLUB](symbol) before the opening
+- Tell me the price of [CLVS](symbol) before the opening
+- Tell me the price of [CLWT](symbol) before the opening
+- Tell me the price of [CMCO](symbol) before the opening
+- Tell me the price of [CMCSA](symbol) before the opening
+- Tell me the price of [CMCSK](symbol) before the opening
+- Tell me the price of [CMCT](symbol) before the opening
+- Tell me the price of [CME](symbol) before the opening
+- Tell me the price of [CMFN](symbol) before the opening
+- Tell me the price of [CMGE](symbol) before the opening
+- Tell me the price of [CMLS](symbol) before the opening
+- Tell me the price of [CMPR](symbol) before the opening
+- Tell me the price of [CMRX](symbol) before the opening
+- Tell me the price of [CMSB](symbol) before the opening
+- Tell me the price of [CMTL](symbol) before the opening
+- Tell me the price of [CNAT](symbol) before the opening
+- Tell me the price of [CNBKA](symbol) before the opening
+- Tell me the price of [CNCE](symbol) before the opening
+- Tell me the price of [CNDO](symbol) before the opening
+- Tell me the price of [CNET](symbol) before the opening
+- Tell me the price of [CNIT](symbol) before the opening
+- Tell me the price of [CNLM](symbol) before the opening
+- Tell me the price of [CNLMR](symbol) before the opening
+- Tell me the price of [CNLMU](symbol) before the opening
+- Tell me the price of [CNLMW](symbol) before the opening
+- Tell me the price of [CNMD](symbol) before the opening
+- Tell me the price of [CNOB](symbol) before the opening
+- Tell me the price of [CNSI](symbol) before the opening
+- Tell me the price of [CNSL](symbol) before the opening
+- Tell me the price of [CNTF](symbol) before the opening
+- Tell me the price of [CNTY](symbol) before the opening
+- Tell me the price of [CNV](symbol) before the opening
+- Tell me the price of [CNXR](symbol) before the opening
+- Tell me the price of [CNYD](symbol) before the opening
+- Tell me the price of [COB](symbol) before the opening
+- Tell me the price of [COBK](symbol) before the opening
+- Tell me the price of [COBZ](symbol) before the opening
+- Tell me the price of [COCO](symbol) before the opening
+- Tell me the price of [COHR](symbol) before the opening
+- Tell me the price of [COHU](symbol) before the opening
+- Tell me the price of [COKE](symbol) before the opening
+- Tell me the price of [COLB](symbol) before the opening
+- Tell me the price of [COLM](symbol) before the opening
+- Tell me the price of [COMM](symbol) before the opening
+- Tell me the price of [COMT](symbol) before the opening
+- Tell me the price of [CONE](symbol) before the opening
+- Tell me the price of [CONN](symbol) before the opening
+- Tell me the price of [COOL](symbol) before the opening
+- Tell me the price of [CORE](symbol) before the opening
+- Tell me the price of [CORI](symbol) before the opening
+- Tell me the price of [CORT](symbol) before the opening
+- Tell me the price of [COSI](symbol) before the opening
+- Tell me the price of [COST](symbol) before the opening
+- Tell me the price of [COVS](symbol) before the opening
+- Tell me the price of [COWN](symbol) before the opening
+- Tell me the price of [COWNL](symbol) before the opening
+- Tell me the price of [CPAH](symbol) before the opening
+- Tell me the price of [CPGI](symbol) before the opening
+- Tell me the price of [CPHC](symbol) before the opening
+- Tell me the price of [CPHD](symbol) before the opening
+- Tell me the price of [CPHR](symbol) before the opening
+- Tell me the price of [CPIX](symbol) before the opening
+- Tell me the price of [CPLA](symbol) before the opening
+- Tell me the price of [CPLP](symbol) before the opening
+- Tell me the price of [CPRT](symbol) before the opening
+- Tell me the price of [CPRX](symbol) before the opening
+- Tell me the price of [CPSI](symbol) before the opening
+- Tell me the price of [CPSS](symbol) before the opening
+- Tell me the price of [CPST](symbol) before the opening
+- Tell me the price of [CPTA](symbol) before the opening
+- Tell me the price of [CPXX](symbol) before the opening
+- Tell me the price of [CRAI](symbol) before the opening
+- Tell me the price of [CRAY](symbol) before the opening
+- Tell me the price of [CRDC](symbol) before the opening
+- Tell me the price of [CRDS](symbol) before the opening
+- Tell me the price of [CRDT](symbol) before the opening
+- Tell me the price of [CREE](symbol) before the opening
+- Tell me the price of [CREG](symbol) before the opening
+- Tell me the price of [CRESW](symbol) before the opening
+- Tell me the price of [CRESY](symbol) before the opening
+- Tell me the price of [CRIS](symbol) before the opening
+- Tell me the price of [CRME](symbol) before the opening
+- Tell me the price of [CRMT](symbol) before the opening
+- Tell me the price of [CRNT](symbol) before the opening
+- Tell me the price of [CROX](symbol) before the opening
+- Tell me the price of [CRRC](symbol) before the opening
+- Tell me the price of [CRRS](symbol) before the opening
+- Tell me the price of [CRTN](symbol) before the opening
+- Tell me the price of [CRTO](symbol) before the opening
+- Tell me the price of [CRUS](symbol) before the opening
+- Tell me the price of [CRVL](symbol) before the opening
+- Tell me the price of [CRWN](symbol) before the opening
+- Tell me the price of [CRWS](symbol) before the opening
+- Tell me the price of [CRZO](symbol) before the opening
+- Tell me the price of [CSBK](symbol) before the opening
+- Tell me the price of [CSCD](symbol) before the opening
+- Tell me the price of [CSCO](symbol) before the opening
+- Tell me the price of [CSF](symbol) before the opening
+- Tell me the price of [CSFL](symbol) before the opening
+- Tell me the price of [CSGP](symbol) before the opening
+- Tell me the price of [CSGS](symbol) before the opening
+- Tell me the price of [CSII](symbol) before the opening
+- Tell me the price of [CSIQ](symbol) before the opening
+- Tell me the price of [CSOD](symbol) before the opening
+- Tell me the price of [CSPI](symbol) before the opening
+- Tell me the price of [CSQ](symbol) before the opening
+- Tell me the price of [CSRE](symbol) before the opening
+- Tell me the price of [CSTE](symbol) before the opening
+- Tell me the price of [CSUN](symbol) before the opening
+- Tell me the price of [CSWC](symbol) before the opening
+- Tell me the price of [CTAS](symbol) before the opening
+- Tell me the price of [CTBI](symbol) before the opening
+- Tell me the price of [CTCM](symbol) before the opening
+- Tell me the price of [CTCT](symbol) before the opening
+- Tell me the price of [CTG](symbol) before the opening
+- Tell me the price of [CTHR](symbol) before the opening
+- Tell me the price of [CTIB](symbol) before the opening
+- Tell me the price of [CTIC](symbol) before the opening
+- Tell me the price of [CTRE](symbol) before the opening
+- Tell me the price of [CTRL](symbol) before the opening
+- Tell me the price of [CTRN](symbol) before the opening
+- Tell me the price of [CTRP](symbol) before the opening
+- Tell me the price of [CTRX](symbol) before the opening
+- Tell me the price of [CTSH](symbol) before the opening
+- Tell me the price of [CTSO](symbol) before the opening
+- Tell me the price of [CTWS](symbol) before the opening
+- Tell me the price of [CTXS](symbol) before the opening
+- Tell me the price of [CU](symbol) before the opening
+- Tell me the price of [CUBA](symbol) before the opening
+- Tell me the price of [CUI](symbol) before the opening
+- Tell me the price of [CUNB](symbol) before the opening
+- Tell me the price of [CUTR](symbol) before the opening
+- Tell me the price of [CVBF](symbol) before the opening
+- Tell me the price of [CVCO](symbol) before the opening
+- Tell me the price of [CVCY](symbol) before the opening
+- Tell me the price of [CVGI](symbol) before the opening
+- Tell me the price of [CVGW](symbol) before the opening
+- Tell me the price of [CVLT](symbol) before the opening
+- Tell me the price of [CVLY](symbol) before the opening
+- Tell me the price of [CVTI](symbol) before the opening
+- Tell me the price of [CVV](symbol) before the opening
+- Tell me the price of [CWAY](symbol) before the opening
+- Tell me the price of [CWBC](symbol) before the opening
+- Tell me the price of [CWCO](symbol) before the opening
+- Tell me the price of [CWST](symbol) before the opening
+- Tell me the price of [CXDC](symbol) before the opening
+- Tell me the price of [CY](symbol) before the opening
+- Tell me the price of [CYAN](symbol) before the opening
+- Tell me the price of [CYBE](symbol) before the opening
+- Tell me the price of [CYBR](symbol) before the opening
+- Tell me the price of [CYBX](symbol) before the opening
+- Tell me the price of [CYCC](symbol) before the opening
+- Tell me the price of [CYCCP](symbol) before the opening
+- Tell me the price of [CYHHZ](symbol) before the opening
+- Tell me the price of [CYNO](symbol) before the opening
+- Tell me the price of [CYOU](symbol) before the opening
+- Tell me the price of [CYRN](symbol) before the opening
+- Tell me the price of [CYTK](symbol) before the opening
+- Tell me the price of [CYTR](symbol) before the opening
+- Tell me the price of [CYTX](symbol) before the opening
+- Tell me the price of [CZFC](symbol) before the opening
+- Tell me the price of [CZNC](symbol) before the opening
+- Tell me the price of [CZR](symbol) before the opening
+- Tell me the price of [CZWI](symbol) before the opening
+- Tell me the price of [DAEG](symbol) before the opening
+- Tell me the price of [DAIO](symbol) before the opening
+- Tell me the price of [DAKT](symbol) before the opening
+- Tell me the price of [DARA](symbol) before the opening
+- Tell me the price of [DATE](symbol) before the opening
+- Tell me the price of [DAVE](symbol) before the opening
+- Tell me the price of [DAX](symbol) before the opening
+- Tell me the price of [DBVT](symbol) before the opening
+- Tell me the price of [DCIX](symbol) before the opening
+- Tell me the price of [DCOM](symbol) before the opening
+- Tell me the price of [DCTH](symbol) before the opening
+- Tell me the price of [DENN](symbol) before the opening
+- Tell me the price of [DEPO](symbol) before the opening
+- Tell me the price of [DERM](symbol) before the opening
+- Tell me the price of [DEST](symbol) before the opening
+- Tell me the price of [DFRG](symbol) before the opening
+- Tell me the price of [DFVL](symbol) before the opening
+- Tell me the price of [DFVS](symbol) before the opening
+- Tell me the price of [DGAS](symbol) before the opening
+- Tell me the price of [DGICA](symbol) before the opening
+- Tell me the price of [DGICB](symbol) before the opening
+- Tell me the price of [DGII](symbol) before the opening
+- Tell me the price of [DGLD](symbol) before the opening
+- Tell me the price of [DGLY](symbol) before the opening
+- Tell me the price of [DGRE](symbol) before the opening
+- Tell me the price of [DGRS](symbol) before the opening
+- Tell me the price of [DGRW](symbol) before the opening
+- Tell me the price of [DHIL](symbol) before the opening
+- Tell me the price of [DHRM](symbol) before the opening
+- Tell me the price of [DIOD](symbol) before the opening
+- Tell me the price of [DISCA](symbol) before the opening
+- Tell me the price of [DISCB](symbol) before the opening
+- Tell me the price of [DISCK](symbol) before the opening
+- Tell me the price of [DISH](symbol) before the opening
+- Tell me the price of [DJCO](symbol) before the opening
+- Tell me the price of [DLBL](symbol) before the opening
+- Tell me the price of [DLBS](symbol) before the opening
+- Tell me the price of [DLHC](symbol) before the opening
+- Tell me the price of [DLTR](symbol) before the opening
+- Tell me the price of [DMLP](symbol) before the opening
+- Tell me the price of [DMND](symbol) before the opening
+- Tell me the price of [DMRC](symbol) before the opening
+- Tell me the price of [DNBF](symbol) before the opening
+- Tell me the price of [DNKN](symbol) before the opening
+- Tell me the price of [DORM](symbol) before the opening
+- Tell me the price of [DOVR](symbol) before the opening
+- Tell me the price of [DOX](symbol) before the opening
+- Tell me the price of [DPRX](symbol) before the opening
+- Tell me the price of [DRAD](symbol) before the opening
+- Tell me the price of [DRAM](symbol) before the opening
+- Tell me the price of [DRIV](symbol) before the opening
+- Tell me the price of [DRNA](symbol) before the opening
+- Tell me the price of [DRRX](symbol) before the opening
+- Tell me the price of [DRWI](symbol) before the opening
+- Tell me the price of [DRWIW](symbol) before the opening
+- Tell me the price of [DRYS](symbol) before the opening
+- Tell me the price of [DSCI](symbol) before the opening
+- Tell me the price of [DSCO](symbol) before the opening
+- Tell me the price of [DSGX](symbol) before the opening
+- Tell me the price of [DSKX](symbol) before the opening
+- Tell me the price of [DSKY](symbol) before the opening
+- Tell me the price of [DSLV](symbol) before the opening
+- Tell me the price of [DSPG](symbol) before the opening
+- Tell me the price of [DSWL](symbol) before the opening
+- Tell me the price of [DTLK](symbol) before the opening
+- Tell me the price of [DTSI](symbol) before the opening
+- Tell me the price of [DTUL](symbol) before the opening
+- Tell me the price of [DTUS](symbol) before the opening
+- Tell me the price of [DTV](symbol) before the opening
+- Tell me the price of [DTYL](symbol) before the opening
+- Tell me the price of [DTYS](symbol) before the opening
+- Tell me the price of [DVAX](symbol) before the opening
+- Tell me the price of [DVCR](symbol) before the opening
+- Tell me the price of [DWA](symbol) before the opening
+- Tell me the price of [DWAT](symbol) before the opening
+- Tell me the price of [DWCH](symbol) before the opening
+- Tell me the price of [DWSN](symbol) before the opening
+- Tell me the price of [DXCM](symbol) before the opening
+- Tell me the price of [DXGE](symbol) before the opening
+- Tell me the price of [DXJS](symbol) before the opening
+- Tell me the price of [DXKW](symbol) before the opening
+- Tell me the price of [DXLG](symbol) before the opening
+- Tell me the price of [DXM](symbol) before the opening
+- Tell me the price of [DXPE](symbol) before the opening
+- Tell me the price of [DXPS](symbol) before the opening
+- Tell me the price of [DXYN](symbol) before the opening
+- Tell me the price of [DYAX](symbol) before the opening
+- Tell me the price of [DYNT](symbol) before the opening
+- Tell me the price of [DYSL](symbol) before the opening
+- Tell me the price of [EA](symbol) before the opening
+- Tell me the price of [EAC](symbol) before the opening
+- Tell me the price of [EARS](symbol) before the opening
+- Tell me the price of [EBAY](symbol) before the opening
+- Tell me the price of [EBIO](symbol) before the opening
+- Tell me the price of [EBIX](symbol) before the opening
+- Tell me the price of [EBMT](symbol) before the opening
+- Tell me the price of [EBSB](symbol) before the opening
+- Tell me the price of [EBTC](symbol) before the opening
+- Tell me the price of [ECHO](symbol) before the opening
+- Tell me the price of [ECOL](symbol) before the opening
+- Tell me the price of [ECPG](symbol) before the opening
+- Tell me the price of [ECTE](symbol) before the opening
+- Tell me the price of [ECYT](symbol) before the opening
+- Tell me the price of [EDAP](symbol) before the opening
+- Tell me the price of [EDGW](symbol) before the opening
+- Tell me the price of [EDS](symbol) before the opening
+- Tell me the price of [EDUC](symbol) before the opening
+- Tell me the price of [EEFT](symbol) before the opening
+- Tell me the price of [EEI](symbol) before the opening
+- Tell me the price of [EEMA](symbol) before the opening
+- Tell me the price of [EEME](symbol) before the opening
+- Tell me the price of [EEML](symbol) before the opening
+- Tell me the price of [EFII](symbol) before the opening
+- Tell me the price of [EFOI](symbol) before the opening
+- Tell me the price of [EFSC](symbol) before the opening
+- Tell me the price of [EFUT](symbol) before the opening
+- Tell me the price of [EGAN](symbol) before the opening
+- Tell me the price of [EGBN](symbol) before the opening
+- Tell me the price of [EGHT](symbol) before the opening
+- Tell me the price of [EGLE](symbol) before the opening
+- Tell me the price of [EGLT](symbol) before the opening
+- Tell me the price of [EGOV](symbol) before the opening
+- Tell me the price of [EGRW](symbol) before the opening
+- Tell me the price of [EGRX](symbol) before the opening
+- Tell me the price of [EGT](symbol) before the opening
+- Tell me the price of [EHTH](symbol) before the opening
+- Tell me the price of [EIGI](symbol) before the opening
+- Tell me the price of [ELGX](symbol) before the opening
+- Tell me the price of [ELNK](symbol) before the opening
+- Tell me the price of [ELON](symbol) before the opening
+- Tell me the price of [ELOS](symbol) before the opening
+- Tell me the price of [ELRC](symbol) before the opening
+- Tell me the price of [ELSE](symbol) before the opening
+- Tell me the price of [ELTK](symbol) before the opening
+- Tell me the price of [EMCB](symbol) before the opening
+- Tell me the price of [EMCF](symbol) before the opening
+- Tell me the price of [EMCG](symbol) before the opening
+- Tell me the price of [EMCI](symbol) before the opening
+- Tell me the price of [EMDI](symbol) before the opening
+- Tell me the price of [EMEY](symbol) before the opening
+- Tell me the price of [EMIF](symbol) before the opening
+- Tell me the price of [EMITF](symbol) before the opening
+- Tell me the price of [EMKR](symbol) before the opening
+- Tell me the price of [EML](symbol) before the opening
+- Tell me the price of [EMMS](symbol) before the opening
+- Tell me the price of [EMMSP](symbol) before the opening
+- Tell me the price of [ENDP](symbol) before the opening
+- Tell me the price of [ENFC](symbol) before the opening
+- Tell me the price of [ENG](symbol) before the opening
+- Tell me the price of [ENOC](symbol) before the opening
+- Tell me the price of [ENPH](symbol) before the opening
+- Tell me the price of [ENSG](symbol) before the opening
+- Tell me the price of [ENT](symbol) before the opening
+- Tell me the price of [ENTA](symbol) before the opening
+- Tell me the price of [ENTG](symbol) before the opening
+- Tell me the price of [ENTR](symbol) before the opening
+- Tell me the price of [ENVI](symbol) before the opening
+- Tell me the price of [ENZN](symbol) before the opening
+- Tell me the price of [ENZY](symbol) before the opening
+- Tell me the price of [EOPN](symbol) before the opening
+- Tell me the price of [EPAX](symbol) before the opening
+- Tell me the price of [EPAY](symbol) before the opening
+- Tell me the price of [EPIQ](symbol) before the opening
+- Tell me the price of [EPRS](symbol) before the opening
+- Tell me the price of [EPZM](symbol) before the opening
+- Tell me the price of [EQIX](symbol) before the opening
+- Tell me the price of [ERI](symbol) before the opening
+- Tell me the price of [ERIC](symbol) before the opening
+- Tell me the price of [ERIE](symbol) before the opening
+- Tell me the price of [ERII](symbol) before the opening
+- Tell me the price of [EROC](symbol) before the opening
+- Tell me the price of [ERS](symbol) before the opening
+- Tell me the price of [ERW](symbol) before the opening
+- Tell me the price of [ESBF](symbol) before the opening
+- Tell me the price of [ESBK](symbol) before the opening
+- Tell me the price of [ESCA](symbol) before the opening
+- Tell me the price of [ESCR](symbol) before the opening
+- Tell me the price of [ESCRP](symbol) before the opening
+- Tell me the price of [ESEA](symbol) before the opening
+- Tell me the price of [ESGR](symbol) before the opening
+- Tell me the price of [ESIO](symbol) before the opening
+- Tell me the price of [ESLT](symbol) before the opening
+- Tell me the price of [ESMC](symbol) before the opening
+- Tell me the price of [ESPR](symbol) before the opening
+- Tell me the price of [ESRX](symbol) before the opening
+- Tell me the price of [ESSA](symbol) before the opening
+- Tell me the price of [ESSX](symbol) before the opening
+- Tell me the price of [ESXB](symbol) before the opening
+- Tell me the price of [ESYS](symbol) before the opening
+- Tell me the price of [ETFC](symbol) before the opening
+- Tell me the price of [ETRM](symbol) before the opening
+- Tell me the price of [EUFN](symbol) before the opening
+- Tell me the price of [EVAL](symbol) before the opening
+- Tell me the price of [EVAR](symbol) before the opening
+- Tell me the price of [EVBS](symbol) before the opening
+- Tell me the price of [EVEP](symbol) before the opening
+- Tell me the price of [EVK](symbol) before the opening
+- Tell me the price of [EVLV](symbol) before the opening
+- Tell me the price of [EVOK](symbol) before the opening
+- Tell me the price of [EVOL](symbol) before the opening
+- Tell me the price of [EVRY](symbol) before the opening
+- Tell me the price of [EWBC](symbol) before the opening
+- Tell me the price of [EXA](symbol) before the opening
+- Tell me the price of [EXAC](symbol) before the opening
+- Tell me the price of [EXAS](symbol) before the opening
+- Tell me the price of [EXEL](symbol) before the opening
+- Tell me the price of [EXFO](symbol) before the opening
+- Tell me the price of [EXLP](symbol) before the opening
+- Tell me the price of [EXLS](symbol) before the opening
+- Tell me the price of [EXPD](symbol) before the opening
+- Tell me the price of [EXPE](symbol) before the opening
+- Tell me the price of [EXPO](symbol) before the opening
+- Tell me the price of [EXTR](symbol) before the opening
+- Tell me the price of [EXXI](symbol) before the opening
+- Tell me the price of [EYES](symbol) before the opening
+- Tell me the price of [EZCH](symbol) before the opening
+- Tell me the price of [EZPW](symbol) before the opening
+- Tell me the price of [FALC](symbol) before the opening
+- Tell me the price of [FANG](symbol) before the opening
+- Tell me the price of [FARM](symbol) before the opening
+- Tell me the price of [FARO](symbol) before the opening
+- Tell me the price of [FAST](symbol) before the opening
+- Tell me the price of [FATE](symbol) before the opening
+- Tell me the price of [FB](symbol) before the opening
+- Tell me the price of [FBIZ](symbol) before the opening
+- Tell me the price of [FBMS](symbol) before the opening
+- Tell me the price of [FBNC](symbol) before the opening
+- Tell me the price of [FBNK](symbol) before the opening
+- Tell me the price of [FBRC](symbol) before the opening
+- Tell me the price of [FBSS](symbol) before the opening
+- Tell me the price of [FCAP](symbol) before the opening
+- Tell me the price of [FCBC](symbol) before the opening
+- Tell me the price of [FCCO](symbol) before the opening
+- Tell me the price of [FCCY](symbol) before the opening
+- Tell me the price of [FCEL](symbol) before the opening
+- Tell me the price of [FCFS](symbol) before the opening
+- Tell me the price of [FCHI](symbol) before the opening
+- Tell me the price of [FCLF](symbol) before the opening
+- Tell me the price of [FCNCA](symbol) before the opening
+- Tell me the price of [FCS](symbol) before the opening
+- Tell me the price of [FCSC](symbol) before the opening
+- Tell me the price of [FCTY](symbol) before the opening
+- Tell me the price of [FCVA](symbol) before the opening
+- Tell me the price of [FCZA](symbol) before the opening
+- Tell me the price of [FCZAP](symbol) before the opening
+- Tell me the price of [FDEF](symbol) before the opening
+- Tell me the price of [FDIV](symbol) before the opening
+- Tell me the price of [FDML](symbol) before the opening
+- Tell me the price of [FDUS](symbol) before the opening
+- Tell me the price of [FEIC](symbol) before the opening
+- Tell me the price of [FEIM](symbol) before the opening
+- Tell me the price of [FELE](symbol) before the opening
+- Tell me the price of [FEMB](symbol) before the opening
+- Tell me the price of [FES](symbol) before the opening
+- Tell me the price of [FEUZ](symbol) before the opening
+- Tell me the price of [FEYE](symbol) before the opening
+- Tell me the price of [FFBC](symbol) before the opening
+- Tell me the price of [FFBCW](symbol) before the opening
+- Tell me the price of [FFHL](symbol) before the opening
+- Tell me the price of [FFIC](symbol) before the opening
+- Tell me the price of [FFIN](symbol) before the opening
+- Tell me the price of [FFIV](symbol) before the opening
+- Tell me the price of [FFKT](symbol) before the opening
+- Tell me the price of [FFNM](symbol) before the opening
+- Tell me the price of [FFNW](symbol) before the opening
+- Tell me the price of [FFWM](symbol) before the opening
+- Tell me the price of [FGEN](symbol) before the opening
+- Tell me the price of [FHCO](symbol) before the opening
+- Tell me the price of [FIBK](symbol) before the opening
+- Tell me the price of [FINL](symbol) before the opening
+- Tell me the price of [FISH](symbol) before the opening
+- Tell me the price of [FISI](symbol) before the opening
+- Tell me the price of [FISV](symbol) before the opening
+- Tell me the price of [FITB](symbol) before the opening
+- Tell me the price of [FITBI](symbol) before the opening
+- Tell me the price of [FIVE](symbol) before the opening
+- Tell me the price of [FIVN](symbol) before the opening
+- Tell me the price of [FIZZ](symbol) before the opening
+- Tell me the price of [FLAT](symbol) before the opening
+- Tell me the price of [FLDM](symbol) before the opening
+- Tell me the price of [FLEX](symbol) before the opening
+- Tell me the price of [FLIC](symbol) before the opening
+- Tell me the price of [FLIR](symbol) before the opening
+- Tell me the price of [FLL](symbol) before the opening
+- Tell me the price of [FLML](symbol) before the opening
+- Tell me the price of [FLWS](symbol) before the opening
+- Tell me the price of [FLXN](symbol) before the opening
+- Tell me the price of [FLXS](symbol) before the opening
+- Tell me the price of [FMB](symbol) before the opening
+- Tell me the price of [FMBH](symbol) before the opening
+- Tell me the price of [FMBI](symbol) before the opening
+- Tell me the price of [FMER](symbol) before the opening
+- Tell me the price of [FMI](symbol) before the opening
+- Tell me the price of [FMNB](symbol) before the opening
+- Tell me the price of [FNBC](symbol) before the opening
+- Tell me the price of [FNFG](symbol) before the opening
+- Tell me the price of [FNGN](symbol) before the opening
+- Tell me the price of [FNHC](symbol) before the opening
+- Tell me the price of [FNJN](symbol) before the opening
+- Tell me the price of [FNLC](symbol) before the opening
+- Tell me the price of [FNRG](symbol) before the opening
+- Tell me the price of [FNSR](symbol) before the opening
+- Tell me the price of [FOLD](symbol) before the opening
+- Tell me the price of [FOMX](symbol) before the opening
+- Tell me the price of [FONE](symbol) before the opening
+- Tell me the price of [FONR](symbol) before the opening
+- Tell me the price of [FORD](symbol) before the opening
+- Tell me the price of [FORM](symbol) before the opening
+- Tell me the price of [FORR](symbol) before the opening
+- Tell me the price of [FORTY](symbol) before the opening
+- Tell me the price of [FOSL](symbol) before the opening
+- Tell me the price of [FOX](symbol) before the opening
+- Tell me the price of [FOXA](symbol) before the opening
+- Tell me the price of [FOXF](symbol) before the opening
+- Tell me the price of [FPRX](symbol) before the opening
+- Tell me the price of [FPXI](symbol) before the opening
+- Tell me the price of [FRAN](symbol) before the opening
+- Tell me the price of [FRBA](symbol) before the opening
+- Tell me the price of [FRBK](symbol) before the opening
+- Tell me the price of [FRED](symbol) before the opening
+- Tell me the price of [FREE](symbol) before the opening
+- Tell me the price of [FRGI](symbol) before the opening
+- Tell me the price of [FRME](symbol) before the opening
+- Tell me the price of [FRP](symbol) before the opening
+- Tell me the price of [FRPH](symbol) before the opening
+- Tell me the price of [FRPHV](symbol) before the opening
+- Tell me the price of [FRPT](symbol) before the opening
+- Tell me the price of [FRSH](symbol) before the opening
+- Tell me the price of [FSAM](symbol) before the opening
+- Tell me the price of [FSBK](symbol) before the opening
+- Tell me the price of [FSBW](symbol) before the opening
+- Tell me the price of [FSC](symbol) before the opening
+- Tell me the price of [FSCFL](symbol) before the opening
+- Tell me the price of [FSFG](symbol) before the opening
+- Tell me the price of [FSFR](symbol) before the opening
+- Tell me the price of [FSGI](symbol) before the opening
+- Tell me the price of [FSLR](symbol) before the opening
+- Tell me the price of [FSNN](symbol) before the opening
+- Tell me the price of [FSRV](symbol) before the opening
+- Tell me the price of [FSTR](symbol) before the opening
+- Tell me the price of [FSYS](symbol) before the opening
+- Tell me the price of [FTCS](symbol) before the opening
+- Tell me the price of [FTD](symbol) before the opening
+- Tell me the price of [FTEK](symbol) before the opening
+- Tell me the price of [FTGC](symbol) before the opening
+- Tell me the price of [FTHI](symbol) before the opening
+- Tell me the price of [FTLB](symbol) before the opening
+- Tell me the price of [FTNT](symbol) before the opening
+- Tell me the price of [FTR](symbol) before the opening
+- Tell me the price of [FTSL](symbol) before the opening
+- Tell me the price of [FTSM](symbol) before the opening
+- Tell me the price of [FUEL](symbol) before the opening
+- Tell me the price of [FULL](symbol) before the opening
+- Tell me the price of [FULLL](symbol) before the opening
+- Tell me the price of [FULT](symbol) before the opening
+- Tell me the price of [FUNC](symbol) before the opening
+- Tell me the price of [FUND](symbol) before the opening
+- Tell me the price of [FV](symbol) before the opening
+- Tell me the price of [FWM](symbol) before the opening
+- Tell me the price of [FWP](symbol) before the opening
+- Tell me the price of [FWRD](symbol) before the opening
+- Tell me the price of [FXCB](symbol) before the opening
+- Tell me the price of [FXEN](symbol) before the opening
+- Tell me the price of [FXENP](symbol) before the opening
+- Tell me the price of [GABC](symbol) before the opening
+- Tell me the price of [GAI](symbol) before the opening
+- Tell me the price of [GAIA](symbol) before the opening
+- Tell me the price of [GAIN](symbol) before the opening
+- Tell me the price of [GAINO](symbol) before the opening
+- Tell me the price of [GAINP](symbol) before the opening
+- Tell me the price of [GALE](symbol) before the opening
+- Tell me the price of [GALT](symbol) before the opening
+- Tell me the price of [GALTU](symbol) before the opening
+- Tell me the price of [GALTW](symbol) before the opening
+- Tell me the price of [GAME](symbol) before the opening
+- Tell me the price of [GARS](symbol) before the opening
+- Tell me the price of [GASS](symbol) before the opening
+- Tell me the price of [GBCI](symbol) before the opening
+- Tell me the price of [GBDC](symbol) before the opening
+- Tell me the price of [GBIM](symbol) before the opening
+- Tell me the price of [GBLI](symbol) before the opening
+- Tell me the price of [GBNK](symbol) before the opening
+- Tell me the price of [GBSN](symbol) before the opening
+- Tell me the price of [GCBC](symbol) before the opening
+- Tell me the price of [GCVRZ](symbol) before the opening
+- Tell me the price of [GDEF](symbol) before the opening
+- Tell me the price of [GENC](symbol) before the opening
+- Tell me the price of [GENE](symbol) before the opening
+- Tell me the price of [GEOS](symbol) before the opening
+- Tell me the price of [GERN](symbol) before the opening
+- Tell me the price of [GEVA](symbol) before the opening
+- Tell me the price of [GEVO](symbol) before the opening
+- Tell me the price of [GFED](symbol) before the opening
+- Tell me the price of [GFN](symbol) before the opening
+- Tell me the price of [GFNCP](symbol) before the opening
+- Tell me the price of [GFNSL](symbol) before the opening
+- Tell me the price of [GGAC](symbol) before the opening
+- Tell me the price of [GGACR](symbol) before the opening
+- Tell me the price of [GGACU](symbol) before the opening
+- Tell me the price of [GGACW](symbol) before the opening
+- Tell me the price of [GGAL](symbol) before the opening
+- Tell me the price of [GHDX](symbol) before the opening
+- Tell me the price of [GIFI](symbol) before the opening
+- Tell me the price of [GIGA](symbol) before the opening
+- Tell me the price of [GIGM](symbol) before the opening
+- Tell me the price of [GIII](symbol) before the opening
+- Tell me the price of [GILD](symbol) before the opening
+- Tell me the price of [GILT](symbol) before the opening
+- Tell me the price of [GK](symbol) before the opening
+- Tell me the price of [GKNT](symbol) before the opening
+- Tell me the price of [GLAD](symbol) before the opening
+- Tell me the price of [GLADO](symbol) before the opening
+- Tell me the price of [GLBS](symbol) before the opening
+- Tell me the price of [GLBZ](symbol) before the opening
+- Tell me the price of [GLDC](symbol) before the opening
+- Tell me the price of [GLDD](symbol) before the opening
+- Tell me the price of [GLDI](symbol) before the opening
+- Tell me the price of [GLMD](symbol) before the opening
+- Tell me the price of [GLNG](symbol) before the opening
+- Tell me the price of [GLPI](symbol) before the opening
+- Tell me the price of [GLRE](symbol) before the opening
+- Tell me the price of [GLRI](symbol) before the opening
+- Tell me the price of [GLUU](symbol) before the opening
+- Tell me the price of [GLYC](symbol) before the opening
+- Tell me the price of [GMAN](symbol) before the opening
+- Tell me the price of [GMCR](symbol) before the opening
+- Tell me the price of [GMLP](symbol) before the opening
+- Tell me the price of [GNBC](symbol) before the opening
+- Tell me the price of [GNCA](symbol) before the opening
+- Tell me the price of [GNCMA](symbol) before the opening
+- Tell me the price of [GNMA](symbol) before the opening
+- Tell me the price of [GNMK](symbol) before the opening
+- Tell me the price of [GNTX](symbol) before the opening
+- Tell me the price of [GNVC](symbol) before the opening
+- Tell me the price of [GOGO](symbol) before the opening
+- Tell me the price of [GOLD](symbol) before the opening
+- Tell me the price of [GOMO](symbol) before the opening
+- Tell me the price of [GOOD](symbol) before the opening
+- Tell me the price of [GOODN](symbol) before the opening
+- Tell me the price of [GOODO](symbol) before the opening
+- Tell me the price of [GOODP](symbol) before the opening
+- Tell me the price of [GOOG](symbol) before the opening
+- Tell me the price of [GOOGL](symbol) before the opening
+- Tell me the price of [GPIC](symbol) before the opening
+- Tell me the price of [GPOR](symbol) before the opening
+- Tell me the price of [GPRE](symbol) before the opening
+- Tell me the price of [GPRO](symbol) before the opening
+- Tell me the price of [GRBK](symbol) before the opening
+- Tell me the price of [GRFS](symbol) before the opening
+- Tell me the price of [GRID](symbol) before the opening
+- Tell me the price of [GRIF](symbol) before the opening
+- Tell me the price of [GRMN](symbol) before the opening
+- Tell me the price of [GROW](symbol) before the opening
+- Tell me the price of [GRPN](symbol) before the opening
+- Tell me the price of [GRVY](symbol) before the opening
+- Tell me the price of [GSBC](symbol) before the opening
+- Tell me the price of [GSIG](symbol) before the opening
+- Tell me the price of [GSIT](symbol) before the opening
+- Tell me the price of [GSM](symbol) before the opening
+- Tell me the price of [GSOL](symbol) before the opening
+- Tell me the price of [GSVC](symbol) before the opening
+- Tell me the price of [GT](symbol) before the opening
+- Tell me the price of [GTIM](symbol) before the opening
+- Tell me the price of [GTIV](symbol) before the opening
+- Tell me the price of [GTLS](symbol) before the opening
+- Tell me the price of [GTWN](symbol) before the opening
+- Tell me the price of [GTXI](symbol) before the opening
+- Tell me the price of [GUID](symbol) before the opening
+- Tell me the price of [GULF](symbol) before the opening
+- Tell me the price of [GULTU](symbol) before the opening
+- Tell me the price of [GURE](symbol) before the opening
+- Tell me the price of [GWGH](symbol) before the opening
+- Tell me the price of [GWPH](symbol) before the opening
+- Tell me the price of [GYRO](symbol) before the opening
+- Tell me the price of [HA](symbol) before the opening
+- Tell me the price of [HABT](symbol) before the opening
+- Tell me the price of [HAFC](symbol) before the opening
+- Tell me the price of [HAIN](symbol) before the opening
+- Tell me the price of [HALL](symbol) before the opening
+- Tell me the price of [HALO](symbol) before the opening
+- Tell me the price of [HART](symbol) before the opening
+- Tell me the price of [HAS](symbol) before the opening
+- Tell me the price of [HAWK](symbol) before the opening
+- Tell me the price of [HAWKB](symbol) before the opening
+- Tell me the price of [HAYN](symbol) before the opening
+- Tell me the price of [HBAN](symbol) before the opening
+- Tell me the price of [HBANP](symbol) before the opening
+- Tell me the price of [HBCP](symbol) before the opening
+- Tell me the price of [HBHC](symbol) before the opening
+- Tell me the price of [HBIO](symbol) before the opening
+- Tell me the price of [HBK](symbol) before the opening
+- Tell me the price of [HBMD](symbol) before the opening
+- Tell me the price of [HBNC](symbol) before the opening
+- Tell me the price of [HBNK](symbol) before the opening
+- Tell me the price of [HBOS](symbol) before the opening
+- Tell me the price of [HBP](symbol) before the opening
+- Tell me the price of [HCAC](symbol) before the opening
+- Tell me the price of [HCACU](symbol) before the opening
+- Tell me the price of [HCACW](symbol) before the opening
+- Tell me the price of [HCAP](symbol) before the opening
+- Tell me the price of [HCBK](symbol) before the opening
+- Tell me the price of [HCCI](symbol) before the opening
+- Tell me the price of [HCKT](symbol) before the opening
+- Tell me the price of [HCOM](symbol) before the opening
+- Tell me the price of [HCSG](symbol) before the opening
+- Tell me the price of [HCT](symbol) before the opening
+- Tell me the price of [HDNG](symbol) before the opening
+- Tell me the price of [HDP](symbol) before the opening
+- Tell me the price of [HDRA](symbol) before the opening
+- Tell me the price of [HDRAR](symbol) before the opening
+- Tell me the price of [HDRAU](symbol) before the opening
+- Tell me the price of [HDRAW](symbol) before the opening
+- Tell me the price of [HDS](symbol) before the opening
+- Tell me the price of [HDSN](symbol) before the opening
+- Tell me the price of [HEAR](symbol) before the opening
+- Tell me the price of [HEES](symbol) before the opening
+- Tell me the price of [HELE](symbol) before the opening
+- Tell me the price of [HEOP](symbol) before the opening
+- Tell me the price of [HERO](symbol) before the opening
+- Tell me the price of [HFBC](symbol) before the opening
+- Tell me the price of [HFBL](symbol) before the opening
+- Tell me the price of [HFFC](symbol) before the opening
+- Tell me the price of [HFWA](symbol) before the opening
+- Tell me the price of [HGSH](symbol) before the opening
+- Tell me the price of [HIBB](symbol) before the opening
+- Tell me the price of [HIFS](symbol) before the opening
+- Tell me the price of [HIHO](symbol) before the opening
+- Tell me the price of [HIIQ](symbol) before the opening
+- Tell me the price of [HILL](symbol) before the opening
+- Tell me the price of [HIMX](symbol) before the opening
+- Tell me the price of [HKTV](symbol) before the opening
+- Tell me the price of [HLIT](symbol) before the opening
+- Tell me the price of [HLSS](symbol) before the opening
+- Tell me the price of [HMHC](symbol) before the opening
+- Tell me the price of [HMIN](symbol) before the opening
+- Tell me the price of [HMNF](symbol) before the opening
+- Tell me the price of [HMNY](symbol) before the opening
+- Tell me the price of [HMPR](symbol) before the opening
+- Tell me the price of [HMST](symbol) before the opening
+- Tell me the price of [HMSY](symbol) before the opening
+- Tell me the price of [HMTV](symbol) before the opening
+- Tell me the price of [HNH](symbol) before the opening
+- Tell me the price of [HNNA](symbol) before the opening
+- Tell me the price of [HNRG](symbol) before the opening
+- Tell me the price of [HNSN](symbol) before the opening
+- Tell me the price of [HOFT](symbol) before the opening
+- Tell me the price of [HOLI](symbol) before the opening
+- Tell me the price of [HOLX](symbol) before the opening
+- Tell me the price of [HOMB](symbol) before the opening
+- Tell me the price of [HOTR](symbol) before the opening
+- Tell me the price of [HOTRW](symbol) before the opening
+- Tell me the price of [HOVNP](symbol) before the opening
+- Tell me the price of [HPJ](symbol) before the opening
+- Tell me the price of [HPTX](symbol) before the opening
+- Tell me the price of [HQY](symbol) before the opening
+- Tell me the price of [HRTX](symbol) before the opening
+- Tell me the price of [HRZN](symbol) before the opening
+- Tell me the price of [HSGX](symbol) before the opening
+- Tell me the price of [HSIC](symbol) before the opening
+- Tell me the price of [HSII](symbol) before the opening
+- Tell me the price of [HSKA](symbol) before the opening
+- Tell me the price of [HSNI](symbol) before the opening
+- Tell me the price of [HSOL](symbol) before the opening
+- Tell me the price of [HSON](symbol) before the opening
+- Tell me the price of [HSTM](symbol) before the opening
+- Tell me the price of [HTBI](symbol) before the opening
+- Tell me the price of [HTBK](symbol) before the opening
+- Tell me the price of [HTBX](symbol) before the opening
+- Tell me the price of [HTCH](symbol) before the opening
+- Tell me the price of [HTHT](symbol) before the opening
+- Tell me the price of [HTLD](symbol) before the opening
+- Tell me the price of [HTLF](symbol) before the opening
+- Tell me the price of [HTWO](symbol) before the opening
+- Tell me the price of [HTWR](symbol) before the opening
+- Tell me the price of [HUBG](symbol) before the opening
+- Tell me the price of [HURC](symbol) before the opening
+- Tell me the price of [HURN](symbol) before the opening
+- Tell me the price of [HWAY](symbol) before the opening
+- Tell me the price of [HWBK](symbol) before the opening
+- Tell me the price of [HWCC](symbol) before the opening
+- Tell me the price of [HWKN](symbol) before the opening
+- Tell me the price of [HYGS](symbol) before the opening
+- Tell me the price of [HYLS](symbol) before the opening
+- Tell me the price of [HYND](symbol) before the opening
+- Tell me the price of [HYZD](symbol) before the opening
+- Tell me the price of [HZNP](symbol) before the opening
+- Tell me the price of [IACI](symbol) before the opening
+- Tell me the price of [IART](symbol) before the opening
+- Tell me the price of [IBB](symbol) before the opening
+- Tell me the price of [IBCA](symbol) before the opening
+- Tell me the price of [IBCP](symbol) before the opening
+- Tell me the price of [IBKC](symbol) before the opening
+- Tell me the price of [IBKR](symbol) before the opening
+- Tell me the price of [IBOC](symbol) before the opening
+- Tell me the price of [IBTX](symbol) before the opening
+- Tell me the price of [ICAD](symbol) before the opening
+- Tell me the price of [ICCC](symbol) before the opening
+- Tell me the price of [ICEL](symbol) before the opening
+- Tell me the price of [ICFI](symbol) before the opening
+- Tell me the price of [ICLD](symbol) before the opening
+- Tell me the price of [ICLDW](symbol) before the opening
+- Tell me the price of [ICLN](symbol) before the opening
+- Tell me the price of [ICLR](symbol) before the opening
+- Tell me the price of [ICON](symbol) before the opening
+- Tell me the price of [ICPT](symbol) before the opening
+- Tell me the price of [ICUI](symbol) before the opening
+- Tell me the price of [IDCC](symbol) before the opening
+- Tell me the price of [IDRA](symbol) before the opening
+- Tell me the price of [IDSA](symbol) before the opening
+- Tell me the price of [IDSY](symbol) before the opening
+- Tell me the price of [IDTI](symbol) before the opening
+- Tell me the price of [IDXX](symbol) before the opening
+- Tell me the price of [IEP](symbol) before the opening
+- Tell me the price of [IESC](symbol) before the opening
+- Tell me the price of [IEUS](symbol) before the opening
+- Tell me the price of [IFAS](symbol) before the opening
+- Tell me the price of [IFEU](symbol) before the opening
+- Tell me the price of [IFGL](symbol) before the opening
+- Tell me the price of [IFNA](symbol) before the opening
+- Tell me the price of [IFON](symbol) before the opening
+- Tell me the price of [IFV](symbol) before the opening
+- Tell me the price of [IGLD](symbol) before the opening
+- Tell me the price of [IGOV](symbol) before the opening
+- Tell me the price of [IGTE](symbol) before the opening
+- Tell me the price of [III](symbol) before the opening
+- Tell me the price of [IIIN](symbol) before the opening
+- Tell me the price of [IIJI](symbol) before the opening
+- Tell me the price of [IILG](symbol) before the opening
+- Tell me the price of [IIN](symbol) before the opening
+- Tell me the price of [IIVI](symbol) before the opening
+- Tell me the price of [IKAN](symbol) before the opening
+- Tell me the price of [IKGH](symbol) before the opening
+- Tell me the price of [IKNX](symbol) before the opening
+- Tell me the price of [ILMN](symbol) before the opening
+- Tell me the price of [IMDZ](symbol) before the opening
+- Tell me the price of [IMGN](symbol) before the opening
+- Tell me the price of [IMI](symbol) before the opening
+- Tell me the price of [IMKTA](symbol) before the opening
+- Tell me the price of [IMMR](symbol) before the opening
+- Tell me the price of [IMMU](symbol) before the opening
+- Tell me the price of [IMMY](symbol) before the opening
+- Tell me the price of [IMNP](symbol) before the opening
+- Tell me the price of [IMOS](symbol) before the opening
+- Tell me the price of [IMRS](symbol) before the opening
+- Tell me the price of [INAP](symbol) before the opening
+- Tell me the price of [INBK](symbol) before the opening
+- Tell me the price of [INCR](symbol) before the opening
+- Tell me the price of [INCY](symbol) before the opening
+- Tell me the price of [INDB](symbol) before the opening
+- Tell me the price of [INDY](symbol) before the opening
+- Tell me the price of [INFA](symbol) before the opening
+- Tell me the price of [INFI](symbol) before the opening
+- Tell me the price of [INFN](symbol) before the opening
+- Tell me the price of [INGN](symbol) before the opening
+- Tell me the price of [ININ](symbol) before the opening
+- Tell me the price of [INNL](symbol) before the opening
+- Tell me the price of [INO](symbol) before the opening
+- Tell me the price of [INOD](symbol) before the opening
+- Tell me the price of [INPH](symbol) before the opening
+- Tell me the price of [INSM](symbol) before the opening
+- Tell me the price of [INSY](symbol) before the opening
+- Tell me the price of [INTC](symbol) before the opening
+- Tell me the price of [INTG](symbol) before the opening
+- Tell me the price of [INTL](symbol) before the opening
+- Tell me the price of [INTLL](symbol) before the opening
+- Tell me the price of [INTU](symbol) before the opening
+- Tell me the price of [INTX](symbol) before the opening
+- Tell me the price of [INVE](symbol) before the opening
+- Tell me the price of [INVT](symbol) before the opening
+- Tell me the price of [INWK](symbol) before the opening
+- Tell me the price of [IOSP](symbol) before the opening
+- Tell me the price of [IPAR](symbol) before the opening
+- Tell me the price of [IPAS](symbol) before the opening
+- Tell me the price of [IPCC](symbol) before the opening
+- Tell me the price of [IPCI](symbol) before the opening
+- Tell me the price of [IPCM](symbol) before the opening
+- Tell me the price of [IPDN](symbol) before the opening
+- Tell me the price of [IPGP](symbol) before the opening
+- Tell me the price of [IPHS](symbol) before the opening
+- Tell me the price of [IPKW](symbol) before the opening
+- Tell me the price of [IPWR](symbol) before the opening
+- Tell me the price of [IPXL](symbol) before the opening
+- Tell me the price of [IQNT](symbol) before the opening
+- Tell me the price of [IRBT](symbol) before the opening
+- Tell me the price of [IRDM](symbol) before the opening
+- Tell me the price of [IRDMB](symbol) before the opening
+- Tell me the price of [IRDMZ](symbol) before the opening
+- Tell me the price of [IRG](symbol) before the opening
+- Tell me the price of [IRIX](symbol) before the opening
+- Tell me the price of [IRMD](symbol) before the opening
+- Tell me the price of [IROQ](symbol) before the opening
+- Tell me the price of [IRWD](symbol) before the opening
+- Tell me the price of [ISBC](symbol) before the opening
+- Tell me the price of [ISCA](symbol) before the opening
+- Tell me the price of [ISHG](symbol) before the opening
+- Tell me the price of [ISIG](symbol) before the opening
+- Tell me the price of [ISIL](symbol) before the opening
+- Tell me the price of [ISIS](symbol) before the opening
+- Tell me the price of [ISLE](symbol) before the opening
+- Tell me the price of [ISM](symbol) before the opening
+- Tell me the price of [ISNS](symbol) before the opening
+- Tell me the price of [ISRG](symbol) before the opening
+- Tell me the price of [ISRL](symbol) before the opening
+- Tell me the price of [ISSC](symbol) before the opening
+- Tell me the price of [ISSI](symbol) before the opening
+- Tell me the price of [ISTR](symbol) before the opening
+- Tell me the price of [ITCI](symbol) before the opening
+- Tell me the price of [ITIC](symbol) before the opening
+- Tell me the price of [ITRI](symbol) before the opening
+- Tell me the price of [ITRN](symbol) before the opening
+- Tell me the price of [IVAC](symbol) before the opening
+- Tell me the price of [IVAN](symbol) before the opening
+- Tell me the price of [IXYS](symbol) before the opening
+- Tell me the price of [JACK](symbol) before the opening
+- Tell me the price of [JACQ](symbol) before the opening
+- Tell me the price of [JACQU](symbol) before the opening
+- Tell me the price of [JACQW](symbol) before the opening
+- Tell me the price of [JAKK](symbol) before the opening
+- Tell me the price of [JASN](symbol) before the opening
+- Tell me the price of [JASNW](symbol) before the opening
+- Tell me the price of [JASO](symbol) before the opening
+- Tell me the price of [JAXB](symbol) before the opening
+- Tell me the price of [JAZZ](symbol) before the opening
+- Tell me the price of [JBHT](symbol) before the opening
+- Tell me the price of [JBLU](symbol) before the opening
+- Tell me the price of [JBSS](symbol) before the opening
+- Tell me the price of [JCOM](symbol) before the opening
+- Tell me the price of [JCS](symbol) before the opening
+- Tell me the price of [JCTCF](symbol) before the opening
+- Tell me the price of [JD](symbol) before the opening
+- Tell me the price of [JDSU](symbol) before the opening
+- Tell me the price of [JGBB](symbol) before the opening
+- Tell me the price of [JIVE](symbol) before the opening
+- Tell me the price of [JJSF](symbol) before the opening
+- Tell me the price of [JKHY](symbol) before the opening
+- Tell me the price of [JMBA](symbol) before the opening
+- Tell me the price of [JOBS](symbol) before the opening
+- Tell me the price of [JOEZ](symbol) before the opening
+- Tell me the price of [JOUT](symbol) before the opening
+- Tell me the price of [JRJC](symbol) before the opening
+- Tell me the price of [JRVR](symbol) before the opening
+- Tell me the price of [JSM](symbol) before the opening
+- Tell me the price of [JST](symbol) before the opening
+- Tell me the price of [JTPY](symbol) before the opening
+- Tell me the price of [JUNO](symbol) before the opening
+- Tell me the price of [JVA](symbol) before the opening
+- Tell me the price of [JXSB](symbol) before the opening
+- Tell me the price of [JYNT](symbol) before the opening
+- Tell me the price of [KALU](symbol) before the opening
+- Tell me the price of [KANG](symbol) before the opening
+- Tell me the price of [KBAL](symbol) before the opening
+- Tell me the price of [KBIO](symbol) before the opening
+- Tell me the price of [KBSF](symbol) before the opening
+- Tell me the price of [KCAP](symbol) before the opening
+- Tell me the price of [KCLI](symbol) before the opening
+- Tell me the price of [KE](symbol) before the opening
+- Tell me the price of [KELYA](symbol) before the opening
+- Tell me the price of [KELYB](symbol) before the opening
+- Tell me the price of [KEQU](symbol) before the opening
+- Tell me the price of [KERX](symbol) before the opening
+- Tell me the price of [KEYW](symbol) before the opening
+- Tell me the price of [KFFB](symbol) before the opening
+- Tell me the price of [KFRC](symbol) before the opening
+- Tell me the price of [KFX](symbol) before the opening
+- Tell me the price of [KGJI](symbol) before the opening
+- Tell me the price of [KIN](symbol) before the opening
+- Tell me the price of [KINS](symbol) before the opening
+- Tell me the price of [KIRK](symbol) before the opening
+- Tell me the price of [KITE](symbol) before the opening
+- Tell me the price of [KLAC](symbol) before the opening
+- Tell me the price of [KLIC](symbol) before the opening
+- Tell me the price of [KLXI](symbol) before the opening
+- Tell me the price of [KMDA](symbol) before the opening
+- Tell me the price of [KNDI](symbol) before the opening
+- Tell me the price of [KONA](symbol) before the opening
+- Tell me the price of [KONE](symbol) before the opening
+- Tell me the price of [KOOL](symbol) before the opening
+- Tell me the price of [KOPN](symbol) before the opening
+- Tell me the price of [KOSS](symbol) before the opening
+- Tell me the price of [KPTI](symbol) before the opening
+- Tell me the price of [KRFT](symbol) before the opening
+- Tell me the price of [KRNY](symbol) before the opening
+- Tell me the price of [KTCC](symbol) before the opening
+- Tell me the price of [KTEC](symbol) before the opening
+- Tell me the price of [KTOS](symbol) before the opening
+- Tell me the price of [KTWO](symbol) before the opening
+- Tell me the price of [KUTV](symbol) before the opening
+- Tell me the price of [KVHI](symbol) before the opening
+- Tell me the price of [KWEB](symbol) before the opening
+- Tell me the price of [KYTH](symbol) before the opening
+- Tell me the price of [KZ](symbol) before the opening
+- Tell me the price of [LABC](symbol) before the opening
+- Tell me the price of [LABL](symbol) before the opening
+- Tell me the price of [LACO](symbol) before the opening
+- Tell me the price of [LAKE](symbol) before the opening
+- Tell me the price of [LALT](symbol) before the opening
+- Tell me the price of [LAMR](symbol) before the opening
+- Tell me the price of [LANC](symbol) before the opening
+- Tell me the price of [LAND](symbol) before the opening
+- Tell me the price of [LARK](symbol) before the opening
+- Tell me the price of [LAWS](symbol) before the opening
+- Tell me the price of [LAYN](symbol) before the opening
+- Tell me the price of [LBAI](symbol) before the opening
+- Tell me the price of [LBIX](symbol) before the opening
+- Tell me the price of [LBRDA](symbol) before the opening
+- Tell me the price of [LBRDK](symbol) before the opening
+- Tell me the price of [LBRKR](symbol) before the opening
+- Tell me the price of [LBTYA](symbol) before the opening
+- Tell me the price of [LBTYB](symbol) before the opening
+- Tell me the price of [LBTYK](symbol) before the opening
+- Tell me the price of [LCNB](symbol) before the opening
+- Tell me the price of [LCUT](symbol) before the opening
+- Tell me the price of [LDRH](symbol) before the opening
+- Tell me the price of [LDRI](symbol) before the opening
+- Tell me the price of [LE](symbol) before the opening
+- Tell me the price of [LECO](symbol) before the opening
+- Tell me the price of [LEDS](symbol) before the opening
+- Tell me the price of [LEVY](symbol) before the opening
+- Tell me the price of [LEVYU](symbol) before the opening
+- Tell me the price of [LEVYW](symbol) before the opening
+- Tell me the price of [LFUS](symbol) before the opening
+- Tell me the price of [LFVN](symbol) before the opening
+- Tell me the price of [LGCY](symbol) before the opening
+- Tell me the price of [LGCYO](symbol) before the opening
+- Tell me the price of [LGCYP](symbol) before the opening
+- Tell me the price of [LGIH](symbol) before the opening
+- Tell me the price of [LGND](symbol) before the opening
+- Tell me the price of [LHCG](symbol) before the opening
+- Tell me the price of [LIME](symbol) before the opening
+- Tell me the price of [LINC](symbol) before the opening
+- Tell me the price of [LINE](symbol) before the opening
+- Tell me the price of [LION](symbol) before the opening
+- Tell me the price of [LIOX](symbol) before the opening
+- Tell me the price of [LIQD](symbol) before the opening
+- Tell me the price of [LIVE](symbol) before the opening
+- Tell me the price of [LJPC](symbol) before the opening
+- Tell me the price of [LKFN](symbol) before the opening
+- Tell me the price of [LKQ](symbol) before the opening
+- Tell me the price of [LLEX](symbol) before the opening
+- Tell me the price of [LLNW](symbol) before the opening
+- Tell me the price of [LLTC](symbol) before the opening
+- Tell me the price of [LMAT](symbol) before the opening
+- Tell me the price of [LMBS](symbol) before the opening
+- Tell me the price of [LMCA](symbol) before the opening
+- Tell me the price of [LMCB](symbol) before the opening
+- Tell me the price of [LMCK](symbol) before the opening
+- Tell me the price of [LMIA](symbol) before the opening
+- Tell me the price of [LMNR](symbol) before the opening
+- Tell me the price of [LMNS](symbol) before the opening
+- Tell me the price of [LMNX](symbol) before the opening
+- Tell me the price of [LMOS](symbol) before the opening
+- Tell me the price of [LMRK](symbol) before the opening
+- Tell me the price of [LNBB](symbol) before the opening
+- Tell me the price of [LNCE](symbol) before the opening
+- Tell me the price of [LNCO](symbol) before the opening
+- Tell me the price of [LNDC](symbol) before the opening
+- Tell me the price of [LOAN](symbol) before the opening
+- Tell me the price of [LOCM](symbol) before the opening
+- Tell me the price of [LOCO](symbol) before the opening
+- Tell me the price of [LOGI](symbol) before the opening
+- Tell me the price of [LOGM](symbol) before the opening
+- Tell me the price of [LOJN](symbol) before the opening
+- Tell me the price of [LONG](symbol) before the opening
+- Tell me the price of [LOOK](symbol) before the opening
+- Tell me the price of [LOPE](symbol) before the opening
+- Tell me the price of [LORL](symbol) before the opening
+- Tell me the price of [LOXO](symbol) before the opening
+- Tell me the price of [LPCN](symbol) before the opening
+- Tell me the price of [LPHI](symbol) before the opening
+- Tell me the price of [LPLA](symbol) before the opening
+- Tell me the price of [LPNT](symbol) before the opening
+- Tell me the price of [LPSB](symbol) before the opening
+- Tell me the price of [LPSN](symbol) before the opening
+- Tell me the price of [LPTH](symbol) before the opening
+- Tell me the price of [LPTN](symbol) before the opening
+- Tell me the price of [LQDT](symbol) before the opening
+- Tell me the price of [LRAD](symbol) before the opening
+- Tell me the price of [LRCX](symbol) before the opening
+- Tell me the price of [LSBK](symbol) before the opening
+- Tell me the price of [LSCC](symbol) before the opening
+- Tell me the price of [LSTR](symbol) before the opening
+- Tell me the price of [LTBR](symbol) before the opening
+- Tell me the price of [LTRE](symbol) before the opening
+- Tell me the price of [LTRPA](symbol) before the opening
+- Tell me the price of [LTRPB](symbol) before the opening
+- Tell me the price of [LTRX](symbol) before the opening
+- Tell me the price of [LTXB](symbol) before the opening
+- Tell me the price of [LULU](symbol) before the opening
+- Tell me the price of [LUNA](symbol) before the opening
+- Tell me the price of [LVNTA](symbol) before the opening
+- Tell me the price of [LVNTB](symbol) before the opening
+- Tell me the price of [LWAY](symbol) before the opening
+- Tell me the price of [LXRX](symbol) before the opening
+- Tell me the price of [LYTS](symbol) before the opening
+- Tell me the price of [MACK](symbol) before the opening
+- Tell me the price of [MAG](symbol) before the opening
+- Tell me the price of [MAGS](symbol) before the opening
+- Tell me the price of [MAMS](symbol) before the opening
+- Tell me the price of [MANH](symbol) before the opening
+- Tell me the price of [MANT](symbol) before the opening
+- Tell me the price of [MAR](symbol) before the opening
+- Tell me the price of [MARA](symbol) before the opening
+- Tell me the price of [MARK](symbol) before the opening
+- Tell me the price of [MARPS](symbol) before the opening
+- Tell me the price of [MASI](symbol) before the opening
+- Tell me the price of [MAT](symbol) before the opening
+- Tell me the price of [MATR](symbol) before the opening
+- Tell me the price of [MATW](symbol) before the opening
+- Tell me the price of [MAYS](symbol) before the opening
+- Tell me the price of [MBCN](symbol) before the opening
+- Tell me the price of [MBFI](symbol) before the opening
+- Tell me the price of [MBFIP](symbol) before the opening
+- Tell me the price of [MBII](symbol) before the opening
+- Tell me the price of [MBLX](symbol) before the opening
+- Tell me the price of [MBRG](symbol) before the opening
+- Tell me the price of [MBSD](symbol) before the opening
+- Tell me the price of [MBTF](symbol) before the opening
+- Tell me the price of [MBUU](symbol) before the opening
+- Tell me the price of [MBVT](symbol) before the opening
+- Tell me the price of [MBWM](symbol) before the opening
+- Tell me the price of [MCBC](symbol) before the opening
+- Tell me the price of [MCBK](symbol) before the opening
+- Tell me the price of [MCEP](symbol) before the opening
+- Tell me the price of [MCGC](symbol) before the opening
+- Tell me the price of [MCHP](symbol) before the opening
+- Tell me the price of [MCHX](symbol) before the opening
+- Tell me the price of [MCOX](symbol) before the opening
+- Tell me the price of [MCRI](symbol) before the opening
+- Tell me the price of [MCRL](symbol) before the opening
+- Tell me the price of [MCUR](symbol) before the opening
+- Tell me the price of [MDAS](symbol) before the opening
+- Tell me the price of [MDCA](symbol) before the opening
+- Tell me the price of [MDCO](symbol) before the opening
+- Tell me the price of [MDIV](symbol) before the opening
+- Tell me the price of [MDLZ](symbol) before the opening
+- Tell me the price of [MDM](symbol) before the opening
+- Tell me the price of [MDRX](symbol) before the opening
+- Tell me the price of [MDSO](symbol) before the opening
+- Tell me the price of [MDSY](symbol) before the opening
+- Tell me the price of [MDVN](symbol) before the opening
+- Tell me the price of [MDVXU](symbol) before the opening
+- Tell me the price of [MDWD](symbol) before the opening
+- Tell me the price of [MDXG](symbol) before the opening
+- Tell me the price of [MEET](symbol) before the opening
+- Tell me the price of [MEIL](symbol) before the opening
+- Tell me the price of [MEILW](symbol) before the opening
+- Tell me the price of [MEILZ](symbol) before the opening
+- Tell me the price of [MEIP](symbol) before the opening
+- Tell me the price of [MELA](symbol) before the opening
+- Tell me the price of [MELI](symbol) before the opening
+- Tell me the price of [MELR](symbol) before the opening
+- Tell me the price of [MEMP](symbol) before the opening
+- Tell me the price of [MENT](symbol) before the opening
+- Tell me the price of [MEOH](symbol) before the opening
+- Tell me the price of [MERC](symbol) before the opening
+- Tell me the price of [MERU](symbol) before the opening
+- Tell me the price of [METR](symbol) before the opening
+- Tell me the price of [MFI](symbol) before the opening
+- Tell me the price of [MFLX](symbol) before the opening
+- Tell me the price of [MFNC](symbol) before the opening
+- Tell me the price of [MFRI](symbol) before the opening
+- Tell me the price of [MFRM](symbol) before the opening
+- Tell me the price of [MFSF](symbol) before the opening
+- Tell me the price of [MGCD](symbol) before the opening
+- Tell me the price of [MGEE](symbol) before the opening
+- Tell me the price of [MGI](symbol) before the opening
+- Tell me the price of [MGIC](symbol) before the opening
+- Tell me the price of [MGLN](symbol) before the opening
+- Tell me the price of [MGNX](symbol) before the opening
+- Tell me the price of [MGPI](symbol) before the opening
+- Tell me the price of [MGRC](symbol) before the opening
+- Tell me the price of [MGYR](symbol) before the opening
+- Tell me the price of [MHGC](symbol) before the opening
+- Tell me the price of [MHLD](symbol) before the opening
+- Tell me the price of [MHLDO](symbol) before the opening
+- Tell me the price of [MICT](symbol) before the opening
+- Tell me the price of [MICTW](symbol) before the opening
+- Tell me the price of [MIDD](symbol) before the opening
+- Tell me the price of [MIFI](symbol) before the opening
+- Tell me the price of [MIK](symbol) before the opening
+- Tell me the price of [MIND](symbol) before the opening
+- Tell me the price of [MINI](symbol) before the opening
+- Tell me the price of [MITK](symbol) before the opening
+- Tell me the price of [MITL](symbol) before the opening
+- Tell me the price of [MKSI](symbol) before the opening
+- Tell me the price of [MKTO](symbol) before the opening
+- Tell me the price of [MKTX](symbol) before the opening
+- Tell me the price of [MLAB](symbol) before the opening
+- Tell me the price of [MLHR](symbol) before the opening
+- Tell me the price of [MLNK](symbol) before the opening
+- Tell me the price of [MLNX](symbol) before the opening
+- Tell me the price of [MLVF](symbol) before the opening
+- Tell me the price of [MMAC](symbol) before the opening
+- Tell me the price of [MMLP](symbol) before the opening
+- Tell me the price of [MMSI](symbol) before the opening
+- Tell me the price of [MMYT](symbol) before the opening
+- Tell me the price of [MNDL](symbol) before the opening
+- Tell me the price of [MNDO](symbol) before the opening
+- Tell me the price of [MNGA](symbol) before the opening
+- Tell me the price of [MNKD](symbol) before the opening
+- Tell me the price of [MNOV](symbol) before the opening
+- Tell me the price of [MNRK](symbol) before the opening
+- Tell me the price of [MNRO](symbol) before the opening
+- Tell me the price of [MNST](symbol) before the opening
+- Tell me the price of [MNTA](symbol) before the opening
+- Tell me the price of [MNTX](symbol) before the opening
+- Tell me the price of [MOBI](symbol) before the opening
+- Tell me the price of [MOBL](symbol) before the opening
+- Tell me the price of [MOCO](symbol) before the opening
+- Tell me the price of [MOFG](symbol) before the opening
+- Tell me the price of [MOKO](symbol) before the opening
+- Tell me the price of [MOLG](symbol) before the opening
+- Tell me the price of [MOMO](symbol) before the opening
+- Tell me the price of [MORN](symbol) before the opening
+- Tell me the price of [MOSY](symbol) before the opening
+- Tell me the price of [MPAA](symbol) before the opening
+- Tell me the price of [MPB](symbol) before the opening
+- Tell me the price of [MPEL](symbol) before the opening
+- Tell me the price of [MPET](symbol) before the opening
+- Tell me the price of [MPWR](symbol) before the opening
+- Tell me the price of [MRCC](symbol) before the opening
+- Tell me the price of [MRCY](symbol) before the opening
+- Tell me the price of [MRD](symbol) before the opening
+- Tell me the price of [MRGE](symbol) before the opening
+- Tell me the price of [MRKT](symbol) before the opening
+- Tell me the price of [MRLN](symbol) before the opening
+- Tell me the price of [MRNS](symbol) before the opening
+- Tell me the price of [MRTN](symbol) before the opening
+- Tell me the price of [MRTX](symbol) before the opening
+- Tell me the price of [MRVC](symbol) before the opening
+- Tell me the price of [MRVL](symbol) before the opening
+- Tell me the price of [MSBF](symbol) before the opening
+- Tell me the price of [MSCC](symbol) before the opening
+- Tell me the price of [MSEX](symbol) before the opening
+- Tell me the price of [MSFG](symbol) before the opening
 - Tell me the price of [MSFT](symbol) before the opening
+- Tell me the price of [MSG](symbol) before the opening
+- Tell me the price of [MSLI](symbol) before the opening
+- Tell me the price of [MSON](symbol) before the opening
+- Tell me the price of [MSTR](symbol) before the opening
+- Tell me the price of [MTBC](symbol) before the opening
+- Tell me the price of [MTEX](symbol) before the opening
+- Tell me the price of [MTGE](symbol) before the opening
+- Tell me the price of [MTGEP](symbol) before the opening
+- Tell me the price of [MTLS](symbol) before the opening
+- Tell me the price of [MTRX](symbol) before the opening
+- Tell me the price of [MTSC](symbol) before the opening
+- Tell me the price of [MTSI](symbol) before the opening
+- Tell me the price of [MTSL](symbol) before the opening
+- Tell me the price of [MTSN](symbol) before the opening
+- Tell me the price of [MU](symbol) before the opening
+- Tell me the price of [MULT](symbol) before the opening
+- Tell me the price of [MVIS](symbol) before the opening
+- Tell me the price of [MWIV](symbol) before the opening
+- Tell me the price of [MXIM](symbol) before the opening
+- Tell me the price of [MXWL](symbol) before the opening
+- Tell me the price of [MYGN](symbol) before the opening
+- Tell me the price of [MYL](symbol) before the opening
+- Tell me the price of [MYOS](symbol) before the opening
+- Tell me the price of [MYRG](symbol) before the opening
+- Tell me the price of [MZOR](symbol) before the opening
+- Tell me the price of [NAII](symbol) before the opening
+- Tell me the price of [NAME](symbol) before the opening
+- Tell me the price of [NANO](symbol) before the opening
+- Tell me the price of [NATH](symbol) before the opening
+- Tell me the price of [NATI](symbol) before the opening
+- Tell me the price of [NATL](symbol) before the opening
+- Tell me the price of [NATR](symbol) before the opening
+- Tell me the price of [NAUH](symbol) before the opening
+- Tell me the price of [NAVG](symbol) before the opening
+- Tell me the price of [NAVI](symbol) before the opening
+- Tell me the price of [NBBC](symbol) before the opening
+- Tell me the price of [NBIX](symbol) before the opening
+- Tell me the price of [NBN](symbol) before the opening
+- Tell me the price of [NBS](symbol) before the opening
+- Tell me the price of [NBTB](symbol) before the opening
+- Tell me the price of [NBTF](symbol) before the opening
+- Tell me the price of [NCIT](symbol) before the opening
+- Tell me the price of [NCLH](symbol) before the opening
+- Tell me the price of [NCMI](symbol) before the opening
+- Tell me the price of [NCTY](symbol) before the opening
+- Tell me the price of [NDAQ](symbol) before the opening
+- Tell me the price of [NDLS](symbol) before the opening
+- Tell me the price of [NDRM](symbol) before the opening
+- Tell me the price of [NDSN](symbol) before the opening
+- Tell me the price of [NECB](symbol) before the opening
+- Tell me the price of [NEO](symbol) before the opening
+- Tell me the price of [NEOG](symbol) before the opening
+- Tell me the price of [NEON](symbol) before the opening
+- Tell me the price of [NEOT](symbol) before the opening
+- Tell me the price of [NEPT](symbol) before the opening
+- Tell me the price of [NERV](symbol) before the opening
+- Tell me the price of [NETE](symbol) before the opening
+- Tell me the price of [NEWP](symbol) before the opening
+- Tell me the price of [NEWS](symbol) before the opening
+- Tell me the price of [NEWT](symbol) before the opening
+- Tell me the price of [NFBK](symbol) before the opening
+- Tell me the price of [NFEC](symbol) before the opening
+- Tell me the price of [NFLX](symbol) before the opening
+- Tell me the price of [NGHC](symbol) before the opening
+- Tell me the price of [NGHCP](symbol) before the opening
+- Tell me the price of [NHTB](symbol) before the opening
+- Tell me the price of [NICE](symbol) before the opening
+- Tell me the price of [NICK](symbol) before the opening
+- Tell me the price of [NILE](symbol) before the opening
+- Tell me the price of [NKSH](symbol) before the opening
+- Tell me the price of [NKTR](symbol) before the opening
+- Tell me the price of [NLNK](symbol) before the opening
+- Tell me the price of [NLST](symbol) before the opening
+- Tell me the price of [NMIH](symbol) before the opening
+- Tell me the price of [NMRX](symbol) before the opening
+- Tell me the price of [NNBR](symbol) before the opening
+- Tell me the price of [NPBC](symbol) before the opening
+- Tell me the price of [NPSP](symbol) before the opening
+- Tell me the price of [NRCIA](symbol) before the opening
+- Tell me the price of [NRCIB](symbol) before the opening
+- Tell me the price of [NRIM](symbol) before the opening
+- Tell me the price of [NRX](symbol) before the opening
+- Tell me the price of [NSEC](symbol) before the opening
+- Tell me the price of [NSIT](symbol) before the opening
+- Tell me the price of [NSPH](symbol) before the opening
+- Tell me the price of [NSSC](symbol) before the opening
+- Tell me the price of [NSTG](symbol) before the opening
+- Tell me the price of [NSYS](symbol) before the opening
+- Tell me the price of [NTAP](symbol) before the opening
+- Tell me the price of [NTCT](symbol) before the opening
+- Tell me the price of [NTES](symbol) before the opening
+- Tell me the price of [NTGR](symbol) before the opening
+- Tell me the price of [NTIC](symbol) before the opening
+- Tell me the price of [NTK](symbol) before the opening
+- Tell me the price of [NTLS](symbol) before the opening
+- Tell me the price of [NTRI](symbol) before the opening
+- Tell me the price of [NTRS](symbol) before the opening
+- Tell me the price of [NTRSP](symbol) before the opening
+- Tell me the price of [NTWK](symbol) before the opening
+- Tell me the price of [NUAN](symbol) before the opening
+- Tell me the price of [NURO](symbol) before the opening
+- Tell me the price of [NUTR](symbol) before the opening
+- Tell me the price of [NUVA](symbol) before the opening
+- Tell me the price of [NVAX](symbol) before the opening
+- Tell me the price of [NVCN](symbol) before the opening
+- Tell me the price of [NVDA](symbol) before the opening
+- Tell me the price of [NVDQ](symbol) before the opening
+- Tell me the price of [NVEC](symbol) before the opening
+- Tell me the price of [NVEE](symbol) before the opening
+- Tell me the price of [NVEEW](symbol) before the opening
+- Tell me the price of [NVFY](symbol) before the opening
+- Tell me the price of [NVGN](symbol) before the opening
+- Tell me the price of [NVMI](symbol) before the opening
+- Tell me the price of [NVSL](symbol) before the opening
+- Tell me the price of [NWBI](symbol) before the opening
+- Tell me the price of [NWBO](symbol) before the opening
+- Tell me the price of [NWBOW](symbol) before the opening
+- Tell me the price of [NWFL](symbol) before the opening
+- Tell me the price of [NWLI](symbol) before the opening
+- Tell me the price of [NWPX](symbol) before the opening
+- Tell me the price of [NWS](symbol) before the opening
+- Tell me the price of [NWSA](symbol) before the opening
+- Tell me the price of [NXPI](symbol) before the opening
+- Tell me the price of [NXST](symbol) before the opening
+- Tell me the price of [NXTD](symbol) before the opening
+- Tell me the price of [NXTDW](symbol) before the opening
+- Tell me the price of [NXTM](symbol) before the opening
+- Tell me the price of [NYMT](symbol) before the opening
+- Tell me the price of [NYMTP](symbol) before the opening
+- Tell me the price of [NYMX](symbol) before the opening
+- Tell me the price of [NYNY](symbol) before the opening
+- Tell me the price of [OBAS](symbol) before the opening
+- Tell me the price of [OBCI](symbol) before the opening
+- Tell me the price of [OCC](symbol) before the opening
+- Tell me the price of [OCFC](symbol) before the opening
+- Tell me the price of [OCLR](symbol) before the opening
+- Tell me the price of [OCLS](symbol) before the opening
+- Tell me the price of [OCRX](symbol) before the opening
+- Tell me the price of [OCUL](symbol) before the opening
+- Tell me the price of [ODFL](symbol) before the opening
+- Tell me the price of [ODP](symbol) before the opening
+- Tell me the price of [OFED](symbol) before the opening
+- Tell me the price of [OFIX](symbol) before the opening
+- Tell me the price of [OFLX](symbol) before the opening
+- Tell me the price of [OFS](symbol) before the opening
+- Tell me the price of [OGXI](symbol) before the opening
+- Tell me the price of [OHAI](symbol) before the opening
+- Tell me the price of [OHGI](symbol) before the opening
+- Tell me the price of [OHRP](symbol) before the opening
+- Tell me the price of [OIIM](symbol) before the opening
+- Tell me the price of [OKSB](symbol) before the opening
+- Tell me the price of [OLBK](symbol) before the opening
+- Tell me the price of [OLED](symbol) before the opening
+- Tell me the price of [OMAB](symbol) before the opening
+- Tell me the price of [OMCL](symbol) before the opening
+- Tell me the price of [OMED](symbol) before the opening
+- Tell me the price of [OMER](symbol) before the opening
+- Tell me the price of [OMEX](symbol) before the opening
+- Tell me the price of [ONB](symbol) before the opening
+- Tell me the price of [ONCY](symbol) before the opening
+- Tell me the price of [ONEQ](symbol) before the opening
+- Tell me the price of [ONFC](symbol) before the opening
+- Tell me the price of [ONNN](symbol) before the opening
+- Tell me the price of [ONTX](symbol) before the opening
+- Tell me the price of [ONTY](symbol) before the opening
+- Tell me the price of [ONVI](symbol) before the opening
+- Tell me the price of [OPB](symbol) before the opening
+- Tell me the price of [OPHC](symbol) before the opening
+- Tell me the price of [OPHT](symbol) before the opening
+- Tell me the price of [OPOF](symbol) before the opening
+- Tell me the price of [OPTT](symbol) before the opening
+- Tell me the price of [OPXA](symbol) before the opening
+- Tell me the price of [ORBC](symbol) before the opening
+- Tell me the price of [ORBK](symbol) before the opening
+- Tell me the price of [OREX](symbol) before the opening
+- Tell me the price of [ORIG](symbol) before the opening
+- Tell me the price of [ORIT](symbol) before the opening
+- Tell me the price of [ORLY](symbol) before the opening
+- Tell me the price of [ORMP](symbol) before the opening
+- Tell me the price of [ORPN](symbol) before the opening
+- Tell me the price of [ORRF](symbol) before the opening
+- Tell me the price of [OSBC](symbol) before the opening
+- Tell me the price of [OSBCP](symbol) before the opening
+- Tell me the price of [OSHC](symbol) before the opening
+- Tell me the price of [OSIR](symbol) before the opening
+- Tell me the price of [OSIS](symbol) before the opening
+- Tell me the price of [OSM](symbol) before the opening
+- Tell me the price of [OSN](symbol) before the opening
+- Tell me the price of [OSTK](symbol) before the opening
+- Tell me the price of [OSUR](symbol) before the opening
+- Tell me the price of [OTEL](symbol) before the opening
+- Tell me the price of [OTEX](symbol) before the opening
+- Tell me the price of [OTIC](symbol) before the opening
+- Tell me the price of [OTIV](symbol) before the opening
+- Tell me the price of [OTTR](symbol) before the opening
+- Tell me the price of [OUTR](symbol) before the opening
+- Tell me the price of [OVAS](symbol) before the opening
+- Tell me the price of [OVBC](symbol) before the opening
+- Tell me the price of [OVLY](symbol) before the opening
+- Tell me the price of [OVTI](symbol) before the opening
+- Tell me the price of [OXBR](symbol) before the opening
+- Tell me the price of [OXBRW](symbol) before the opening
+- Tell me the price of [OXFD](symbol) before the opening
+- Tell me the price of [OXGN](symbol) before the opening
+- Tell me the price of [OXLC](symbol) before the opening
+- Tell me the price of [OXLCN](symbol) before the opening
+- Tell me the price of [OXLCO](symbol) before the opening
+- Tell me the price of [OXLCP](symbol) before the opening
+- Tell me the price of [OZRK](symbol) before the opening
+- Tell me the price of [PAAS](symbol) before the opening
+- Tell me the price of [PACB](symbol) before the opening
+- Tell me the price of [PACW](symbol) before the opening
+- Tell me the price of [PAGG](symbol) before the opening
+- Tell me the price of [PAHC](symbol) before the opening
+- Tell me the price of [PANL](symbol) before the opening
+- Tell me the price of [PARN](symbol) before the opening
+- Tell me the price of [PATIV](symbol) before the opening
+- Tell me the price of [PATK](symbol) before the opening
+- Tell me the price of [PAYX](symbol) before the opening
+- Tell me the price of [PBCP](symbol) before the opening
+- Tell me the price of [PBCT](symbol) before the opening
+- Tell me the price of [PBHC](symbol) before the opening
+- Tell me the price of [PBIB](symbol) before the opening
+- Tell me the price of [PBIP](symbol) before the opening
+- Tell me the price of [PBMD](symbol) before the opening
+- Tell me the price of [PBPB](symbol) before the opening
+- Tell me the price of [PBSK](symbol) before the opening
+- Tell me the price of [PCAR](symbol) before the opening
+- Tell me the price of [PCBK](symbol) before the opening
+- Tell me the price of [PCCC](symbol) before the opening
+- Tell me the price of [PCH](symbol) before the opening
+- Tell me the price of [PCLN](symbol) before the opening
+- Tell me the price of [PCMI](symbol) before the opening
+- Tell me the price of [PCO](symbol) before the opening
+- Tell me the price of [PCOM](symbol) before the opening
+- Tell me the price of [PCRX](symbol) before the opening
+- Tell me the price of [PCTI](symbol) before the opening
+- Tell me the price of [PCTY](symbol) before the opening
+- Tell me the price of [PCYC](symbol) before the opening
+- Tell me the price of [PCYG](symbol) before the opening
+- Tell me the price of [PCYO](symbol) before the opening
+- Tell me the price of [PDBC](symbol) before the opening
+- Tell me the price of [PDCE](symbol) before the opening
+- Tell me the price of [PDCO](symbol) before the opening
+- Tell me the price of [PDEX](symbol) before the opening
+- Tell me the price of [PDFS](symbol) before the opening
+- Tell me the price of [PDII](symbol) before the opening
+- Tell me the price of [PDLI](symbol) before the opening
+- Tell me the price of [PEBK](symbol) before the opening
+- Tell me the price of [PEBO](symbol) before the opening
+- Tell me the price of [PEGA](symbol) before the opening
+- Tell me the price of [PEGI](symbol) before the opening
+- Tell me the price of [PEIX](symbol) before the opening
+- Tell me the price of [PENN](symbol) before the opening
+- Tell me the price of [PENX](symbol) before the opening
+- Tell me the price of [PEOP](symbol) before the opening
+- Tell me the price of [PERF](symbol) before the opening
+- Tell me the price of [PERI](symbol) before the opening
+- Tell me the price of [PERY](symbol) before the opening
+- Tell me the price of [PESI](symbol) before the opening
+- Tell me the price of [PETM](symbol) before the opening
+- Tell me the price of [PETS](symbol) before the opening
+- Tell me the price of [PETX](symbol) before the opening
+- Tell me the price of [PFBC](symbol) before the opening
+- Tell me the price of [PFBI](symbol) before the opening
+- Tell me the price of [PFBX](symbol) before the opening
+- Tell me the price of [PFIE](symbol) before the opening
+- Tell me the price of [PFIN](symbol) before the opening
+- Tell me the price of [PFIS](symbol) before the opening
+- Tell me the price of [PFLT](symbol) before the opening
+- Tell me the price of [PFMT](symbol) before the opening
+- Tell me the price of [PFPT](symbol) before the opening
+- Tell me the price of [PFSW](symbol) before the opening
+- Tell me the price of [PGC](symbol) before the opening
+- Tell me the price of [PGNX](symbol) before the opening
+- Tell me the price of [PGTI](symbol) before the opening
+- Tell me the price of [PHII](symbol) before the opening
+- Tell me the price of [PHIIK](symbol) before the opening
+- Tell me the price of [PHMD](symbol) before the opening
+- Tell me the price of [PICO](symbol) before the opening
+- Tell me the price of [PIH](symbol) before the opening
+- Tell me the price of [PINC](symbol) before the opening
+- Tell me the price of [PKBK](symbol) before the opening
+- Tell me the price of [PKOH](symbol) before the opening
+- Tell me the price of [PKT](symbol) before the opening
+- Tell me the price of [PLAB](symbol) before the opening
+- Tell me the price of [PLAY](symbol) before the opening
+- Tell me the price of [PLBC](symbol) before the opening
+- Tell me the price of [PLCE](symbol) before the opening
+- Tell me the price of [PLCM](symbol) before the opening
+- Tell me the price of [PLKI](symbol) before the opening
+- Tell me the price of [PLMT](symbol) before the opening
+- Tell me the price of [PLNR](symbol) before the opening
+- Tell me the price of [PLPC](symbol) before the opening
+- Tell me the price of [PLPM](symbol) before the opening
+- Tell me the price of [PLTM](symbol) before the opening
+- Tell me the price of [PLUG](symbol) before the opening
+- Tell me the price of [PLUS](symbol) before the opening
+- Tell me the price of [PLXS](symbol) before the opening
+- Tell me the price of [PMBC](symbol) before the opening
+- Tell me the price of [PMCS](symbol) before the opening
+- Tell me the price of [PMD](symbol) before the opening
+- Tell me the price of [PME](symbol) before the opening
+- Tell me the price of [PMFG](symbol) before the opening
+- Tell me the price of [PNBK](symbol) before the opening
+- Tell me the price of [PNFP](symbol) before the opening
+- Tell me the price of [PNNT](symbol) before the opening
+- Tell me the price of [PNQI](symbol) before the opening
+- Tell me the price of [PNRA](symbol) before the opening
+- Tell me the price of [PNRG](symbol) before the opening
+- Tell me the price of [PNTR](symbol) before the opening
+- Tell me the price of [PODD](symbol) before the opening
+- Tell me the price of [POOL](symbol) before the opening
+- Tell me the price of [POPE](symbol) before the opening
+- Tell me the price of [POWI](symbol) before the opening
+- Tell me the price of [POWL](symbol) before the opening
+- Tell me the price of [POZN](symbol) before the opening
+- Tell me the price of [PPBI](symbol) before the opening
+- Tell me the price of [PPC](symbol) before the opening
+- Tell me the price of [PPHM](symbol) before the opening
+- Tell me the price of [PPHMP](symbol) before the opening
+- Tell me the price of [PPSI](symbol) before the opening
+- Tell me the price of [PRAA](symbol) before the opening
+- Tell me the price of [PRAH](symbol) before the opening
+- Tell me the price of [PRAN](symbol) before the opening
+- Tell me the price of [PRCP](symbol) before the opening
+- Tell me the price of [PRFT](symbol) before the opening
+- Tell me the price of [PRFZ](symbol) before the opening
+- Tell me the price of [PRGN](symbol) before the opening
+- Tell me the price of [PRGNL](symbol) before the opening
+- Tell me the price of [PRGS](symbol) before the opening
+- Tell me the price of [PRGX](symbol) before the opening
+- Tell me the price of [PRIM](symbol) before the opening
+- Tell me the price of [PRKR](symbol) before the opening
+- Tell me the price of [PRLS](symbol) before the opening
+- Tell me the price of [PRMW](symbol) before the opening
+- Tell me the price of [PROV](symbol) before the opening
+- Tell me the price of [PRPH](symbol) before the opening
+- Tell me the price of [PRQR](symbol) before the opening
+- Tell me the price of [PRSC](symbol) before the opening
+- Tell me the price of [PRSS](symbol) before the opening
+- Tell me the price of [PRTA](symbol) before the opening
+- Tell me the price of [PRTK](symbol) before the opening
+- Tell me the price of [PRTO](symbol) before the opening
+- Tell me the price of [PRTS](symbol) before the opening
+- Tell me the price of [PRXI](symbol) before the opening
+- Tell me the price of [PRXL](symbol) before the opening
+- Tell me the price of [PSAU](symbol) before the opening
+- Tell me the price of [PSBH](symbol) before the opening
+- Tell me the price of [PSCC](symbol) before the opening
+- Tell me the price of [PSCD](symbol) before the opening
+- Tell me the price of [PSCE](symbol) before the opening
+- Tell me the price of [PSCF](symbol) before the opening
+- Tell me the price of [PSCH](symbol) before the opening
+- Tell me the price of [PSCI](symbol) before the opening
+- Tell me the price of [PSCM](symbol) before the opening
+- Tell me the price of [PSCT](symbol) before the opening
+- Tell me the price of [PSCU](symbol) before the opening
+- Tell me the price of [PSDV](symbol) before the opening
+- Tell me the price of [PSEC](symbol) before the opening
+- Tell me the price of [PSEM](symbol) before the opening
+- Tell me the price of [PSIX](symbol) before the opening
+- Tell me the price of [PSMT](symbol) before the opening
+- Tell me the price of [PSTB](symbol) before the opening
+- Tell me the price of [PSTI](symbol) before the opening
+- Tell me the price of [PSTR](symbol) before the opening
+- Tell me the price of [PSUN](symbol) before the opening
+- Tell me the price of [PTBI](symbol) before the opening
+- Tell me the price of [PTBIW](symbol) before the opening
+- Tell me the price of [PTC](symbol) before the opening
+- Tell me the price of [PTCT](symbol) before the opening
+- Tell me the price of [PTEN](symbol) before the opening
+- Tell me the price of [PTIE](symbol) before the opening
+- Tell me the price of [PTLA](symbol) before the opening
+- Tell me the price of [PTNR](symbol) before the opening
+- Tell me the price of [PTNT](symbol) before the opening
+- Tell me the price of [PTRY](symbol) before the opening
+- Tell me the price of [PTSI](symbol) before the opening
+- Tell me the price of [PTX](symbol) before the opening
+- Tell me the price of [PULB](symbol) before the opening
+- Tell me the price of [PVTB](symbol) before the opening
+- Tell me the price of [PVTBP](symbol) before the opening
+- Tell me the price of [PWOD](symbol) before the opening
+- Tell me the price of [PWRD](symbol) before the opening
+- Tell me the price of [PWX](symbol) before the opening
+- Tell me the price of [PXLW](symbol) before the opening
+- Tell me the price of [PZZA](symbol) before the opening
+- Tell me the price of [QABA](symbol) before the opening
+- Tell me the price of [QADA](symbol) before the opening
+- Tell me the price of [QADB](symbol) before the opening
+- Tell me the price of [QAT](symbol) before the opening
+- Tell me the price of [QBAK](symbol) before the opening
+- Tell me the price of [QCCO](symbol) before the opening
+- Tell me the price of [QCLN](symbol) before the opening
+- Tell me the price of [QCOM](symbol) before the opening
+- Tell me the price of [QCRH](symbol) before the opening
+- Tell me the price of [QDEL](symbol) before the opening
+- Tell me the price of [QGEN](symbol) before the opening
+- Tell me the price of [QINC](symbol) before the opening
+- Tell me the price of [QIWI](symbol) before the opening
+- Tell me the price of [QKLS](symbol) before the opening
+- Tell me the price of [QLGC](symbol) before the opening
+- Tell me the price of [QLIK](symbol) before the opening
+- Tell me the price of [QLTI](symbol) before the opening
+- Tell me the price of [QLTY](symbol) before the opening
+- Tell me the price of [QLYS](symbol) before the opening
+- Tell me the price of [QNST](symbol) before the opening
+- Tell me the price of [QQEW](symbol) before the opening
+- Tell me the price of [QQQ](symbol) before the opening
+- Tell me the price of [QQQC](symbol) before the opening
+- Tell me the price of [QQQX](symbol) before the opening
+- Tell me the price of [QQXT](symbol) before the opening
+- Tell me the price of [QRHC](symbol) before the opening
+- Tell me the price of [QRVO](symbol) before the opening
+- Tell me the price of [QSII](symbol) before the opening
+- Tell me the price of [QTEC](symbol) before the opening
+- Tell me the price of [QTNT](symbol) before the opening
+- Tell me the price of [QTNTW](symbol) before the opening
+- Tell me the price of [QTWW](symbol) before the opening
+- Tell me the price of [QUIK](symbol) before the opening
+- Tell me the price of [QUMU](symbol) before the opening
+- Tell me the price of [QUNR](symbol) before the opening
+- Tell me the price of [QURE](symbol) before the opening
+- Tell me the price of [QVCA](symbol) before the opening
+- Tell me the price of [QVCB](symbol) before the opening
+- Tell me the price of [QYLD](symbol) before the opening
+- Tell me the price of [RADA](symbol) before the opening
+- Tell me the price of [RAIL](symbol) before the opening
+- Tell me the price of [RAND](symbol) before the opening
+- Tell me the price of [RARE](symbol) before the opening
+- Tell me the price of [RAVE](symbol) before the opening
+- Tell me the price of [RAVN](symbol) before the opening
+- Tell me the price of [RBCAA](symbol) before the opening
+- Tell me the price of [RBCN](symbol) before the opening
+- Tell me the price of [RBPAA](symbol) before the opening
+- Tell me the price of [RCII](symbol) before the opening
+- Tell me the price of [RCKY](symbol) before the opening
+- Tell me the price of [RCMT](symbol) before the opening
+- Tell me the price of [RCON](symbol) before the opening
+- Tell me the price of [RCPI](symbol) before the opening
+- Tell me the price of [RCPT](symbol) before the opening
+- Tell me the price of [RDCM](symbol) before the opening
+- Tell me the price of [RDEN](symbol) before the opening
+- Tell me the price of [RDHL](symbol) before the opening
+- Tell me the price of [RDI](symbol) before the opening
+- Tell me the price of [RDIB](symbol) before the opening
+- Tell me the price of [RDNT](symbol) before the opening
+- Tell me the price of [RDUS](symbol) before the opening
+- Tell me the price of [RDVY](symbol) before the opening
+- Tell me the price of [RDWR](symbol) before the opening
+- Tell me the price of [RECN](symbol) before the opening
+- Tell me the price of [REDF](symbol) before the opening
+- Tell me the price of [REFR](symbol) before the opening
+- Tell me the price of [REGI](symbol) before the opening
+- Tell me the price of [REGN](symbol) before the opening
+- Tell me the price of [REIS](symbol) before the opening
+- Tell me the price of [RELL](symbol) before the opening
+- Tell me the price of [RELV](symbol) before the opening
+- Tell me the price of [REMY](symbol) before the opening
+- Tell me the price of [RENT](symbol) before the opening
+- Tell me the price of [REPH](symbol) before the opening
+- Tell me the price of [RESN](symbol) before the opening
+- Tell me the price of [REXI](symbol) before the opening
+- Tell me the price of [REXX](symbol) before the opening
+- Tell me the price of [RFIL](symbol) before the opening
+- Tell me the price of [RGCO](symbol) before the opening
+- Tell me the price of [RGDO](symbol) before the opening
+- Tell me the price of [RGDX](symbol) before the opening
+- Tell me the price of [RGEN](symbol) before the opening
+- Tell me the price of [RGLD](symbol) before the opening
+- Tell me the price of [RGLS](symbol) before the opening
+- Tell me the price of [RGSE](symbol) before the opening
+- Tell me the price of [RIBT](symbol) before the opening
+- Tell me the price of [RIBTW](symbol) before the opening
+- Tell me the price of [RICK](symbol) before the opening
+- Tell me the price of [RIGL](symbol) before the opening
+- Tell me the price of [RITT](symbol) before the opening
+- Tell me the price of [RITTW](symbol) before the opening
+- Tell me the price of [RIVR](symbol) before the opening
+- Tell me the price of [RJET](symbol) before the opening
+- Tell me the price of [RLJE](symbol) before the opening
+- Tell me the price of [RLOC](symbol) before the opening
+- Tell me the price of [RLOG](symbol) before the opening
+- Tell me the price of [RLYP](symbol) before the opening
+- Tell me the price of [RMBS](symbol) before the opening
+- Tell me the price of [RMCF](symbol) before the opening
+- Tell me the price of [RMGN](symbol) before the opening
+- Tell me the price of [RMTI](symbol) before the opening
+- Tell me the price of [RNA](symbol) before the opening
+- Tell me the price of [RNET](symbol) before the opening
+- Tell me the price of [RNST](symbol) before the opening
+- Tell me the price of [RNWK](symbol) before the opening
+- Tell me the price of [ROBO](symbol) before the opening
+- Tell me the price of [ROCK](symbol) before the opening
+- Tell me the price of [ROIA](symbol) before the opening
+- Tell me the price of [ROIAK](symbol) before the opening
+- Tell me the price of [ROIC](symbol) before the opening
+- Tell me the price of [ROIQ](symbol) before the opening
+- Tell me the price of [ROIQU](symbol) before the opening
+- Tell me the price of [ROIQW](symbol) before the opening
+- Tell me the price of [ROKA](symbol) before the opening
+- Tell me the price of [ROLL](symbol) before the opening
+- Tell me the price of [ROSE](symbol) before the opening
+- Tell me the price of [ROSG](symbol) before the opening
+- Tell me the price of [ROST](symbol) before the opening
+- Tell me the price of [ROVI](symbol) before the opening
+- Tell me the price of [ROYL](symbol) before the opening
+- Tell me the price of [RP](symbol) before the opening
+- Tell me the price of [RPRX](symbol) before the opening
+- Tell me the price of [RPRXW](symbol) before the opening
+- Tell me the price of [RPRXZ](symbol) before the opening
+- Tell me the price of [RPTP](symbol) before the opening
+- Tell me the price of [RPXC](symbol) before the opening
+- Tell me the price of [RRD](symbol) before the opening
+- Tell me the price of [RRGB](symbol) before the opening
+- Tell me the price of [RRST](symbol) before the opening
+- Tell me the price of [RSTI](symbol) before the opening
+- Tell me the price of [RSYS](symbol) before the opening
+- Tell me the price of [RTGN](symbol) before the opening
+- Tell me the price of [RTIX](symbol) before the opening
+- Tell me the price of [RTK](symbol) before the opening
+- Tell me the price of [RTRX](symbol) before the opening
+- Tell me the price of [RUSHA](symbol) before the opening
+- Tell me the price of [RUSHB](symbol) before the opening
+- Tell me the price of [RUTH](symbol) before the opening
+- Tell me the price of [RVBD](symbol) before the opening
+- Tell me the price of [RVLT](symbol) before the opening
+- Tell me the price of [RVNC](symbol) before the opening
+- Tell me the price of [RVSB](symbol) before the opening
+- Tell me the price of [RWLK](symbol) before the opening
+- Tell me the price of [RXDX](symbol) before the opening
+- Tell me the price of [RXII](symbol) before the opening
+- Tell me the price of [RYAAY](symbol) before the opening
+- Tell me the price of [SAAS](symbol) before the opening
+- Tell me the price of [SABR](symbol) before the opening
+- Tell me the price of [SAEX](symbol) before the opening
+- Tell me the price of [SAFM](symbol) before the opening
+- Tell me the price of [SAFT](symbol) before the opening
+- Tell me the price of [SAGE](symbol) before the opening
+- Tell me the price of [SAIA](symbol) before the opening
+- Tell me the price of [SAJA](symbol) before the opening
+- Tell me the price of [SAL](symbol) before the opening
+- Tell me the price of [SALE](symbol) before the opening
+- Tell me the price of [SALM](symbol) before the opening
+- Tell me the price of [SAMG](symbol) before the opening
+- Tell me the price of [SANM](symbol) before the opening
+- Tell me the price of [SANW](symbol) before the opening
+- Tell me the price of [SANWZ](symbol) before the opening
+- Tell me the price of [SAPE](symbol) before the opening
+- Tell me the price of [SASR](symbol) before the opening
+- Tell me the price of [SATS](symbol) before the opening
+- Tell me the price of [SAVE](symbol) before the opening
+- Tell me the price of [SBAC](symbol) before the opening
+- Tell me the price of [SBBX](symbol) before the opening
+- Tell me the price of [SBCF](symbol) before the opening
+- Tell me the price of [SBCP](symbol) before the opening
+- Tell me the price of [SBFG](symbol) before the opening
+- Tell me the price of [SBGI](symbol) before the opening
+- Tell me the price of [SBLK](symbol) before the opening
+- Tell me the price of [SBLKL](symbol) before the opening
+- Tell me the price of [SBNY](symbol) before the opening
+- Tell me the price of [SBNYW](symbol) before the opening
+- Tell me the price of [SBRA](symbol) before the opening
+- Tell me the price of [SBRAP](symbol) before the opening
+- Tell me the price of [SBSA](symbol) before the opening
+- Tell me the price of [SBSI](symbol) before the opening
+- Tell me the price of [SBUX](symbol) before the opening
+- Tell me the price of [SCAI](symbol) before the opening
+- Tell me the price of [SCHL](symbol) before the opening
+- Tell me the price of [SCHN](symbol) before the opening
+- Tell me the price of [SCLN](symbol) before the opening
+- Tell me the price of [SCMP](symbol) before the opening
+- Tell me the price of [SCOK](symbol) before the opening
+- Tell me the price of [SCON](symbol) before the opening
+- Tell me the price of [SCOR](symbol) before the opening
+- Tell me the price of [SCSC](symbol) before the opening
+- Tell me the price of [SCSS](symbol) before the opening
+- Tell me the price of [SCTY](symbol) before the opening
+- Tell me the price of [SCVL](symbol) before the opening
+- Tell me the price of [SCYX](symbol) before the opening
+- Tell me the price of [SEAC](symbol) before the opening
+- Tell me the price of [SEED](symbol) before the opening
+- Tell me the price of [SEIC](symbol) before the opening
+- Tell me the price of [SEMI](symbol) before the opening
+- Tell me the price of [SENEA](symbol) before the opening
+- Tell me the price of [SENEB](symbol) before the opening
+- Tell me the price of [SEV](symbol) before the opening
+- Tell me the price of [SFBC](symbol) before the opening
+- Tell me the price of [SFBS](symbol) before the opening
+- Tell me the price of [SFLY](symbol) before the opening
+- Tell me the price of [SFM](symbol) before the opening
+- Tell me the price of [SFNC](symbol) before the opening
+- Tell me the price of [SFST](symbol) before the opening
+- Tell me the price of [SFXE](symbol) before the opening
+- Tell me the price of [SGBK](symbol) before the opening
+- Tell me the price of [SGC](symbol) before the opening
+- Tell me the price of [SGEN](symbol) before the opening
+- Tell me the price of [SGI](symbol) before the opening
+- Tell me the price of [SGMA](symbol) before the opening
+- Tell me the price of [SGMO](symbol) before the opening
+- Tell me the price of [SGMS](symbol) before the opening
+- Tell me the price of [SGNL](symbol) before the opening
+- Tell me the price of [SGNT](symbol) before the opening
+- Tell me the price of [SGOC](symbol) before the opening
+- Tell me the price of [SGRP](symbol) before the opening
+- Tell me the price of [SGYP](symbol) before the opening
+- Tell me the price of [SGYPU](symbol) before the opening
+- Tell me the price of [SGYPW](symbol) before the opening
+- Tell me the price of [SHBI](symbol) before the opening
+- Tell me the price of [SHEN](symbol) before the opening
+- Tell me the price of [SHIP](symbol) before the opening
+- Tell me the price of [SHLD](symbol) before the opening
+- Tell me the price of [SHLDW](symbol) before the opening
+- Tell me the price of [SHLM](symbol) before the opening
+- Tell me the price of [SHLO](symbol) before the opening
+- Tell me the price of [SHOO](symbol) before the opening
+- Tell me the price of [SHOR](symbol) before the opening
+- Tell me the price of [SHOS](symbol) before the opening
+- Tell me the price of [SHPG](symbol) before the opening
+- Tell me the price of [SIAL](symbol) before the opening
+- Tell me the price of [SIBC](symbol) before the opening
+- Tell me the price of [SIEB](symbol) before the opening
+- Tell me the price of [SIEN](symbol) before the opening
+- Tell me the price of [SIFI](symbol) before the opening
+- Tell me the price of [SIFY](symbol) before the opening
+- Tell me the price of [SIGA](symbol) before the opening
+- Tell me the price of [SIGI](symbol) before the opening
+- Tell me the price of [SIGM](symbol) before the opening
+- Tell me the price of [SILC](symbol) before the opening
+- Tell me the price of [SIMG](symbol) before the opening
+- Tell me the price of [SIMO](symbol) before the opening
+- Tell me the price of [SINA](symbol) before the opening
+- Tell me the price of [SINO](symbol) before the opening
+- Tell me the price of [SIRI](symbol) before the opening
+- Tell me the price of [SIRO](symbol) before the opening
+- Tell me the price of [SIVB](symbol) before the opening
+- Tell me the price of [SIVBO](symbol) before the opening
+- Tell me the price of [SIXD](symbol) before the opening
+- Tell me the price of [SKBI](symbol) before the opening
+- Tell me the price of [SKIS](symbol) before the opening
+- Tell me the price of [SKOR](symbol) before the opening
+- Tell me the price of [SKUL](symbol) before the opening
+- Tell me the price of [SKYS](symbol) before the opening
+- Tell me the price of [SKYW](symbol) before the opening
+- Tell me the price of [SKYY](symbol) before the opening
+- Tell me the price of [SLAB](symbol) before the opening
+- Tell me the price of [SLCT](symbol) before the opening
+- Tell me the price of [SLGN](symbol) before the opening
+- Tell me the price of [SLM](symbol) before the opening
+- Tell me the price of [SLMAP](symbol) before the opening
+- Tell me the price of [SLMBP](symbol) before the opening
+- Tell me the price of [SLP](symbol) before the opening
+- Tell me the price of [SLRC](symbol) before the opening
+- Tell me the price of [SLTC](symbol) before the opening
+- Tell me the price of [SLVO](symbol) before the opening
+- Tell me the price of [SLXP](symbol) before the opening
+- Tell me the price of [SMAC](symbol) before the opening
+- Tell me the price of [SMACR](symbol) before the opening
+- Tell me the price of [SMACU](symbol) before the opening
+- Tell me the price of [SMBC](symbol) before the opening
+- Tell me the price of [SMCI](symbol) before the opening
+- Tell me the price of [SMED](symbol) before the opening
+- Tell me the price of [SMIT](symbol) before the opening
+- Tell me the price of [SMLR](symbol) before the opening
+- Tell me the price of [SMMF](symbol) before the opening
+- Tell me the price of [SMPL](symbol) before the opening
+- Tell me the price of [SMRT](symbol) before the opening
+- Tell me the price of [SMSI](symbol) before the opening
+- Tell me the price of [SMT](symbol) before the opening
+- Tell me the price of [SMTC](symbol) before the opening
+- Tell me the price of [SMTP](symbol) before the opening
+- Tell me the price of [SMTX](symbol) before the opening
+- Tell me the price of [SNAK](symbol) before the opening
+- Tell me the price of [SNBC](symbol) before the opening
+- Tell me the price of [SNC](symbol) before the opening
+- Tell me the price of [SNCR](symbol) before the opening
+- Tell me the price of [SNDK](symbol) before the opening
+- Tell me the price of [SNFCA](symbol) before the opening
+- Tell me the price of [SNHY](symbol) before the opening
+- Tell me the price of [SNMX](symbol) before the opening
+- Tell me the price of [SNPS](symbol) before the opening
+- Tell me the price of [SNSS](symbol) before the opening
+- Tell me the price of [SNTA](symbol) before the opening
+- Tell me the price of [SOCB](symbol) before the opening
+- Tell me the price of [SOCL](symbol) before the opening
+- Tell me the price of [SODA](symbol) before the opening
+- Tell me the price of [SOFO](symbol) before the opening
+- Tell me the price of [SOHO](symbol) before the opening
+- Tell me the price of [SOHOL](symbol) before the opening
+- Tell me the price of [SOHOM](symbol) before the opening
+- Tell me the price of [SOHU](symbol) before the opening
+- Tell me the price of [SONA](symbol) before the opening
+- Tell me the price of [SONC](symbol) before the opening
+- Tell me the price of [SONS](symbol) before the opening
+- Tell me the price of [SORL](symbol) before the opening
+- Tell me the price of [SOXX](symbol) before the opening
+- Tell me the price of [SP](symbol) before the opening
+- Tell me the price of [SPAN](symbol) before the opening
+- Tell me the price of [SPAR](symbol) before the opening
+- Tell me the price of [SPCB](symbol) before the opening
+- Tell me the price of [SPDC](symbol) before the opening
+- Tell me the price of [SPEX](symbol) before the opening
+- Tell me the price of [SPHS](symbol) before the opening
+- Tell me the price of [SPIL](symbol) before the opening
+- Tell me the price of [SPKE](symbol) before the opening
+- Tell me the price of [SPLK](symbol) before the opening
+- Tell me the price of [SPLS](symbol) before the opening
+- Tell me the price of [SPNC](symbol) before the opening
+- Tell me the price of [SPNS](symbol) before the opening
+- Tell me the price of [SPOK](symbol) before the opening
+- Tell me the price of [SPPI](symbol) before the opening
+- Tell me the price of [SPPR](symbol) before the opening
+- Tell me the price of [SPPRO](symbol) before the opening
+- Tell me the price of [SPPRP](symbol) before the opening
+- Tell me the price of [SPRO](symbol) before the opening
+- Tell me the price of [SPRT](symbol) before the opening
+- Tell me the price of [SPSC](symbol) before the opening
+- Tell me the price of [SPTN](symbol) before the opening
+- Tell me the price of [SPU](symbol) before the opening
+- Tell me the price of [SPWH](symbol) before the opening
+- Tell me the price of [SPWR](symbol) before the opening
+- Tell me the price of [SQBG](symbol) before the opening
+- Tell me the price of [SQBK](symbol) before the opening
+- Tell me the price of [SQI](symbol) before the opening
+- Tell me the price of [SQNM](symbol) before the opening
+- Tell me the price of [SQQQ](symbol) before the opening
+- Tell me the price of [SRCE](symbol) before the opening
+- Tell me the price of [SRCL](symbol) before the opening
+- Tell me the price of [SRDX](symbol) before the opening
+- Tell me the price of [SREV](symbol) before the opening
+- Tell me the price of [SRNE](symbol) before the opening
+- Tell me the price of [SRPT](symbol) before the opening
+- Tell me the price of [SRSC](symbol) before the opening
+- Tell me the price of [SSB](symbol) before the opening
+- Tell me the price of [SSBI](symbol) before the opening
+- Tell me the price of [SSFN](symbol) before the opening
+- Tell me the price of [SSH](symbol) before the opening
+- Tell me the price of [SSNC](symbol) before the opening
+- Tell me the price of [SSRG](symbol) before the opening
+- Tell me the price of [SSRI](symbol) before the opening
+- Tell me the price of [SSYS](symbol) before the opening
+- Tell me the price of [STAA](symbol) before the opening
+- Tell me the price of [STB](symbol) before the opening
+- Tell me the price of [STBA](symbol) before the opening
+- Tell me the price of [STBZ](symbol) before the opening
+- Tell me the price of [STCK](symbol) before the opening
+- Tell me the price of [STEM](symbol) before the opening
+- Tell me the price of [STFC](symbol) before the opening
+- Tell me the price of [STKL](symbol) before the opening
+- Tell me the price of [STLD](symbol) before the opening
+- Tell me the price of [STLY](symbol) before the opening
+- Tell me the price of [STML](symbol) before the opening
+- Tell me the price of [STMP](symbol) before the opening
+- Tell me the price of [STNR](symbol) before the opening
+- Tell me the price of [STPP](symbol) before the opening
+- Tell me the price of [STRA](symbol) before the opening
+- Tell me the price of [STRL](symbol) before the opening
+- Tell me the price of [STRM](symbol) before the opening
+- Tell me the price of [STRN](symbol) before the opening
+- Tell me the price of [STRS](symbol) before the opening
+- Tell me the price of [STRT](symbol) before the opening
+- Tell me the price of [STRZA](symbol) before the opening
+- Tell me the price of [STRZB](symbol) before the opening
+- Tell me the price of [STX](symbol) before the opening
+- Tell me the price of [STXS](symbol) before the opening
+- Tell me the price of [SUBK](symbol) before the opening
+- Tell me the price of [SUMR](symbol) before the opening
+- Tell me the price of [SUNS](symbol) before the opening
+- Tell me the price of [SUPN](symbol) before the opening
+- Tell me the price of [SURG](symbol) before the opening
+- Tell me the price of [SUSQ](symbol) before the opening
+- Tell me the price of [SUTR](symbol) before the opening
+- Tell me the price of [SVA](symbol) before the opening
+- Tell me the price of [SVBI](symbol) before the opening
+- Tell me the price of [SVVC](symbol) before the opening
+- Tell me the price of [SWHC](symbol) before the opening
+- Tell me the price of [SWIR](symbol) before the opening
+- Tell me the price of [SWKS](symbol) before the opening
+- Tell me the price of [SWSH](symbol) before the opening
+- Tell me the price of [SYBT](symbol) before the opening
+- Tell me the price of [SYKE](symbol) before the opening
+- Tell me the price of [SYMC](symbol) before the opening
+- Tell me the price of [SYMX](symbol) before the opening
+- Tell me the price of [SYNA](symbol) before the opening
+- Tell me the price of [SYNC](symbol) before the opening
+- Tell me the price of [SYNL](symbol) before the opening
+- Tell me the price of [SYNT](symbol) before the opening
+- Tell me the price of [SYPR](symbol) before the opening
+- Tell me the price of [SYRX](symbol) before the opening
+- Tell me the price of [SYUT](symbol) before the opening
+- Tell me the price of [SZMK](symbol) before the opening
+- Tell me the price of [SZYM](symbol) before the opening
+- Tell me the price of [TACT](symbol) before the opening
+- Tell me the price of [TAIT](symbol) before the opening
+- Tell me the price of [TAPR](symbol) before the opening
+- Tell me the price of [TASR](symbol) before the opening
+- Tell me the price of [TAST](symbol) before the opening
+- Tell me the price of [TATT](symbol) before the opening
+- Tell me the price of [TAX](symbol) before the opening
+- Tell me the price of [TAXI](symbol) before the opening
+- Tell me the price of [TAYD](symbol) before the opening
+- Tell me the price of [TBBK](symbol) before the opening
+- Tell me the price of [TBIO](symbol) before the opening
+- Tell me the price of [TBK](symbol) before the opening
+- Tell me the price of [TBNK](symbol) before the opening
+- Tell me the price of [TBPH](symbol) before the opening
+- Tell me the price of [TCBI](symbol) before the opening
+- Tell me the price of [TCBIL](symbol) before the opening
+- Tell me the price of [TCBIP](symbol) before the opening
+- Tell me the price of [TCBIW](symbol) before the opening
+- Tell me the price of [TCBK](symbol) before the opening
+- Tell me the price of [TCCO](symbol) before the opening
+- Tell me the price of [TCFC](symbol) before the opening
+- Tell me the price of [TCPC](symbol) before the opening
+- Tell me the price of [TCRD](symbol) before the opening
+- Tell me the price of [TCX](symbol) before the opening
+- Tell me the price of [TDIV](symbol) before the opening
+- Tell me the price of [TEAR](symbol) before the opening
+- Tell me the price of [TECD](symbol) before the opening
+- Tell me the price of [TECH](symbol) before the opening
+- Tell me the price of [TECU](symbol) before the opening
+- Tell me the price of [TEDU](symbol) before the opening
+- Tell me the price of [TENX](symbol) before the opening
+- Tell me the price of [TERP](symbol) before the opening
+- Tell me the price of [TESO](symbol) before the opening
+- Tell me the price of [TESS](symbol) before the opening
+- Tell me the price of [TFM](symbol) before the opening
+- Tell me the price of [TFSC](symbol) before the opening
+- Tell me the price of [TFSCR](symbol) before the opening
+- Tell me the price of [TFSCU](symbol) before the opening
+- Tell me the price of [TFSCW](symbol) before the opening
+- Tell me the price of [TFSL](symbol) before the opening
+- Tell me the price of [TGA](symbol) before the opening
+- Tell me the price of [TGE](symbol) before the opening
+- Tell me the price of [TGEN](symbol) before the opening
+- Tell me the price of [TGLS](symbol) before the opening
+- Tell me the price of [TGTX](symbol) before the opening
+- Tell me the price of [THFF](symbol) before the opening
+- Tell me the price of [THLD](symbol) before the opening
+- Tell me the price of [THOR](symbol) before the opening
+- Tell me the price of [THRM](symbol) before the opening
+- Tell me the price of [THRX](symbol) before the opening
+- Tell me the price of [THST](symbol) before the opening
+- Tell me the price of [THTI](symbol) before the opening
+- Tell me the price of [TICC](symbol) before the opening
+- Tell me the price of [TIGR](symbol) before the opening
+- Tell me the price of [TILE](symbol) before the opening
+- Tell me the price of [TINY](symbol) before the opening
+- Tell me the price of [TIPT](symbol) before the opening
+- Tell me the price of [TISA](symbol) before the opening
+- Tell me the price of [TITN](symbol) before the opening
+- Tell me the price of [TIVO](symbol) before the opening
+- Tell me the price of [TKAI](symbol) before the opening
+- Tell me the price of [TKMR](symbol) before the opening
+- Tell me the price of [TLF](symbol) before the opening
+- Tell me the price of [TLMR](symbol) before the opening
+- Tell me the price of [TLOG](symbol) before the opening
+- Tell me the price of [TNAV](symbol) before the opening
+- Tell me the price of [TNDM](symbol) before the opening
+- Tell me the price of [TNGO](symbol) before the opening
+- Tell me the price of [TNXP](symbol) before the opening
+- Tell me the price of [TOPS](symbol) before the opening
+- Tell me the price of [TORM](symbol) before the opening
+- Tell me the price of [TOUR](symbol) before the opening
+- Tell me the price of [TOWN](symbol) before the opening
+- Tell me the price of [TQQQ](symbol) before the opening
+- Tell me the price of [TRAK](symbol) before the opening
+- Tell me the price of [TRCB](symbol) before the opening
+- Tell me the price of [TRCH](symbol) before the opening
+- Tell me the price of [TREE](symbol) before the opening
+- Tell me the price of [TRGT](symbol) before the opening
+- Tell me the price of [TRIB](symbol) before the opening
+- Tell me the price of [TRIL](symbol) before the opening
+- Tell me the price of [TRIP](symbol) before the opening
+- Tell me the price of [TRIV](symbol) before the opening
+- Tell me the price of [TRMB](symbol) before the opening
+- Tell me the price of [TRMK](symbol) before the opening
+- Tell me the price of [TRNS](symbol) before the opening
+- Tell me the price of [TRNX](symbol) before the opening
+- Tell me the price of [TROV](symbol) before the opening
+- Tell me the price of [TROVU](symbol) before the opening
+- Tell me the price of [TROVW](symbol) before the opening
+- Tell me the price of [TROW](symbol) before the opening
+- Tell me the price of [TRS](symbol) before the opening
+- Tell me the price of [TRST](symbol) before the opening
+- Tell me the price of [TRTL](symbol) before the opening
+- Tell me the price of [TRTLU](symbol) before the opening
+- Tell me the price of [TRTLW](symbol) before the opening
+- Tell me the price of [TRUE](symbol) before the opening
+- Tell me the price of [TRVN](symbol) before the opening
+- Tell me the price of [TSBK](symbol) before the opening
+- Tell me the price of [TSC](symbol) before the opening
+- Tell me the price of [TSCO](symbol) before the opening
+- Tell me the price of [TSEM](symbol) before the opening
+- Tell me the price of [TSLA](symbol) before the opening
+- Tell me the price of [TSRA](symbol) before the opening
+- Tell me the price of [TSRE](symbol) before the opening
+- Tell me the price of [TSRI](symbol) before the opening
+- Tell me the price of [TSRO](symbol) before the opening
+- Tell me the price of [TST](symbol) before the opening
+- Tell me the price of [TSYS](symbol) before the opening
+- Tell me the price of [TTEC](symbol) before the opening
+- Tell me the price of [TTEK](symbol) before the opening
+- Tell me the price of [TTGT](symbol) before the opening
+- Tell me the price of [TTHI](symbol) before the opening
+- Tell me the price of [TTMI](symbol) before the opening
+- Tell me the price of [TTOO](symbol) before the opening
+- Tell me the price of [TTPH](symbol) before the opening
+- Tell me the price of [TTS](symbol) before the opening
+- Tell me the price of [TTWO](symbol) before the opening
+- Tell me the price of [TUBE](symbol) before the opening
+- Tell me the price of [TUES](symbol) before the opening
+- Tell me the price of [TUSA](symbol) before the opening
+- Tell me the price of [TVIX](symbol) before the opening
+- Tell me the price of [TVIZ](symbol) before the opening
+- Tell me the price of [TWER](symbol) before the opening
+- Tell me the price of [TWIN](symbol) before the opening
+- Tell me the price of [TWMC](symbol) before the opening
+- Tell me the price of [TWOU](symbol) before the opening
+- Tell me the price of [TXN](symbol) before the opening
+- Tell me the price of [TXRH](symbol) before the opening
+- Tell me the price of [TYPE](symbol) before the opening
+- Tell me the price of [TZOO](symbol) before the opening
+- Tell me the price of [UACL](symbol) before the opening
+- Tell me the price of [UAE](symbol) before the opening
+- Tell me the price of [UBCP](symbol) before the opening
+- Tell me the price of [UBFO](symbol) before the opening
+- Tell me the price of [UBIC](symbol) before the opening
+- Tell me the price of [UBNK](symbol) before the opening
+- Tell me the price of [UBNT](symbol) before the opening
+- Tell me the price of [UBOH](symbol) before the opening
+- Tell me the price of [UBSH](symbol) before the opening
+- Tell me the price of [UBSI](symbol) before the opening
+- Tell me the price of [UCBA](symbol) before the opening
+- Tell me the price of [UCBI](symbol) before the opening
+- Tell me the price of [UCFC](symbol) before the opening
+- Tell me the price of [UCTT](symbol) before the opening
+- Tell me the price of [UDF](symbol) before the opening
+- Tell me the price of [UEIC](symbol) before the opening
+- Tell me the price of [UEPS](symbol) before the opening
+- Tell me the price of [UFCS](symbol) before the opening
+- Tell me the price of [UFPI](symbol) before the opening
+- Tell me the price of [UFPT](symbol) before the opening
+- Tell me the price of [UG](symbol) before the opening
+- Tell me the price of [UGLD](symbol) before the opening
+- Tell me the price of [UHAL](symbol) before the opening
+- Tell me the price of [UIHC](symbol) before the opening
+- Tell me the price of [ULBI](symbol) before the opening
+- Tell me the price of [ULTA](symbol) before the opening
+- Tell me the price of [ULTI](symbol) before the opening
+- Tell me the price of [ULTR](symbol) before the opening
+- Tell me the price of [UMBF](symbol) before the opening
+- Tell me the price of [UMPQ](symbol) before the opening
+- Tell me the price of [UNAM](symbol) before the opening
+- Tell me the price of [UNB](symbol) before the opening
+- Tell me the price of [UNFI](symbol) before the opening
+- Tell me the price of [UNIS](symbol) before the opening
+- Tell me the price of [UNTD](symbol) before the opening
+- Tell me the price of [UNTY](symbol) before the opening
+- Tell me the price of [UNXL](symbol) before the opening
+- Tell me the price of [UPI](symbol) before the opening
+- Tell me the price of [UPIP](symbol) before the opening
+- Tell me the price of [UPLD](symbol) before the opening
+- Tell me the price of [URBN](symbol) before the opening
+- Tell me the price of [URRE](symbol) before the opening
+- Tell me the price of [USAK](symbol) before the opening
+- Tell me the price of [USAP](symbol) before the opening
+- Tell me the price of [USAT](symbol) before the opening
+- Tell me the price of [USATP](symbol) before the opening
+- Tell me the price of [USBI](symbol) before the opening
+- Tell me the price of [USCR](symbol) before the opening
+- Tell me the price of [USEG](symbol) before the opening
+- Tell me the price of [USLM](symbol) before the opening
+- Tell me the price of [USLV](symbol) before the opening
+- Tell me the price of [USMD](symbol) before the opening
+- Tell me the price of [USTR](symbol) before the opening
+- Tell me the price of [UTEK](symbol) before the opening
+- Tell me the price of [UTHR](symbol) before the opening
+- Tell me the price of [UTIW](symbol) before the opening
+- Tell me the price of [UTMD](symbol) before the opening
+- Tell me the price of [UTSI](symbol) before the opening
+- Tell me the price of [UVSP](symbol) before the opening
+- Tell me the price of [VA](symbol) before the opening
+- Tell me the price of [VALU](symbol) before the opening
+- Tell me the price of [VALX](symbol) before the opening
+- Tell me the price of [VASC](symbol) before the opening
+- Tell me the price of [VBFC](symbol) before the opening
+- Tell me the price of [VBIV](symbol) before the opening
+- Tell me the price of [VBLT](symbol) before the opening
+- Tell me the price of [VBND](symbol) before the opening
+- Tell me the price of [VBTX](symbol) before the opening
+- Tell me the price of [VCEL](symbol) before the opening
+- Tell me the price of [VCIT](symbol) before the opening
+- Tell me the price of [VCLT](symbol) before the opening
+- Tell me the price of [VCSH](symbol) before the opening
+- Tell me the price of [VCYT](symbol) before the opening
+- Tell me the price of [VDSI](symbol) before the opening
+- Tell me the price of [VECO](symbol) before the opening
+- Tell me the price of [VGGL](symbol) before the opening
+- Tell me the price of [VGIT](symbol) before the opening
+- Tell me the price of [VGLT](symbol) before the opening
+- Tell me the price of [VGSH](symbol) before the opening
+- Tell me the price of [VIA](symbol) before the opening
+- Tell me the price of [VIAB](symbol) before the opening
+- Tell me the price of [VIAS](symbol) before the opening
+- Tell me the price of [VICL](symbol) before the opening
+- Tell me the price of [VICR](symbol) before the opening
+- Tell me the price of [VIDE](symbol) before the opening
+- Tell me the price of [VIDI](symbol) before the opening
+- Tell me the price of [VIEW](symbol) before the opening
+- Tell me the price of [VIIX](symbol) before the opening
+- Tell me the price of [VIIZ](symbol) before the opening
+- Tell me the price of [VIMC](symbol) before the opening
+- Tell me the price of [VIP](symbol) before the opening
+- Tell me the price of [VIRC](symbol) before the opening
+- Tell me the price of [VISN](symbol) before the opening
+- Tell me the price of [VIVO](symbol) before the opening
+- Tell me the price of [VLCCF](symbol) before the opening
+- Tell me the price of [VLGEA](symbol) before the opening
+- Tell me the price of [VLTC](symbol) before the opening
+- Tell me the price of [VLYWW](symbol) before the opening
+- Tell me the price of [VMBS](symbol) before the opening
+- Tell me the price of [VNDA](symbol) before the opening
+- Tell me the price of [VNET](symbol) before the opening
+- Tell me the price of [VNOM](symbol) before the opening
+- Tell me the price of [VNQI](symbol) before the opening
+- Tell me the price of [VNR](symbol) before the opening
+- Tell me the price of [VNRAP](symbol) before the opening
+- Tell me the price of [VNRBP](symbol) before the opening
+- Tell me the price of [VNRCP](symbol) before the opening
+- Tell me the price of [VOD](symbol) before the opening
+- Tell me the price of [VOLC](symbol) before the opening
+- Tell me the price of [VONE](symbol) before the opening
+- Tell me the price of [VONG](symbol) before the opening
+- Tell me the price of [VONV](symbol) before the opening
+- Tell me the price of [VOXX](symbol) before the opening
+- Tell me the price of [VPCO](symbol) before the opening
+- Tell me the price of [VRA](symbol) before the opening
+- Tell me the price of [VRML](symbol) before the opening
+- Tell me the price of [VRNG](symbol) before the opening
+- Tell me the price of [VRNGW](symbol) before the opening
+- Tell me the price of [VRNS](symbol) before the opening
+- Tell me the price of [VRNT](symbol) before the opening
+- Tell me the price of [VRSK](symbol) before the opening
+- Tell me the price of [VRSN](symbol) before the opening
+- Tell me the price of [VRTA](symbol) before the opening
+- Tell me the price of [VRTB](symbol) before the opening
+- Tell me the price of [VRTS](symbol) before the opening
+- Tell me the price of [VRTU](symbol) before the opening
+- Tell me the price of [VRTX](symbol) before the opening
+- Tell me the price of [VSAR](symbol) before the opening
+- Tell me the price of [VSAT](symbol) before the opening
+- Tell me the price of [VSCI](symbol) before the opening
+- Tell me the price of [VSCP](symbol) before the opening
+- Tell me the price of [VSEC](symbol) before the opening
+- Tell me the price of [VSTM](symbol) before the opening
+- Tell me the price of [VTAE](symbol) before the opening
+- Tell me the price of [VTHR](symbol) before the opening
+- Tell me the price of [VTIP](symbol) before the opening
+- Tell me the price of [VTL](symbol) before the opening
+- Tell me the price of [VTNR](symbol) before the opening
+- Tell me the price of [VTSS](symbol) before the opening
+- Tell me the price of [VTWG](symbol) before the opening
+- Tell me the price of [VTWO](symbol) before the opening
+- Tell me the price of [VTWV](symbol) before the opening
+- Tell me the price of [VUSE](symbol) before the opening
+- Tell me the price of [VVUS](symbol) before the opening
+- Tell me the price of [VWOB](symbol) before the opening
+- Tell me the price of [VWR](symbol) before the opening
+- Tell me the price of [VXUS](symbol) before the opening
+- Tell me the price of [VYFC](symbol) before the opening
+- Tell me the price of [WABC](symbol) before the opening
+- Tell me the price of [WAFD](symbol) before the opening
+- Tell me the price of [WAFDW](symbol) before the opening
+- Tell me the price of [WASH](symbol) before the opening
+- Tell me the price of [WATT](symbol) before the opening
+- Tell me the price of [WAVX](symbol) before the opening
+- Tell me the price of [WAYN](symbol) before the opening
+- Tell me the price of [WB](symbol) before the opening
+- Tell me the price of [WBA](symbol) before the opening
+- Tell me the price of [WBB](symbol) before the opening
+- Tell me the price of [WBKC](symbol) before the opening
+- Tell me the price of [WBMD](symbol) before the opening
+- Tell me the price of [WDC](symbol) before the opening
+- Tell me the price of [WDFC](symbol) before the opening
+- Tell me the price of [WEBK](symbol) before the opening
+- Tell me the price of [WEN](symbol) before the opening
+- Tell me the price of [WERN](symbol) before the opening
+- Tell me the price of [WETF](symbol) before the opening
+- Tell me the price of [WEYS](symbol) before the opening
+- Tell me the price of [WFBI](symbol) before the opening
+- Tell me the price of [WFD](symbol) before the opening
+- Tell me the price of [WFM](symbol) before the opening
+- Tell me the price of [WGBS](symbol) before the opening
+- Tell me the price of [WHF](symbol) before the opening
+- Tell me the price of [WHFBL](symbol) before the opening
+- Tell me the price of [WHLM](symbol) before the opening
+- Tell me the price of [WHLR](symbol) before the opening
+- Tell me the price of [WHLRP](symbol) before the opening
+- Tell me the price of [WHLRW](symbol) before the opening
+- Tell me the price of [WIBC](symbol) before the opening
+- Tell me the price of [WIFI](symbol) before the opening
+- Tell me the price of [WILC](symbol) before the opening
+- Tell me the price of [WILN](symbol) before the opening
+- Tell me the price of [WIN](symbol) before the opening
+- Tell me the price of [WINA](symbol) before the opening
+- Tell me the price of [WIRE](symbol) before the opening
+- Tell me the price of [WIX](symbol) before the opening
+- Tell me the price of [WLB](symbol) before the opening
+- Tell me the price of [WLBPZ](symbol) before the opening
+- Tell me the price of [WLDN](symbol) before the opening
+- Tell me the price of [WLFC](symbol) before the opening
+- Tell me the price of [WLRH](symbol) before the opening
+- Tell me the price of [WLRHU](symbol) before the opening
+- Tell me the price of [WLRHW](symbol) before the opening
+- Tell me the price of [WMAR](symbol) before the opening
+- Tell me the price of [WMGI](symbol) before the opening
+- Tell me the price of [WMGIZ](symbol) before the opening
+- Tell me the price of [WOOD](symbol) before the opening
+- Tell me the price of [WOOF](symbol) before the opening
+- Tell me the price of [WPCS](symbol) before the opening
+- Tell me the price of [WPPGY](symbol) before the opening
+- Tell me the price of [WPRT](symbol) before the opening
+- Tell me the price of [WRES](symbol) before the opening
+- Tell me the price of [WRLD](symbol) before the opening
+- Tell me the price of [WSBC](symbol) before the opening
+- Tell me the price of [WSBF](symbol) before the opening
+- Tell me the price of [WSCI](symbol) before the opening
+- Tell me the price of [WSFS](symbol) before the opening
+- Tell me the price of [WSFSL](symbol) before the opening
+- Tell me the price of [WSTC](symbol) before the opening
+- Tell me the price of [WSTG](symbol) before the opening
+- Tell me the price of [WSTL](symbol) before the opening
+- Tell me the price of [WTBA](symbol) before the opening
+- Tell me the price of [WTFC](symbol) before the opening
+- Tell me the price of [WTFCW](symbol) before the opening
+- Tell me the price of [WTSL](symbol) before the opening
+- Tell me the price of [WVFC](symbol) before the opening
+- Tell me the price of [WVVI](symbol) before the opening
+- Tell me the price of [WWD](symbol) before the opening
+- Tell me the price of [WWWW](symbol) before the opening
+- Tell me the price of [WYNN](symbol) before the opening
+- Tell me the price of [XBKS](symbol) before the opening
+- Tell me the price of [XCRA](symbol) before the opening
+- Tell me the price of [XENE](symbol) before the opening
+- Tell me the price of [XENT](symbol) before the opening
+- Tell me the price of [XGTI](symbol) before the opening
+- Tell me the price of [XGTIW](symbol) before the opening
+- Tell me the price of [XIV](symbol) before the opening
+- Tell me the price of [XLNX](symbol) before the opening
+- Tell me the price of [XLRN](symbol) before the opening
+- Tell me the price of [XNCR](symbol) before the opening
+- Tell me the price of [XNET](symbol) before the opening
+- Tell me the price of [XNPT](symbol) before the opening
+- Tell me the price of [XOMA](symbol) before the opening
+- Tell me the price of [XONE](symbol) before the opening
+- Tell me the price of [XOOM](symbol) before the opening
+- Tell me the price of [XPLR](symbol) before the opening
+- Tell me the price of [XRAY](symbol) before the opening
+- Tell me the price of [XTLB](symbol) before the opening
+- Tell me the price of [XXIA](symbol) before the opening
+- Tell me the price of [YDIV](symbol) before the opening
+- Tell me the price of [YDLE](symbol) before the opening
+- Tell me the price of [YHOO](symbol) before the opening
+- Tell me the price of [YNDX](symbol) before the opening
+- Tell me the price of [YOD](symbol) before the opening
+- Tell me the price of [YORW](symbol) before the opening
+- Tell me the price of [YPRO](symbol) before the opening
+- Tell me the price of [YRCW](symbol) before the opening
+- Tell me the price of [YY](symbol) before the opening
+- Tell me the price of [Z](symbol) before the opening
+- Tell me the price of [ZAGG](symbol) before the opening
+- Tell me the price of [ZAZA](symbol) before the opening
+- Tell me the price of [ZBRA](symbol) before the opening
+- Tell me the price of [ZEUS](symbol) before the opening
+- Tell me the price of [ZFGN](symbol) before the opening
+- Tell me the price of [ZGNX](symbol) before the opening
+- Tell me the price of [ZHNE](symbol) before the opening
+- Tell me the price of [ZINC](symbol) before the opening
+- Tell me the price of [ZION](symbol) before the opening
+- Tell me the price of [ZIONW](symbol) before the opening
+- Tell me the price of [ZIONZ](symbol) before the opening
+- Tell me the price of [ZIOP](symbol) before the opening
+- Tell me the price of [ZIV](symbol) before the opening
+- Tell me the price of [ZIXI](symbol) before the opening
+- Tell me the price of [ZLTQ](symbol) before the opening
+- Tell me the price of [ZN](symbol) before the opening
+- Tell me the price of [ZNGA](symbol) before the opening
+- Tell me the price of [ZSPH](symbol) before the opening
+- Tell me the price of [ZU](symbol) before the opening
+- Tell me the price of [ZUMZ](symbol) before the opening
+- give me the price of [AAIT](symbol) yesterday
+- give me the price of [AAL](symbol) yesterday
+- give me the price of [AAME](symbol) yesterday
+- give me the price of [AAOI](symbol) yesterday
+- give me the price of [AAON](symbol) yesterday
 - give me the price of [AAPL](symbol) yesterday
-- give me the price of [STFX](symbol) yesterday
-- the price of [DOW](symbol) today
-- the price of [VOO](symbol) today
+- give me the price of [AAVL](symbol) yesterday
+- give me the price of [AAWW](symbol) yesterday
+- give me the price of [AAXJ](symbol) yesterday
+- give me the price of [ABAC](symbol) yesterday
+- give me the price of [ABAX](symbol) yesterday
+- give me the price of [ABCB](symbol) yesterday
+- give me the price of [ABCD](symbol) yesterday
+- give me the price of [ABCO](symbol) yesterday
+- give me the price of [ABCW](symbol) yesterday
+- give me the price of [ABDC](symbol) yesterday
+- give me the price of [ABGB](symbol) yesterday
+- give me the price of [ABIO](symbol) yesterday
+- give me the price of [ABMD](symbol) yesterday
+- give me the price of [ABTL](symbol) yesterday
+- give me the price of [ABY](symbol) yesterday
+- give me the price of [ACAD](symbol) yesterday
+- give me the price of [ACAS](symbol) yesterday
+- give me the price of [ACAT](symbol) yesterday
+- give me the price of [ACET](symbol) yesterday
+- give me the price of [ACFC](symbol) yesterday
+- give me the price of [ACFN](symbol) yesterday
+- give me the price of [ACGL](symbol) yesterday
+- give me the price of [ACHC](symbol) yesterday
+- give me the price of [ACHN](symbol) yesterday
+- give me the price of [ACIW](symbol) yesterday
+- give me the price of [ACLS](symbol) yesterday
+- give me the price of [ACNB](symbol) yesterday
+- give me the price of [ACOR](symbol) yesterday
+- give me the price of [ACPW](symbol) yesterday
+- give me the price of [ACRX](symbol) yesterday
+- give me the price of [ACSF](symbol) yesterday
+- give me the price of [ACST](symbol) yesterday
+- give me the price of [ACTA](symbol) yesterday
+- give me the price of [ACTG](symbol) yesterday
+- give me the price of [ACTS](symbol) yesterday
+- give me the price of [ACUR](symbol) yesterday
+- give me the price of [ACWI](symbol) yesterday
+- give me the price of [ACWX](symbol) yesterday
+- give me the price of [ACXM](symbol) yesterday
+- give me the price of [ADAT](symbol) yesterday
+- give me the price of [ADBE](symbol) yesterday
+- give me the price of [ADEP](symbol) yesterday
+- give me the price of [ADES](symbol) yesterday
+- give me the price of [ADHD](symbol) yesterday
+- give me the price of [ADI](symbol) yesterday
+- give me the price of [ADMA](symbol) yesterday
+- give me the price of [ADMP](symbol) yesterday
+- give me the price of [ADMS](symbol) yesterday
+- give me the price of [ADNC](symbol) yesterday
+- give me the price of [ADP](symbol) yesterday
+- give me the price of [ADRA](symbol) yesterday
+- give me the price of [ADRD](symbol) yesterday
+- give me the price of [ADRE](symbol) yesterday
+- give me the price of [ADRU](symbol) yesterday
+- give me the price of [ADSK](symbol) yesterday
+- give me the price of [ADTN](symbol) yesterday
+- give me the price of [ADUS](symbol) yesterday
+- give me the price of [ADVS](symbol) yesterday
+- give me the price of [ADXS](symbol) yesterday
+- give me the price of [ADXSW](symbol) yesterday
+- give me the price of [AEGN](symbol) yesterday
+- give me the price of [AEGR](symbol) yesterday
+- give me the price of [AEHR](symbol) yesterday
+- give me the price of [AEIS](symbol) yesterday
+- give me the price of [AEPI](symbol) yesterday
+- give me the price of [AERI](symbol) yesterday
+- give me the price of [AETI](symbol) yesterday
+- give me the price of [AEY](symbol) yesterday
+- give me the price of [AEZS](symbol) yesterday
+- give me the price of [AFAM](symbol) yesterday
+- give me the price of [AFCB](symbol) yesterday
+- give me the price of [AFFX](symbol) yesterday
+- give me the price of [AFH](symbol) yesterday
+- give me the price of [AFMD](symbol) yesterday
+- give me the price of [AFOP](symbol) yesterday
+- give me the price of [AFSI](symbol) yesterday
+- give me the price of [AGEN](symbol) yesterday
+- give me the price of [AGII](symbol) yesterday
+- give me the price of [AGIIL](symbol) yesterday
+- give me the price of [AGIO](symbol) yesterday
+- give me the price of [AGNC](symbol) yesterday
+- give me the price of [AGNCB](symbol) yesterday
+- give me the price of [AGNCP](symbol) yesterday
+- give me the price of [AGND](symbol) yesterday
+- give me the price of [AGRX](symbol) yesterday
+- give me the price of [AGTC](symbol) yesterday
+- give me the price of [AGYS](symbol) yesterday
+- give me the price of [AGZD](symbol) yesterday
+- give me the price of [AHGP](symbol) yesterday
+- give me the price of [AHPI](symbol) yesterday
+- give me the price of [AIMC](symbol) yesterday
+- give me the price of [AINV](symbol) yesterday
+- give me the price of [AIQ](symbol) yesterday
+- give me the price of [AIRM](symbol) yesterday
+- give me the price of [AIRR](symbol) yesterday
+- give me the price of [AIRT](symbol) yesterday
+- give me the price of [AIXG](symbol) yesterday
+- give me the price of [AKAM](symbol) yesterday
+- give me the price of [AKAO](symbol) yesterday
+- give me the price of [AKBA](symbol) yesterday
+- give me the price of [AKER](symbol) yesterday
+- give me the price of [AKRX](symbol) yesterday
+- give me the price of [ALCO](symbol) yesterday
+- give me the price of [ALDR](symbol) yesterday
+- give me the price of [ALDX](symbol) yesterday
+- give me the price of [ALGN](symbol) yesterday
+- give me the price of [ALGT](symbol) yesterday
+- give me the price of [ALIM](symbol) yesterday
+- give me the price of [ALKS](symbol) yesterday
+- give me the price of [ALLB](symbol) yesterday
+- give me the price of [ALLT](symbol) yesterday
+- give me the price of [ALNY](symbol) yesterday
+- give me the price of [ALOG](symbol) yesterday
+- give me the price of [ALOT](symbol) yesterday
+- give me the price of [ALQA](symbol) yesterday
+- give me the price of [ALSK](symbol) yesterday
+- give me the price of [ALTR](symbol) yesterday
+- give me the price of [ALXA](symbol) yesterday
+- give me the price of [ALXN](symbol) yesterday
+- give me the price of [AMAG](symbol) yesterday
+- give me the price of [AMAT](symbol) yesterday
+- give me the price of [AMBA](symbol) yesterday
+- give me the price of [AMBC](symbol) yesterday
+- give me the price of [AMBCW](symbol) yesterday
+- give me the price of [AMCC](symbol) yesterday
+- give me the price of [AMCF](symbol) yesterday
+- give me the price of [AMCN](symbol) yesterday
+- give me the price of [AMCX](symbol) yesterday
+- give me the price of [AMD](symbol) yesterday
+- give me the price of [AMDA](symbol) yesterday
+- give me the price of [AMED](symbol) yesterday
+- give me the price of [AMGN](symbol) yesterday
+- give me the price of [AMIC](symbol) yesterday
+- give me the price of [AMKR](symbol) yesterday
+- give me the price of [AMNB](symbol) yesterday
+- give me the price of [AMOT](symbol) yesterday
+- give me the price of [AMOV](symbol) yesterday
+- give me the price of [AMPH](symbol) yesterday
+- give me the price of [AMRB](symbol) yesterday
+- give me the price of [AMRI](symbol) yesterday
+- give me the price of [AMRK](symbol) yesterday
+- give me the price of [AMRN](symbol) yesterday
+- give me the price of [AMRS](symbol) yesterday
+- give me the price of [AMSC](symbol) yesterday
+- give me the price of [AMSF](symbol) yesterday
+- give me the price of [AMSG](symbol) yesterday
+- give me the price of [AMSGP](symbol) yesterday
+- give me the price of [AMSWA](symbol) yesterday
+- give me the price of [AMTX](symbol) yesterday
+- give me the price of [AMWD](symbol) yesterday
+- give me the price of [AMZN](symbol) yesterday
+- give me the price of [ANAC](symbol) yesterday
+- give me the price of [ANAD](symbol) yesterday
+- give me the price of [ANAT](symbol) yesterday
+- give me the price of [ANCB](symbol) yesterday
+- give me the price of [ANCI](symbol) yesterday
+- give me the price of [ANCX](symbol) yesterday
+- give me the price of [ANDE](symbol) yesterday
+- give me the price of [ANGI](symbol) yesterday
+- give me the price of [ANGO](symbol) yesterday
+- give me the price of [ANIK](symbol) yesterday
+- give me the price of [ANIP](symbol) yesterday
+- give me the price of [ANSS](symbol) yesterday
+- give me the price of [ANTH](symbol) yesterday
+- give me the price of [ANY](symbol) yesterday
+- give me the price of [AOSL](symbol) yesterday
+- give me the price of [APAGF](symbol) yesterday
+- give me the price of [APDN](symbol) yesterday
+- give me the price of [APDNW](symbol) yesterday
+- give me the price of [APEI](symbol) yesterday
+- give me the price of [APOG](symbol) yesterday
+- give me the price of [APOL](symbol) yesterday
+- give me the price of [APPY](symbol) yesterday
+- give me the price of [APRI](symbol) yesterday
+- give me the price of [APSA](symbol) yesterday
+- give me the price of [APTO](symbol) yesterday
+- give me the price of [APWC](symbol) yesterday
+- give me the price of [AQXP](symbol) yesterday
+- give me the price of [ARAY](symbol) yesterday
+- give me the price of [ARCB](symbol) yesterday
+- give me the price of [ARCC](symbol) yesterday
+- give me the price of [ARCI](symbol) yesterday
+- give me the price of [ARCP](symbol) yesterday
+- give me the price of [ARCPP](symbol) yesterday
+- give me the price of [ARCW](symbol) yesterday
+- give me the price of [ARDM](symbol) yesterday
+- give me the price of [ARDX](symbol) yesterday
+- give me the price of [AREX](symbol) yesterday
+- give me the price of [ARGS](symbol) yesterday
+- give me the price of [ARIA](symbol) yesterday
+- give me the price of [ARII](symbol) yesterday
+- give me the price of [ARIS](symbol) yesterday
+- give me the price of [ARKR](symbol) yesterday
+- give me the price of [ARLP](symbol) yesterday
+- give me the price of [ARMH](symbol) yesterday
+- give me the price of [ARNA](symbol) yesterday
+- give me the price of [AROW](symbol) yesterday
+- give me the price of [ARQL](symbol) yesterday
+- give me the price of [ARRS](symbol) yesterday
+- give me the price of [ARRY](symbol) yesterday
+- give me the price of [ARTNA](symbol) yesterday
+- give me the price of [ARTW](symbol) yesterday
+- give me the price of [ARTX](symbol) yesterday
+- give me the price of [ARUN](symbol) yesterday
+- give me the price of [ARWR](symbol) yesterday
+- give me the price of [ASBB](symbol) yesterday
+- give me the price of [ASBI](symbol) yesterday
+- give me the price of [ASCMA](symbol) yesterday
+- give me the price of [ASEI](symbol) yesterday
+- give me the price of [ASFI](symbol) yesterday
+- give me the price of [ASMB](symbol) yesterday
+- give me the price of [ASMI](symbol) yesterday
+- give me the price of [ASML](symbol) yesterday
+- give me the price of [ASNA](symbol) yesterday
+- give me the price of [ASPS](symbol) yesterday
+- give me the price of [ASPX](symbol) yesterday
+- give me the price of [ASRV](symbol) yesterday
+- give me the price of [ASRVP](symbol) yesterday
+- give me the price of [ASTC](symbol) yesterday
+- give me the price of [ASTE](symbol) yesterday
+- give me the price of [ASTI](symbol) yesterday
+- give me the price of [ASUR](symbol) yesterday
+- give me the price of [ASYS](symbol) yesterday
+- give me the price of [ATAI](symbol) yesterday
+- give me the price of [ATAX](symbol) yesterday
+- give me the price of [ATEA](symbol) yesterday
+- give me the price of [ATEC](symbol) yesterday
+- give me the price of [ATHN](symbol) yesterday
+- give me the price of [ATHX](symbol) yesterday
+- give me the price of [ATLC](symbol) yesterday
+- give me the price of [ATLO](symbol) yesterday
+- give me the price of [ATML](symbol) yesterday
+- give me the price of [ATNI](symbol) yesterday
+- give me the price of [ATNY](symbol) yesterday
+- give me the price of [ATOS](symbol) yesterday
+- give me the price of [ATRA](symbol) yesterday
+- give me the price of [ATRC](symbol) yesterday
+- give me the price of [ATRI](symbol) yesterday
+- give me the price of [ATRM](symbol) yesterday
+- give me the price of [ATRO](symbol) yesterday
+- give me the price of [ATRS](symbol) yesterday
+- give me the price of [ATSG](symbol) yesterday
+- give me the price of [ATTU](symbol) yesterday
+- give me the price of [ATVI](symbol) yesterday
+- give me the price of [AUBN](symbol) yesterday
+- give me the price of [AUDC](symbol) yesterday
+- give me the price of [AUMA](symbol) yesterday
+- give me the price of [AUMAU](symbol) yesterday
+- give me the price of [AUMAW](symbol) yesterday
+- give me the price of [AUPH](symbol) yesterday
+- give me the price of [AUXL](symbol) yesterday
+- give me the price of [AVAV](symbol) yesterday
+- give me the price of [AVEO](symbol) yesterday
+- give me the price of [AVGO](symbol) yesterday
+- give me the price of [AVHI](symbol) yesterday
+- give me the price of [AVID](symbol) yesterday
+- give me the price of [AVNR](symbol) yesterday
+- give me the price of [AVNW](symbol) yesterday
+- give me the price of [AWAY](symbol) yesterday
+- give me the price of [AWRE](symbol) yesterday
+- give me the price of [AXAS](symbol) yesterday
+- give me the price of [AXDX](symbol) yesterday
+- give me the price of [AXGN](symbol) yesterday
+- give me the price of [AXJS](symbol) yesterday
+- give me the price of [AXPW](symbol) yesterday
+- give me the price of [AXPWW](symbol) yesterday
+- give me the price of [AXTI](symbol) yesterday
+- give me the price of [AZPN](symbol) yesterday
+- give me the price of [BABY](symbol) yesterday
+- give me the price of [BAGR](symbol) yesterday
+- give me the price of [BAMM](symbol) yesterday
+- give me the price of [BANF](symbol) yesterday
+- give me the price of [BANFP](symbol) yesterday
+- give me the price of [BANR](symbol) yesterday
+- give me the price of [BANX](symbol) yesterday
+- give me the price of [BASI](symbol) yesterday
+- give me the price of [BBBY](symbol) yesterday
+- give me the price of [BBC](symbol) yesterday
+- give me the price of [BBCN](symbol) yesterday
+- give me the price of [BBEP](symbol) yesterday
+- give me the price of [BBEPP](symbol) yesterday
+- give me the price of [BBGI](symbol) yesterday
+- give me the price of [BBLU](symbol) yesterday
+- give me the price of [BBNK](symbol) yesterday
+- give me the price of [BBOX](symbol) yesterday
+- give me the price of [BBP](symbol) yesterday
+- give me the price of [BBRG](symbol) yesterday
+- give me the price of [BBRY](symbol) yesterday
+- give me the price of [BBSI](symbol) yesterday
+- give me the price of [BCBP](symbol) yesterday
+- give me the price of [BCLI](symbol) yesterday
+- give me the price of [BCOM](symbol) yesterday
+- give me the price of [BCOR](symbol) yesterday
+- give me the price of [BCOV](symbol) yesterday
+- give me the price of [BCPC](symbol) yesterday
+- give me the price of [BCRX](symbol) yesterday
+- give me the price of [BDBD](symbol) yesterday
+- give me the price of [BDCV](symbol) yesterday
+- give me the price of [BDE](symbol) yesterday
+- give me the price of [BDGE](symbol) yesterday
+- give me the price of [BDMS](symbol) yesterday
+- give me the price of [BDSI](symbol) yesterday
+- give me the price of [BEAT](symbol) yesterday
+- give me the price of [BEAV](symbol) yesterday
+- give me the price of [BEBE](symbol) yesterday
+- give me the price of [BECN](symbol) yesterday
+- give me the price of [BELFA](symbol) yesterday
+- give me the price of [BELFB](symbol) yesterday
+- give me the price of [BFIN](symbol) yesterday
+- give me the price of [BGCP](symbol) yesterday
+- give me the price of [BGFV](symbol) yesterday
+- give me the price of [BGMD](symbol) yesterday
+- give me the price of [BHBK](symbol) yesterday
+- give me the price of [BIB](symbol) yesterday
+- give me the price of [BICK](symbol) yesterday
+- give me the price of [BIDU](symbol) yesterday
+- give me the price of [BIIB](symbol) yesterday
+- give me the price of [BIND](symbol) yesterday
+- give me the price of [BIOC](symbol) yesterday
+- give me the price of [BIOD](symbol) yesterday
+- give me the price of [BIOL](symbol) yesterday
+- give me the price of [BIOS](symbol) yesterday
+- give me the price of [BIRT](symbol) yesterday
+- give me the price of [BIS](symbol) yesterday
+- give me the price of [BJRI](symbol) yesterday
+- give me the price of [BKCC](symbol) yesterday
+- give me the price of [BKEP](symbol) yesterday
+- give me the price of [BKEPP](symbol) yesterday
+- give me the price of [BKMU](symbol) yesterday
+- give me the price of [BKSC](symbol) yesterday
+- give me the price of [BKYF](symbol) yesterday
+- give me the price of [BLCM](symbol) yesterday
+- give me the price of [BLDP](symbol) yesterday
+- give me the price of [BLDR](symbol) yesterday
+- give me the price of [BLFS](symbol) yesterday
+- give me the price of [BLIN](symbol) yesterday
+- give me the price of [BLKB](symbol) yesterday
+- give me the price of [BLMN](symbol) yesterday
+- give me the price of [BLMT](symbol) yesterday
+- give me the price of [BLRX](symbol) yesterday
+- give me the price of [BLUE](symbol) yesterday
+- give me the price of [BLVD](symbol) yesterday
+- give me the price of [BLVDU](symbol) yesterday
+- give me the price of [BLVDW](symbol) yesterday
+- give me the price of [BMRC](symbol) yesterday
+- give me the price of [BMRN](symbol) yesterday
+- give me the price of [BMTC](symbol) yesterday
+- give me the price of [BNCL](symbol) yesterday
+- give me the price of [BNCN](symbol) yesterday
+- give me the price of [BNDX](symbol) yesterday
+- give me the price of [BNFT](symbol) yesterday
+- give me the price of [BNSO](symbol) yesterday
+- give me the price of [BOBE](symbol) yesterday
+- give me the price of [BOCH](symbol) yesterday
+- give me the price of [BOFI](symbol) yesterday
+- give me the price of [BOKF](symbol) yesterday
+- give me the price of [BONA](symbol) yesterday
+- give me the price of [BONT](symbol) yesterday
+- give me the price of [BOOM](symbol) yesterday
+- give me the price of [BOSC](symbol) yesterday
+- give me the price of [BOTA](symbol) yesterday
+- give me the price of [BOTJ](symbol) yesterday
+- give me the price of [BPFH](symbol) yesterday
+- give me the price of [BPFHP](symbol) yesterday
+- give me the price of [BPFHW](symbol) yesterday
+- give me the price of [BPOP](symbol) yesterday
+- give me the price of [BPOPM](symbol) yesterday
+- give me the price of [BPOPN](symbol) yesterday
+- give me the price of [BPTH](symbol) yesterday
+- give me the price of [BRCD](symbol) yesterday
+- give me the price of [BRCM](symbol) yesterday
+- give me the price of [BRDR](symbol) yesterday
+- give me the price of [BREW](symbol) yesterday
+- give me the price of [BRID](symbol) yesterday
+- give me the price of [BRKL](symbol) yesterday
+- give me the price of [BRKR](symbol) yesterday
+- give me the price of [BRKS](symbol) yesterday
+- give me the price of [BRLI](symbol) yesterday
+- give me the price of [BSDM](symbol) yesterday
+- give me the price of [BSET](symbol) yesterday
+- give me the price of [BSF](symbol) yesterday
+- give me the price of [BSFT](symbol) yesterday
+- give me the price of [BSPM](symbol) yesterday
+- give me the price of [BSQR](symbol) yesterday
+- give me the price of [BSRR](symbol) yesterday
+- give me the price of [BSTC](symbol) yesterday
+- give me the price of [BTUI](symbol) yesterday
+- give me the price of [BUR](symbol) yesterday
+- give me the price of [BUSE](symbol) yesterday
+- give me the price of [BV](symbol) yesterday
+- give me the price of [BVA](symbol) yesterday
+- give me the price of [BVSN](symbol) yesterday
+- give me the price of [BWEN](symbol) yesterday
+- give me the price of [BWFG](symbol) yesterday
+- give me the price of [BWINA](symbol) yesterday
+- give me the price of [BWINB](symbol) yesterday
+- give me the price of [BWLD](symbol) yesterday
+- give me the price of [BYBK](symbol) yesterday
+- give me the price of [BYFC](symbol) yesterday
+- give me the price of [BYLK](symbol) yesterday
+- give me the price of [CA](symbol) yesterday
+- give me the price of [CAAS](symbol) yesterday
+- give me the price of [CAC](symbol) yesterday
+- give me the price of [CACB](symbol) yesterday
+- give me the price of [CACC](symbol) yesterday
+- give me the price of [CACG](symbol) yesterday
+- give me the price of [CACGU](symbol) yesterday
+- give me the price of [CACGW](symbol) yesterday
+- give me the price of [CACH](symbol) yesterday
+- give me the price of [CACQ](symbol) yesterday
+- give me the price of [CADC](symbol) yesterday
+- give me the price of [CADT](symbol) yesterday
+- give me the price of [CADTR](symbol) yesterday
+- give me the price of [CADTU](symbol) yesterday
+- give me the price of [CADTW](symbol) yesterday
+- give me the price of [CAKE](symbol) yesterday
+- give me the price of [CALA](symbol) yesterday
+- give me the price of [CALD](symbol) yesterday
+- give me the price of [CALI](symbol) yesterday
+- give me the price of [CALL](symbol) yesterday
+- give me the price of [CALM](symbol) yesterday
+- give me the price of [CAMB](symbol) yesterday
+- give me the price of [CAMBU](symbol) yesterday
+- give me the price of [CAMBW](symbol) yesterday
+- give me the price of [CAMP](symbol) yesterday
+- give me the price of [CAMT](symbol) yesterday
+- give me the price of [CAPN](symbol) yesterday
+- give me the price of [CAPNW](symbol) yesterday
+- give me the price of [CAR](symbol) yesterday
+- give me the price of [CARA](symbol) yesterday
+- give me the price of [CARB](symbol) yesterday
+- give me the price of [CARO](symbol) yesterday
+- give me the price of [CART](symbol) yesterday
+- give me the price of [CARV](symbol) yesterday
+- give me the price of [CARZ](symbol) yesterday
+- give me the price of [CASH](symbol) yesterday
+- give me the price of [CASI](symbol) yesterday
+- give me the price of [CASM](symbol) yesterday
+- give me the price of [CASS](symbol) yesterday
+- give me the price of [CASY](symbol) yesterday
+- give me the price of [CATM](symbol) yesterday
+- give me the price of [CATY](symbol) yesterday
+- give me the price of [CATYW](symbol) yesterday
+- give me the price of [CAVM](symbol) yesterday
+- give me the price of [CBAK](symbol) yesterday
+- give me the price of [CBAN](symbol) yesterday
+- give me the price of [CBAY](symbol) yesterday
+- give me the price of [CBDE](symbol) yesterday
+- give me the price of [CBF](symbol) yesterday
+- give me the price of [CBFV](symbol) yesterday
+- give me the price of [CBIN](symbol) yesterday
+- give me the price of [CBLI](symbol) yesterday
+- give me the price of [CBMG](symbol) yesterday
+- give me the price of [CBMX](symbol) yesterday
+- give me the price of [CBNJ](symbol) yesterday
+- give me the price of [CBNK](symbol) yesterday
+- give me the price of [CBOE](symbol) yesterday
+- give me the price of [CBPO](symbol) yesterday
+- give me the price of [CBRL](symbol) yesterday
+- give me the price of [CBRX](symbol) yesterday
+- give me the price of [CBSH](symbol) yesterday
+- give me the price of [CBSHP](symbol) yesterday
+- give me the price of [CBST](symbol) yesterday
+- give me the price of [CBSTZ](symbol) yesterday
+- give me the price of [CCBG](symbol) yesterday
+- give me the price of [CCCL](symbol) yesterday
+- give me the price of [CCCR](symbol) yesterday
+- give me the price of [CCIH](symbol) yesterday
+- give me the price of [CCLP](symbol) yesterday
+- give me the price of [CCMP](symbol) yesterday
+- give me the price of [CCNE](symbol) yesterday
+- give me the price of [CCOI](symbol) yesterday
+- give me the price of [CCRN](symbol) yesterday
+- give me the price of [CCUR](symbol) yesterday
+- give me the price of [CCXI](symbol) yesterday
+- give me the price of [CDC](symbol) yesterday
+- give me the price of [CDK](symbol) yesterday
+- give me the price of [CDNA](symbol) yesterday
+- give me the price of [CDNS](symbol) yesterday
+- give me the price of [CDTI](symbol) yesterday
+- give me the price of [CDW](symbol) yesterday
+- give me the price of [CDXS](symbol) yesterday
+- give me the price of [CDZI](symbol) yesterday
+- give me the price of [CECE](symbol) yesterday
+- give me the price of [CECO](symbol) yesterday
+- give me the price of [CELG](symbol) yesterday
+- give me the price of [CELGZ](symbol) yesterday
+- give me the price of [CEMI](symbol) yesterday
+- give me the price of [CEMP](symbol) yesterday
+- give me the price of [CENT](symbol) yesterday
+- give me the price of [CENTA](symbol) yesterday
+- give me the price of [CENX](symbol) yesterday
+- give me the price of [CERE](symbol) yesterday
+- give me the price of [CERN](symbol) yesterday
+- give me the price of [CERS](symbol) yesterday
+- give me the price of [CERU](symbol) yesterday
+- give me the price of [CETV](symbol) yesterday
+- give me the price of [CEVA](symbol) yesterday
+- give me the price of [CFA](symbol) yesterday
+- give me the price of [CFBK](symbol) yesterday
+- give me the price of [CFFI](symbol) yesterday
+- give me the price of [CFFN](symbol) yesterday
+- give me the price of [CFGE](symbol) yesterday
+- give me the price of [CFNB](symbol) yesterday
+- give me the price of [CFNL](symbol) yesterday
+- give me the price of [CFO](symbol) yesterday
+- give me the price of [CFRX](symbol) yesterday
+- give me the price of [CFRXW](symbol) yesterday
+- give me the price of [CFRXZ](symbol) yesterday
+- give me the price of [CG](symbol) yesterday
+- give me the price of [CGEN](symbol) yesterday
+- give me the price of [CGIX](symbol) yesterday
+- give me the price of [CGNX](symbol) yesterday
+- give me the price of [CGO](symbol) yesterday
+- give me the price of [CHCI](symbol) yesterday
+- give me the price of [CHCO](symbol) yesterday
+- give me the price of [CHDN](symbol) yesterday
+- give me the price of [CHEF](symbol) yesterday
+- give me the price of [CHEV](symbol) yesterday
+- give me the price of [CHFC](symbol) yesterday
+- give me the price of [CHFN](symbol) yesterday
+- give me the price of [CHI](symbol) yesterday
+- give me the price of [CHKE](symbol) yesterday
+- give me the price of [CHKP](symbol) yesterday
+- give me the price of [CHLN](symbol) yesterday
+- give me the price of [CHMG](symbol) yesterday
+- give me the price of [CHNR](symbol) yesterday
+- give me the price of [CHOP](symbol) yesterday
+- give me the price of [CHRS](symbol) yesterday
+- give me the price of [CHRW](symbol) yesterday
+- give me the price of [CHSCM](symbol) yesterday
+- give me the price of [CHSCN](symbol) yesterday
+- give me the price of [CHSCO](symbol) yesterday
+- give me the price of [CHSCP](symbol) yesterday
+- give me the price of [CHTR](symbol) yesterday
+- give me the price of [CHUY](symbol) yesterday
+- give me the price of [CHW](symbol) yesterday
+- give me the price of [CHXF](symbol) yesterday
+- give me the price of [CHY](symbol) yesterday
+- give me the price of [CHYR](symbol) yesterday
+- give me the price of [CIDM](symbol) yesterday
+- give me the price of [CIFC](symbol) yesterday
+- give me the price of [CIMT](symbol) yesterday
+- give me the price of [CINF](symbol) yesterday
+- give me the price of [CISAW](symbol) yesterday
+- give me the price of [CISG](symbol) yesterday
+- give me the price of [CIZ](symbol) yesterday
+- give me the price of [CIZN](symbol) yesterday
+- give me the price of [CJJD](symbol) yesterday
+- give me the price of [CKEC](symbol) yesterday
+- give me the price of [CKSW](symbol) yesterday
+- give me the price of [CLAC](symbol) yesterday
+- give me the price of [CLACU](symbol) yesterday
+- give me the price of [CLACW](symbol) yesterday
+- give me the price of [CLBH](symbol) yesterday
+- give me the price of [CLCT](symbol) yesterday
+- give me the price of [CLDN](symbol) yesterday
+- give me the price of [CLDX](symbol) yesterday
+- give me the price of [CLFD](symbol) yesterday
+- give me the price of [CLIR](symbol) yesterday
+- give me the price of [CLMS](symbol) yesterday
+- give me the price of [CLMT](symbol) yesterday
+- give me the price of [CLNE](symbol) yesterday
+- give me the price of [CLNT](symbol) yesterday
+- give me the price of [CLRB](symbol) yesterday
+- give me the price of [CLRBW](symbol) yesterday
+- give me the price of [CLRO](symbol) yesterday
+- give me the price of [CLRX](symbol) yesterday
+- give me the price of [CLSN](symbol) yesterday
+- give me the price of [CLTX](symbol) yesterday
+- give me the price of [CLUB](symbol) yesterday
+- give me the price of [CLVS](symbol) yesterday
+- give me the price of [CLWT](symbol) yesterday
+- give me the price of [CMCO](symbol) yesterday
+- give me the price of [CMCSA](symbol) yesterday
+- give me the price of [CMCSK](symbol) yesterday
+- give me the price of [CMCT](symbol) yesterday
+- give me the price of [CME](symbol) yesterday
+- give me the price of [CMFN](symbol) yesterday
+- give me the price of [CMGE](symbol) yesterday
+- give me the price of [CMLS](symbol) yesterday
+- give me the price of [CMPR](symbol) yesterday
+- give me the price of [CMRX](symbol) yesterday
+- give me the price of [CMSB](symbol) yesterday
+- give me the price of [CMTL](symbol) yesterday
+- give me the price of [CNAT](symbol) yesterday
+- give me the price of [CNBKA](symbol) yesterday
+- give me the price of [CNCE](symbol) yesterday
+- give me the price of [CNDO](symbol) yesterday
+- give me the price of [CNET](symbol) yesterday
+- give me the price of [CNIT](symbol) yesterday
+- give me the price of [CNLM](symbol) yesterday
+- give me the price of [CNLMR](symbol) yesterday
+- give me the price of [CNLMU](symbol) yesterday
+- give me the price of [CNLMW](symbol) yesterday
+- give me the price of [CNMD](symbol) yesterday
+- give me the price of [CNOB](symbol) yesterday
+- give me the price of [CNSI](symbol) yesterday
+- give me the price of [CNSL](symbol) yesterday
+- give me the price of [CNTF](symbol) yesterday
+- give me the price of [CNTY](symbol) yesterday
+- give me the price of [CNV](symbol) yesterday
+- give me the price of [CNXR](symbol) yesterday
+- give me the price of [CNYD](symbol) yesterday
+- give me the price of [COB](symbol) yesterday
+- give me the price of [COBK](symbol) yesterday
+- give me the price of [COBZ](symbol) yesterday
+- give me the price of [COCO](symbol) yesterday
+- give me the price of [COHR](symbol) yesterday
+- give me the price of [COHU](symbol) yesterday
+- give me the price of [COKE](symbol) yesterday
+- give me the price of [COLB](symbol) yesterday
+- give me the price of [COLM](symbol) yesterday
+- give me the price of [COMM](symbol) yesterday
+- give me the price of [COMT](symbol) yesterday
+- give me the price of [CONE](symbol) yesterday
+- give me the price of [CONN](symbol) yesterday
+- give me the price of [COOL](symbol) yesterday
+- give me the price of [CORE](symbol) yesterday
+- give me the price of [CORI](symbol) yesterday
+- give me the price of [CORT](symbol) yesterday
+- give me the price of [COSI](symbol) yesterday
+- give me the price of [COST](symbol) yesterday
+- give me the price of [COVS](symbol) yesterday
+- give me the price of [COWN](symbol) yesterday
+- give me the price of [COWNL](symbol) yesterday
+- give me the price of [CPAH](symbol) yesterday
+- give me the price of [CPGI](symbol) yesterday
+- give me the price of [CPHC](symbol) yesterday
+- give me the price of [CPHD](symbol) yesterday
+- give me the price of [CPHR](symbol) yesterday
+- give me the price of [CPIX](symbol) yesterday
+- give me the price of [CPLA](symbol) yesterday
+- give me the price of [CPLP](symbol) yesterday
+- give me the price of [CPRT](symbol) yesterday
+- give me the price of [CPRX](symbol) yesterday
+- give me the price of [CPSI](symbol) yesterday
+- give me the price of [CPSS](symbol) yesterday
+- give me the price of [CPST](symbol) yesterday
+- give me the price of [CPTA](symbol) yesterday
+- give me the price of [CPXX](symbol) yesterday
+- give me the price of [CRAI](symbol) yesterday
+- give me the price of [CRAY](symbol) yesterday
+- give me the price of [CRDC](symbol) yesterday
+- give me the price of [CRDS](symbol) yesterday
+- give me the price of [CRDT](symbol) yesterday
+- give me the price of [CREE](symbol) yesterday
+- give me the price of [CREG](symbol) yesterday
+- give me the price of [CRESW](symbol) yesterday
+- give me the price of [CRESY](symbol) yesterday
+- give me the price of [CRIS](symbol) yesterday
+- give me the price of [CRME](symbol) yesterday
+- give me the price of [CRMT](symbol) yesterday
+- give me the price of [CRNT](symbol) yesterday
+- give me the price of [CROX](symbol) yesterday
+- give me the price of [CRRC](symbol) yesterday
+- give me the price of [CRRS](symbol) yesterday
+- give me the price of [CRTN](symbol) yesterday
+- give me the price of [CRTO](symbol) yesterday
+- give me the price of [CRUS](symbol) yesterday
+- give me the price of [CRVL](symbol) yesterday
+- give me the price of [CRWN](symbol) yesterday
+- give me the price of [CRWS](symbol) yesterday
+- give me the price of [CRZO](symbol) yesterday
+- give me the price of [CSBK](symbol) yesterday
+- give me the price of [CSCD](symbol) yesterday
+- give me the price of [CSCO](symbol) yesterday
+- give me the price of [CSF](symbol) yesterday
+- give me the price of [CSFL](symbol) yesterday
+- give me the price of [CSGP](symbol) yesterday
+- give me the price of [CSGS](symbol) yesterday
+- give me the price of [CSII](symbol) yesterday
+- give me the price of [CSIQ](symbol) yesterday
+- give me the price of [CSOD](symbol) yesterday
+- give me the price of [CSPI](symbol) yesterday
+- give me the price of [CSQ](symbol) yesterday
+- give me the price of [CSRE](symbol) yesterday
+- give me the price of [CSTE](symbol) yesterday
+- give me the price of [CSUN](symbol) yesterday
+- give me the price of [CSWC](symbol) yesterday
+- give me the price of [CTAS](symbol) yesterday
+- give me the price of [CTBI](symbol) yesterday
+- give me the price of [CTCM](symbol) yesterday
+- give me the price of [CTCT](symbol) yesterday
+- give me the price of [CTG](symbol) yesterday
+- give me the price of [CTHR](symbol) yesterday
+- give me the price of [CTIB](symbol) yesterday
+- give me the price of [CTIC](symbol) yesterday
+- give me the price of [CTRE](symbol) yesterday
+- give me the price of [CTRL](symbol) yesterday
+- give me the price of [CTRN](symbol) yesterday
+- give me the price of [CTRP](symbol) yesterday
+- give me the price of [CTRX](symbol) yesterday
+- give me the price of [CTSH](symbol) yesterday
+- give me the price of [CTSO](symbol) yesterday
+- give me the price of [CTWS](symbol) yesterday
+- give me the price of [CTXS](symbol) yesterday
+- give me the price of [CU](symbol) yesterday
+- give me the price of [CUBA](symbol) yesterday
+- give me the price of [CUI](symbol) yesterday
+- give me the price of [CUNB](symbol) yesterday
+- give me the price of [CUTR](symbol) yesterday
+- give me the price of [CVBF](symbol) yesterday
+- give me the price of [CVCO](symbol) yesterday
+- give me the price of [CVCY](symbol) yesterday
+- give me the price of [CVGI](symbol) yesterday
+- give me the price of [CVGW](symbol) yesterday
+- give me the price of [CVLT](symbol) yesterday
+- give me the price of [CVLY](symbol) yesterday
+- give me the price of [CVTI](symbol) yesterday
+- give me the price of [CVV](symbol) yesterday
+- give me the price of [CWAY](symbol) yesterday
+- give me the price of [CWBC](symbol) yesterday
+- give me the price of [CWCO](symbol) yesterday
+- give me the price of [CWST](symbol) yesterday
+- give me the price of [CXDC](symbol) yesterday
+- give me the price of [CY](symbol) yesterday
+- give me the price of [CYAN](symbol) yesterday
+- give me the price of [CYBE](symbol) yesterday
+- give me the price of [CYBR](symbol) yesterday
+- give me the price of [CYBX](symbol) yesterday
+- give me the price of [CYCC](symbol) yesterday
+- give me the price of [CYCCP](symbol) yesterday
+- give me the price of [CYHHZ](symbol) yesterday
+- give me the price of [CYNO](symbol) yesterday
+- give me the price of [CYOU](symbol) yesterday
+- give me the price of [CYRN](symbol) yesterday
+- give me the price of [CYTK](symbol) yesterday
+- give me the price of [CYTR](symbol) yesterday
+- give me the price of [CYTX](symbol) yesterday
+- give me the price of [CZFC](symbol) yesterday
+- give me the price of [CZNC](symbol) yesterday
+- give me the price of [CZR](symbol) yesterday
+- give me the price of [CZWI](symbol) yesterday
+- give me the price of [DAEG](symbol) yesterday
+- give me the price of [DAIO](symbol) yesterday
+- give me the price of [DAKT](symbol) yesterday
+- give me the price of [DARA](symbol) yesterday
+- give me the price of [DATE](symbol) yesterday
+- give me the price of [DAVE](symbol) yesterday
+- give me the price of [DAX](symbol) yesterday
+- give me the price of [DBVT](symbol) yesterday
+- give me the price of [DCIX](symbol) yesterday
+- give me the price of [DCOM](symbol) yesterday
+- give me the price of [DCTH](symbol) yesterday
+- give me the price of [DENN](symbol) yesterday
+- give me the price of [DEPO](symbol) yesterday
+- give me the price of [DERM](symbol) yesterday
+- give me the price of [DEST](symbol) yesterday
+- give me the price of [DFRG](symbol) yesterday
+- give me the price of [DFVL](symbol) yesterday
+- give me the price of [DFVS](symbol) yesterday
+- give me the price of [DGAS](symbol) yesterday
+- give me the price of [DGICA](symbol) yesterday
+- give me the price of [DGICB](symbol) yesterday
+- give me the price of [DGII](symbol) yesterday
+- give me the price of [DGLD](symbol) yesterday
+- give me the price of [DGLY](symbol) yesterday
+- give me the price of [DGRE](symbol) yesterday
+- give me the price of [DGRS](symbol) yesterday
+- give me the price of [DGRW](symbol) yesterday
+- give me the price of [DHIL](symbol) yesterday
+- give me the price of [DHRM](symbol) yesterday
+- give me the price of [DIOD](symbol) yesterday
+- give me the price of [DISCA](symbol) yesterday
+- give me the price of [DISCB](symbol) yesterday
+- give me the price of [DISCK](symbol) yesterday
+- give me the price of [DISH](symbol) yesterday
+- give me the price of [DJCO](symbol) yesterday
+- give me the price of [DLBL](symbol) yesterday
+- give me the price of [DLBS](symbol) yesterday
+- give me the price of [DLHC](symbol) yesterday
+- give me the price of [DLTR](symbol) yesterday
+- give me the price of [DMLP](symbol) yesterday
+- give me the price of [DMND](symbol) yesterday
+- give me the price of [DMRC](symbol) yesterday
+- give me the price of [DNBF](symbol) yesterday
+- give me the price of [DNKN](symbol) yesterday
+- give me the price of [DORM](symbol) yesterday
+- give me the price of [DOVR](symbol) yesterday
+- give me the price of [DOX](symbol) yesterday
+- give me the price of [DPRX](symbol) yesterday
+- give me the price of [DRAD](symbol) yesterday
+- give me the price of [DRAM](symbol) yesterday
+- give me the price of [DRIV](symbol) yesterday
+- give me the price of [DRNA](symbol) yesterday
+- give me the price of [DRRX](symbol) yesterday
+- give me the price of [DRWI](symbol) yesterday
+- give me the price of [DRWIW](symbol) yesterday
+- give me the price of [DRYS](symbol) yesterday
+- give me the price of [DSCI](symbol) yesterday
+- give me the price of [DSCO](symbol) yesterday
+- give me the price of [DSGX](symbol) yesterday
+- give me the price of [DSKX](symbol) yesterday
+- give me the price of [DSKY](symbol) yesterday
+- give me the price of [DSLV](symbol) yesterday
+- give me the price of [DSPG](symbol) yesterday
+- give me the price of [DSWL](symbol) yesterday
+- give me the price of [DTLK](symbol) yesterday
+- give me the price of [DTSI](symbol) yesterday
+- give me the price of [DTUL](symbol) yesterday
+- give me the price of [DTUS](symbol) yesterday
+- give me the price of [DTV](symbol) yesterday
+- give me the price of [DTYL](symbol) yesterday
+- give me the price of [DTYS](symbol) yesterday
+- give me the price of [DVAX](symbol) yesterday
+- give me the price of [DVCR](symbol) yesterday
+- give me the price of [DWA](symbol) yesterday
+- give me the price of [DWAT](symbol) yesterday
+- give me the price of [DWCH](symbol) yesterday
+- give me the price of [DWSN](symbol) yesterday
+- give me the price of [DXCM](symbol) yesterday
+- give me the price of [DXGE](symbol) yesterday
+- give me the price of [DXJS](symbol) yesterday
+- give me the price of [DXKW](symbol) yesterday
+- give me the price of [DXLG](symbol) yesterday
+- give me the price of [DXM](symbol) yesterday
+- give me the price of [DXPE](symbol) yesterday
+- give me the price of [DXPS](symbol) yesterday
+- give me the price of [DXYN](symbol) yesterday
+- give me the price of [DYAX](symbol) yesterday
+- give me the price of [DYNT](symbol) yesterday
+- give me the price of [DYSL](symbol) yesterday
+- give me the price of [EA](symbol) yesterday
+- give me the price of [EAC](symbol) yesterday
+- give me the price of [EARS](symbol) yesterday
+- give me the price of [EBAY](symbol) yesterday
+- give me the price of [EBIO](symbol) yesterday
+- give me the price of [EBIX](symbol) yesterday
+- give me the price of [EBMT](symbol) yesterday
+- give me the price of [EBSB](symbol) yesterday
+- give me the price of [EBTC](symbol) yesterday
+- give me the price of [ECHO](symbol) yesterday
+- give me the price of [ECOL](symbol) yesterday
+- give me the price of [ECPG](symbol) yesterday
+- give me the price of [ECTE](symbol) yesterday
+- give me the price of [ECYT](symbol) yesterday
+- give me the price of [EDAP](symbol) yesterday
+- give me the price of [EDGW](symbol) yesterday
+- give me the price of [EDS](symbol) yesterday
+- give me the price of [EDUC](symbol) yesterday
+- give me the price of [EEFT](symbol) yesterday
+- give me the price of [EEI](symbol) yesterday
+- give me the price of [EEMA](symbol) yesterday
+- give me the price of [EEME](symbol) yesterday
+- give me the price of [EEML](symbol) yesterday
+- give me the price of [EFII](symbol) yesterday
+- give me the price of [EFOI](symbol) yesterday
+- give me the price of [EFSC](symbol) yesterday
+- give me the price of [EFUT](symbol) yesterday
+- give me the price of [EGAN](symbol) yesterday
+- give me the price of [EGBN](symbol) yesterday
+- give me the price of [EGHT](symbol) yesterday
+- give me the price of [EGLE](symbol) yesterday
+- give me the price of [EGLT](symbol) yesterday
+- give me the price of [EGOV](symbol) yesterday
+- give me the price of [EGRW](symbol) yesterday
+- give me the price of [EGRX](symbol) yesterday
+- give me the price of [EGT](symbol) yesterday
+- give me the price of [EHTH](symbol) yesterday
+- give me the price of [EIGI](symbol) yesterday
+- give me the price of [ELGX](symbol) yesterday
+- give me the price of [ELNK](symbol) yesterday
+- give me the price of [ELON](symbol) yesterday
+- give me the price of [ELOS](symbol) yesterday
+- give me the price of [ELRC](symbol) yesterday
+- give me the price of [ELSE](symbol) yesterday
+- give me the price of [ELTK](symbol) yesterday
+- give me the price of [EMCB](symbol) yesterday
+- give me the price of [EMCF](symbol) yesterday
+- give me the price of [EMCG](symbol) yesterday
+- give me the price of [EMCI](symbol) yesterday
+- give me the price of [EMDI](symbol) yesterday
+- give me the price of [EMEY](symbol) yesterday
+- give me the price of [EMIF](symbol) yesterday
+- give me the price of [EMITF](symbol) yesterday
+- give me the price of [EMKR](symbol) yesterday
+- give me the price of [EML](symbol) yesterday
+- give me the price of [EMMS](symbol) yesterday
+- give me the price of [EMMSP](symbol) yesterday
+- give me the price of [ENDP](symbol) yesterday
+- give me the price of [ENFC](symbol) yesterday
+- give me the price of [ENG](symbol) yesterday
+- give me the price of [ENOC](symbol) yesterday
+- give me the price of [ENPH](symbol) yesterday
+- give me the price of [ENSG](symbol) yesterday
+- give me the price of [ENT](symbol) yesterday
+- give me the price of [ENTA](symbol) yesterday
+- give me the price of [ENTG](symbol) yesterday
+- give me the price of [ENTR](symbol) yesterday
+- give me the price of [ENVI](symbol) yesterday
+- give me the price of [ENZN](symbol) yesterday
+- give me the price of [ENZY](symbol) yesterday
+- give me the price of [EOPN](symbol) yesterday
+- give me the price of [EPAX](symbol) yesterday
+- give me the price of [EPAY](symbol) yesterday
+- give me the price of [EPIQ](symbol) yesterday
+- give me the price of [EPRS](symbol) yesterday
+- give me the price of [EPZM](symbol) yesterday
+- give me the price of [EQIX](symbol) yesterday
+- give me the price of [ERI](symbol) yesterday
+- give me the price of [ERIC](symbol) yesterday
+- give me the price of [ERIE](symbol) yesterday
+- give me the price of [ERII](symbol) yesterday
+- give me the price of [EROC](symbol) yesterday
+- give me the price of [ERS](symbol) yesterday
+- give me the price of [ERW](symbol) yesterday
+- give me the price of [ESBF](symbol) yesterday
+- give me the price of [ESBK](symbol) yesterday
+- give me the price of [ESCA](symbol) yesterday
+- give me the price of [ESCR](symbol) yesterday
+- give me the price of [ESCRP](symbol) yesterday
+- give me the price of [ESEA](symbol) yesterday
+- give me the price of [ESGR](symbol) yesterday
+- give me the price of [ESIO](symbol) yesterday
+- give me the price of [ESLT](symbol) yesterday
+- give me the price of [ESMC](symbol) yesterday
+- give me the price of [ESPR](symbol) yesterday
+- give me the price of [ESRX](symbol) yesterday
+- give me the price of [ESSA](symbol) yesterday
+- give me the price of [ESSX](symbol) yesterday
+- give me the price of [ESXB](symbol) yesterday
+- give me the price of [ESYS](symbol) yesterday
+- give me the price of [ETFC](symbol) yesterday
+- give me the price of [ETRM](symbol) yesterday
+- give me the price of [EUFN](symbol) yesterday
+- give me the price of [EVAL](symbol) yesterday
+- give me the price of [EVAR](symbol) yesterday
+- give me the price of [EVBS](symbol) yesterday
+- give me the price of [EVEP](symbol) yesterday
+- give me the price of [EVK](symbol) yesterday
+- give me the price of [EVLV](symbol) yesterday
+- give me the price of [EVOK](symbol) yesterday
+- give me the price of [EVOL](symbol) yesterday
+- give me the price of [EVRY](symbol) yesterday
+- give me the price of [EWBC](symbol) yesterday
+- give me the price of [EXA](symbol) yesterday
+- give me the price of [EXAC](symbol) yesterday
+- give me the price of [EXAS](symbol) yesterday
+- give me the price of [EXEL](symbol) yesterday
+- give me the price of [EXFO](symbol) yesterday
+- give me the price of [EXLP](symbol) yesterday
+- give me the price of [EXLS](symbol) yesterday
+- give me the price of [EXPD](symbol) yesterday
+- give me the price of [EXPE](symbol) yesterday
+- give me the price of [EXPO](symbol) yesterday
+- give me the price of [EXTR](symbol) yesterday
+- give me the price of [EXXI](symbol) yesterday
+- give me the price of [EYES](symbol) yesterday
+- give me the price of [EZCH](symbol) yesterday
+- give me the price of [EZPW](symbol) yesterday
+- give me the price of [FALC](symbol) yesterday
+- give me the price of [FANG](symbol) yesterday
+- give me the price of [FARM](symbol) yesterday
+- give me the price of [FARO](symbol) yesterday
+- give me the price of [FAST](symbol) yesterday
+- give me the price of [FATE](symbol) yesterday
+- give me the price of [FB](symbol) yesterday
+- give me the price of [FBIZ](symbol) yesterday
+- give me the price of [FBMS](symbol) yesterday
+- give me the price of [FBNC](symbol) yesterday
+- give me the price of [FBNK](symbol) yesterday
+- give me the price of [FBRC](symbol) yesterday
+- give me the price of [FBSS](symbol) yesterday
+- give me the price of [FCAP](symbol) yesterday
+- give me the price of [FCBC](symbol) yesterday
+- give me the price of [FCCO](symbol) yesterday
+- give me the price of [FCCY](symbol) yesterday
+- give me the price of [FCEL](symbol) yesterday
+- give me the price of [FCFS](symbol) yesterday
+- give me the price of [FCHI](symbol) yesterday
+- give me the price of [FCLF](symbol) yesterday
+- give me the price of [FCNCA](symbol) yesterday
+- give me the price of [FCS](symbol) yesterday
+- give me the price of [FCSC](symbol) yesterday
+- give me the price of [FCTY](symbol) yesterday
+- give me the price of [FCVA](symbol) yesterday
+- give me the price of [FCZA](symbol) yesterday
+- give me the price of [FCZAP](symbol) yesterday
+- give me the price of [FDEF](symbol) yesterday
+- give me the price of [FDIV](symbol) yesterday
+- give me the price of [FDML](symbol) yesterday
+- give me the price of [FDUS](symbol) yesterday
+- give me the price of [FEIC](symbol) yesterday
+- give me the price of [FEIM](symbol) yesterday
+- give me the price of [FELE](symbol) yesterday
+- give me the price of [FEMB](symbol) yesterday
+- give me the price of [FES](symbol) yesterday
+- give me the price of [FEUZ](symbol) yesterday
+- give me the price of [FEYE](symbol) yesterday
+- give me the price of [FFBC](symbol) yesterday
+- give me the price of [FFBCW](symbol) yesterday
+- give me the price of [FFHL](symbol) yesterday
+- give me the price of [FFIC](symbol) yesterday
+- give me the price of [FFIN](symbol) yesterday
+- give me the price of [FFIV](symbol) yesterday
+- give me the price of [FFKT](symbol) yesterday
+- give me the price of [FFNM](symbol) yesterday
+- give me the price of [FFNW](symbol) yesterday
+- give me the price of [FFWM](symbol) yesterday
+- give me the price of [FGEN](symbol) yesterday
+- give me the price of [FHCO](symbol) yesterday
+- give me the price of [FIBK](symbol) yesterday
+- give me the price of [FINL](symbol) yesterday
+- give me the price of [FISH](symbol) yesterday
+- give me the price of [FISI](symbol) yesterday
+- give me the price of [FISV](symbol) yesterday
+- give me the price of [FITB](symbol) yesterday
+- give me the price of [FITBI](symbol) yesterday
+- give me the price of [FIVE](symbol) yesterday
+- give me the price of [FIVN](symbol) yesterday
+- give me the price of [FIZZ](symbol) yesterday
+- give me the price of [FLAT](symbol) yesterday
+- give me the price of [FLDM](symbol) yesterday
+- give me the price of [FLEX](symbol) yesterday
+- give me the price of [FLIC](symbol) yesterday
+- give me the price of [FLIR](symbol) yesterday
+- give me the price of [FLL](symbol) yesterday
+- give me the price of [FLML](symbol) yesterday
+- give me the price of [FLWS](symbol) yesterday
+- give me the price of [FLXN](symbol) yesterday
+- give me the price of [FLXS](symbol) yesterday
+- give me the price of [FMB](symbol) yesterday
+- give me the price of [FMBH](symbol) yesterday
+- give me the price of [FMBI](symbol) yesterday
+- give me the price of [FMER](symbol) yesterday
+- give me the price of [FMI](symbol) yesterday
+- give me the price of [FMNB](symbol) yesterday
+- give me the price of [FNBC](symbol) yesterday
+- give me the price of [FNFG](symbol) yesterday
+- give me the price of [FNGN](symbol) yesterday
+- give me the price of [FNHC](symbol) yesterday
+- give me the price of [FNJN](symbol) yesterday
+- give me the price of [FNLC](symbol) yesterday
+- give me the price of [FNRG](symbol) yesterday
+- give me the price of [FNSR](symbol) yesterday
+- give me the price of [FOLD](symbol) yesterday
+- give me the price of [FOMX](symbol) yesterday
+- give me the price of [FONE](symbol) yesterday
+- give me the price of [FONR](symbol) yesterday
+- give me the price of [FORD](symbol) yesterday
+- give me the price of [FORM](symbol) yesterday
+- give me the price of [FORR](symbol) yesterday
+- give me the price of [FORTY](symbol) yesterday
+- give me the price of [FOSL](symbol) yesterday
+- give me the price of [FOX](symbol) yesterday
+- give me the price of [FOXA](symbol) yesterday
+- give me the price of [FOXF](symbol) yesterday
+- give me the price of [FPRX](symbol) yesterday
+- give me the price of [FPXI](symbol) yesterday
+- give me the price of [FRAN](symbol) yesterday
+- give me the price of [FRBA](symbol) yesterday
+- give me the price of [FRBK](symbol) yesterday
+- give me the price of [FRED](symbol) yesterday
+- give me the price of [FREE](symbol) yesterday
+- give me the price of [FRGI](symbol) yesterday
+- give me the price of [FRME](symbol) yesterday
+- give me the price of [FRP](symbol) yesterday
+- give me the price of [FRPH](symbol) yesterday
+- give me the price of [FRPHV](symbol) yesterday
+- give me the price of [FRPT](symbol) yesterday
+- give me the price of [FRSH](symbol) yesterday
+- give me the price of [FSAM](symbol) yesterday
+- give me the price of [FSBK](symbol) yesterday
+- give me the price of [FSBW](symbol) yesterday
+- give me the price of [FSC](symbol) yesterday
+- give me the price of [FSCFL](symbol) yesterday
+- give me the price of [FSFG](symbol) yesterday
+- give me the price of [FSFR](symbol) yesterday
+- give me the price of [FSGI](symbol) yesterday
+- give me the price of [FSLR](symbol) yesterday
+- give me the price of [FSNN](symbol) yesterday
+- give me the price of [FSRV](symbol) yesterday
+- give me the price of [FSTR](symbol) yesterday
+- give me the price of [FSYS](symbol) yesterday
+- give me the price of [FTCS](symbol) yesterday
+- give me the price of [FTD](symbol) yesterday
+- give me the price of [FTEK](symbol) yesterday
+- give me the price of [FTGC](symbol) yesterday
+- give me the price of [FTHI](symbol) yesterday
+- give me the price of [FTLB](symbol) yesterday
+- give me the price of [FTNT](symbol) yesterday
+- give me the price of [FTR](symbol) yesterday
+- give me the price of [FTSL](symbol) yesterday
+- give me the price of [FTSM](symbol) yesterday
+- give me the price of [FUEL](symbol) yesterday
+- give me the price of [FULL](symbol) yesterday
+- give me the price of [FULLL](symbol) yesterday
+- give me the price of [FULT](symbol) yesterday
+- give me the price of [FUNC](symbol) yesterday
+- give me the price of [FUND](symbol) yesterday
+- give me the price of [FV](symbol) yesterday
+- give me the price of [FWM](symbol) yesterday
+- give me the price of [FWP](symbol) yesterday
+- give me the price of [FWRD](symbol) yesterday
+- give me the price of [FXCB](symbol) yesterday
+- give me the price of [FXEN](symbol) yesterday
+- give me the price of [FXENP](symbol) yesterday
+- give me the price of [GABC](symbol) yesterday
+- give me the price of [GAI](symbol) yesterday
+- give me the price of [GAIA](symbol) yesterday
+- give me the price of [GAIN](symbol) yesterday
+- give me the price of [GAINO](symbol) yesterday
+- give me the price of [GAINP](symbol) yesterday
+- give me the price of [GALE](symbol) yesterday
+- give me the price of [GALT](symbol) yesterday
+- give me the price of [GALTU](symbol) yesterday
+- give me the price of [GALTW](symbol) yesterday
+- give me the price of [GAME](symbol) yesterday
+- give me the price of [GARS](symbol) yesterday
+- give me the price of [GASS](symbol) yesterday
+- give me the price of [GBCI](symbol) yesterday
+- give me the price of [GBDC](symbol) yesterday
+- give me the price of [GBIM](symbol) yesterday
+- give me the price of [GBLI](symbol) yesterday
+- give me the price of [GBNK](symbol) yesterday
+- give me the price of [GBSN](symbol) yesterday
+- give me the price of [GCBC](symbol) yesterday
+- give me the price of [GCVRZ](symbol) yesterday
+- give me the price of [GDEF](symbol) yesterday
+- give me the price of [GENC](symbol) yesterday
+- give me the price of [GENE](symbol) yesterday
+- give me the price of [GEOS](symbol) yesterday
+- give me the price of [GERN](symbol) yesterday
+- give me the price of [GEVA](symbol) yesterday
+- give me the price of [GEVO](symbol) yesterday
+- give me the price of [GFED](symbol) yesterday
+- give me the price of [GFN](symbol) yesterday
+- give me the price of [GFNCP](symbol) yesterday
+- give me the price of [GFNSL](symbol) yesterday
+- give me the price of [GGAC](symbol) yesterday
+- give me the price of [GGACR](symbol) yesterday
+- give me the price of [GGACU](symbol) yesterday
+- give me the price of [GGACW](symbol) yesterday
+- give me the price of [GGAL](symbol) yesterday
+- give me the price of [GHDX](symbol) yesterday
+- give me the price of [GIFI](symbol) yesterday
+- give me the price of [GIGA](symbol) yesterday
+- give me the price of [GIGM](symbol) yesterday
+- give me the price of [GIII](symbol) yesterday
+- give me the price of [GILD](symbol) yesterday
+- give me the price of [GILT](symbol) yesterday
+- give me the price of [GK](symbol) yesterday
+- give me the price of [GKNT](symbol) yesterday
+- give me the price of [GLAD](symbol) yesterday
+- give me the price of [GLADO](symbol) yesterday
+- give me the price of [GLBS](symbol) yesterday
+- give me the price of [GLBZ](symbol) yesterday
+- give me the price of [GLDC](symbol) yesterday
+- give me the price of [GLDD](symbol) yesterday
+- give me the price of [GLDI](symbol) yesterday
+- give me the price of [GLMD](symbol) yesterday
+- give me the price of [GLNG](symbol) yesterday
+- give me the price of [GLPI](symbol) yesterday
+- give me the price of [GLRE](symbol) yesterday
+- give me the price of [GLRI](symbol) yesterday
+- give me the price of [GLUU](symbol) yesterday
+- give me the price of [GLYC](symbol) yesterday
+- give me the price of [GMAN](symbol) yesterday
+- give me the price of [GMCR](symbol) yesterday
+- give me the price of [GMLP](symbol) yesterday
+- give me the price of [GNBC](symbol) yesterday
+- give me the price of [GNCA](symbol) yesterday
+- give me the price of [GNCMA](symbol) yesterday
+- give me the price of [GNMA](symbol) yesterday
+- give me the price of [GNMK](symbol) yesterday
+- give me the price of [GNTX](symbol) yesterday
+- give me the price of [GNVC](symbol) yesterday
+- give me the price of [GOGO](symbol) yesterday
+- give me the price of [GOLD](symbol) yesterday
+- give me the price of [GOMO](symbol) yesterday
+- give me the price of [GOOD](symbol) yesterday
+- give me the price of [GOODN](symbol) yesterday
+- give me the price of [GOODO](symbol) yesterday
+- give me the price of [GOODP](symbol) yesterday
+- give me the price of [GOOG](symbol) yesterday
+- give me the price of [GOOGL](symbol) yesterday
+- give me the price of [GPIC](symbol) yesterday
+- give me the price of [GPOR](symbol) yesterday
+- give me the price of [GPRE](symbol) yesterday
+- give me the price of [GPRO](symbol) yesterday
+- give me the price of [GRBK](symbol) yesterday
+- give me the price of [GRFS](symbol) yesterday
+- give me the price of [GRID](symbol) yesterday
+- give me the price of [GRIF](symbol) yesterday
+- give me the price of [GRMN](symbol) yesterday
+- give me the price of [GROW](symbol) yesterday
+- give me the price of [GRPN](symbol) yesterday
+- give me the price of [GRVY](symbol) yesterday
+- give me the price of [GSBC](symbol) yesterday
+- give me the price of [GSIG](symbol) yesterday
+- give me the price of [GSIT](symbol) yesterday
+- give me the price of [GSM](symbol) yesterday
+- give me the price of [GSOL](symbol) yesterday
+- give me the price of [GSVC](symbol) yesterday
+- give me the price of [GT](symbol) yesterday
+- give me the price of [GTIM](symbol) yesterday
+- give me the price of [GTIV](symbol) yesterday
+- give me the price of [GTLS](symbol) yesterday
+- give me the price of [GTWN](symbol) yesterday
+- give me the price of [GTXI](symbol) yesterday
+- give me the price of [GUID](symbol) yesterday
+- give me the price of [GULF](symbol) yesterday
+- give me the price of [GULTU](symbol) yesterday
+- give me the price of [GURE](symbol) yesterday
+- give me the price of [GWGH](symbol) yesterday
+- give me the price of [GWPH](symbol) yesterday
+- give me the price of [GYRO](symbol) yesterday
+- give me the price of [HA](symbol) yesterday
+- give me the price of [HABT](symbol) yesterday
+- give me the price of [HAFC](symbol) yesterday
+- give me the price of [HAIN](symbol) yesterday
+- give me the price of [HALL](symbol) yesterday
+- give me the price of [HALO](symbol) yesterday
+- give me the price of [HART](symbol) yesterday
+- give me the price of [HAS](symbol) yesterday
+- give me the price of [HAWK](symbol) yesterday
+- give me the price of [HAWKB](symbol) yesterday
+- give me the price of [HAYN](symbol) yesterday
+- give me the price of [HBAN](symbol) yesterday
+- give me the price of [HBANP](symbol) yesterday
+- give me the price of [HBCP](symbol) yesterday
+- give me the price of [HBHC](symbol) yesterday
+- give me the price of [HBIO](symbol) yesterday
+- give me the price of [HBK](symbol) yesterday
+- give me the price of [HBMD](symbol) yesterday
+- give me the price of [HBNC](symbol) yesterday
+- give me the price of [HBNK](symbol) yesterday
+- give me the price of [HBOS](symbol) yesterday
+- give me the price of [HBP](symbol) yesterday
+- give me the price of [HCAC](symbol) yesterday
+- give me the price of [HCACU](symbol) yesterday
+- give me the price of [HCACW](symbol) yesterday
+- give me the price of [HCAP](symbol) yesterday
+- give me the price of [HCBK](symbol) yesterday
+- give me the price of [HCCI](symbol) yesterday
+- give me the price of [HCKT](symbol) yesterday
+- give me the price of [HCOM](symbol) yesterday
+- give me the price of [HCSG](symbol) yesterday
+- give me the price of [HCT](symbol) yesterday
+- give me the price of [HDNG](symbol) yesterday
+- give me the price of [HDP](symbol) yesterday
+- give me the price of [HDRA](symbol) yesterday
+- give me the price of [HDRAR](symbol) yesterday
+- give me the price of [HDRAU](symbol) yesterday
+- give me the price of [HDRAW](symbol) yesterday
+- give me the price of [HDS](symbol) yesterday
+- give me the price of [HDSN](symbol) yesterday
+- give me the price of [HEAR](symbol) yesterday
+- give me the price of [HEES](symbol) yesterday
+- give me the price of [HELE](symbol) yesterday
+- give me the price of [HEOP](symbol) yesterday
+- give me the price of [HERO](symbol) yesterday
+- give me the price of [HFBC](symbol) yesterday
+- give me the price of [HFBL](symbol) yesterday
+- give me the price of [HFFC](symbol) yesterday
+- give me the price of [HFWA](symbol) yesterday
+- give me the price of [HGSH](symbol) yesterday
+- give me the price of [HIBB](symbol) yesterday
+- give me the price of [HIFS](symbol) yesterday
+- give me the price of [HIHO](symbol) yesterday
+- give me the price of [HIIQ](symbol) yesterday
+- give me the price of [HILL](symbol) yesterday
+- give me the price of [HIMX](symbol) yesterday
+- give me the price of [HKTV](symbol) yesterday
+- give me the price of [HLIT](symbol) yesterday
+- give me the price of [HLSS](symbol) yesterday
+- give me the price of [HMHC](symbol) yesterday
+- give me the price of [HMIN](symbol) yesterday
+- give me the price of [HMNF](symbol) yesterday
+- give me the price of [HMNY](symbol) yesterday
+- give me the price of [HMPR](symbol) yesterday
+- give me the price of [HMST](symbol) yesterday
+- give me the price of [HMSY](symbol) yesterday
+- give me the price of [HMTV](symbol) yesterday
+- give me the price of [HNH](symbol) yesterday
+- give me the price of [HNNA](symbol) yesterday
+- give me the price of [HNRG](symbol) yesterday
+- give me the price of [HNSN](symbol) yesterday
+- give me the price of [HOFT](symbol) yesterday
+- give me the price of [HOLI](symbol) yesterday
+- give me the price of [HOLX](symbol) yesterday
+- give me the price of [HOMB](symbol) yesterday
+- give me the price of [HOTR](symbol) yesterday
+- give me the price of [HOTRW](symbol) yesterday
+- give me the price of [HOVNP](symbol) yesterday
+- give me the price of [HPJ](symbol) yesterday
+- give me the price of [HPTX](symbol) yesterday
+- give me the price of [HQY](symbol) yesterday
+- give me the price of [HRTX](symbol) yesterday
+- give me the price of [HRZN](symbol) yesterday
+- give me the price of [HSGX](symbol) yesterday
+- give me the price of [HSIC](symbol) yesterday
+- give me the price of [HSII](symbol) yesterday
+- give me the price of [HSKA](symbol) yesterday
+- give me the price of [HSNI](symbol) yesterday
+- give me the price of [HSOL](symbol) yesterday
+- give me the price of [HSON](symbol) yesterday
+- give me the price of [HSTM](symbol) yesterday
+- give me the price of [HTBI](symbol) yesterday
+- give me the price of [HTBK](symbol) yesterday
+- give me the price of [HTBX](symbol) yesterday
+- give me the price of [HTCH](symbol) yesterday
+- give me the price of [HTHT](symbol) yesterday
+- give me the price of [HTLD](symbol) yesterday
+- give me the price of [HTLF](symbol) yesterday
+- give me the price of [HTWO](symbol) yesterday
+- give me the price of [HTWR](symbol) yesterday
+- give me the price of [HUBG](symbol) yesterday
+- give me the price of [HURC](symbol) yesterday
+- give me the price of [HURN](symbol) yesterday
+- give me the price of [HWAY](symbol) yesterday
+- give me the price of [HWBK](symbol) yesterday
+- give me the price of [HWCC](symbol) yesterday
+- give me the price of [HWKN](symbol) yesterday
+- give me the price of [HYGS](symbol) yesterday
+- give me the price of [HYLS](symbol) yesterday
+- give me the price of [HYND](symbol) yesterday
+- give me the price of [HYZD](symbol) yesterday
+- give me the price of [HZNP](symbol) yesterday
+- give me the price of [IACI](symbol) yesterday
+- give me the price of [IART](symbol) yesterday
+- give me the price of [IBB](symbol) yesterday
+- give me the price of [IBCA](symbol) yesterday
+- give me the price of [IBCP](symbol) yesterday
+- give me the price of [IBKC](symbol) yesterday
+- give me the price of [IBKR](symbol) yesterday
+- give me the price of [IBOC](symbol) yesterday
+- give me the price of [IBTX](symbol) yesterday
+- give me the price of [ICAD](symbol) yesterday
+- give me the price of [ICCC](symbol) yesterday
+- give me the price of [ICEL](symbol) yesterday
+- give me the price of [ICFI](symbol) yesterday
+- give me the price of [ICLD](symbol) yesterday
+- give me the price of [ICLDW](symbol) yesterday
+- give me the price of [ICLN](symbol) yesterday
+- give me the price of [ICLR](symbol) yesterday
+- give me the price of [ICON](symbol) yesterday
+- give me the price of [ICPT](symbol) yesterday
+- give me the price of [ICUI](symbol) yesterday
+- give me the price of [IDCC](symbol) yesterday
+- give me the price of [IDRA](symbol) yesterday
+- give me the price of [IDSA](symbol) yesterday
+- give me the price of [IDSY](symbol) yesterday
+- give me the price of [IDTI](symbol) yesterday
+- give me the price of [IDXX](symbol) yesterday
+- give me the price of [IEP](symbol) yesterday
+- give me the price of [IESC](symbol) yesterday
+- give me the price of [IEUS](symbol) yesterday
+- give me the price of [IFAS](symbol) yesterday
+- give me the price of [IFEU](symbol) yesterday
+- give me the price of [IFGL](symbol) yesterday
+- give me the price of [IFNA](symbol) yesterday
+- give me the price of [IFON](symbol) yesterday
+- give me the price of [IFV](symbol) yesterday
+- give me the price of [IGLD](symbol) yesterday
+- give me the price of [IGOV](symbol) yesterday
+- give me the price of [IGTE](symbol) yesterday
+- give me the price of [III](symbol) yesterday
+- give me the price of [IIIN](symbol) yesterday
+- give me the price of [IIJI](symbol) yesterday
+- give me the price of [IILG](symbol) yesterday
+- give me the price of [IIN](symbol) yesterday
+- give me the price of [IIVI](symbol) yesterday
+- give me the price of [IKAN](symbol) yesterday
+- give me the price of [IKGH](symbol) yesterday
+- give me the price of [IKNX](symbol) yesterday
+- give me the price of [ILMN](symbol) yesterday
+- give me the price of [IMDZ](symbol) yesterday
+- give me the price of [IMGN](symbol) yesterday
+- give me the price of [IMI](symbol) yesterday
+- give me the price of [IMKTA](symbol) yesterday
+- give me the price of [IMMR](symbol) yesterday
+- give me the price of [IMMU](symbol) yesterday
+- give me the price of [IMMY](symbol) yesterday
+- give me the price of [IMNP](symbol) yesterday
+- give me the price of [IMOS](symbol) yesterday
+- give me the price of [IMRS](symbol) yesterday
+- give me the price of [INAP](symbol) yesterday
+- give me the price of [INBK](symbol) yesterday
+- give me the price of [INCR](symbol) yesterday
+- give me the price of [INCY](symbol) yesterday
+- give me the price of [INDB](symbol) yesterday
+- give me the price of [INDY](symbol) yesterday
+- give me the price of [INFA](symbol) yesterday
+- give me the price of [INFI](symbol) yesterday
+- give me the price of [INFN](symbol) yesterday
+- give me the price of [INGN](symbol) yesterday
+- give me the price of [ININ](symbol) yesterday
+- give me the price of [INNL](symbol) yesterday
+- give me the price of [INO](symbol) yesterday
+- give me the price of [INOD](symbol) yesterday
+- give me the price of [INPH](symbol) yesterday
+- give me the price of [INSM](symbol) yesterday
+- give me the price of [INSY](symbol) yesterday
+- give me the price of [INTC](symbol) yesterday
+- give me the price of [INTG](symbol) yesterday
+- give me the price of [INTL](symbol) yesterday
+- give me the price of [INTLL](symbol) yesterday
+- give me the price of [INTU](symbol) yesterday
+- give me the price of [INTX](symbol) yesterday
+- give me the price of [INVE](symbol) yesterday
+- give me the price of [INVT](symbol) yesterday
+- give me the price of [INWK](symbol) yesterday
+- give me the price of [IOSP](symbol) yesterday
+- give me the price of [IPAR](symbol) yesterday
+- give me the price of [IPAS](symbol) yesterday
+- give me the price of [IPCC](symbol) yesterday
+- give me the price of [IPCI](symbol) yesterday
+- give me the price of [IPCM](symbol) yesterday
+- give me the price of [IPDN](symbol) yesterday
+- give me the price of [IPGP](symbol) yesterday
+- give me the price of [IPHS](symbol) yesterday
+- give me the price of [IPKW](symbol) yesterday
+- give me the price of [IPWR](symbol) yesterday
+- give me the price of [IPXL](symbol) yesterday
+- give me the price of [IQNT](symbol) yesterday
+- give me the price of [IRBT](symbol) yesterday
+- give me the price of [IRDM](symbol) yesterday
+- give me the price of [IRDMB](symbol) yesterday
+- give me the price of [IRDMZ](symbol) yesterday
+- give me the price of [IRG](symbol) yesterday
+- give me the price of [IRIX](symbol) yesterday
+- give me the price of [IRMD](symbol) yesterday
+- give me the price of [IROQ](symbol) yesterday
+- give me the price of [IRWD](symbol) yesterday
+- give me the price of [ISBC](symbol) yesterday
+- give me the price of [ISCA](symbol) yesterday
+- give me the price of [ISHG](symbol) yesterday
+- give me the price of [ISIG](symbol) yesterday
+- give me the price of [ISIL](symbol) yesterday
+- give me the price of [ISIS](symbol) yesterday
+- give me the price of [ISLE](symbol) yesterday
+- give me the price of [ISM](symbol) yesterday
+- give me the price of [ISNS](symbol) yesterday
+- give me the price of [ISRG](symbol) yesterday
+- give me the price of [ISRL](symbol) yesterday
+- give me the price of [ISSC](symbol) yesterday
+- give me the price of [ISSI](symbol) yesterday
+- give me the price of [ISTR](symbol) yesterday
+- give me the price of [ITCI](symbol) yesterday
+- give me the price of [ITIC](symbol) yesterday
+- give me the price of [ITRI](symbol) yesterday
+- give me the price of [ITRN](symbol) yesterday
+- give me the price of [IVAC](symbol) yesterday
+- give me the price of [IVAN](symbol) yesterday
+- give me the price of [IXYS](symbol) yesterday
+- give me the price of [JACK](symbol) yesterday
+- give me the price of [JACQ](symbol) yesterday
+- give me the price of [JACQU](symbol) yesterday
+- give me the price of [JACQW](symbol) yesterday
+- give me the price of [JAKK](symbol) yesterday
+- give me the price of [JASN](symbol) yesterday
+- give me the price of [JASNW](symbol) yesterday
+- give me the price of [JASO](symbol) yesterday
+- give me the price of [JAXB](symbol) yesterday
+- give me the price of [JAZZ](symbol) yesterday
+- give me the price of [JBHT](symbol) yesterday
+- give me the price of [JBLU](symbol) yesterday
+- give me the price of [JBSS](symbol) yesterday
+- give me the price of [JCOM](symbol) yesterday
+- give me the price of [JCS](symbol) yesterday
+- give me the price of [JCTCF](symbol) yesterday
+- give me the price of [JD](symbol) yesterday
+- give me the price of [JDSU](symbol) yesterday
+- give me the price of [JGBB](symbol) yesterday
+- give me the price of [JIVE](symbol) yesterday
+- give me the price of [JJSF](symbol) yesterday
+- give me the price of [JKHY](symbol) yesterday
+- give me the price of [JMBA](symbol) yesterday
+- give me the price of [JOBS](symbol) yesterday
+- give me the price of [JOEZ](symbol) yesterday
+- give me the price of [JOUT](symbol) yesterday
+- give me the price of [JRJC](symbol) yesterday
+- give me the price of [JRVR](symbol) yesterday
+- give me the price of [JSM](symbol) yesterday
+- give me the price of [JST](symbol) yesterday
+- give me the price of [JTPY](symbol) yesterday
+- give me the price of [JUNO](symbol) yesterday
+- give me the price of [JVA](symbol) yesterday
+- give me the price of [JXSB](symbol) yesterday
+- give me the price of [JYNT](symbol) yesterday
+- give me the price of [KALU](symbol) yesterday
+- give me the price of [KANG](symbol) yesterday
+- give me the price of [KBAL](symbol) yesterday
+- give me the price of [KBIO](symbol) yesterday
+- give me the price of [KBSF](symbol) yesterday
+- give me the price of [KCAP](symbol) yesterday
+- give me the price of [KCLI](symbol) yesterday
+- give me the price of [KE](symbol) yesterday
+- give me the price of [KELYA](symbol) yesterday
+- give me the price of [KELYB](symbol) yesterday
+- give me the price of [KEQU](symbol) yesterday
+- give me the price of [KERX](symbol) yesterday
+- give me the price of [KEYW](symbol) yesterday
+- give me the price of [KFFB](symbol) yesterday
+- give me the price of [KFRC](symbol) yesterday
+- give me the price of [KFX](symbol) yesterday
+- give me the price of [KGJI](symbol) yesterday
+- give me the price of [KIN](symbol) yesterday
+- give me the price of [KINS](symbol) yesterday
+- give me the price of [KIRK](symbol) yesterday
+- give me the price of [KITE](symbol) yesterday
+- give me the price of [KLAC](symbol) yesterday
+- give me the price of [KLIC](symbol) yesterday
+- give me the price of [KLXI](symbol) yesterday
+- give me the price of [KMDA](symbol) yesterday
+- give me the price of [KNDI](symbol) yesterday
+- give me the price of [KONA](symbol) yesterday
+- give me the price of [KONE](symbol) yesterday
+- give me the price of [KOOL](symbol) yesterday
+- give me the price of [KOPN](symbol) yesterday
+- give me the price of [KOSS](symbol) yesterday
+- give me the price of [KPTI](symbol) yesterday
+- give me the price of [KRFT](symbol) yesterday
+- give me the price of [KRNY](symbol) yesterday
+- give me the price of [KTCC](symbol) yesterday
+- give me the price of [KTEC](symbol) yesterday
+- give me the price of [KTOS](symbol) yesterday
+- give me the price of [KTWO](symbol) yesterday
+- give me the price of [KUTV](symbol) yesterday
+- give me the price of [KVHI](symbol) yesterday
+- give me the price of [KWEB](symbol) yesterday
+- give me the price of [KYTH](symbol) yesterday
+- give me the price of [KZ](symbol) yesterday
+- give me the price of [LABC](symbol) yesterday
+- give me the price of [LABL](symbol) yesterday
+- give me the price of [LACO](symbol) yesterday
+- give me the price of [LAKE](symbol) yesterday
+- give me the price of [LALT](symbol) yesterday
+- give me the price of [LAMR](symbol) yesterday
+- give me the price of [LANC](symbol) yesterday
+- give me the price of [LAND](symbol) yesterday
+- give me the price of [LARK](symbol) yesterday
+- give me the price of [LAWS](symbol) yesterday
+- give me the price of [LAYN](symbol) yesterday
+- give me the price of [LBAI](symbol) yesterday
+- give me the price of [LBIX](symbol) yesterday
+- give me the price of [LBRDA](symbol) yesterday
+- give me the price of [LBRDK](symbol) yesterday
+- give me the price of [LBRKR](symbol) yesterday
+- give me the price of [LBTYA](symbol) yesterday
+- give me the price of [LBTYB](symbol) yesterday
+- give me the price of [LBTYK](symbol) yesterday
+- give me the price of [LCNB](symbol) yesterday
+- give me the price of [LCUT](symbol) yesterday
+- give me the price of [LDRH](symbol) yesterday
+- give me the price of [LDRI](symbol) yesterday
+- give me the price of [LE](symbol) yesterday
+- give me the price of [LECO](symbol) yesterday
+- give me the price of [LEDS](symbol) yesterday
+- give me the price of [LEVY](symbol) yesterday
+- give me the price of [LEVYU](symbol) yesterday
+- give me the price of [LEVYW](symbol) yesterday
+- give me the price of [LFUS](symbol) yesterday
+- give me the price of [LFVN](symbol) yesterday
+- give me the price of [LGCY](symbol) yesterday
+- give me the price of [LGCYO](symbol) yesterday
+- give me the price of [LGCYP](symbol) yesterday
+- give me the price of [LGIH](symbol) yesterday
+- give me the price of [LGND](symbol) yesterday
+- give me the price of [LHCG](symbol) yesterday
+- give me the price of [LIME](symbol) yesterday
+- give me the price of [LINC](symbol) yesterday
+- give me the price of [LINE](symbol) yesterday
+- give me the price of [LION](symbol) yesterday
+- give me the price of [LIOX](symbol) yesterday
+- give me the price of [LIQD](symbol) yesterday
+- give me the price of [LIVE](symbol) yesterday
+- give me the price of [LJPC](symbol) yesterday
+- give me the price of [LKFN](symbol) yesterday
+- give me the price of [LKQ](symbol) yesterday
+- give me the price of [LLEX](symbol) yesterday
+- give me the price of [LLNW](symbol) yesterday
+- give me the price of [LLTC](symbol) yesterday
+- give me the price of [LMAT](symbol) yesterday
+- give me the price of [LMBS](symbol) yesterday
+- give me the price of [LMCA](symbol) yesterday
+- give me the price of [LMCB](symbol) yesterday
+- give me the price of [LMCK](symbol) yesterday
+- give me the price of [LMIA](symbol) yesterday
+- give me the price of [LMNR](symbol) yesterday
+- give me the price of [LMNS](symbol) yesterday
+- give me the price of [LMNX](symbol) yesterday
+- give me the price of [LMOS](symbol) yesterday
+- give me the price of [LMRK](symbol) yesterday
+- give me the price of [LNBB](symbol) yesterday
+- give me the price of [LNCE](symbol) yesterday
+- give me the price of [LNCO](symbol) yesterday
+- give me the price of [LNDC](symbol) yesterday
+- give me the price of [LOAN](symbol) yesterday
+- give me the price of [LOCM](symbol) yesterday
+- give me the price of [LOCO](symbol) yesterday
+- give me the price of [LOGI](symbol) yesterday
+- give me the price of [LOGM](symbol) yesterday
+- give me the price of [LOJN](symbol) yesterday
+- give me the price of [LONG](symbol) yesterday
+- give me the price of [LOOK](symbol) yesterday
+- give me the price of [LOPE](symbol) yesterday
+- give me the price of [LORL](symbol) yesterday
+- give me the price of [LOXO](symbol) yesterday
+- give me the price of [LPCN](symbol) yesterday
+- give me the price of [LPHI](symbol) yesterday
+- give me the price of [LPLA](symbol) yesterday
+- give me the price of [LPNT](symbol) yesterday
+- give me the price of [LPSB](symbol) yesterday
+- give me the price of [LPSN](symbol) yesterday
+- give me the price of [LPTH](symbol) yesterday
+- give me the price of [LPTN](symbol) yesterday
+- give me the price of [LQDT](symbol) yesterday
+- give me the price of [LRAD](symbol) yesterday
+- give me the price of [LRCX](symbol) yesterday
+- give me the price of [LSBK](symbol) yesterday
+- give me the price of [LSCC](symbol) yesterday
+- give me the price of [LSTR](symbol) yesterday
+- give me the price of [LTBR](symbol) yesterday
+- give me the price of [LTRE](symbol) yesterday
+- give me the price of [LTRPA](symbol) yesterday
+- give me the price of [LTRPB](symbol) yesterday
+- give me the price of [LTRX](symbol) yesterday
+- give me the price of [LTXB](symbol) yesterday
+- give me the price of [LULU](symbol) yesterday
+- give me the price of [LUNA](symbol) yesterday
+- give me the price of [LVNTA](symbol) yesterday
+- give me the price of [LVNTB](symbol) yesterday
+- give me the price of [LWAY](symbol) yesterday
+- give me the price of [LXRX](symbol) yesterday
+- give me the price of [LYTS](symbol) yesterday
+- give me the price of [MACK](symbol) yesterday
+- give me the price of [MAG](symbol) yesterday
+- give me the price of [MAGS](symbol) yesterday
+- give me the price of [MAMS](symbol) yesterday
+- give me the price of [MANH](symbol) yesterday
+- give me the price of [MANT](symbol) yesterday
+- give me the price of [MAR](symbol) yesterday
+- give me the price of [MARA](symbol) yesterday
+- give me the price of [MARK](symbol) yesterday
+- give me the price of [MARPS](symbol) yesterday
+- give me the price of [MASI](symbol) yesterday
+- give me the price of [MAT](symbol) yesterday
+- give me the price of [MATR](symbol) yesterday
+- give me the price of [MATW](symbol) yesterday
+- give me the price of [MAYS](symbol) yesterday
+- give me the price of [MBCN](symbol) yesterday
+- give me the price of [MBFI](symbol) yesterday
+- give me the price of [MBFIP](symbol) yesterday
+- give me the price of [MBII](symbol) yesterday
+- give me the price of [MBLX](symbol) yesterday
+- give me the price of [MBRG](symbol) yesterday
+- give me the price of [MBSD](symbol) yesterday
+- give me the price of [MBTF](symbol) yesterday
+- give me the price of [MBUU](symbol) yesterday
+- give me the price of [MBVT](symbol) yesterday
+- give me the price of [MBWM](symbol) yesterday
+- give me the price of [MCBC](symbol) yesterday
+- give me the price of [MCBK](symbol) yesterday
+- give me the price of [MCEP](symbol) yesterday
+- give me the price of [MCGC](symbol) yesterday
+- give me the price of [MCHP](symbol) yesterday
+- give me the price of [MCHX](symbol) yesterday
+- give me the price of [MCOX](symbol) yesterday
+- give me the price of [MCRI](symbol) yesterday
+- give me the price of [MCRL](symbol) yesterday
+- give me the price of [MCUR](symbol) yesterday
+- give me the price of [MDAS](symbol) yesterday
+- give me the price of [MDCA](symbol) yesterday
+- give me the price of [MDCO](symbol) yesterday
+- give me the price of [MDIV](symbol) yesterday
+- give me the price of [MDLZ](symbol) yesterday
+- give me the price of [MDM](symbol) yesterday
+- give me the price of [MDRX](symbol) yesterday
+- give me the price of [MDSO](symbol) yesterday
+- give me the price of [MDSY](symbol) yesterday
+- give me the price of [MDVN](symbol) yesterday
+- give me the price of [MDVXU](symbol) yesterday
+- give me the price of [MDWD](symbol) yesterday
+- give me the price of [MDXG](symbol) yesterday
+- give me the price of [MEET](symbol) yesterday
+- give me the price of [MEIL](symbol) yesterday
+- give me the price of [MEILW](symbol) yesterday
+- give me the price of [MEILZ](symbol) yesterday
+- give me the price of [MEIP](symbol) yesterday
+- give me the price of [MELA](symbol) yesterday
+- give me the price of [MELI](symbol) yesterday
+- give me the price of [MELR](symbol) yesterday
+- give me the price of [MEMP](symbol) yesterday
+- give me the price of [MENT](symbol) yesterday
+- give me the price of [MEOH](symbol) yesterday
+- give me the price of [MERC](symbol) yesterday
+- give me the price of [MERU](symbol) yesterday
+- give me the price of [METR](symbol) yesterday
+- give me the price of [MFI](symbol) yesterday
+- give me the price of [MFLX](symbol) yesterday
+- give me the price of [MFNC](symbol) yesterday
+- give me the price of [MFRI](symbol) yesterday
+- give me the price of [MFRM](symbol) yesterday
+- give me the price of [MFSF](symbol) yesterday
+- give me the price of [MGCD](symbol) yesterday
+- give me the price of [MGEE](symbol) yesterday
+- give me the price of [MGI](symbol) yesterday
+- give me the price of [MGIC](symbol) yesterday
+- give me the price of [MGLN](symbol) yesterday
+- give me the price of [MGNX](symbol) yesterday
+- give me the price of [MGPI](symbol) yesterday
+- give me the price of [MGRC](symbol) yesterday
+- give me the price of [MGYR](symbol) yesterday
+- give me the price of [MHGC](symbol) yesterday
+- give me the price of [MHLD](symbol) yesterday
+- give me the price of [MHLDO](symbol) yesterday
+- give me the price of [MICT](symbol) yesterday
+- give me the price of [MICTW](symbol) yesterday
+- give me the price of [MIDD](symbol) yesterday
+- give me the price of [MIFI](symbol) yesterday
+- give me the price of [MIK](symbol) yesterday
+- give me the price of [MIND](symbol) yesterday
+- give me the price of [MINI](symbol) yesterday
+- give me the price of [MITK](symbol) yesterday
+- give me the price of [MITL](symbol) yesterday
+- give me the price of [MKSI](symbol) yesterday
+- give me the price of [MKTO](symbol) yesterday
+- give me the price of [MKTX](symbol) yesterday
+- give me the price of [MLAB](symbol) yesterday
+- give me the price of [MLHR](symbol) yesterday
+- give me the price of [MLNK](symbol) yesterday
+- give me the price of [MLNX](symbol) yesterday
+- give me the price of [MLVF](symbol) yesterday
+- give me the price of [MMAC](symbol) yesterday
+- give me the price of [MMLP](symbol) yesterday
+- give me the price of [MMSI](symbol) yesterday
+- give me the price of [MMYT](symbol) yesterday
+- give me the price of [MNDL](symbol) yesterday
+- give me the price of [MNDO](symbol) yesterday
+- give me the price of [MNGA](symbol) yesterday
+- give me the price of [MNKD](symbol) yesterday
+- give me the price of [MNOV](symbol) yesterday
+- give me the price of [MNRK](symbol) yesterday
+- give me the price of [MNRO](symbol) yesterday
+- give me the price of [MNST](symbol) yesterday
+- give me the price of [MNTA](symbol) yesterday
+- give me the price of [MNTX](symbol) yesterday
+- give me the price of [MOBI](symbol) yesterday
+- give me the price of [MOBL](symbol) yesterday
+- give me the price of [MOCO](symbol) yesterday
+- give me the price of [MOFG](symbol) yesterday
+- give me the price of [MOKO](symbol) yesterday
+- give me the price of [MOLG](symbol) yesterday
+- give me the price of [MOMO](symbol) yesterday
+- give me the price of [MORN](symbol) yesterday
+- give me the price of [MOSY](symbol) yesterday
+- give me the price of [MPAA](symbol) yesterday
+- give me the price of [MPB](symbol) yesterday
+- give me the price of [MPEL](symbol) yesterday
+- give me the price of [MPET](symbol) yesterday
+- give me the price of [MPWR](symbol) yesterday
+- give me the price of [MRCC](symbol) yesterday
+- give me the price of [MRCY](symbol) yesterday
+- give me the price of [MRD](symbol) yesterday
+- give me the price of [MRGE](symbol) yesterday
+- give me the price of [MRKT](symbol) yesterday
+- give me the price of [MRLN](symbol) yesterday
+- give me the price of [MRNS](symbol) yesterday
+- give me the price of [MRTN](symbol) yesterday
+- give me the price of [MRTX](symbol) yesterday
+- give me the price of [MRVC](symbol) yesterday
+- give me the price of [MRVL](symbol) yesterday
+- give me the price of [MSBF](symbol) yesterday
+- give me the price of [MSCC](symbol) yesterday
+- give me the price of [MSEX](symbol) yesterday
+- give me the price of [MSFG](symbol) yesterday
+- give me the price of [MSFT](symbol) yesterday
+- give me the price of [MSG](symbol) yesterday
+- give me the price of [MSLI](symbol) yesterday
+- give me the price of [MSON](symbol) yesterday
+- give me the price of [MSTR](symbol) yesterday
+- give me the price of [MTBC](symbol) yesterday
+- give me the price of [MTEX](symbol) yesterday
+- give me the price of [MTGE](symbol) yesterday
+- give me the price of [MTGEP](symbol) yesterday
+- give me the price of [MTLS](symbol) yesterday
+- give me the price of [MTRX](symbol) yesterday
+- give me the price of [MTSC](symbol) yesterday
+- give me the price of [MTSI](symbol) yesterday
+- give me the price of [MTSL](symbol) yesterday
+- give me the price of [MTSN](symbol) yesterday
+- give me the price of [MU](symbol) yesterday
+- give me the price of [MULT](symbol) yesterday
+- give me the price of [MVIS](symbol) yesterday
+- give me the price of [MWIV](symbol) yesterday
+- give me the price of [MXIM](symbol) yesterday
+- give me the price of [MXWL](symbol) yesterday
+- give me the price of [MYGN](symbol) yesterday
+- give me the price of [MYL](symbol) yesterday
+- give me the price of [MYOS](symbol) yesterday
+- give me the price of [MYRG](symbol) yesterday
+- give me the price of [MZOR](symbol) yesterday
+- give me the price of [NAII](symbol) yesterday
+- give me the price of [NAME](symbol) yesterday
+- give me the price of [NANO](symbol) yesterday
+- give me the price of [NATH](symbol) yesterday
+- give me the price of [NATI](symbol) yesterday
+- give me the price of [NATL](symbol) yesterday
+- give me the price of [NATR](symbol) yesterday
+- give me the price of [NAUH](symbol) yesterday
+- give me the price of [NAVG](symbol) yesterday
+- give me the price of [NAVI](symbol) yesterday
+- give me the price of [NBBC](symbol) yesterday
+- give me the price of [NBIX](symbol) yesterday
+- give me the price of [NBN](symbol) yesterday
+- give me the price of [NBS](symbol) yesterday
+- give me the price of [NBTB](symbol) yesterday
+- give me the price of [NBTF](symbol) yesterday
+- give me the price of [NCIT](symbol) yesterday
+- give me the price of [NCLH](symbol) yesterday
+- give me the price of [NCMI](symbol) yesterday
+- give me the price of [NCTY](symbol) yesterday
+- give me the price of [NDAQ](symbol) yesterday
+- give me the price of [NDLS](symbol) yesterday
+- give me the price of [NDRM](symbol) yesterday
+- give me the price of [NDSN](symbol) yesterday
+- give me the price of [NECB](symbol) yesterday
+- give me the price of [NEO](symbol) yesterday
+- give me the price of [NEOG](symbol) yesterday
+- give me the price of [NEON](symbol) yesterday
+- give me the price of [NEOT](symbol) yesterday
+- give me the price of [NEPT](symbol) yesterday
+- give me the price of [NERV](symbol) yesterday
+- give me the price of [NETE](symbol) yesterday
+- give me the price of [NEWP](symbol) yesterday
+- give me the price of [NEWS](symbol) yesterday
+- give me the price of [NEWT](symbol) yesterday
+- give me the price of [NFBK](symbol) yesterday
+- give me the price of [NFEC](symbol) yesterday
+- give me the price of [NFLX](symbol) yesterday
+- give me the price of [NGHC](symbol) yesterday
+- give me the price of [NGHCP](symbol) yesterday
+- give me the price of [NHTB](symbol) yesterday
+- give me the price of [NICE](symbol) yesterday
+- give me the price of [NICK](symbol) yesterday
+- give me the price of [NILE](symbol) yesterday
+- give me the price of [NKSH](symbol) yesterday
+- give me the price of [NKTR](symbol) yesterday
+- give me the price of [NLNK](symbol) yesterday
+- give me the price of [NLST](symbol) yesterday
+- give me the price of [NMIH](symbol) yesterday
+- give me the price of [NMRX](symbol) yesterday
+- give me the price of [NNBR](symbol) yesterday
+- give me the price of [NPBC](symbol) yesterday
+- give me the price of [NPSP](symbol) yesterday
+- give me the price of [NRCIA](symbol) yesterday
+- give me the price of [NRCIB](symbol) yesterday
+- give me the price of [NRIM](symbol) yesterday
+- give me the price of [NRX](symbol) yesterday
+- give me the price of [NSEC](symbol) yesterday
+- give me the price of [NSIT](symbol) yesterday
+- give me the price of [NSPH](symbol) yesterday
+- give me the price of [NSSC](symbol) yesterday
+- give me the price of [NSTG](symbol) yesterday
+- give me the price of [NSYS](symbol) yesterday
+- give me the price of [NTAP](symbol) yesterday
+- give me the price of [NTCT](symbol) yesterday
+- give me the price of [NTES](symbol) yesterday
+- give me the price of [NTGR](symbol) yesterday
+- give me the price of [NTIC](symbol) yesterday
+- give me the price of [NTK](symbol) yesterday
+- give me the price of [NTLS](symbol) yesterday
+- give me the price of [NTRI](symbol) yesterday
+- give me the price of [NTRS](symbol) yesterday
+- give me the price of [NTRSP](symbol) yesterday
+- give me the price of [NTWK](symbol) yesterday
+- give me the price of [NUAN](symbol) yesterday
+- give me the price of [NURO](symbol) yesterday
+- give me the price of [NUTR](symbol) yesterday
+- give me the price of [NUVA](symbol) yesterday
+- give me the price of [NVAX](symbol) yesterday
+- give me the price of [NVCN](symbol) yesterday
+- give me the price of [NVDA](symbol) yesterday
+- give me the price of [NVDQ](symbol) yesterday
+- give me the price of [NVEC](symbol) yesterday
+- give me the price of [NVEE](symbol) yesterday
+- give me the price of [NVEEW](symbol) yesterday
+- give me the price of [NVFY](symbol) yesterday
+- give me the price of [NVGN](symbol) yesterday
+- give me the price of [NVMI](symbol) yesterday
+- give me the price of [NVSL](symbol) yesterday
+- give me the price of [NWBI](symbol) yesterday
+- give me the price of [NWBO](symbol) yesterday
+- give me the price of [NWBOW](symbol) yesterday
+- give me the price of [NWFL](symbol) yesterday
+- give me the price of [NWLI](symbol) yesterday
+- give me the price of [NWPX](symbol) yesterday
+- give me the price of [NWS](symbol) yesterday
+- give me the price of [NWSA](symbol) yesterday
+- give me the price of [NXPI](symbol) yesterday
+- give me the price of [NXST](symbol) yesterday
+- give me the price of [NXTD](symbol) yesterday
+- give me the price of [NXTDW](symbol) yesterday
+- give me the price of [NXTM](symbol) yesterday
+- give me the price of [NYMT](symbol) yesterday
+- give me the price of [NYMTP](symbol) yesterday
+- give me the price of [NYMX](symbol) yesterday
+- give me the price of [NYNY](symbol) yesterday
+- give me the price of [OBAS](symbol) yesterday
+- give me the price of [OBCI](symbol) yesterday
+- give me the price of [OCC](symbol) yesterday
+- give me the price of [OCFC](symbol) yesterday
+- give me the price of [OCLR](symbol) yesterday
+- give me the price of [OCLS](symbol) yesterday
+- give me the price of [OCRX](symbol) yesterday
+- give me the price of [OCUL](symbol) yesterday
+- give me the price of [ODFL](symbol) yesterday
+- give me the price of [ODP](symbol) yesterday
+- give me the price of [OFED](symbol) yesterday
+- give me the price of [OFIX](symbol) yesterday
+- give me the price of [OFLX](symbol) yesterday
+- give me the price of [OFS](symbol) yesterday
+- give me the price of [OGXI](symbol) yesterday
+- give me the price of [OHAI](symbol) yesterday
+- give me the price of [OHGI](symbol) yesterday
+- give me the price of [OHRP](symbol) yesterday
+- give me the price of [OIIM](symbol) yesterday
+- give me the price of [OKSB](symbol) yesterday
+- give me the price of [OLBK](symbol) yesterday
+- give me the price of [OLED](symbol) yesterday
+- give me the price of [OMAB](symbol) yesterday
+- give me the price of [OMCL](symbol) yesterday
+- give me the price of [OMED](symbol) yesterday
+- give me the price of [OMER](symbol) yesterday
+- give me the price of [OMEX](symbol) yesterday
+- give me the price of [ONB](symbol) yesterday
+- give me the price of [ONCY](symbol) yesterday
+- give me the price of [ONEQ](symbol) yesterday
+- give me the price of [ONFC](symbol) yesterday
+- give me the price of [ONNN](symbol) yesterday
+- give me the price of [ONTX](symbol) yesterday
+- give me the price of [ONTY](symbol) yesterday
+- give me the price of [ONVI](symbol) yesterday
+- give me the price of [OPB](symbol) yesterday
+- give me the price of [OPHC](symbol) yesterday
+- give me the price of [OPHT](symbol) yesterday
+- give me the price of [OPOF](symbol) yesterday
+- give me the price of [OPTT](symbol) yesterday
+- give me the price of [OPXA](symbol) yesterday
+- give me the price of [ORBC](symbol) yesterday
+- give me the price of [ORBK](symbol) yesterday
+- give me the price of [OREX](symbol) yesterday
+- give me the price of [ORIG](symbol) yesterday
+- give me the price of [ORIT](symbol) yesterday
+- give me the price of [ORLY](symbol) yesterday
+- give me the price of [ORMP](symbol) yesterday
+- give me the price of [ORPN](symbol) yesterday
+- give me the price of [ORRF](symbol) yesterday
+- give me the price of [OSBC](symbol) yesterday
+- give me the price of [OSBCP](symbol) yesterday
+- give me the price of [OSHC](symbol) yesterday
+- give me the price of [OSIR](symbol) yesterday
+- give me the price of [OSIS](symbol) yesterday
+- give me the price of [OSM](symbol) yesterday
+- give me the price of [OSN](symbol) yesterday
+- give me the price of [OSTK](symbol) yesterday
+- give me the price of [OSUR](symbol) yesterday
+- give me the price of [OTEL](symbol) yesterday
+- give me the price of [OTEX](symbol) yesterday
+- give me the price of [OTIC](symbol) yesterday
+- give me the price of [OTIV](symbol) yesterday
+- give me the price of [OTTR](symbol) yesterday
+- give me the price of [OUTR](symbol) yesterday
+- give me the price of [OVAS](symbol) yesterday
+- give me the price of [OVBC](symbol) yesterday
+- give me the price of [OVLY](symbol) yesterday
+- give me the price of [OVTI](symbol) yesterday
+- give me the price of [OXBR](symbol) yesterday
+- give me the price of [OXBRW](symbol) yesterday
+- give me the price of [OXFD](symbol) yesterday
+- give me the price of [OXGN](symbol) yesterday
+- give me the price of [OXLC](symbol) yesterday
+- give me the price of [OXLCN](symbol) yesterday
+- give me the price of [OXLCO](symbol) yesterday
+- give me the price of [OXLCP](symbol) yesterday
+- give me the price of [OZRK](symbol) yesterday
+- give me the price of [PAAS](symbol) yesterday
+- give me the price of [PACB](symbol) yesterday
+- give me the price of [PACW](symbol) yesterday
+- give me the price of [PAGG](symbol) yesterday
+- give me the price of [PAHC](symbol) yesterday
+- give me the price of [PANL](symbol) yesterday
+- give me the price of [PARN](symbol) yesterday
+- give me the price of [PATIV](symbol) yesterday
+- give me the price of [PATK](symbol) yesterday
+- give me the price of [PAYX](symbol) yesterday
+- give me the price of [PBCP](symbol) yesterday
+- give me the price of [PBCT](symbol) yesterday
+- give me the price of [PBHC](symbol) yesterday
+- give me the price of [PBIB](symbol) yesterday
+- give me the price of [PBIP](symbol) yesterday
+- give me the price of [PBMD](symbol) yesterday
+- give me the price of [PBPB](symbol) yesterday
+- give me the price of [PBSK](symbol) yesterday
+- give me the price of [PCAR](symbol) yesterday
+- give me the price of [PCBK](symbol) yesterday
+- give me the price of [PCCC](symbol) yesterday
+- give me the price of [PCH](symbol) yesterday
+- give me the price of [PCLN](symbol) yesterday
+- give me the price of [PCMI](symbol) yesterday
+- give me the price of [PCO](symbol) yesterday
+- give me the price of [PCOM](symbol) yesterday
+- give me the price of [PCRX](symbol) yesterday
+- give me the price of [PCTI](symbol) yesterday
+- give me the price of [PCTY](symbol) yesterday
+- give me the price of [PCYC](symbol) yesterday
+- give me the price of [PCYG](symbol) yesterday
+- give me the price of [PCYO](symbol) yesterday
+- give me the price of [PDBC](symbol) yesterday
+- give me the price of [PDCE](symbol) yesterday
+- give me the price of [PDCO](symbol) yesterday
+- give me the price of [PDEX](symbol) yesterday
+- give me the price of [PDFS](symbol) yesterday
+- give me the price of [PDII](symbol) yesterday
+- give me the price of [PDLI](symbol) yesterday
+- give me the price of [PEBK](symbol) yesterday
+- give me the price of [PEBO](symbol) yesterday
+- give me the price of [PEGA](symbol) yesterday
+- give me the price of [PEGI](symbol) yesterday
+- give me the price of [PEIX](symbol) yesterday
+- give me the price of [PENN](symbol) yesterday
+- give me the price of [PENX](symbol) yesterday
+- give me the price of [PEOP](symbol) yesterday
+- give me the price of [PERF](symbol) yesterday
+- give me the price of [PERI](symbol) yesterday
+- give me the price of [PERY](symbol) yesterday
+- give me the price of [PESI](symbol) yesterday
+- give me the price of [PETM](symbol) yesterday
+- give me the price of [PETS](symbol) yesterday
+- give me the price of [PETX](symbol) yesterday
+- give me the price of [PFBC](symbol) yesterday
+- give me the price of [PFBI](symbol) yesterday
+- give me the price of [PFBX](symbol) yesterday
+- give me the price of [PFIE](symbol) yesterday
+- give me the price of [PFIN](symbol) yesterday
+- give me the price of [PFIS](symbol) yesterday
+- give me the price of [PFLT](symbol) yesterday
+- give me the price of [PFMT](symbol) yesterday
+- give me the price of [PFPT](symbol) yesterday
+- give me the price of [PFSW](symbol) yesterday
+- give me the price of [PGC](symbol) yesterday
+- give me the price of [PGNX](symbol) yesterday
+- give me the price of [PGTI](symbol) yesterday
+- give me the price of [PHII](symbol) yesterday
+- give me the price of [PHIIK](symbol) yesterday
+- give me the price of [PHMD](symbol) yesterday
+- give me the price of [PICO](symbol) yesterday
+- give me the price of [PIH](symbol) yesterday
+- give me the price of [PINC](symbol) yesterday
+- give me the price of [PKBK](symbol) yesterday
+- give me the price of [PKOH](symbol) yesterday
+- give me the price of [PKT](symbol) yesterday
+- give me the price of [PLAB](symbol) yesterday
+- give me the price of [PLAY](symbol) yesterday
+- give me the price of [PLBC](symbol) yesterday
+- give me the price of [PLCE](symbol) yesterday
+- give me the price of [PLCM](symbol) yesterday
+- give me the price of [PLKI](symbol) yesterday
+- give me the price of [PLMT](symbol) yesterday
+- give me the price of [PLNR](symbol) yesterday
+- give me the price of [PLPC](symbol) yesterday
+- give me the price of [PLPM](symbol) yesterday
+- give me the price of [PLTM](symbol) yesterday
+- give me the price of [PLUG](symbol) yesterday
+- give me the price of [PLUS](symbol) yesterday
+- give me the price of [PLXS](symbol) yesterday
+- give me the price of [PMBC](symbol) yesterday
+- give me the price of [PMCS](symbol) yesterday
+- give me the price of [PMD](symbol) yesterday
+- give me the price of [PME](symbol) yesterday
+- give me the price of [PMFG](symbol) yesterday
+- give me the price of [PNBK](symbol) yesterday
+- give me the price of [PNFP](symbol) yesterday
+- give me the price of [PNNT](symbol) yesterday
+- give me the price of [PNQI](symbol) yesterday
+- give me the price of [PNRA](symbol) yesterday
+- give me the price of [PNRG](symbol) yesterday
+- give me the price of [PNTR](symbol) yesterday
+- give me the price of [PODD](symbol) yesterday
+- give me the price of [POOL](symbol) yesterday
+- give me the price of [POPE](symbol) yesterday
+- give me the price of [POWI](symbol) yesterday
+- give me the price of [POWL](symbol) yesterday
+- give me the price of [POZN](symbol) yesterday
+- give me the price of [PPBI](symbol) yesterday
+- give me the price of [PPC](symbol) yesterday
+- give me the price of [PPHM](symbol) yesterday
+- give me the price of [PPHMP](symbol) yesterday
+- give me the price of [PPSI](symbol) yesterday
+- give me the price of [PRAA](symbol) yesterday
+- give me the price of [PRAH](symbol) yesterday
+- give me the price of [PRAN](symbol) yesterday
+- give me the price of [PRCP](symbol) yesterday
+- give me the price of [PRFT](symbol) yesterday
+- give me the price of [PRFZ](symbol) yesterday
+- give me the price of [PRGN](symbol) yesterday
+- give me the price of [PRGNL](symbol) yesterday
+- give me the price of [PRGS](symbol) yesterday
+- give me the price of [PRGX](symbol) yesterday
+- give me the price of [PRIM](symbol) yesterday
+- give me the price of [PRKR](symbol) yesterday
+- give me the price of [PRLS](symbol) yesterday
+- give me the price of [PRMW](symbol) yesterday
+- give me the price of [PROV](symbol) yesterday
+- give me the price of [PRPH](symbol) yesterday
+- give me the price of [PRQR](symbol) yesterday
+- give me the price of [PRSC](symbol) yesterday
+- give me the price of [PRSS](symbol) yesterday
+- give me the price of [PRTA](symbol) yesterday
+- give me the price of [PRTK](symbol) yesterday
+- give me the price of [PRTO](symbol) yesterday
+- give me the price of [PRTS](symbol) yesterday
+- give me the price of [PRXI](symbol) yesterday
+- give me the price of [PRXL](symbol) yesterday
+- give me the price of [PSAU](symbol) yesterday
+- give me the price of [PSBH](symbol) yesterday
+- give me the price of [PSCC](symbol) yesterday
+- give me the price of [PSCD](symbol) yesterday
+- give me the price of [PSCE](symbol) yesterday
+- give me the price of [PSCF](symbol) yesterday
+- give me the price of [PSCH](symbol) yesterday
+- give me the price of [PSCI](symbol) yesterday
+- give me the price of [PSCM](symbol) yesterday
+- give me the price of [PSCT](symbol) yesterday
+- give me the price of [PSCU](symbol) yesterday
+- give me the price of [PSDV](symbol) yesterday
+- give me the price of [PSEC](symbol) yesterday
+- give me the price of [PSEM](symbol) yesterday
+- give me the price of [PSIX](symbol) yesterday
+- give me the price of [PSMT](symbol) yesterday
+- give me the price of [PSTB](symbol) yesterday
+- give me the price of [PSTI](symbol) yesterday
+- give me the price of [PSTR](symbol) yesterday
+- give me the price of [PSUN](symbol) yesterday
+- give me the price of [PTBI](symbol) yesterday
+- give me the price of [PTBIW](symbol) yesterday
+- give me the price of [PTC](symbol) yesterday
+- give me the price of [PTCT](symbol) yesterday
+- give me the price of [PTEN](symbol) yesterday
+- give me the price of [PTIE](symbol) yesterday
+- give me the price of [PTLA](symbol) yesterday
+- give me the price of [PTNR](symbol) yesterday
+- give me the price of [PTNT](symbol) yesterday
+- give me the price of [PTRY](symbol) yesterday
+- give me the price of [PTSI](symbol) yesterday
+- give me the price of [PTX](symbol) yesterday
+- give me the price of [PULB](symbol) yesterday
+- give me the price of [PVTB](symbol) yesterday
+- give me the price of [PVTBP](symbol) yesterday
+- give me the price of [PWOD](symbol) yesterday
+- give me the price of [PWRD](symbol) yesterday
+- give me the price of [PWX](symbol) yesterday
+- give me the price of [PXLW](symbol) yesterday
+- give me the price of [PZZA](symbol) yesterday
+- give me the price of [QABA](symbol) yesterday
+- give me the price of [QADA](symbol) yesterday
+- give me the price of [QADB](symbol) yesterday
+- give me the price of [QAT](symbol) yesterday
+- give me the price of [QBAK](symbol) yesterday
+- give me the price of [QCCO](symbol) yesterday
+- give me the price of [QCLN](symbol) yesterday
+- give me the price of [QCOM](symbol) yesterday
+- give me the price of [QCRH](symbol) yesterday
+- give me the price of [QDEL](symbol) yesterday
+- give me the price of [QGEN](symbol) yesterday
+- give me the price of [QINC](symbol) yesterday
+- give me the price of [QIWI](symbol) yesterday
+- give me the price of [QKLS](symbol) yesterday
+- give me the price of [QLGC](symbol) yesterday
+- give me the price of [QLIK](symbol) yesterday
+- give me the price of [QLTI](symbol) yesterday
+- give me the price of [QLTY](symbol) yesterday
+- give me the price of [QLYS](symbol) yesterday
+- give me the price of [QNST](symbol) yesterday
+- give me the price of [QQEW](symbol) yesterday
+- give me the price of [QQQ](symbol) yesterday
+- give me the price of [QQQC](symbol) yesterday
+- give me the price of [QQQX](symbol) yesterday
+- give me the price of [QQXT](symbol) yesterday
+- give me the price of [QRHC](symbol) yesterday
+- give me the price of [QRVO](symbol) yesterday
+- give me the price of [QSII](symbol) yesterday
+- give me the price of [QTEC](symbol) yesterday
+- give me the price of [QTNT](symbol) yesterday
+- give me the price of [QTNTW](symbol) yesterday
+- give me the price of [QTWW](symbol) yesterday
+- give me the price of [QUIK](symbol) yesterday
+- give me the price of [QUMU](symbol) yesterday
+- give me the price of [QUNR](symbol) yesterday
+- give me the price of [QURE](symbol) yesterday
+- give me the price of [QVCA](symbol) yesterday
+- give me the price of [QVCB](symbol) yesterday
+- give me the price of [QYLD](symbol) yesterday
+- give me the price of [RADA](symbol) yesterday
+- give me the price of [RAIL](symbol) yesterday
+- give me the price of [RAND](symbol) yesterday
+- give me the price of [RARE](symbol) yesterday
+- give me the price of [RAVE](symbol) yesterday
+- give me the price of [RAVN](symbol) yesterday
+- give me the price of [RBCAA](symbol) yesterday
+- give me the price of [RBCN](symbol) yesterday
+- give me the price of [RBPAA](symbol) yesterday
+- give me the price of [RCII](symbol) yesterday
+- give me the price of [RCKY](symbol) yesterday
+- give me the price of [RCMT](symbol) yesterday
+- give me the price of [RCON](symbol) yesterday
+- give me the price of [RCPI](symbol) yesterday
+- give me the price of [RCPT](symbol) yesterday
+- give me the price of [RDCM](symbol) yesterday
+- give me the price of [RDEN](symbol) yesterday
+- give me the price of [RDHL](symbol) yesterday
+- give me the price of [RDI](symbol) yesterday
+- give me the price of [RDIB](symbol) yesterday
+- give me the price of [RDNT](symbol) yesterday
+- give me the price of [RDUS](symbol) yesterday
+- give me the price of [RDVY](symbol) yesterday
+- give me the price of [RDWR](symbol) yesterday
+- give me the price of [RECN](symbol) yesterday
+- give me the price of [REDF](symbol) yesterday
+- give me the price of [REFR](symbol) yesterday
+- give me the price of [REGI](symbol) yesterday
+- give me the price of [REGN](symbol) yesterday
+- give me the price of [REIS](symbol) yesterday
+- give me the price of [RELL](symbol) yesterday
+- give me the price of [RELV](symbol) yesterday
+- give me the price of [REMY](symbol) yesterday
+- give me the price of [RENT](symbol) yesterday
+- give me the price of [REPH](symbol) yesterday
+- give me the price of [RESN](symbol) yesterday
+- give me the price of [REXI](symbol) yesterday
+- give me the price of [REXX](symbol) yesterday
+- give me the price of [RFIL](symbol) yesterday
+- give me the price of [RGCO](symbol) yesterday
+- give me the price of [RGDO](symbol) yesterday
+- give me the price of [RGDX](symbol) yesterday
+- give me the price of [RGEN](symbol) yesterday
+- give me the price of [RGLD](symbol) yesterday
+- give me the price of [RGLS](symbol) yesterday
+- give me the price of [RGSE](symbol) yesterday
+- give me the price of [RIBT](symbol) yesterday
+- give me the price of [RIBTW](symbol) yesterday
+- give me the price of [RICK](symbol) yesterday
+- give me the price of [RIGL](symbol) yesterday
+- give me the price of [RITT](symbol) yesterday
+- give me the price of [RITTW](symbol) yesterday
+- give me the price of [RIVR](symbol) yesterday
+- give me the price of [RJET](symbol) yesterday
+- give me the price of [RLJE](symbol) yesterday
+- give me the price of [RLOC](symbol) yesterday
+- give me the price of [RLOG](symbol) yesterday
+- give me the price of [RLYP](symbol) yesterday
+- give me the price of [RMBS](symbol) yesterday
+- give me the price of [RMCF](symbol) yesterday
+- give me the price of [RMGN](symbol) yesterday
+- give me the price of [RMTI](symbol) yesterday
+- give me the price of [RNA](symbol) yesterday
+- give me the price of [RNET](symbol) yesterday
+- give me the price of [RNST](symbol) yesterday
+- give me the price of [RNWK](symbol) yesterday
+- give me the price of [ROBO](symbol) yesterday
+- give me the price of [ROCK](symbol) yesterday
+- give me the price of [ROIA](symbol) yesterday
+- give me the price of [ROIAK](symbol) yesterday
+- give me the price of [ROIC](symbol) yesterday
+- give me the price of [ROIQ](symbol) yesterday
+- give me the price of [ROIQU](symbol) yesterday
+- give me the price of [ROIQW](symbol) yesterday
+- give me the price of [ROKA](symbol) yesterday
+- give me the price of [ROLL](symbol) yesterday
+- give me the price of [ROSE](symbol) yesterday
+- give me the price of [ROSG](symbol) yesterday
+- give me the price of [ROST](symbol) yesterday
+- give me the price of [ROVI](symbol) yesterday
+- give me the price of [ROYL](symbol) yesterday
+- give me the price of [RP](symbol) yesterday
+- give me the price of [RPRX](symbol) yesterday
+- give me the price of [RPRXW](symbol) yesterday
+- give me the price of [RPRXZ](symbol) yesterday
+- give me the price of [RPTP](symbol) yesterday
+- give me the price of [RPXC](symbol) yesterday
+- give me the price of [RRD](symbol) yesterday
+- give me the price of [RRGB](symbol) yesterday
+- give me the price of [RRST](symbol) yesterday
+- give me the price of [RSTI](symbol) yesterday
+- give me the price of [RSYS](symbol) yesterday
+- give me the price of [RTGN](symbol) yesterday
+- give me the price of [RTIX](symbol) yesterday
+- give me the price of [RTK](symbol) yesterday
+- give me the price of [RTRX](symbol) yesterday
+- give me the price of [RUSHA](symbol) yesterday
+- give me the price of [RUSHB](symbol) yesterday
+- give me the price of [RUTH](symbol) yesterday
+- give me the price of [RVBD](symbol) yesterday
+- give me the price of [RVLT](symbol) yesterday
+- give me the price of [RVNC](symbol) yesterday
+- give me the price of [RVSB](symbol) yesterday
+- give me the price of [RWLK](symbol) yesterday
+- give me the price of [RXDX](symbol) yesterday
+- give me the price of [RXII](symbol) yesterday
+- give me the price of [RYAAY](symbol) yesterday
+- give me the price of [SAAS](symbol) yesterday
+- give me the price of [SABR](symbol) yesterday
+- give me the price of [SAEX](symbol) yesterday
+- give me the price of [SAFM](symbol) yesterday
+- give me the price of [SAFT](symbol) yesterday
+- give me the price of [SAGE](symbol) yesterday
+- give me the price of [SAIA](symbol) yesterday
+- give me the price of [SAJA](symbol) yesterday
+- give me the price of [SAL](symbol) yesterday
+- give me the price of [SALE](symbol) yesterday
+- give me the price of [SALM](symbol) yesterday
+- give me the price of [SAMG](symbol) yesterday
+- give me the price of [SANM](symbol) yesterday
+- give me the price of [SANW](symbol) yesterday
+- give me the price of [SANWZ](symbol) yesterday
+- give me the price of [SAPE](symbol) yesterday
+- give me the price of [SASR](symbol) yesterday
+- give me the price of [SATS](symbol) yesterday
+- give me the price of [SAVE](symbol) yesterday
+- give me the price of [SBAC](symbol) yesterday
+- give me the price of [SBBX](symbol) yesterday
+- give me the price of [SBCF](symbol) yesterday
+- give me the price of [SBCP](symbol) yesterday
+- give me the price of [SBFG](symbol) yesterday
+- give me the price of [SBGI](symbol) yesterday
+- give me the price of [SBLK](symbol) yesterday
+- give me the price of [SBLKL](symbol) yesterday
+- give me the price of [SBNY](symbol) yesterday
+- give me the price of [SBNYW](symbol) yesterday
+- give me the price of [SBRA](symbol) yesterday
+- give me the price of [SBRAP](symbol) yesterday
+- give me the price of [SBSA](symbol) yesterday
+- give me the price of [SBSI](symbol) yesterday
+- give me the price of [SBUX](symbol) yesterday
+- give me the price of [SCAI](symbol) yesterday
+- give me the price of [SCHL](symbol) yesterday
+- give me the price of [SCHN](symbol) yesterday
+- give me the price of [SCLN](symbol) yesterday
+- give me the price of [SCMP](symbol) yesterday
+- give me the price of [SCOK](symbol) yesterday
+- give me the price of [SCON](symbol) yesterday
+- give me the price of [SCOR](symbol) yesterday
+- give me the price of [SCSC](symbol) yesterday
+- give me the price of [SCSS](symbol) yesterday
+- give me the price of [SCTY](symbol) yesterday
+- give me the price of [SCVL](symbol) yesterday
+- give me the price of [SCYX](symbol) yesterday
+- give me the price of [SEAC](symbol) yesterday
+- give me the price of [SEED](symbol) yesterday
+- give me the price of [SEIC](symbol) yesterday
+- give me the price of [SEMI](symbol) yesterday
+- give me the price of [SENEA](symbol) yesterday
+- give me the price of [SENEB](symbol) yesterday
+- give me the price of [SEV](symbol) yesterday
+- give me the price of [SFBC](symbol) yesterday
+- give me the price of [SFBS](symbol) yesterday
+- give me the price of [SFLY](symbol) yesterday
+- give me the price of [SFM](symbol) yesterday
+- give me the price of [SFNC](symbol) yesterday
+- give me the price of [SFST](symbol) yesterday
+- give me the price of [SFXE](symbol) yesterday
+- give me the price of [SGBK](symbol) yesterday
+- give me the price of [SGC](symbol) yesterday
+- give me the price of [SGEN](symbol) yesterday
+- give me the price of [SGI](symbol) yesterday
+- give me the price of [SGMA](symbol) yesterday
+- give me the price of [SGMO](symbol) yesterday
+- give me the price of [SGMS](symbol) yesterday
+- give me the price of [SGNL](symbol) yesterday
+- give me the price of [SGNT](symbol) yesterday
+- give me the price of [SGOC](symbol) yesterday
+- give me the price of [SGRP](symbol) yesterday
+- give me the price of [SGYP](symbol) yesterday
+- give me the price of [SGYPU](symbol) yesterday
+- give me the price of [SGYPW](symbol) yesterday
+- give me the price of [SHBI](symbol) yesterday
+- give me the price of [SHEN](symbol) yesterday
+- give me the price of [SHIP](symbol) yesterday
+- give me the price of [SHLD](symbol) yesterday
+- give me the price of [SHLDW](symbol) yesterday
+- give me the price of [SHLM](symbol) yesterday
+- give me the price of [SHLO](symbol) yesterday
+- give me the price of [SHOO](symbol) yesterday
+- give me the price of [SHOR](symbol) yesterday
+- give me the price of [SHOS](symbol) yesterday
+- give me the price of [SHPG](symbol) yesterday
+- give me the price of [SIAL](symbol) yesterday
+- give me the price of [SIBC](symbol) yesterday
+- give me the price of [SIEB](symbol) yesterday
+- give me the price of [SIEN](symbol) yesterday
+- give me the price of [SIFI](symbol) yesterday
+- give me the price of [SIFY](symbol) yesterday
+- give me the price of [SIGA](symbol) yesterday
+- give me the price of [SIGI](symbol) yesterday
+- give me the price of [SIGM](symbol) yesterday
+- give me the price of [SILC](symbol) yesterday
+- give me the price of [SIMG](symbol) yesterday
+- give me the price of [SIMO](symbol) yesterday
+- give me the price of [SINA](symbol) yesterday
+- give me the price of [SINO](symbol) yesterday
+- give me the price of [SIRI](symbol) yesterday
+- give me the price of [SIRO](symbol) yesterday
+- give me the price of [SIVB](symbol) yesterday
+- give me the price of [SIVBO](symbol) yesterday
+- give me the price of [SIXD](symbol) yesterday
+- give me the price of [SKBI](symbol) yesterday
+- give me the price of [SKIS](symbol) yesterday
+- give me the price of [SKOR](symbol) yesterday
+- give me the price of [SKUL](symbol) yesterday
+- give me the price of [SKYS](symbol) yesterday
+- give me the price of [SKYW](symbol) yesterday
+- give me the price of [SKYY](symbol) yesterday
+- give me the price of [SLAB](symbol) yesterday
+- give me the price of [SLCT](symbol) yesterday
+- give me the price of [SLGN](symbol) yesterday
+- give me the price of [SLM](symbol) yesterday
+- give me the price of [SLMAP](symbol) yesterday
+- give me the price of [SLMBP](symbol) yesterday
+- give me the price of [SLP](symbol) yesterday
+- give me the price of [SLRC](symbol) yesterday
+- give me the price of [SLTC](symbol) yesterday
+- give me the price of [SLVO](symbol) yesterday
+- give me the price of [SLXP](symbol) yesterday
+- give me the price of [SMAC](symbol) yesterday
+- give me the price of [SMACR](symbol) yesterday
+- give me the price of [SMACU](symbol) yesterday
+- give me the price of [SMBC](symbol) yesterday
+- give me the price of [SMCI](symbol) yesterday
+- give me the price of [SMED](symbol) yesterday
+- give me the price of [SMIT](symbol) yesterday
+- give me the price of [SMLR](symbol) yesterday
+- give me the price of [SMMF](symbol) yesterday
+- give me the price of [SMPL](symbol) yesterday
+- give me the price of [SMRT](symbol) yesterday
+- give me the price of [SMSI](symbol) yesterday
+- give me the price of [SMT](symbol) yesterday
+- give me the price of [SMTC](symbol) yesterday
+- give me the price of [SMTP](symbol) yesterday
+- give me the price of [SMTX](symbol) yesterday
+- give me the price of [SNAK](symbol) yesterday
+- give me the price of [SNBC](symbol) yesterday
+- give me the price of [SNC](symbol) yesterday
+- give me the price of [SNCR](symbol) yesterday
+- give me the price of [SNDK](symbol) yesterday
+- give me the price of [SNFCA](symbol) yesterday
+- give me the price of [SNHY](symbol) yesterday
+- give me the price of [SNMX](symbol) yesterday
+- give me the price of [SNPS](symbol) yesterday
+- give me the price of [SNSS](symbol) yesterday
+- give me the price of [SNTA](symbol) yesterday
+- give me the price of [SOCB](symbol) yesterday
+- give me the price of [SOCL](symbol) yesterday
+- give me the price of [SODA](symbol) yesterday
+- give me the price of [SOFO](symbol) yesterday
+- give me the price of [SOHO](symbol) yesterday
+- give me the price of [SOHOL](symbol) yesterday
+- give me the price of [SOHOM](symbol) yesterday
+- give me the price of [SOHU](symbol) yesterday
+- give me the price of [SONA](symbol) yesterday
+- give me the price of [SONC](symbol) yesterday
+- give me the price of [SONS](symbol) yesterday
+- give me the price of [SORL](symbol) yesterday
+- give me the price of [SOXX](symbol) yesterday
+- give me the price of [SP](symbol) yesterday
+- give me the price of [SPAN](symbol) yesterday
+- give me the price of [SPAR](symbol) yesterday
+- give me the price of [SPCB](symbol) yesterday
+- give me the price of [SPDC](symbol) yesterday
+- give me the price of [SPEX](symbol) yesterday
+- give me the price of [SPHS](symbol) yesterday
+- give me the price of [SPIL](symbol) yesterday
+- give me the price of [SPKE](symbol) yesterday
+- give me the price of [SPLK](symbol) yesterday
+- give me the price of [SPLS](symbol) yesterday
+- give me the price of [SPNC](symbol) yesterday
+- give me the price of [SPNS](symbol) yesterday
+- give me the price of [SPOK](symbol) yesterday
+- give me the price of [SPPI](symbol) yesterday
+- give me the price of [SPPR](symbol) yesterday
+- give me the price of [SPPRO](symbol) yesterday
+- give me the price of [SPPRP](symbol) yesterday
+- give me the price of [SPRO](symbol) yesterday
+- give me the price of [SPRT](symbol) yesterday
+- give me the price of [SPSC](symbol) yesterday
+- give me the price of [SPTN](symbol) yesterday
+- give me the price of [SPU](symbol) yesterday
+- give me the price of [SPWH](symbol) yesterday
+- give me the price of [SPWR](symbol) yesterday
+- give me the price of [SQBG](symbol) yesterday
+- give me the price of [SQBK](symbol) yesterday
+- give me the price of [SQI](symbol) yesterday
+- give me the price of [SQNM](symbol) yesterday
+- give me the price of [SQQQ](symbol) yesterday
+- give me the price of [SRCE](symbol) yesterday
+- give me the price of [SRCL](symbol) yesterday
+- give me the price of [SRDX](symbol) yesterday
+- give me the price of [SREV](symbol) yesterday
+- give me the price of [SRNE](symbol) yesterday
+- give me the price of [SRPT](symbol) yesterday
+- give me the price of [SRSC](symbol) yesterday
+- give me the price of [SSB](symbol) yesterday
+- give me the price of [SSBI](symbol) yesterday
+- give me the price of [SSFN](symbol) yesterday
+- give me the price of [SSH](symbol) yesterday
+- give me the price of [SSNC](symbol) yesterday
+- give me the price of [SSRG](symbol) yesterday
+- give me the price of [SSRI](symbol) yesterday
+- give me the price of [SSYS](symbol) yesterday
+- give me the price of [STAA](symbol) yesterday
+- give me the price of [STB](symbol) yesterday
+- give me the price of [STBA](symbol) yesterday
+- give me the price of [STBZ](symbol) yesterday
+- give me the price of [STCK](symbol) yesterday
+- give me the price of [STEM](symbol) yesterday
+- give me the price of [STFC](symbol) yesterday
+- give me the price of [STKL](symbol) yesterday
+- give me the price of [STLD](symbol) yesterday
+- give me the price of [STLY](symbol) yesterday
+- give me the price of [STML](symbol) yesterday
+- give me the price of [STMP](symbol) yesterday
+- give me the price of [STNR](symbol) yesterday
+- give me the price of [STPP](symbol) yesterday
+- give me the price of [STRA](symbol) yesterday
+- give me the price of [STRL](symbol) yesterday
+- give me the price of [STRM](symbol) yesterday
+- give me the price of [STRN](symbol) yesterday
+- give me the price of [STRS](symbol) yesterday
+- give me the price of [STRT](symbol) yesterday
+- give me the price of [STRZA](symbol) yesterday
+- give me the price of [STRZB](symbol) yesterday
+- give me the price of [STX](symbol) yesterday
+- give me the price of [STXS](symbol) yesterday
+- give me the price of [SUBK](symbol) yesterday
+- give me the price of [SUMR](symbol) yesterday
+- give me the price of [SUNS](symbol) yesterday
+- give me the price of [SUPN](symbol) yesterday
+- give me the price of [SURG](symbol) yesterday
+- give me the price of [SUSQ](symbol) yesterday
+- give me the price of [SUTR](symbol) yesterday
+- give me the price of [SVA](symbol) yesterday
+- give me the price of [SVBI](symbol) yesterday
+- give me the price of [SVVC](symbol) yesterday
+- give me the price of [SWHC](symbol) yesterday
+- give me the price of [SWIR](symbol) yesterday
+- give me the price of [SWKS](symbol) yesterday
+- give me the price of [SWSH](symbol) yesterday
+- give me the price of [SYBT](symbol) yesterday
+- give me the price of [SYKE](symbol) yesterday
+- give me the price of [SYMC](symbol) yesterday
+- give me the price of [SYMX](symbol) yesterday
+- give me the price of [SYNA](symbol) yesterday
+- give me the price of [SYNC](symbol) yesterday
+- give me the price of [SYNL](symbol) yesterday
+- give me the price of [SYNT](symbol) yesterday
+- give me the price of [SYPR](symbol) yesterday
+- give me the price of [SYRX](symbol) yesterday
+- give me the price of [SYUT](symbol) yesterday
+- give me the price of [SZMK](symbol) yesterday
+- give me the price of [SZYM](symbol) yesterday
+- give me the price of [TACT](symbol) yesterday
+- give me the price of [TAIT](symbol) yesterday
+- give me the price of [TAPR](symbol) yesterday
+- give me the price of [TASR](symbol) yesterday
+- give me the price of [TAST](symbol) yesterday
+- give me the price of [TATT](symbol) yesterday
+- give me the price of [TAX](symbol) yesterday
+- give me the price of [TAXI](symbol) yesterday
+- give me the price of [TAYD](symbol) yesterday
+- give me the price of [TBBK](symbol) yesterday
+- give me the price of [TBIO](symbol) yesterday
+- give me the price of [TBK](symbol) yesterday
+- give me the price of [TBNK](symbol) yesterday
+- give me the price of [TBPH](symbol) yesterday
+- give me the price of [TCBI](symbol) yesterday
+- give me the price of [TCBIL](symbol) yesterday
+- give me the price of [TCBIP](symbol) yesterday
+- give me the price of [TCBIW](symbol) yesterday
+- give me the price of [TCBK](symbol) yesterday
+- give me the price of [TCCO](symbol) yesterday
+- give me the price of [TCFC](symbol) yesterday
+- give me the price of [TCPC](symbol) yesterday
+- give me the price of [TCRD](symbol) yesterday
+- give me the price of [TCX](symbol) yesterday
+- give me the price of [TDIV](symbol) yesterday
+- give me the price of [TEAR](symbol) yesterday
+- give me the price of [TECD](symbol) yesterday
+- give me the price of [TECH](symbol) yesterday
+- give me the price of [TECU](symbol) yesterday
+- give me the price of [TEDU](symbol) yesterday
+- give me the price of [TENX](symbol) yesterday
+- give me the price of [TERP](symbol) yesterday
+- give me the price of [TESO](symbol) yesterday
+- give me the price of [TESS](symbol) yesterday
+- give me the price of [TFM](symbol) yesterday
+- give me the price of [TFSC](symbol) yesterday
+- give me the price of [TFSCR](symbol) yesterday
+- give me the price of [TFSCU](symbol) yesterday
+- give me the price of [TFSCW](symbol) yesterday
+- give me the price of [TFSL](symbol) yesterday
+- give me the price of [TGA](symbol) yesterday
+- give me the price of [TGE](symbol) yesterday
+- give me the price of [TGEN](symbol) yesterday
+- give me the price of [TGLS](symbol) yesterday
+- give me the price of [TGTX](symbol) yesterday
+- give me the price of [THFF](symbol) yesterday
+- give me the price of [THLD](symbol) yesterday
+- give me the price of [THOR](symbol) yesterday
+- give me the price of [THRM](symbol) yesterday
+- give me the price of [THRX](symbol) yesterday
+- give me the price of [THST](symbol) yesterday
+- give me the price of [THTI](symbol) yesterday
+- give me the price of [TICC](symbol) yesterday
+- give me the price of [TIGR](symbol) yesterday
+- give me the price of [TILE](symbol) yesterday
+- give me the price of [TINY](symbol) yesterday
+- give me the price of [TIPT](symbol) yesterday
+- give me the price of [TISA](symbol) yesterday
+- give me the price of [TITN](symbol) yesterday
+- give me the price of [TIVO](symbol) yesterday
+- give me the price of [TKAI](symbol) yesterday
+- give me the price of [TKMR](symbol) yesterday
+- give me the price of [TLF](symbol) yesterday
+- give me the price of [TLMR](symbol) yesterday
+- give me the price of [TLOG](symbol) yesterday
+- give me the price of [TNAV](symbol) yesterday
+- give me the price of [TNDM](symbol) yesterday
+- give me the price of [TNGO](symbol) yesterday
+- give me the price of [TNXP](symbol) yesterday
+- give me the price of [TOPS](symbol) yesterday
+- give me the price of [TORM](symbol) yesterday
+- give me the price of [TOUR](symbol) yesterday
+- give me the price of [TOWN](symbol) yesterday
+- give me the price of [TQQQ](symbol) yesterday
+- give me the price of [TRAK](symbol) yesterday
+- give me the price of [TRCB](symbol) yesterday
+- give me the price of [TRCH](symbol) yesterday
+- give me the price of [TREE](symbol) yesterday
+- give me the price of [TRGT](symbol) yesterday
+- give me the price of [TRIB](symbol) yesterday
+- give me the price of [TRIL](symbol) yesterday
+- give me the price of [TRIP](symbol) yesterday
+- give me the price of [TRIV](symbol) yesterday
+- give me the price of [TRMB](symbol) yesterday
+- give me the price of [TRMK](symbol) yesterday
+- give me the price of [TRNS](symbol) yesterday
+- give me the price of [TRNX](symbol) yesterday
+- give me the price of [TROV](symbol) yesterday
+- give me the price of [TROVU](symbol) yesterday
+- give me the price of [TROVW](symbol) yesterday
+- give me the price of [TROW](symbol) yesterday
+- give me the price of [TRS](symbol) yesterday
+- give me the price of [TRST](symbol) yesterday
+- give me the price of [TRTL](symbol) yesterday
+- give me the price of [TRTLU](symbol) yesterday
+- give me the price of [TRTLW](symbol) yesterday
+- give me the price of [TRUE](symbol) yesterday
+- give me the price of [TRVN](symbol) yesterday
+- give me the price of [TSBK](symbol) yesterday
+- give me the price of [TSC](symbol) yesterday
+- give me the price of [TSCO](symbol) yesterday
+- give me the price of [TSEM](symbol) yesterday
+- give me the price of [TSLA](symbol) yesterday
+- give me the price of [TSRA](symbol) yesterday
+- give me the price of [TSRE](symbol) yesterday
+- give me the price of [TSRI](symbol) yesterday
+- give me the price of [TSRO](symbol) yesterday
+- give me the price of [TST](symbol) yesterday
+- give me the price of [TSYS](symbol) yesterday
+- give me the price of [TTEC](symbol) yesterday
+- give me the price of [TTEK](symbol) yesterday
+- give me the price of [TTGT](symbol) yesterday
+- give me the price of [TTHI](symbol) yesterday
+- give me the price of [TTMI](symbol) yesterday
+- give me the price of [TTOO](symbol) yesterday
+- give me the price of [TTPH](symbol) yesterday
+- give me the price of [TTS](symbol) yesterday
+- give me the price of [TTWO](symbol) yesterday
+- give me the price of [TUBE](symbol) yesterday
+- give me the price of [TUES](symbol) yesterday
+- give me the price of [TUSA](symbol) yesterday
+- give me the price of [TVIX](symbol) yesterday
+- give me the price of [TVIZ](symbol) yesterday
+- give me the price of [TWER](symbol) yesterday
+- give me the price of [TWIN](symbol) yesterday
+- give me the price of [TWMC](symbol) yesterday
+- give me the price of [TWOU](symbol) yesterday
+- give me the price of [TXN](symbol) yesterday
+- give me the price of [TXRH](symbol) yesterday
+- give me the price of [TYPE](symbol) yesterday
+- give me the price of [TZOO](symbol) yesterday
+- give me the price of [UACL](symbol) yesterday
+- give me the price of [UAE](symbol) yesterday
+- give me the price of [UBCP](symbol) yesterday
+- give me the price of [UBFO](symbol) yesterday
+- give me the price of [UBIC](symbol) yesterday
+- give me the price of [UBNK](symbol) yesterday
+- give me the price of [UBNT](symbol) yesterday
+- give me the price of [UBOH](symbol) yesterday
+- give me the price of [UBSH](symbol) yesterday
+- give me the price of [UBSI](symbol) yesterday
+- give me the price of [UCBA](symbol) yesterday
+- give me the price of [UCBI](symbol) yesterday
+- give me the price of [UCFC](symbol) yesterday
+- give me the price of [UCTT](symbol) yesterday
+- give me the price of [UDF](symbol) yesterday
+- give me the price of [UEIC](symbol) yesterday
+- give me the price of [UEPS](symbol) yesterday
+- give me the price of [UFCS](symbol) yesterday
+- give me the price of [UFPI](symbol) yesterday
+- give me the price of [UFPT](symbol) yesterday
+- give me the price of [UG](symbol) yesterday
+- give me the price of [UGLD](symbol) yesterday
+- give me the price of [UHAL](symbol) yesterday
+- give me the price of [UIHC](symbol) yesterday
+- give me the price of [ULBI](symbol) yesterday
+- give me the price of [ULTA](symbol) yesterday
+- give me the price of [ULTI](symbol) yesterday
+- give me the price of [ULTR](symbol) yesterday
+- give me the price of [UMBF](symbol) yesterday
+- give me the price of [UMPQ](symbol) yesterday
+- give me the price of [UNAM](symbol) yesterday
+- give me the price of [UNB](symbol) yesterday
+- give me the price of [UNFI](symbol) yesterday
+- give me the price of [UNIS](symbol) yesterday
+- give me the price of [UNTD](symbol) yesterday
+- give me the price of [UNTY](symbol) yesterday
+- give me the price of [UNXL](symbol) yesterday
+- give me the price of [UPI](symbol) yesterday
+- give me the price of [UPIP](symbol) yesterday
+- give me the price of [UPLD](symbol) yesterday
+- give me the price of [URBN](symbol) yesterday
+- give me the price of [URRE](symbol) yesterday
+- give me the price of [USAK](symbol) yesterday
+- give me the price of [USAP](symbol) yesterday
+- give me the price of [USAT](symbol) yesterday
+- give me the price of [USATP](symbol) yesterday
+- give me the price of [USBI](symbol) yesterday
+- give me the price of [USCR](symbol) yesterday
+- give me the price of [USEG](symbol) yesterday
+- give me the price of [USLM](symbol) yesterday
+- give me the price of [USLV](symbol) yesterday
+- give me the price of [USMD](symbol) yesterday
+- give me the price of [USTR](symbol) yesterday
+- give me the price of [UTEK](symbol) yesterday
+- give me the price of [UTHR](symbol) yesterday
+- give me the price of [UTIW](symbol) yesterday
+- give me the price of [UTMD](symbol) yesterday
+- give me the price of [UTSI](symbol) yesterday
+- give me the price of [UVSP](symbol) yesterday
+- give me the price of [VA](symbol) yesterday
+- give me the price of [VALU](symbol) yesterday
+- give me the price of [VALX](symbol) yesterday
+- give me the price of [VASC](symbol) yesterday
+- give me the price of [VBFC](symbol) yesterday
+- give me the price of [VBIV](symbol) yesterday
+- give me the price of [VBLT](symbol) yesterday
+- give me the price of [VBND](symbol) yesterday
+- give me the price of [VBTX](symbol) yesterday
+- give me the price of [VCEL](symbol) yesterday
+- give me the price of [VCIT](symbol) yesterday
+- give me the price of [VCLT](symbol) yesterday
+- give me the price of [VCSH](symbol) yesterday
+- give me the price of [VCYT](symbol) yesterday
+- give me the price of [VDSI](symbol) yesterday
+- give me the price of [VECO](symbol) yesterday
+- give me the price of [VGGL](symbol) yesterday
+- give me the price of [VGIT](symbol) yesterday
+- give me the price of [VGLT](symbol) yesterday
+- give me the price of [VGSH](symbol) yesterday
+- give me the price of [VIA](symbol) yesterday
+- give me the price of [VIAB](symbol) yesterday
+- give me the price of [VIAS](symbol) yesterday
+- give me the price of [VICL](symbol) yesterday
+- give me the price of [VICR](symbol) yesterday
+- give me the price of [VIDE](symbol) yesterday
+- give me the price of [VIDI](symbol) yesterday
+- give me the price of [VIEW](symbol) yesterday
+- give me the price of [VIIX](symbol) yesterday
+- give me the price of [VIIZ](symbol) yesterday
+- give me the price of [VIMC](symbol) yesterday
+- give me the price of [VIP](symbol) yesterday
+- give me the price of [VIRC](symbol) yesterday
+- give me the price of [VISN](symbol) yesterday
+- give me the price of [VIVO](symbol) yesterday
+- give me the price of [VLCCF](symbol) yesterday
+- give me the price of [VLGEA](symbol) yesterday
+- give me the price of [VLTC](symbol) yesterday
+- give me the price of [VLYWW](symbol) yesterday
+- give me the price of [VMBS](symbol) yesterday
+- give me the price of [VNDA](symbol) yesterday
+- give me the price of [VNET](symbol) yesterday
+- give me the price of [VNOM](symbol) yesterday
+- give me the price of [VNQI](symbol) yesterday
+- give me the price of [VNR](symbol) yesterday
+- give me the price of [VNRAP](symbol) yesterday
+- give me the price of [VNRBP](symbol) yesterday
+- give me the price of [VNRCP](symbol) yesterday
+- give me the price of [VOD](symbol) yesterday
+- give me the price of [VOLC](symbol) yesterday
+- give me the price of [VONE](symbol) yesterday
+- give me the price of [VONG](symbol) yesterday
+- give me the price of [VONV](symbol) yesterday
+- give me the price of [VOXX](symbol) yesterday
+- give me the price of [VPCO](symbol) yesterday
+- give me the price of [VRA](symbol) yesterday
+- give me the price of [VRML](symbol) yesterday
+- give me the price of [VRNG](symbol) yesterday
+- give me the price of [VRNGW](symbol) yesterday
+- give me the price of [VRNS](symbol) yesterday
+- give me the price of [VRNT](symbol) yesterday
+- give me the price of [VRSK](symbol) yesterday
+- give me the price of [VRSN](symbol) yesterday
+- give me the price of [VRTA](symbol) yesterday
+- give me the price of [VRTB](symbol) yesterday
+- give me the price of [VRTS](symbol) yesterday
+- give me the price of [VRTU](symbol) yesterday
+- give me the price of [VRTX](symbol) yesterday
+- give me the price of [VSAR](symbol) yesterday
+- give me the price of [VSAT](symbol) yesterday
+- give me the price of [VSCI](symbol) yesterday
+- give me the price of [VSCP](symbol) yesterday
+- give me the price of [VSEC](symbol) yesterday
+- give me the price of [VSTM](symbol) yesterday
+- give me the price of [VTAE](symbol) yesterday
+- give me the price of [VTHR](symbol) yesterday
+- give me the price of [VTIP](symbol) yesterday
+- give me the price of [VTL](symbol) yesterday
+- give me the price of [VTNR](symbol) yesterday
+- give me the price of [VTSS](symbol) yesterday
+- give me the price of [VTWG](symbol) yesterday
+- give me the price of [VTWO](symbol) yesterday
+- give me the price of [VTWV](symbol) yesterday
+- give me the price of [VUSE](symbol) yesterday
+- give me the price of [VVUS](symbol) yesterday
+- give me the price of [VWOB](symbol) yesterday
+- give me the price of [VWR](symbol) yesterday
+- give me the price of [VXUS](symbol) yesterday
+- give me the price of [VYFC](symbol) yesterday
+- give me the price of [WABC](symbol) yesterday
+- give me the price of [WAFD](symbol) yesterday
+- give me the price of [WAFDW](symbol) yesterday
+- give me the price of [WASH](symbol) yesterday
+- give me the price of [WATT](symbol) yesterday
+- give me the price of [WAVX](symbol) yesterday
+- give me the price of [WAYN](symbol) yesterday
+- give me the price of [WB](symbol) yesterday
+- give me the price of [WBA](symbol) yesterday
+- give me the price of [WBB](symbol) yesterday
+- give me the price of [WBKC](symbol) yesterday
+- give me the price of [WBMD](symbol) yesterday
+- give me the price of [WDC](symbol) yesterday
+- give me the price of [WDFC](symbol) yesterday
+- give me the price of [WEBK](symbol) yesterday
+- give me the price of [WEN](symbol) yesterday
+- give me the price of [WERN](symbol) yesterday
+- give me the price of [WETF](symbol) yesterday
+- give me the price of [WEYS](symbol) yesterday
+- give me the price of [WFBI](symbol) yesterday
+- give me the price of [WFD](symbol) yesterday
+- give me the price of [WFM](symbol) yesterday
+- give me the price of [WGBS](symbol) yesterday
+- give me the price of [WHF](symbol) yesterday
+- give me the price of [WHFBL](symbol) yesterday
+- give me the price of [WHLM](symbol) yesterday
+- give me the price of [WHLR](symbol) yesterday
+- give me the price of [WHLRP](symbol) yesterday
+- give me the price of [WHLRW](symbol) yesterday
+- give me the price of [WIBC](symbol) yesterday
+- give me the price of [WIFI](symbol) yesterday
+- give me the price of [WILC](symbol) yesterday
+- give me the price of [WILN](symbol) yesterday
+- give me the price of [WIN](symbol) yesterday
+- give me the price of [WINA](symbol) yesterday
+- give me the price of [WIRE](symbol) yesterday
+- give me the price of [WIX](symbol) yesterday
+- give me the price of [WLB](symbol) yesterday
+- give me the price of [WLBPZ](symbol) yesterday
+- give me the price of [WLDN](symbol) yesterday
+- give me the price of [WLFC](symbol) yesterday
+- give me the price of [WLRH](symbol) yesterday
+- give me the price of [WLRHU](symbol) yesterday
+- give me the price of [WLRHW](symbol) yesterday
+- give me the price of [WMAR](symbol) yesterday
+- give me the price of [WMGI](symbol) yesterday
+- give me the price of [WMGIZ](symbol) yesterday
+- give me the price of [WOOD](symbol) yesterday
+- give me the price of [WOOF](symbol) yesterday
+- give me the price of [WPCS](symbol) yesterday
+- give me the price of [WPPGY](symbol) yesterday
+- give me the price of [WPRT](symbol) yesterday
+- give me the price of [WRES](symbol) yesterday
+- give me the price of [WRLD](symbol) yesterday
+- give me the price of [WSBC](symbol) yesterday
+- give me the price of [WSBF](symbol) yesterday
+- give me the price of [WSCI](symbol) yesterday
+- give me the price of [WSFS](symbol) yesterday
+- give me the price of [WSFSL](symbol) yesterday
+- give me the price of [WSTC](symbol) yesterday
+- give me the price of [WSTG](symbol) yesterday
+- give me the price of [WSTL](symbol) yesterday
+- give me the price of [WTBA](symbol) yesterday
+- give me the price of [WTFC](symbol) yesterday
+- give me the price of [WTFCW](symbol) yesterday
+- give me the price of [WTSL](symbol) yesterday
+- give me the price of [WVFC](symbol) yesterday
+- give me the price of [WVVI](symbol) yesterday
+- give me the price of [WWD](symbol) yesterday
+- give me the price of [WWWW](symbol) yesterday
+- give me the price of [WYNN](symbol) yesterday
+- give me the price of [XBKS](symbol) yesterday
+- give me the price of [XCRA](symbol) yesterday
+- give me the price of [XENE](symbol) yesterday
+- give me the price of [XENT](symbol) yesterday
+- give me the price of [XGTI](symbol) yesterday
+- give me the price of [XGTIW](symbol) yesterday
+- give me the price of [XIV](symbol) yesterday
+- give me the price of [XLNX](symbol) yesterday
+- give me the price of [XLRN](symbol) yesterday
+- give me the price of [XNCR](symbol) yesterday
+- give me the price of [XNET](symbol) yesterday
+- give me the price of [XNPT](symbol) yesterday
+- give me the price of [XOMA](symbol) yesterday
+- give me the price of [XONE](symbol) yesterday
+- give me the price of [XOOM](symbol) yesterday
+- give me the price of [XPLR](symbol) yesterday
+- give me the price of [XRAY](symbol) yesterday
+- give me the price of [XTLB](symbol) yesterday
+- give me the price of [XXIA](symbol) yesterday
+- give me the price of [YDIV](symbol) yesterday
+- give me the price of [YDLE](symbol) yesterday
+- give me the price of [YHOO](symbol) yesterday
+- give me the price of [YNDX](symbol) yesterday
+- give me the price of [YOD](symbol) yesterday
+- give me the price of [YORW](symbol) yesterday
+- give me the price of [YPRO](symbol) yesterday
+- give me the price of [YRCW](symbol) yesterday
+- give me the price of [YY](symbol) yesterday
+- give me the price of [Z](symbol) yesterday
+- give me the price of [ZAGG](symbol) yesterday
+- give me the price of [ZAZA](symbol) yesterday
+- give me the price of [ZBRA](symbol) yesterday
+- give me the price of [ZEUS](symbol) yesterday
+- give me the price of [ZFGN](symbol) yesterday
+- give me the price of [ZGNX](symbol) yesterday
+- give me the price of [ZHNE](symbol) yesterday
+- give me the price of [ZINC](symbol) yesterday
+- give me the price of [ZION](symbol) yesterday
+- give me the price of [ZIONW](symbol) yesterday
+- give me the price of [ZIONZ](symbol) yesterday
+- give me the price of [ZIOP](symbol) yesterday
+- give me the price of [ZIV](symbol) yesterday
+- give me the price of [ZIXI](symbol) yesterday
+- give me the price of [ZLTQ](symbol) yesterday
+- give me the price of [ZN](symbol) yesterday
+- give me the price of [ZNGA](symbol) yesterday
+- give me the price of [ZSPH](symbol) yesterday
+- give me the price of [ZU](symbol) yesterday
+- give me the price of [ZUMZ](symbol) yesterday
+- the price of [AAIT](symbol) today
+- the price of [AAL](symbol) today
+- the price of [AAME](symbol) today
+- the price of [AAOI](symbol) today
+- the price of [AAON](symbol) today
+- the price of [AAPL](symbol) today
+- the price of [AAVL](symbol) today
+- the price of [AAWW](symbol) today
+- the price of [AAXJ](symbol) today
+- the price of [ABAC](symbol) today
+- the price of [ABAX](symbol) today
+- the price of [ABCB](symbol) today
+- the price of [ABCD](symbol) today
+- the price of [ABCO](symbol) today
+- the price of [ABCW](symbol) today
+- the price of [ABDC](symbol) today
+- the price of [ABGB](symbol) today
+- the price of [ABIO](symbol) today
+- the price of [ABMD](symbol) today
+- the price of [ABTL](symbol) today
+- the price of [ABY](symbol) today
+- the price of [ACAD](symbol) today
+- the price of [ACAS](symbol) today
+- the price of [ACAT](symbol) today
+- the price of [ACET](symbol) today
+- the price of [ACFC](symbol) today
+- the price of [ACFN](symbol) today
+- the price of [ACGL](symbol) today
+- the price of [ACHC](symbol) today
+- the price of [ACHN](symbol) today
+- the price of [ACIW](symbol) today
+- the price of [ACLS](symbol) today
+- the price of [ACNB](symbol) today
+- the price of [ACOR](symbol) today
+- the price of [ACPW](symbol) today
+- the price of [ACRX](symbol) today
+- the price of [ACSF](symbol) today
+- the price of [ACST](symbol) today
+- the price of [ACTA](symbol) today
+- the price of [ACTG](symbol) today
+- the price of [ACTS](symbol) today
+- the price of [ACUR](symbol) today
+- the price of [ACWI](symbol) today
+- the price of [ACWX](symbol) today
+- the price of [ACXM](symbol) today
+- the price of [ADAT](symbol) today
+- the price of [ADBE](symbol) today
+- the price of [ADEP](symbol) today
+- the price of [ADES](symbol) today
+- the price of [ADHD](symbol) today
+- the price of [ADI](symbol) today
+- the price of [ADMA](symbol) today
+- the price of [ADMP](symbol) today
+- the price of [ADMS](symbol) today
+- the price of [ADNC](symbol) today
+- the price of [ADP](symbol) today
+- the price of [ADRA](symbol) today
+- the price of [ADRD](symbol) today
+- the price of [ADRE](symbol) today
+- the price of [ADRU](symbol) today
+- the price of [ADSK](symbol) today
+- the price of [ADTN](symbol) today
+- the price of [ADUS](symbol) today
+- the price of [ADVS](symbol) today
+- the price of [ADXS](symbol) today
+- the price of [ADXSW](symbol) today
+- the price of [AEGN](symbol) today
+- the price of [AEGR](symbol) today
+- the price of [AEHR](symbol) today
+- the price of [AEIS](symbol) today
+- the price of [AEPI](symbol) today
+- the price of [AERI](symbol) today
+- the price of [AETI](symbol) today
+- the price of [AEY](symbol) today
+- the price of [AEZS](symbol) today
+- the price of [AFAM](symbol) today
+- the price of [AFCB](symbol) today
+- the price of [AFFX](symbol) today
+- the price of [AFH](symbol) today
+- the price of [AFMD](symbol) today
+- the price of [AFOP](symbol) today
+- the price of [AFSI](symbol) today
+- the price of [AGEN](symbol) today
+- the price of [AGII](symbol) today
+- the price of [AGIIL](symbol) today
+- the price of [AGIO](symbol) today
+- the price of [AGNC](symbol) today
+- the price of [AGNCB](symbol) today
+- the price of [AGNCP](symbol) today
+- the price of [AGND](symbol) today
+- the price of [AGRX](symbol) today
+- the price of [AGTC](symbol) today
+- the price of [AGYS](symbol) today
+- the price of [AGZD](symbol) today
+- the price of [AHGP](symbol) today
+- the price of [AHPI](symbol) today
+- the price of [AIMC](symbol) today
+- the price of [AINV](symbol) today
+- the price of [AIQ](symbol) today
+- the price of [AIRM](symbol) today
+- the price of [AIRR](symbol) today
+- the price of [AIRT](symbol) today
+- the price of [AIXG](symbol) today
+- the price of [AKAM](symbol) today
+- the price of [AKAO](symbol) today
+- the price of [AKBA](symbol) today
+- the price of [AKER](symbol) today
+- the price of [AKRX](symbol) today
+- the price of [ALCO](symbol) today
+- the price of [ALDR](symbol) today
+- the price of [ALDX](symbol) today
+- the price of [ALGN](symbol) today
+- the price of [ALGT](symbol) today
+- the price of [ALIM](symbol) today
+- the price of [ALKS](symbol) today
+- the price of [ALLB](symbol) today
+- the price of [ALLT](symbol) today
+- the price of [ALNY](symbol) today
+- the price of [ALOG](symbol) today
+- the price of [ALOT](symbol) today
+- the price of [ALQA](symbol) today
+- the price of [ALSK](symbol) today
+- the price of [ALTR](symbol) today
+- the price of [ALXA](symbol) today
+- the price of [ALXN](symbol) today
+- the price of [AMAG](symbol) today
+- the price of [AMAT](symbol) today
+- the price of [AMBA](symbol) today
+- the price of [AMBC](symbol) today
+- the price of [AMBCW](symbol) today
+- the price of [AMCC](symbol) today
+- the price of [AMCF](symbol) today
+- the price of [AMCN](symbol) today
+- the price of [AMCX](symbol) today
+- the price of [AMD](symbol) today
+- the price of [AMDA](symbol) today
+- the price of [AMED](symbol) today
+- the price of [AMGN](symbol) today
+- the price of [AMIC](symbol) today
+- the price of [AMKR](symbol) today
+- the price of [AMNB](symbol) today
+- the price of [AMOT](symbol) today
+- the price of [AMOV](symbol) today
+- the price of [AMPH](symbol) today
+- the price of [AMRB](symbol) today
+- the price of [AMRI](symbol) today
+- the price of [AMRK](symbol) today
+- the price of [AMRN](symbol) today
+- the price of [AMRS](symbol) today
+- the price of [AMSC](symbol) today
+- the price of [AMSF](symbol) today
+- the price of [AMSG](symbol) today
+- the price of [AMSGP](symbol) today
+- the price of [AMSWA](symbol) today
+- the price of [AMTX](symbol) today
+- the price of [AMWD](symbol) today
+- the price of [AMZN](symbol) today
+- the price of [ANAC](symbol) today
+- the price of [ANAD](symbol) today
+- the price of [ANAT](symbol) today
+- the price of [ANCB](symbol) today
+- the price of [ANCI](symbol) today
+- the price of [ANCX](symbol) today
+- the price of [ANDE](symbol) today
+- the price of [ANGI](symbol) today
+- the price of [ANGO](symbol) today
+- the price of [ANIK](symbol) today
+- the price of [ANIP](symbol) today
+- the price of [ANSS](symbol) today
+- the price of [ANTH](symbol) today
+- the price of [ANY](symbol) today
+- the price of [AOSL](symbol) today
+- the price of [APAGF](symbol) today
+- the price of [APDN](symbol) today
+- the price of [APDNW](symbol) today
+- the price of [APEI](symbol) today
+- the price of [APOG](symbol) today
+- the price of [APOL](symbol) today
+- the price of [APPY](symbol) today
+- the price of [APRI](symbol) today
+- the price of [APSA](symbol) today
+- the price of [APTO](symbol) today
+- the price of [APWC](symbol) today
+- the price of [AQXP](symbol) today
+- the price of [ARAY](symbol) today
+- the price of [ARCB](symbol) today
+- the price of [ARCC](symbol) today
+- the price of [ARCI](symbol) today
+- the price of [ARCP](symbol) today
+- the price of [ARCPP](symbol) today
+- the price of [ARCW](symbol) today
+- the price of [ARDM](symbol) today
+- the price of [ARDX](symbol) today
+- the price of [AREX](symbol) today
+- the price of [ARGS](symbol) today
+- the price of [ARIA](symbol) today
+- the price of [ARII](symbol) today
+- the price of [ARIS](symbol) today
+- the price of [ARKR](symbol) today
+- the price of [ARLP](symbol) today
+- the price of [ARMH](symbol) today
+- the price of [ARNA](symbol) today
+- the price of [AROW](symbol) today
+- the price of [ARQL](symbol) today
+- the price of [ARRS](symbol) today
+- the price of [ARRY](symbol) today
+- the price of [ARTNA](symbol) today
+- the price of [ARTW](symbol) today
+- the price of [ARTX](symbol) today
+- the price of [ARUN](symbol) today
+- the price of [ARWR](symbol) today
+- the price of [ASBB](symbol) today
+- the price of [ASBI](symbol) today
+- the price of [ASCMA](symbol) today
+- the price of [ASEI](symbol) today
+- the price of [ASFI](symbol) today
+- the price of [ASMB](symbol) today
+- the price of [ASMI](symbol) today
+- the price of [ASML](symbol) today
+- the price of [ASNA](symbol) today
+- the price of [ASPS](symbol) today
+- the price of [ASPX](symbol) today
+- the price of [ASRV](symbol) today
+- the price of [ASRVP](symbol) today
+- the price of [ASTC](symbol) today
+- the price of [ASTE](symbol) today
+- the price of [ASTI](symbol) today
+- the price of [ASUR](symbol) today
+- the price of [ASYS](symbol) today
+- the price of [ATAI](symbol) today
+- the price of [ATAX](symbol) today
+- the price of [ATEA](symbol) today
+- the price of [ATEC](symbol) today
+- the price of [ATHN](symbol) today
+- the price of [ATHX](symbol) today
+- the price of [ATLC](symbol) today
+- the price of [ATLO](symbol) today
+- the price of [ATML](symbol) today
+- the price of [ATNI](symbol) today
+- the price of [ATNY](symbol) today
+- the price of [ATOS](symbol) today
+- the price of [ATRA](symbol) today
+- the price of [ATRC](symbol) today
+- the price of [ATRI](symbol) today
+- the price of [ATRM](symbol) today
+- the price of [ATRO](symbol) today
+- the price of [ATRS](symbol) today
+- the price of [ATSG](symbol) today
+- the price of [ATTU](symbol) today
+- the price of [ATVI](symbol) today
+- the price of [AUBN](symbol) today
+- the price of [AUDC](symbol) today
+- the price of [AUMA](symbol) today
+- the price of [AUMAU](symbol) today
+- the price of [AUMAW](symbol) today
+- the price of [AUPH](symbol) today
+- the price of [AUXL](symbol) today
+- the price of [AVAV](symbol) today
+- the price of [AVEO](symbol) today
+- the price of [AVGO](symbol) today
+- the price of [AVHI](symbol) today
+- the price of [AVID](symbol) today
+- the price of [AVNR](symbol) today
+- the price of [AVNW](symbol) today
+- the price of [AWAY](symbol) today
+- the price of [AWRE](symbol) today
+- the price of [AXAS](symbol) today
+- the price of [AXDX](symbol) today
+- the price of [AXGN](symbol) today
+- the price of [AXJS](symbol) today
+- the price of [AXPW](symbol) today
+- the price of [AXPWW](symbol) today
+- the price of [AXTI](symbol) today
+- the price of [AZPN](symbol) today
+- the price of [BABY](symbol) today
+- the price of [BAGR](symbol) today
+- the price of [BAMM](symbol) today
+- the price of [BANF](symbol) today
+- the price of [BANFP](symbol) today
+- the price of [BANR](symbol) today
+- the price of [BANX](symbol) today
+- the price of [BASI](symbol) today
+- the price of [BBBY](symbol) today
+- the price of [BBC](symbol) today
+- the price of [BBCN](symbol) today
+- the price of [BBEP](symbol) today
+- the price of [BBEPP](symbol) today
+- the price of [BBGI](symbol) today
+- the price of [BBLU](symbol) today
+- the price of [BBNK](symbol) today
+- the price of [BBOX](symbol) today
+- the price of [BBP](symbol) today
+- the price of [BBRG](symbol) today
+- the price of [BBRY](symbol) today
+- the price of [BBSI](symbol) today
+- the price of [BCBP](symbol) today
+- the price of [BCLI](symbol) today
+- the price of [BCOM](symbol) today
+- the price of [BCOR](symbol) today
+- the price of [BCOV](symbol) today
+- the price of [BCPC](symbol) today
+- the price of [BCRX](symbol) today
+- the price of [BDBD](symbol) today
+- the price of [BDCV](symbol) today
+- the price of [BDE](symbol) today
+- the price of [BDGE](symbol) today
+- the price of [BDMS](symbol) today
+- the price of [BDSI](symbol) today
+- the price of [BEAT](symbol) today
+- the price of [BEAV](symbol) today
+- the price of [BEBE](symbol) today
+- the price of [BECN](symbol) today
+- the price of [BELFA](symbol) today
+- the price of [BELFB](symbol) today
+- the price of [BFIN](symbol) today
+- the price of [BGCP](symbol) today
+- the price of [BGFV](symbol) today
+- the price of [BGMD](symbol) today
+- the price of [BHBK](symbol) today
+- the price of [BIB](symbol) today
+- the price of [BICK](symbol) today
+- the price of [BIDU](symbol) today
+- the price of [BIIB](symbol) today
+- the price of [BIND](symbol) today
+- the price of [BIOC](symbol) today
+- the price of [BIOD](symbol) today
+- the price of [BIOL](symbol) today
+- the price of [BIOS](symbol) today
+- the price of [BIRT](symbol) today
+- the price of [BIS](symbol) today
+- the price of [BJRI](symbol) today
+- the price of [BKCC](symbol) today
+- the price of [BKEP](symbol) today
+- the price of [BKEPP](symbol) today
+- the price of [BKMU](symbol) today
+- the price of [BKSC](symbol) today
+- the price of [BKYF](symbol) today
+- the price of [BLCM](symbol) today
+- the price of [BLDP](symbol) today
+- the price of [BLDR](symbol) today
+- the price of [BLFS](symbol) today
+- the price of [BLIN](symbol) today
+- the price of [BLKB](symbol) today
+- the price of [BLMN](symbol) today
+- the price of [BLMT](symbol) today
+- the price of [BLRX](symbol) today
+- the price of [BLUE](symbol) today
+- the price of [BLVD](symbol) today
+- the price of [BLVDU](symbol) today
+- the price of [BLVDW](symbol) today
+- the price of [BMRC](symbol) today
+- the price of [BMRN](symbol) today
+- the price of [BMTC](symbol) today
+- the price of [BNCL](symbol) today
+- the price of [BNCN](symbol) today
+- the price of [BNDX](symbol) today
+- the price of [BNFT](symbol) today
+- the price of [BNSO](symbol) today
+- the price of [BOBE](symbol) today
+- the price of [BOCH](symbol) today
+- the price of [BOFI](symbol) today
+- the price of [BOKF](symbol) today
+- the price of [BONA](symbol) today
+- the price of [BONT](symbol) today
+- the price of [BOOM](symbol) today
+- the price of [BOSC](symbol) today
+- the price of [BOTA](symbol) today
+- the price of [BOTJ](symbol) today
+- the price of [BPFH](symbol) today
+- the price of [BPFHP](symbol) today
+- the price of [BPFHW](symbol) today
+- the price of [BPOP](symbol) today
+- the price of [BPOPM](symbol) today
+- the price of [BPOPN](symbol) today
+- the price of [BPTH](symbol) today
+- the price of [BRCD](symbol) today
+- the price of [BRCM](symbol) today
+- the price of [BRDR](symbol) today
+- the price of [BREW](symbol) today
+- the price of [BRID](symbol) today
+- the price of [BRKL](symbol) today
+- the price of [BRKR](symbol) today
+- the price of [BRKS](symbol) today
+- the price of [BRLI](symbol) today
+- the price of [BSDM](symbol) today
+- the price of [BSET](symbol) today
+- the price of [BSF](symbol) today
+- the price of [BSFT](symbol) today
+- the price of [BSPM](symbol) today
+- the price of [BSQR](symbol) today
+- the price of [BSRR](symbol) today
+- the price of [BSTC](symbol) today
+- the price of [BTUI](symbol) today
+- the price of [BUR](symbol) today
+- the price of [BUSE](symbol) today
+- the price of [BV](symbol) today
+- the price of [BVA](symbol) today
+- the price of [BVSN](symbol) today
+- the price of [BWEN](symbol) today
+- the price of [BWFG](symbol) today
+- the price of [BWINA](symbol) today
+- the price of [BWINB](symbol) today
+- the price of [BWLD](symbol) today
+- the price of [BYBK](symbol) today
+- the price of [BYFC](symbol) today
+- the price of [BYLK](symbol) today
+- the price of [CA](symbol) today
+- the price of [CAAS](symbol) today
+- the price of [CAC](symbol) today
+- the price of [CACB](symbol) today
+- the price of [CACC](symbol) today
+- the price of [CACG](symbol) today
+- the price of [CACGU](symbol) today
+- the price of [CACGW](symbol) today
+- the price of [CACH](symbol) today
+- the price of [CACQ](symbol) today
+- the price of [CADC](symbol) today
+- the price of [CADT](symbol) today
+- the price of [CADTR](symbol) today
+- the price of [CADTU](symbol) today
+- the price of [CADTW](symbol) today
+- the price of [CAKE](symbol) today
+- the price of [CALA](symbol) today
+- the price of [CALD](symbol) today
+- the price of [CALI](symbol) today
+- the price of [CALL](symbol) today
+- the price of [CALM](symbol) today
+- the price of [CAMB](symbol) today
+- the price of [CAMBU](symbol) today
+- the price of [CAMBW](symbol) today
+- the price of [CAMP](symbol) today
+- the price of [CAMT](symbol) today
+- the price of [CAPN](symbol) today
+- the price of [CAPNW](symbol) today
+- the price of [CAR](symbol) today
+- the price of [CARA](symbol) today
+- the price of [CARB](symbol) today
+- the price of [CARO](symbol) today
+- the price of [CART](symbol) today
+- the price of [CARV](symbol) today
+- the price of [CARZ](symbol) today
+- the price of [CASH](symbol) today
+- the price of [CASI](symbol) today
+- the price of [CASM](symbol) today
+- the price of [CASS](symbol) today
+- the price of [CASY](symbol) today
+- the price of [CATM](symbol) today
+- the price of [CATY](symbol) today
+- the price of [CATYW](symbol) today
+- the price of [CAVM](symbol) today
+- the price of [CBAK](symbol) today
+- the price of [CBAN](symbol) today
+- the price of [CBAY](symbol) today
+- the price of [CBDE](symbol) today
+- the price of [CBF](symbol) today
+- the price of [CBFV](symbol) today
+- the price of [CBIN](symbol) today
+- the price of [CBLI](symbol) today
+- the price of [CBMG](symbol) today
+- the price of [CBMX](symbol) today
+- the price of [CBNJ](symbol) today
+- the price of [CBNK](symbol) today
+- the price of [CBOE](symbol) today
+- the price of [CBPO](symbol) today
+- the price of [CBRL](symbol) today
+- the price of [CBRX](symbol) today
+- the price of [CBSH](symbol) today
+- the price of [CBSHP](symbol) today
+- the price of [CBST](symbol) today
+- the price of [CBSTZ](symbol) today
+- the price of [CCBG](symbol) today
+- the price of [CCCL](symbol) today
+- the price of [CCCR](symbol) today
+- the price of [CCIH](symbol) today
+- the price of [CCLP](symbol) today
+- the price of [CCMP](symbol) today
+- the price of [CCNE](symbol) today
+- the price of [CCOI](symbol) today
+- the price of [CCRN](symbol) today
+- the price of [CCUR](symbol) today
+- the price of [CCXI](symbol) today
+- the price of [CDC](symbol) today
+- the price of [CDK](symbol) today
+- the price of [CDNA](symbol) today
+- the price of [CDNS](symbol) today
+- the price of [CDTI](symbol) today
+- the price of [CDW](symbol) today
+- the price of [CDXS](symbol) today
+- the price of [CDZI](symbol) today
+- the price of [CECE](symbol) today
+- the price of [CECO](symbol) today
+- the price of [CELG](symbol) today
+- the price of [CELGZ](symbol) today
+- the price of [CEMI](symbol) today
+- the price of [CEMP](symbol) today
+- the price of [CENT](symbol) today
+- the price of [CENTA](symbol) today
+- the price of [CENX](symbol) today
+- the price of [CERE](symbol) today
+- the price of [CERN](symbol) today
+- the price of [CERS](symbol) today
+- the price of [CERU](symbol) today
+- the price of [CETV](symbol) today
+- the price of [CEVA](symbol) today
+- the price of [CFA](symbol) today
+- the price of [CFBK](symbol) today
+- the price of [CFFI](symbol) today
+- the price of [CFFN](symbol) today
+- the price of [CFGE](symbol) today
+- the price of [CFNB](symbol) today
+- the price of [CFNL](symbol) today
+- the price of [CFO](symbol) today
+- the price of [CFRX](symbol) today
+- the price of [CFRXW](symbol) today
+- the price of [CFRXZ](symbol) today
+- the price of [CG](symbol) today
+- the price of [CGEN](symbol) today
+- the price of [CGIX](symbol) today
+- the price of [CGNX](symbol) today
+- the price of [CGO](symbol) today
+- the price of [CHCI](symbol) today
+- the price of [CHCO](symbol) today
+- the price of [CHDN](symbol) today
+- the price of [CHEF](symbol) today
+- the price of [CHEV](symbol) today
+- the price of [CHFC](symbol) today
+- the price of [CHFN](symbol) today
+- the price of [CHI](symbol) today
+- the price of [CHKE](symbol) today
+- the price of [CHKP](symbol) today
+- the price of [CHLN](symbol) today
+- the price of [CHMG](symbol) today
+- the price of [CHNR](symbol) today
+- the price of [CHOP](symbol) today
+- the price of [CHRS](symbol) today
+- the price of [CHRW](symbol) today
+- the price of [CHSCM](symbol) today
+- the price of [CHSCN](symbol) today
+- the price of [CHSCO](symbol) today
+- the price of [CHSCP](symbol) today
+- the price of [CHTR](symbol) today
+- the price of [CHUY](symbol) today
+- the price of [CHW](symbol) today
+- the price of [CHXF](symbol) today
+- the price of [CHY](symbol) today
+- the price of [CHYR](symbol) today
+- the price of [CIDM](symbol) today
+- the price of [CIFC](symbol) today
+- the price of [CIMT](symbol) today
+- the price of [CINF](symbol) today
+- the price of [CISAW](symbol) today
+- the price of [CISG](symbol) today
+- the price of [CIZ](symbol) today
+- the price of [CIZN](symbol) today
+- the price of [CJJD](symbol) today
+- the price of [CKEC](symbol) today
+- the price of [CKSW](symbol) today
+- the price of [CLAC](symbol) today
+- the price of [CLACU](symbol) today
+- the price of [CLACW](symbol) today
+- the price of [CLBH](symbol) today
+- the price of [CLCT](symbol) today
+- the price of [CLDN](symbol) today
+- the price of [CLDX](symbol) today
+- the price of [CLFD](symbol) today
+- the price of [CLIR](symbol) today
+- the price of [CLMS](symbol) today
+- the price of [CLMT](symbol) today
+- the price of [CLNE](symbol) today
+- the price of [CLNT](symbol) today
+- the price of [CLRB](symbol) today
+- the price of [CLRBW](symbol) today
+- the price of [CLRO](symbol) today
+- the price of [CLRX](symbol) today
+- the price of [CLSN](symbol) today
+- the price of [CLTX](symbol) today
+- the price of [CLUB](symbol) today
+- the price of [CLVS](symbol) today
+- the price of [CLWT](symbol) today
+- the price of [CMCO](symbol) today
+- the price of [CMCSA](symbol) today
+- the price of [CMCSK](symbol) today
+- the price of [CMCT](symbol) today
+- the price of [CME](symbol) today
+- the price of [CMFN](symbol) today
+- the price of [CMGE](symbol) today
+- the price of [CMLS](symbol) today
+- the price of [CMPR](symbol) today
+- the price of [CMRX](symbol) today
+- the price of [CMSB](symbol) today
+- the price of [CMTL](symbol) today
+- the price of [CNAT](symbol) today
+- the price of [CNBKA](symbol) today
+- the price of [CNCE](symbol) today
+- the price of [CNDO](symbol) today
+- the price of [CNET](symbol) today
+- the price of [CNIT](symbol) today
+- the price of [CNLM](symbol) today
+- the price of [CNLMR](symbol) today
+- the price of [CNLMU](symbol) today
+- the price of [CNLMW](symbol) today
+- the price of [CNMD](symbol) today
+- the price of [CNOB](symbol) today
+- the price of [CNSI](symbol) today
+- the price of [CNSL](symbol) today
+- the price of [CNTF](symbol) today
+- the price of [CNTY](symbol) today
+- the price of [CNV](symbol) today
+- the price of [CNXR](symbol) today
+- the price of [CNYD](symbol) today
+- the price of [COB](symbol) today
+- the price of [COBK](symbol) today
+- the price of [COBZ](symbol) today
+- the price of [COCO](symbol) today
+- the price of [COHR](symbol) today
+- the price of [COHU](symbol) today
+- the price of [COKE](symbol) today
+- the price of [COLB](symbol) today
+- the price of [COLM](symbol) today
+- the price of [COMM](symbol) today
+- the price of [COMT](symbol) today
+- the price of [CONE](symbol) today
+- the price of [CONN](symbol) today
+- the price of [COOL](symbol) today
+- the price of [CORE](symbol) today
+- the price of [CORI](symbol) today
+- the price of [CORT](symbol) today
+- the price of [COSI](symbol) today
+- the price of [COST](symbol) today
+- the price of [COVS](symbol) today
+- the price of [COWN](symbol) today
+- the price of [COWNL](symbol) today
+- the price of [CPAH](symbol) today
+- the price of [CPGI](symbol) today
+- the price of [CPHC](symbol) today
+- the price of [CPHD](symbol) today
+- the price of [CPHR](symbol) today
+- the price of [CPIX](symbol) today
+- the price of [CPLA](symbol) today
+- the price of [CPLP](symbol) today
+- the price of [CPRT](symbol) today
+- the price of [CPRX](symbol) today
+- the price of [CPSI](symbol) today
+- the price of [CPSS](symbol) today
+- the price of [CPST](symbol) today
+- the price of [CPTA](symbol) today
+- the price of [CPXX](symbol) today
+- the price of [CRAI](symbol) today
+- the price of [CRAY](symbol) today
+- the price of [CRDC](symbol) today
+- the price of [CRDS](symbol) today
+- the price of [CRDT](symbol) today
+- the price of [CREE](symbol) today
+- the price of [CREG](symbol) today
+- the price of [CRESW](symbol) today
+- the price of [CRESY](symbol) today
+- the price of [CRIS](symbol) today
+- the price of [CRME](symbol) today
+- the price of [CRMT](symbol) today
+- the price of [CRNT](symbol) today
+- the price of [CROX](symbol) today
+- the price of [CRRC](symbol) today
+- the price of [CRRS](symbol) today
+- the price of [CRTN](symbol) today
+- the price of [CRTO](symbol) today
+- the price of [CRUS](symbol) today
+- the price of [CRVL](symbol) today
+- the price of [CRWN](symbol) today
+- the price of [CRWS](symbol) today
+- the price of [CRZO](symbol) today
+- the price of [CSBK](symbol) today
+- the price of [CSCD](symbol) today
+- the price of [CSCO](symbol) today
+- the price of [CSF](symbol) today
+- the price of [CSFL](symbol) today
+- the price of [CSGP](symbol) today
+- the price of [CSGS](symbol) today
+- the price of [CSII](symbol) today
+- the price of [CSIQ](symbol) today
+- the price of [CSOD](symbol) today
+- the price of [CSPI](symbol) today
+- the price of [CSQ](symbol) today
+- the price of [CSRE](symbol) today
+- the price of [CSTE](symbol) today
+- the price of [CSUN](symbol) today
+- the price of [CSWC](symbol) today
+- the price of [CTAS](symbol) today
+- the price of [CTBI](symbol) today
+- the price of [CTCM](symbol) today
+- the price of [CTCT](symbol) today
+- the price of [CTG](symbol) today
+- the price of [CTHR](symbol) today
+- the price of [CTIB](symbol) today
+- the price of [CTIC](symbol) today
+- the price of [CTRE](symbol) today
+- the price of [CTRL](symbol) today
+- the price of [CTRN](symbol) today
+- the price of [CTRP](symbol) today
+- the price of [CTRX](symbol) today
+- the price of [CTSH](symbol) today
+- the price of [CTSO](symbol) today
+- the price of [CTWS](symbol) today
+- the price of [CTXS](symbol) today
+- the price of [CU](symbol) today
+- the price of [CUBA](symbol) today
+- the price of [CUI](symbol) today
+- the price of [CUNB](symbol) today
+- the price of [CUTR](symbol) today
+- the price of [CVBF](symbol) today
+- the price of [CVCO](symbol) today
+- the price of [CVCY](symbol) today
+- the price of [CVGI](symbol) today
+- the price of [CVGW](symbol) today
+- the price of [CVLT](symbol) today
+- the price of [CVLY](symbol) today
+- the price of [CVTI](symbol) today
+- the price of [CVV](symbol) today
+- the price of [CWAY](symbol) today
+- the price of [CWBC](symbol) today
+- the price of [CWCO](symbol) today
+- the price of [CWST](symbol) today
+- the price of [CXDC](symbol) today
+- the price of [CY](symbol) today
+- the price of [CYAN](symbol) today
+- the price of [CYBE](symbol) today
+- the price of [CYBR](symbol) today
+- the price of [CYBX](symbol) today
+- the price of [CYCC](symbol) today
+- the price of [CYCCP](symbol) today
+- the price of [CYHHZ](symbol) today
+- the price of [CYNO](symbol) today
+- the price of [CYOU](symbol) today
+- the price of [CYRN](symbol) today
+- the price of [CYTK](symbol) today
+- the price of [CYTR](symbol) today
+- the price of [CYTX](symbol) today
+- the price of [CZFC](symbol) today
+- the price of [CZNC](symbol) today
+- the price of [CZR](symbol) today
+- the price of [CZWI](symbol) today
+- the price of [DAEG](symbol) today
+- the price of [DAIO](symbol) today
+- the price of [DAKT](symbol) today
+- the price of [DARA](symbol) today
+- the price of [DATE](symbol) today
+- the price of [DAVE](symbol) today
+- the price of [DAX](symbol) today
+- the price of [DBVT](symbol) today
+- the price of [DCIX](symbol) today
+- the price of [DCOM](symbol) today
+- the price of [DCTH](symbol) today
+- the price of [DENN](symbol) today
+- the price of [DEPO](symbol) today
+- the price of [DERM](symbol) today
+- the price of [DEST](symbol) today
+- the price of [DFRG](symbol) today
+- the price of [DFVL](symbol) today
+- the price of [DFVS](symbol) today
+- the price of [DGAS](symbol) today
+- the price of [DGICA](symbol) today
+- the price of [DGICB](symbol) today
+- the price of [DGII](symbol) today
+- the price of [DGLD](symbol) today
+- the price of [DGLY](symbol) today
+- the price of [DGRE](symbol) today
+- the price of [DGRS](symbol) today
+- the price of [DGRW](symbol) today
+- the price of [DHIL](symbol) today
+- the price of [DHRM](symbol) today
+- the price of [DIOD](symbol) today
+- the price of [DISCA](symbol) today
+- the price of [DISCB](symbol) today
+- the price of [DISCK](symbol) today
+- the price of [DISH](symbol) today
+- the price of [DJCO](symbol) today
+- the price of [DLBL](symbol) today
+- the price of [DLBS](symbol) today
+- the price of [DLHC](symbol) today
+- the price of [DLTR](symbol) today
+- the price of [DMLP](symbol) today
+- the price of [DMND](symbol) today
+- the price of [DMRC](symbol) today
+- the price of [DNBF](symbol) today
+- the price of [DNKN](symbol) today
+- the price of [DORM](symbol) today
+- the price of [DOVR](symbol) today
+- the price of [DOX](symbol) today
+- the price of [DPRX](symbol) today
+- the price of [DRAD](symbol) today
+- the price of [DRAM](symbol) today
+- the price of [DRIV](symbol) today
+- the price of [DRNA](symbol) today
+- the price of [DRRX](symbol) today
+- the price of [DRWI](symbol) today
+- the price of [DRWIW](symbol) today
+- the price of [DRYS](symbol) today
+- the price of [DSCI](symbol) today
+- the price of [DSCO](symbol) today
+- the price of [DSGX](symbol) today
+- the price of [DSKX](symbol) today
+- the price of [DSKY](symbol) today
+- the price of [DSLV](symbol) today
+- the price of [DSPG](symbol) today
+- the price of [DSWL](symbol) today
+- the price of [DTLK](symbol) today
+- the price of [DTSI](symbol) today
+- the price of [DTUL](symbol) today
+- the price of [DTUS](symbol) today
+- the price of [DTV](symbol) today
+- the price of [DTYL](symbol) today
+- the price of [DTYS](symbol) today
+- the price of [DVAX](symbol) today
+- the price of [DVCR](symbol) today
+- the price of [DWA](symbol) today
+- the price of [DWAT](symbol) today
+- the price of [DWCH](symbol) today
+- the price of [DWSN](symbol) today
+- the price of [DXCM](symbol) today
+- the price of [DXGE](symbol) today
+- the price of [DXJS](symbol) today
+- the price of [DXKW](symbol) today
+- the price of [DXLG](symbol) today
+- the price of [DXM](symbol) today
+- the price of [DXPE](symbol) today
+- the price of [DXPS](symbol) today
+- the price of [DXYN](symbol) today
+- the price of [DYAX](symbol) today
+- the price of [DYNT](symbol) today
+- the price of [DYSL](symbol) today
+- the price of [EA](symbol) today
+- the price of [EAC](symbol) today
+- the price of [EARS](symbol) today
+- the price of [EBAY](symbol) today
+- the price of [EBIO](symbol) today
+- the price of [EBIX](symbol) today
+- the price of [EBMT](symbol) today
+- the price of [EBSB](symbol) today
+- the price of [EBTC](symbol) today
+- the price of [ECHO](symbol) today
+- the price of [ECOL](symbol) today
+- the price of [ECPG](symbol) today
+- the price of [ECTE](symbol) today
+- the price of [ECYT](symbol) today
+- the price of [EDAP](symbol) today
+- the price of [EDGW](symbol) today
+- the price of [EDS](symbol) today
+- the price of [EDUC](symbol) today
+- the price of [EEFT](symbol) today
+- the price of [EEI](symbol) today
+- the price of [EEMA](symbol) today
+- the price of [EEME](symbol) today
+- the price of [EEML](symbol) today
+- the price of [EFII](symbol) today
+- the price of [EFOI](symbol) today
+- the price of [EFSC](symbol) today
+- the price of [EFUT](symbol) today
+- the price of [EGAN](symbol) today
+- the price of [EGBN](symbol) today
+- the price of [EGHT](symbol) today
+- the price of [EGLE](symbol) today
+- the price of [EGLT](symbol) today
+- the price of [EGOV](symbol) today
+- the price of [EGRW](symbol) today
+- the price of [EGRX](symbol) today
+- the price of [EGT](symbol) today
+- the price of [EHTH](symbol) today
+- the price of [EIGI](symbol) today
+- the price of [ELGX](symbol) today
+- the price of [ELNK](symbol) today
+- the price of [ELON](symbol) today
+- the price of [ELOS](symbol) today
+- the price of [ELRC](symbol) today
+- the price of [ELSE](symbol) today
+- the price of [ELTK](symbol) today
+- the price of [EMCB](symbol) today
+- the price of [EMCF](symbol) today
+- the price of [EMCG](symbol) today
+- the price of [EMCI](symbol) today
+- the price of [EMDI](symbol) today
+- the price of [EMEY](symbol) today
+- the price of [EMIF](symbol) today
+- the price of [EMITF](symbol) today
+- the price of [EMKR](symbol) today
+- the price of [EML](symbol) today
+- the price of [EMMS](symbol) today
+- the price of [EMMSP](symbol) today
+- the price of [ENDP](symbol) today
+- the price of [ENFC](symbol) today
+- the price of [ENG](symbol) today
+- the price of [ENOC](symbol) today
+- the price of [ENPH](symbol) today
+- the price of [ENSG](symbol) today
+- the price of [ENT](symbol) today
+- the price of [ENTA](symbol) today
+- the price of [ENTG](symbol) today
+- the price of [ENTR](symbol) today
+- the price of [ENVI](symbol) today
+- the price of [ENZN](symbol) today
+- the price of [ENZY](symbol) today
+- the price of [EOPN](symbol) today
+- the price of [EPAX](symbol) today
+- the price of [EPAY](symbol) today
+- the price of [EPIQ](symbol) today
+- the price of [EPRS](symbol) today
+- the price of [EPZM](symbol) today
+- the price of [EQIX](symbol) today
+- the price of [ERI](symbol) today
+- the price of [ERIC](symbol) today
+- the price of [ERIE](symbol) today
+- the price of [ERII](symbol) today
+- the price of [EROC](symbol) today
+- the price of [ERS](symbol) today
+- the price of [ERW](symbol) today
+- the price of [ESBF](symbol) today
+- the price of [ESBK](symbol) today
+- the price of [ESCA](symbol) today
+- the price of [ESCR](symbol) today
+- the price of [ESCRP](symbol) today
+- the price of [ESEA](symbol) today
+- the price of [ESGR](symbol) today
+- the price of [ESIO](symbol) today
+- the price of [ESLT](symbol) today
+- the price of [ESMC](symbol) today
+- the price of [ESPR](symbol) today
+- the price of [ESRX](symbol) today
+- the price of [ESSA](symbol) today
+- the price of [ESSX](symbol) today
+- the price of [ESXB](symbol) today
+- the price of [ESYS](symbol) today
+- the price of [ETFC](symbol) today
+- the price of [ETRM](symbol) today
+- the price of [EUFN](symbol) today
+- the price of [EVAL](symbol) today
+- the price of [EVAR](symbol) today
+- the price of [EVBS](symbol) today
+- the price of [EVEP](symbol) today
+- the price of [EVK](symbol) today
+- the price of [EVLV](symbol) today
+- the price of [EVOK](symbol) today
+- the price of [EVOL](symbol) today
+- the price of [EVRY](symbol) today
+- the price of [EWBC](symbol) today
+- the price of [EXA](symbol) today
+- the price of [EXAC](symbol) today
+- the price of [EXAS](symbol) today
+- the price of [EXEL](symbol) today
+- the price of [EXFO](symbol) today
+- the price of [EXLP](symbol) today
+- the price of [EXLS](symbol) today
+- the price of [EXPD](symbol) today
+- the price of [EXPE](symbol) today
+- the price of [EXPO](symbol) today
+- the price of [EXTR](symbol) today
+- the price of [EXXI](symbol) today
+- the price of [EYES](symbol) today
+- the price of [EZCH](symbol) today
+- the price of [EZPW](symbol) today
+- the price of [FALC](symbol) today
+- the price of [FANG](symbol) today
+- the price of [FARM](symbol) today
+- the price of [FARO](symbol) today
+- the price of [FAST](symbol) today
+- the price of [FATE](symbol) today
+- the price of [FB](symbol) today
+- the price of [FBIZ](symbol) today
+- the price of [FBMS](symbol) today
+- the price of [FBNC](symbol) today
+- the price of [FBNK](symbol) today
+- the price of [FBRC](symbol) today
+- the price of [FBSS](symbol) today
+- the price of [FCAP](symbol) today
+- the price of [FCBC](symbol) today
+- the price of [FCCO](symbol) today
+- the price of [FCCY](symbol) today
+- the price of [FCEL](symbol) today
+- the price of [FCFS](symbol) today
+- the price of [FCHI](symbol) today
+- the price of [FCLF](symbol) today
+- the price of [FCNCA](symbol) today
+- the price of [FCS](symbol) today
+- the price of [FCSC](symbol) today
+- the price of [FCTY](symbol) today
+- the price of [FCVA](symbol) today
+- the price of [FCZA](symbol) today
+- the price of [FCZAP](symbol) today
+- the price of [FDEF](symbol) today
+- the price of [FDIV](symbol) today
+- the price of [FDML](symbol) today
+- the price of [FDUS](symbol) today
+- the price of [FEIC](symbol) today
+- the price of [FEIM](symbol) today
+- the price of [FELE](symbol) today
+- the price of [FEMB](symbol) today
+- the price of [FES](symbol) today
+- the price of [FEUZ](symbol) today
+- the price of [FEYE](symbol) today
+- the price of [FFBC](symbol) today
+- the price of [FFBCW](symbol) today
+- the price of [FFHL](symbol) today
+- the price of [FFIC](symbol) today
+- the price of [FFIN](symbol) today
+- the price of [FFIV](symbol) today
+- the price of [FFKT](symbol) today
+- the price of [FFNM](symbol) today
+- the price of [FFNW](symbol) today
+- the price of [FFWM](symbol) today
+- the price of [FGEN](symbol) today
+- the price of [FHCO](symbol) today
+- the price of [FIBK](symbol) today
+- the price of [FINL](symbol) today
+- the price of [FISH](symbol) today
+- the price of [FISI](symbol) today
+- the price of [FISV](symbol) today
+- the price of [FITB](symbol) today
+- the price of [FITBI](symbol) today
+- the price of [FIVE](symbol) today
+- the price of [FIVN](symbol) today
+- the price of [FIZZ](symbol) today
+- the price of [FLAT](symbol) today
+- the price of [FLDM](symbol) today
+- the price of [FLEX](symbol) today
+- the price of [FLIC](symbol) today
+- the price of [FLIR](symbol) today
+- the price of [FLL](symbol) today
+- the price of [FLML](symbol) today
+- the price of [FLWS](symbol) today
+- the price of [FLXN](symbol) today
+- the price of [FLXS](symbol) today
+- the price of [FMB](symbol) today
+- the price of [FMBH](symbol) today
+- the price of [FMBI](symbol) today
+- the price of [FMER](symbol) today
+- the price of [FMI](symbol) today
+- the price of [FMNB](symbol) today
+- the price of [FNBC](symbol) today
+- the price of [FNFG](symbol) today
+- the price of [FNGN](symbol) today
+- the price of [FNHC](symbol) today
+- the price of [FNJN](symbol) today
+- the price of [FNLC](symbol) today
+- the price of [FNRG](symbol) today
+- the price of [FNSR](symbol) today
+- the price of [FOLD](symbol) today
+- the price of [FOMX](symbol) today
+- the price of [FONE](symbol) today
+- the price of [FONR](symbol) today
+- the price of [FORD](symbol) today
+- the price of [FORM](symbol) today
+- the price of [FORR](symbol) today
+- the price of [FORTY](symbol) today
+- the price of [FOSL](symbol) today
+- the price of [FOX](symbol) today
+- the price of [FOXA](symbol) today
+- the price of [FOXF](symbol) today
+- the price of [FPRX](symbol) today
+- the price of [FPXI](symbol) today
+- the price of [FRAN](symbol) today
+- the price of [FRBA](symbol) today
+- the price of [FRBK](symbol) today
+- the price of [FRED](symbol) today
+- the price of [FREE](symbol) today
+- the price of [FRGI](symbol) today
+- the price of [FRME](symbol) today
+- the price of [FRP](symbol) today
+- the price of [FRPH](symbol) today
+- the price of [FRPHV](symbol) today
+- the price of [FRPT](symbol) today
+- the price of [FRSH](symbol) today
+- the price of [FSAM](symbol) today
+- the price of [FSBK](symbol) today
+- the price of [FSBW](symbol) today
+- the price of [FSC](symbol) today
+- the price of [FSCFL](symbol) today
+- the price of [FSFG](symbol) today
+- the price of [FSFR](symbol) today
+- the price of [FSGI](symbol) today
+- the price of [FSLR](symbol) today
+- the price of [FSNN](symbol) today
+- the price of [FSRV](symbol) today
+- the price of [FSTR](symbol) today
+- the price of [FSYS](symbol) today
+- the price of [FTCS](symbol) today
+- the price of [FTD](symbol) today
+- the price of [FTEK](symbol) today
+- the price of [FTGC](symbol) today
+- the price of [FTHI](symbol) today
+- the price of [FTLB](symbol) today
+- the price of [FTNT](symbol) today
+- the price of [FTR](symbol) today
+- the price of [FTSL](symbol) today
+- the price of [FTSM](symbol) today
+- the price of [FUEL](symbol) today
+- the price of [FULL](symbol) today
+- the price of [FULLL](symbol) today
+- the price of [FULT](symbol) today
+- the price of [FUNC](symbol) today
+- the price of [FUND](symbol) today
+- the price of [FV](symbol) today
+- the price of [FWM](symbol) today
+- the price of [FWP](symbol) today
+- the price of [FWRD](symbol) today
+- the price of [FXCB](symbol) today
+- the price of [FXEN](symbol) today
+- the price of [FXENP](symbol) today
+- the price of [GABC](symbol) today
+- the price of [GAI](symbol) today
+- the price of [GAIA](symbol) today
+- the price of [GAIN](symbol) today
+- the price of [GAINO](symbol) today
+- the price of [GAINP](symbol) today
+- the price of [GALE](symbol) today
+- the price of [GALT](symbol) today
+- the price of [GALTU](symbol) today
+- the price of [GALTW](symbol) today
+- the price of [GAME](symbol) today
+- the price of [GARS](symbol) today
+- the price of [GASS](symbol) today
+- the price of [GBCI](symbol) today
+- the price of [GBDC](symbol) today
+- the price of [GBIM](symbol) today
+- the price of [GBLI](symbol) today
+- the price of [GBNK](symbol) today
+- the price of [GBSN](symbol) today
+- the price of [GCBC](symbol) today
+- the price of [GCVRZ](symbol) today
+- the price of [GDEF](symbol) today
+- the price of [GENC](symbol) today
+- the price of [GENE](symbol) today
+- the price of [GEOS](symbol) today
+- the price of [GERN](symbol) today
+- the price of [GEVA](symbol) today
+- the price of [GEVO](symbol) today
+- the price of [GFED](symbol) today
+- the price of [GFN](symbol) today
+- the price of [GFNCP](symbol) today
+- the price of [GFNSL](symbol) today
+- the price of [GGAC](symbol) today
+- the price of [GGACR](symbol) today
+- the price of [GGACU](symbol) today
+- the price of [GGACW](symbol) today
+- the price of [GGAL](symbol) today
+- the price of [GHDX](symbol) today
+- the price of [GIFI](symbol) today
+- the price of [GIGA](symbol) today
+- the price of [GIGM](symbol) today
+- the price of [GIII](symbol) today
+- the price of [GILD](symbol) today
+- the price of [GILT](symbol) today
+- the price of [GK](symbol) today
+- the price of [GKNT](symbol) today
+- the price of [GLAD](symbol) today
+- the price of [GLADO](symbol) today
+- the price of [GLBS](symbol) today
+- the price of [GLBZ](symbol) today
+- the price of [GLDC](symbol) today
+- the price of [GLDD](symbol) today
+- the price of [GLDI](symbol) today
+- the price of [GLMD](symbol) today
+- the price of [GLNG](symbol) today
+- the price of [GLPI](symbol) today
+- the price of [GLRE](symbol) today
+- the price of [GLRI](symbol) today
+- the price of [GLUU](symbol) today
+- the price of [GLYC](symbol) today
+- the price of [GMAN](symbol) today
+- the price of [GMCR](symbol) today
+- the price of [GMLP](symbol) today
+- the price of [GNBC](symbol) today
+- the price of [GNCA](symbol) today
+- the price of [GNCMA](symbol) today
+- the price of [GNMA](symbol) today
+- the price of [GNMK](symbol) today
+- the price of [GNTX](symbol) today
+- the price of [GNVC](symbol) today
+- the price of [GOGO](symbol) today
+- the price of [GOLD](symbol) today
+- the price of [GOMO](symbol) today
+- the price of [GOOD](symbol) today
+- the price of [GOODN](symbol) today
+- the price of [GOODO](symbol) today
+- the price of [GOODP](symbol) today
+- the price of [GOOG](symbol) today
+- the price of [GOOGL](symbol) today
+- the price of [GPIC](symbol) today
+- the price of [GPOR](symbol) today
+- the price of [GPRE](symbol) today
+- the price of [GPRO](symbol) today
+- the price of [GRBK](symbol) today
+- the price of [GRFS](symbol) today
+- the price of [GRID](symbol) today
+- the price of [GRIF](symbol) today
+- the price of [GRMN](symbol) today
+- the price of [GROW](symbol) today
+- the price of [GRPN](symbol) today
+- the price of [GRVY](symbol) today
+- the price of [GSBC](symbol) today
+- the price of [GSIG](symbol) today
+- the price of [GSIT](symbol) today
+- the price of [GSM](symbol) today
+- the price of [GSOL](symbol) today
+- the price of [GSVC](symbol) today
+- the price of [GT](symbol) today
+- the price of [GTIM](symbol) today
+- the price of [GTIV](symbol) today
+- the price of [GTLS](symbol) today
+- the price of [GTWN](symbol) today
+- the price of [GTXI](symbol) today
+- the price of [GUID](symbol) today
+- the price of [GULF](symbol) today
+- the price of [GULTU](symbol) today
+- the price of [GURE](symbol) today
+- the price of [GWGH](symbol) today
+- the price of [GWPH](symbol) today
+- the price of [GYRO](symbol) today
+- the price of [HA](symbol) today
+- the price of [HABT](symbol) today
+- the price of [HAFC](symbol) today
+- the price of [HAIN](symbol) today
+- the price of [HALL](symbol) today
+- the price of [HALO](symbol) today
+- the price of [HART](symbol) today
+- the price of [HAS](symbol) today
+- the price of [HAWK](symbol) today
+- the price of [HAWKB](symbol) today
+- the price of [HAYN](symbol) today
+- the price of [HBAN](symbol) today
+- the price of [HBANP](symbol) today
+- the price of [HBCP](symbol) today
+- the price of [HBHC](symbol) today
+- the price of [HBIO](symbol) today
+- the price of [HBK](symbol) today
+- the price of [HBMD](symbol) today
+- the price of [HBNC](symbol) today
+- the price of [HBNK](symbol) today
+- the price of [HBOS](symbol) today
+- the price of [HBP](symbol) today
+- the price of [HCAC](symbol) today
+- the price of [HCACU](symbol) today
+- the price of [HCACW](symbol) today
+- the price of [HCAP](symbol) today
+- the price of [HCBK](symbol) today
+- the price of [HCCI](symbol) today
+- the price of [HCKT](symbol) today
+- the price of [HCOM](symbol) today
+- the price of [HCSG](symbol) today
+- the price of [HCT](symbol) today
+- the price of [HDNG](symbol) today
+- the price of [HDP](symbol) today
+- the price of [HDRA](symbol) today
+- the price of [HDRAR](symbol) today
+- the price of [HDRAU](symbol) today
+- the price of [HDRAW](symbol) today
+- the price of [HDS](symbol) today
+- the price of [HDSN](symbol) today
+- the price of [HEAR](symbol) today
+- the price of [HEES](symbol) today
+- the price of [HELE](symbol) today
+- the price of [HEOP](symbol) today
+- the price of [HERO](symbol) today
+- the price of [HFBC](symbol) today
+- the price of [HFBL](symbol) today
+- the price of [HFFC](symbol) today
+- the price of [HFWA](symbol) today
+- the price of [HGSH](symbol) today
+- the price of [HIBB](symbol) today
+- the price of [HIFS](symbol) today
+- the price of [HIHO](symbol) today
+- the price of [HIIQ](symbol) today
+- the price of [HILL](symbol) today
+- the price of [HIMX](symbol) today
+- the price of [HKTV](symbol) today
+- the price of [HLIT](symbol) today
+- the price of [HLSS](symbol) today
+- the price of [HMHC](symbol) today
+- the price of [HMIN](symbol) today
+- the price of [HMNF](symbol) today
+- the price of [HMNY](symbol) today
+- the price of [HMPR](symbol) today
+- the price of [HMST](symbol) today
+- the price of [HMSY](symbol) today
+- the price of [HMTV](symbol) today
+- the price of [HNH](symbol) today
+- the price of [HNNA](symbol) today
+- the price of [HNRG](symbol) today
+- the price of [HNSN](symbol) today
+- the price of [HOFT](symbol) today
+- the price of [HOLI](symbol) today
+- the price of [HOLX](symbol) today
+- the price of [HOMB](symbol) today
+- the price of [HOTR](symbol) today
+- the price of [HOTRW](symbol) today
+- the price of [HOVNP](symbol) today
+- the price of [HPJ](symbol) today
+- the price of [HPTX](symbol) today
+- the price of [HQY](symbol) today
+- the price of [HRTX](symbol) today
+- the price of [HRZN](symbol) today
+- the price of [HSGX](symbol) today
+- the price of [HSIC](symbol) today
+- the price of [HSII](symbol) today
+- the price of [HSKA](symbol) today
+- the price of [HSNI](symbol) today
+- the price of [HSOL](symbol) today
+- the price of [HSON](symbol) today
+- the price of [HSTM](symbol) today
+- the price of [HTBI](symbol) today
+- the price of [HTBK](symbol) today
+- the price of [HTBX](symbol) today
+- the price of [HTCH](symbol) today
+- the price of [HTHT](symbol) today
+- the price of [HTLD](symbol) today
+- the price of [HTLF](symbol) today
+- the price of [HTWO](symbol) today
+- the price of [HTWR](symbol) today
+- the price of [HUBG](symbol) today
+- the price of [HURC](symbol) today
+- the price of [HURN](symbol) today
+- the price of [HWAY](symbol) today
+- the price of [HWBK](symbol) today
+- the price of [HWCC](symbol) today
+- the price of [HWKN](symbol) today
+- the price of [HYGS](symbol) today
+- the price of [HYLS](symbol) today
+- the price of [HYND](symbol) today
+- the price of [HYZD](symbol) today
+- the price of [HZNP](symbol) today
+- the price of [IACI](symbol) today
+- the price of [IART](symbol) today
+- the price of [IBB](symbol) today
+- the price of [IBCA](symbol) today
+- the price of [IBCP](symbol) today
+- the price of [IBKC](symbol) today
+- the price of [IBKR](symbol) today
+- the price of [IBOC](symbol) today
+- the price of [IBTX](symbol) today
+- the price of [ICAD](symbol) today
+- the price of [ICCC](symbol) today
+- the price of [ICEL](symbol) today
+- the price of [ICFI](symbol) today
+- the price of [ICLD](symbol) today
+- the price of [ICLDW](symbol) today
+- the price of [ICLN](symbol) today
+- the price of [ICLR](symbol) today
+- the price of [ICON](symbol) today
+- the price of [ICPT](symbol) today
+- the price of [ICUI](symbol) today
+- the price of [IDCC](symbol) today
+- the price of [IDRA](symbol) today
+- the price of [IDSA](symbol) today
+- the price of [IDSY](symbol) today
+- the price of [IDTI](symbol) today
+- the price of [IDXX](symbol) today
+- the price of [IEP](symbol) today
+- the price of [IESC](symbol) today
+- the price of [IEUS](symbol) today
+- the price of [IFAS](symbol) today
+- the price of [IFEU](symbol) today
+- the price of [IFGL](symbol) today
+- the price of [IFNA](symbol) today
+- the price of [IFON](symbol) today
+- the price of [IFV](symbol) today
+- the price of [IGLD](symbol) today
+- the price of [IGOV](symbol) today
+- the price of [IGTE](symbol) today
+- the price of [III](symbol) today
+- the price of [IIIN](symbol) today
+- the price of [IIJI](symbol) today
+- the price of [IILG](symbol) today
+- the price of [IIN](symbol) today
+- the price of [IIVI](symbol) today
+- the price of [IKAN](symbol) today
+- the price of [IKGH](symbol) today
+- the price of [IKNX](symbol) today
+- the price of [ILMN](symbol) today
+- the price of [IMDZ](symbol) today
+- the price of [IMGN](symbol) today
+- the price of [IMI](symbol) today
+- the price of [IMKTA](symbol) today
+- the price of [IMMR](symbol) today
+- the price of [IMMU](symbol) today
+- the price of [IMMY](symbol) today
+- the price of [IMNP](symbol) today
+- the price of [IMOS](symbol) today
+- the price of [IMRS](symbol) today
+- the price of [INAP](symbol) today
+- the price of [INBK](symbol) today
+- the price of [INCR](symbol) today
+- the price of [INCY](symbol) today
+- the price of [INDB](symbol) today
+- the price of [INDY](symbol) today
+- the price of [INFA](symbol) today
+- the price of [INFI](symbol) today
+- the price of [INFN](symbol) today
+- the price of [INGN](symbol) today
+- the price of [ININ](symbol) today
+- the price of [INNL](symbol) today
+- the price of [INO](symbol) today
+- the price of [INOD](symbol) today
+- the price of [INPH](symbol) today
+- the price of [INSM](symbol) today
+- the price of [INSY](symbol) today
+- the price of [INTC](symbol) today
+- the price of [INTG](symbol) today
+- the price of [INTL](symbol) today
+- the price of [INTLL](symbol) today
+- the price of [INTU](symbol) today
+- the price of [INTX](symbol) today
+- the price of [INVE](symbol) today
+- the price of [INVT](symbol) today
+- the price of [INWK](symbol) today
+- the price of [IOSP](symbol) today
+- the price of [IPAR](symbol) today
+- the price of [IPAS](symbol) today
+- the price of [IPCC](symbol) today
+- the price of [IPCI](symbol) today
+- the price of [IPCM](symbol) today
+- the price of [IPDN](symbol) today
+- the price of [IPGP](symbol) today
+- the price of [IPHS](symbol) today
+- the price of [IPKW](symbol) today
+- the price of [IPWR](symbol) today
+- the price of [IPXL](symbol) today
+- the price of [IQNT](symbol) today
+- the price of [IRBT](symbol) today
+- the price of [IRDM](symbol) today
+- the price of [IRDMB](symbol) today
+- the price of [IRDMZ](symbol) today
+- the price of [IRG](symbol) today
+- the price of [IRIX](symbol) today
+- the price of [IRMD](symbol) today
+- the price of [IROQ](symbol) today
+- the price of [IRWD](symbol) today
+- the price of [ISBC](symbol) today
+- the price of [ISCA](symbol) today
+- the price of [ISHG](symbol) today
+- the price of [ISIG](symbol) today
+- the price of [ISIL](symbol) today
+- the price of [ISIS](symbol) today
+- the price of [ISLE](symbol) today
+- the price of [ISM](symbol) today
+- the price of [ISNS](symbol) today
+- the price of [ISRG](symbol) today
+- the price of [ISRL](symbol) today
+- the price of [ISSC](symbol) today
+- the price of [ISSI](symbol) today
+- the price of [ISTR](symbol) today
+- the price of [ITCI](symbol) today
+- the price of [ITIC](symbol) today
+- the price of [ITRI](symbol) today
+- the price of [ITRN](symbol) today
+- the price of [IVAC](symbol) today
+- the price of [IVAN](symbol) today
+- the price of [IXYS](symbol) today
+- the price of [JACK](symbol) today
+- the price of [JACQ](symbol) today
+- the price of [JACQU](symbol) today
+- the price of [JACQW](symbol) today
+- the price of [JAKK](symbol) today
+- the price of [JASN](symbol) today
+- the price of [JASNW](symbol) today
+- the price of [JASO](symbol) today
+- the price of [JAXB](symbol) today
+- the price of [JAZZ](symbol) today
+- the price of [JBHT](symbol) today
+- the price of [JBLU](symbol) today
+- the price of [JBSS](symbol) today
+- the price of [JCOM](symbol) today
+- the price of [JCS](symbol) today
+- the price of [JCTCF](symbol) today
+- the price of [JD](symbol) today
+- the price of [JDSU](symbol) today
+- the price of [JGBB](symbol) today
+- the price of [JIVE](symbol) today
+- the price of [JJSF](symbol) today
+- the price of [JKHY](symbol) today
+- the price of [JMBA](symbol) today
+- the price of [JOBS](symbol) today
+- the price of [JOEZ](symbol) today
+- the price of [JOUT](symbol) today
+- the price of [JRJC](symbol) today
+- the price of [JRVR](symbol) today
+- the price of [JSM](symbol) today
+- the price of [JST](symbol) today
+- the price of [JTPY](symbol) today
+- the price of [JUNO](symbol) today
+- the price of [JVA](symbol) today
+- the price of [JXSB](symbol) today
+- the price of [JYNT](symbol) today
+- the price of [KALU](symbol) today
+- the price of [KANG](symbol) today
+- the price of [KBAL](symbol) today
+- the price of [KBIO](symbol) today
+- the price of [KBSF](symbol) today
+- the price of [KCAP](symbol) today
+- the price of [KCLI](symbol) today
+- the price of [KE](symbol) today
+- the price of [KELYA](symbol) today
+- the price of [KELYB](symbol) today
+- the price of [KEQU](symbol) today
+- the price of [KERX](symbol) today
+- the price of [KEYW](symbol) today
+- the price of [KFFB](symbol) today
+- the price of [KFRC](symbol) today
+- the price of [KFX](symbol) today
+- the price of [KGJI](symbol) today
+- the price of [KIN](symbol) today
+- the price of [KINS](symbol) today
+- the price of [KIRK](symbol) today
+- the price of [KITE](symbol) today
+- the price of [KLAC](symbol) today
+- the price of [KLIC](symbol) today
+- the price of [KLXI](symbol) today
+- the price of [KMDA](symbol) today
+- the price of [KNDI](symbol) today
+- the price of [KONA](symbol) today
+- the price of [KONE](symbol) today
+- the price of [KOOL](symbol) today
+- the price of [KOPN](symbol) today
+- the price of [KOSS](symbol) today
+- the price of [KPTI](symbol) today
+- the price of [KRFT](symbol) today
+- the price of [KRNY](symbol) today
+- the price of [KTCC](symbol) today
+- the price of [KTEC](symbol) today
+- the price of [KTOS](symbol) today
+- the price of [KTWO](symbol) today
+- the price of [KUTV](symbol) today
+- the price of [KVHI](symbol) today
+- the price of [KWEB](symbol) today
+- the price of [KYTH](symbol) today
+- the price of [KZ](symbol) today
+- the price of [LABC](symbol) today
+- the price of [LABL](symbol) today
+- the price of [LACO](symbol) today
+- the price of [LAKE](symbol) today
+- the price of [LALT](symbol) today
+- the price of [LAMR](symbol) today
+- the price of [LANC](symbol) today
+- the price of [LAND](symbol) today
+- the price of [LARK](symbol) today
+- the price of [LAWS](symbol) today
+- the price of [LAYN](symbol) today
+- the price of [LBAI](symbol) today
+- the price of [LBIX](symbol) today
+- the price of [LBRDA](symbol) today
+- the price of [LBRDK](symbol) today
+- the price of [LBRKR](symbol) today
+- the price of [LBTYA](symbol) today
+- the price of [LBTYB](symbol) today
+- the price of [LBTYK](symbol) today
+- the price of [LCNB](symbol) today
+- the price of [LCUT](symbol) today
+- the price of [LDRH](symbol) today
+- the price of [LDRI](symbol) today
+- the price of [LE](symbol) today
+- the price of [LECO](symbol) today
+- the price of [LEDS](symbol) today
+- the price of [LEVY](symbol) today
+- the price of [LEVYU](symbol) today
+- the price of [LEVYW](symbol) today
+- the price of [LFUS](symbol) today
+- the price of [LFVN](symbol) today
+- the price of [LGCY](symbol) today
+- the price of [LGCYO](symbol) today
+- the price of [LGCYP](symbol) today
+- the price of [LGIH](symbol) today
+- the price of [LGND](symbol) today
+- the price of [LHCG](symbol) today
+- the price of [LIME](symbol) today
+- the price of [LINC](symbol) today
+- the price of [LINE](symbol) today
+- the price of [LION](symbol) today
+- the price of [LIOX](symbol) today
+- the price of [LIQD](symbol) today
+- the price of [LIVE](symbol) today
+- the price of [LJPC](symbol) today
+- the price of [LKFN](symbol) today
+- the price of [LKQ](symbol) today
+- the price of [LLEX](symbol) today
+- the price of [LLNW](symbol) today
+- the price of [LLTC](symbol) today
+- the price of [LMAT](symbol) today
+- the price of [LMBS](symbol) today
+- the price of [LMCA](symbol) today
+- the price of [LMCB](symbol) today
+- the price of [LMCK](symbol) today
+- the price of [LMIA](symbol) today
+- the price of [LMNR](symbol) today
+- the price of [LMNS](symbol) today
+- the price of [LMNX](symbol) today
+- the price of [LMOS](symbol) today
+- the price of [LMRK](symbol) today
+- the price of [LNBB](symbol) today
+- the price of [LNCE](symbol) today
+- the price of [LNCO](symbol) today
+- the price of [LNDC](symbol) today
+- the price of [LOAN](symbol) today
+- the price of [LOCM](symbol) today
+- the price of [LOCO](symbol) today
+- the price of [LOGI](symbol) today
+- the price of [LOGM](symbol) today
+- the price of [LOJN](symbol) today
+- the price of [LONG](symbol) today
+- the price of [LOOK](symbol) today
+- the price of [LOPE](symbol) today
+- the price of [LORL](symbol) today
+- the price of [LOXO](symbol) today
+- the price of [LPCN](symbol) today
+- the price of [LPHI](symbol) today
+- the price of [LPLA](symbol) today
+- the price of [LPNT](symbol) today
+- the price of [LPSB](symbol) today
+- the price of [LPSN](symbol) today
+- the price of [LPTH](symbol) today
+- the price of [LPTN](symbol) today
+- the price of [LQDT](symbol) today
+- the price of [LRAD](symbol) today
+- the price of [LRCX](symbol) today
+- the price of [LSBK](symbol) today
+- the price of [LSCC](symbol) today
+- the price of [LSTR](symbol) today
+- the price of [LTBR](symbol) today
+- the price of [LTRE](symbol) today
+- the price of [LTRPA](symbol) today
+- the price of [LTRPB](symbol) today
+- the price of [LTRX](symbol) today
+- the price of [LTXB](symbol) today
+- the price of [LULU](symbol) today
+- the price of [LUNA](symbol) today
+- the price of [LVNTA](symbol) today
+- the price of [LVNTB](symbol) today
+- the price of [LWAY](symbol) today
+- the price of [LXRX](symbol) today
+- the price of [LYTS](symbol) today
+- the price of [MACK](symbol) today
+- the price of [MAG](symbol) today
+- the price of [MAGS](symbol) today
+- the price of [MAMS](symbol) today
+- the price of [MANH](symbol) today
+- the price of [MANT](symbol) today
+- the price of [MAR](symbol) today
+- the price of [MARA](symbol) today
+- the price of [MARK](symbol) today
+- the price of [MARPS](symbol) today
+- the price of [MASI](symbol) today
+- the price of [MAT](symbol) today
+- the price of [MATR](symbol) today
+- the price of [MATW](symbol) today
+- the price of [MAYS](symbol) today
+- the price of [MBCN](symbol) today
+- the price of [MBFI](symbol) today
+- the price of [MBFIP](symbol) today
+- the price of [MBII](symbol) today
+- the price of [MBLX](symbol) today
+- the price of [MBRG](symbol) today
+- the price of [MBSD](symbol) today
+- the price of [MBTF](symbol) today
+- the price of [MBUU](symbol) today
+- the price of [MBVT](symbol) today
+- the price of [MBWM](symbol) today
+- the price of [MCBC](symbol) today
+- the price of [MCBK](symbol) today
+- the price of [MCEP](symbol) today
+- the price of [MCGC](symbol) today
+- the price of [MCHP](symbol) today
+- the price of [MCHX](symbol) today
+- the price of [MCOX](symbol) today
+- the price of [MCRI](symbol) today
+- the price of [MCRL](symbol) today
+- the price of [MCUR](symbol) today
+- the price of [MDAS](symbol) today
+- the price of [MDCA](symbol) today
+- the price of [MDCO](symbol) today
+- the price of [MDIV](symbol) today
+- the price of [MDLZ](symbol) today
+- the price of [MDM](symbol) today
+- the price of [MDRX](symbol) today
+- the price of [MDSO](symbol) today
+- the price of [MDSY](symbol) today
+- the price of [MDVN](symbol) today
+- the price of [MDVXU](symbol) today
+- the price of [MDWD](symbol) today
+- the price of [MDXG](symbol) today
+- the price of [MEET](symbol) today
+- the price of [MEIL](symbol) today
+- the price of [MEILW](symbol) today
+- the price of [MEILZ](symbol) today
+- the price of [MEIP](symbol) today
+- the price of [MELA](symbol) today
+- the price of [MELI](symbol) today
+- the price of [MELR](symbol) today
+- the price of [MEMP](symbol) today
+- the price of [MENT](symbol) today
+- the price of [MEOH](symbol) today
+- the price of [MERC](symbol) today
+- the price of [MERU](symbol) today
+- the price of [METR](symbol) today
+- the price of [MFI](symbol) today
+- the price of [MFLX](symbol) today
+- the price of [MFNC](symbol) today
+- the price of [MFRI](symbol) today
+- the price of [MFRM](symbol) today
+- the price of [MFSF](symbol) today
+- the price of [MGCD](symbol) today
+- the price of [MGEE](symbol) today
+- the price of [MGI](symbol) today
+- the price of [MGIC](symbol) today
+- the price of [MGLN](symbol) today
+- the price of [MGNX](symbol) today
+- the price of [MGPI](symbol) today
+- the price of [MGRC](symbol) today
+- the price of [MGYR](symbol) today
+- the price of [MHGC](symbol) today
+- the price of [MHLD](symbol) today
+- the price of [MHLDO](symbol) today
+- the price of [MICT](symbol) today
+- the price of [MICTW](symbol) today
+- the price of [MIDD](symbol) today
+- the price of [MIFI](symbol) today
+- the price of [MIK](symbol) today
+- the price of [MIND](symbol) today
+- the price of [MINI](symbol) today
+- the price of [MITK](symbol) today
+- the price of [MITL](symbol) today
+- the price of [MKSI](symbol) today
+- the price of [MKTO](symbol) today
+- the price of [MKTX](symbol) today
+- the price of [MLAB](symbol) today
+- the price of [MLHR](symbol) today
+- the price of [MLNK](symbol) today
+- the price of [MLNX](symbol) today
+- the price of [MLVF](symbol) today
+- the price of [MMAC](symbol) today
+- the price of [MMLP](symbol) today
+- the price of [MMSI](symbol) today
+- the price of [MMYT](symbol) today
+- the price of [MNDL](symbol) today
+- the price of [MNDO](symbol) today
+- the price of [MNGA](symbol) today
+- the price of [MNKD](symbol) today
+- the price of [MNOV](symbol) today
+- the price of [MNRK](symbol) today
+- the price of [MNRO](symbol) today
+- the price of [MNST](symbol) today
+- the price of [MNTA](symbol) today
+- the price of [MNTX](symbol) today
+- the price of [MOBI](symbol) today
+- the price of [MOBL](symbol) today
+- the price of [MOCO](symbol) today
+- the price of [MOFG](symbol) today
+- the price of [MOKO](symbol) today
+- the price of [MOLG](symbol) today
+- the price of [MOMO](symbol) today
+- the price of [MORN](symbol) today
+- the price of [MOSY](symbol) today
+- the price of [MPAA](symbol) today
+- the price of [MPB](symbol) today
+- the price of [MPEL](symbol) today
+- the price of [MPET](symbol) today
+- the price of [MPWR](symbol) today
+- the price of [MRCC](symbol) today
+- the price of [MRCY](symbol) today
+- the price of [MRD](symbol) today
+- the price of [MRGE](symbol) today
+- the price of [MRKT](symbol) today
+- the price of [MRLN](symbol) today
+- the price of [MRNS](symbol) today
+- the price of [MRTN](symbol) today
+- the price of [MRTX](symbol) today
+- the price of [MRVC](symbol) today
+- the price of [MRVL](symbol) today
+- the price of [MSBF](symbol) today
+- the price of [MSCC](symbol) today
+- the price of [MSEX](symbol) today
+- the price of [MSFG](symbol) today
+- the price of [MSFT](symbol) today
+- the price of [MSG](symbol) today
+- the price of [MSLI](symbol) today
+- the price of [MSON](symbol) today
+- the price of [MSTR](symbol) today
+- the price of [MTBC](symbol) today
+- the price of [MTEX](symbol) today
+- the price of [MTGE](symbol) today
+- the price of [MTGEP](symbol) today
+- the price of [MTLS](symbol) today
+- the price of [MTRX](symbol) today
+- the price of [MTSC](symbol) today
+- the price of [MTSI](symbol) today
+- the price of [MTSL](symbol) today
+- the price of [MTSN](symbol) today
 - the price of [MU](symbol) today
-- Find the price of [SPY](symbol)
-- Find the price of [AXP](symbol)
+- the price of [MULT](symbol) today
+- the price of [MVIS](symbol) today
+- the price of [MWIV](symbol) today
+- the price of [MXIM](symbol) today
+- the price of [MXWL](symbol) today
+- the price of [MYGN](symbol) today
+- the price of [MYL](symbol) today
+- the price of [MYOS](symbol) today
+- the price of [MYRG](symbol) today
+- the price of [MZOR](symbol) today
+- the price of [NAII](symbol) today
+- the price of [NAME](symbol) today
+- the price of [NANO](symbol) today
+- the price of [NATH](symbol) today
+- the price of [NATI](symbol) today
+- the price of [NATL](symbol) today
+- the price of [NATR](symbol) today
+- the price of [NAUH](symbol) today
+- the price of [NAVG](symbol) today
+- the price of [NAVI](symbol) today
+- the price of [NBBC](symbol) today
+- the price of [NBIX](symbol) today
+- the price of [NBN](symbol) today
+- the price of [NBS](symbol) today
+- the price of [NBTB](symbol) today
+- the price of [NBTF](symbol) today
+- the price of [NCIT](symbol) today
+- the price of [NCLH](symbol) today
+- the price of [NCMI](symbol) today
+- the price of [NCTY](symbol) today
+- the price of [NDAQ](symbol) today
+- the price of [NDLS](symbol) today
+- the price of [NDRM](symbol) today
+- the price of [NDSN](symbol) today
+- the price of [NECB](symbol) today
+- the price of [NEO](symbol) today
+- the price of [NEOG](symbol) today
+- the price of [NEON](symbol) today
+- the price of [NEOT](symbol) today
+- the price of [NEPT](symbol) today
+- the price of [NERV](symbol) today
+- the price of [NETE](symbol) today
+- the price of [NEWP](symbol) today
+- the price of [NEWS](symbol) today
+- the price of [NEWT](symbol) today
+- the price of [NFBK](symbol) today
+- the price of [NFEC](symbol) today
+- the price of [NFLX](symbol) today
+- the price of [NGHC](symbol) today
+- the price of [NGHCP](symbol) today
+- the price of [NHTB](symbol) today
+- the price of [NICE](symbol) today
+- the price of [NICK](symbol) today
+- the price of [NILE](symbol) today
+- the price of [NKSH](symbol) today
+- the price of [NKTR](symbol) today
+- the price of [NLNK](symbol) today
+- the price of [NLST](symbol) today
+- the price of [NMIH](symbol) today
+- the price of [NMRX](symbol) today
+- the price of [NNBR](symbol) today
+- the price of [NPBC](symbol) today
+- the price of [NPSP](symbol) today
+- the price of [NRCIA](symbol) today
+- the price of [NRCIB](symbol) today
+- the price of [NRIM](symbol) today
+- the price of [NRX](symbol) today
+- the price of [NSEC](symbol) today
+- the price of [NSIT](symbol) today
+- the price of [NSPH](symbol) today
+- the price of [NSSC](symbol) today
+- the price of [NSTG](symbol) today
+- the price of [NSYS](symbol) today
+- the price of [NTAP](symbol) today
+- the price of [NTCT](symbol) today
+- the price of [NTES](symbol) today
+- the price of [NTGR](symbol) today
+- the price of [NTIC](symbol) today
+- the price of [NTK](symbol) today
+- the price of [NTLS](symbol) today
+- the price of [NTRI](symbol) today
+- the price of [NTRS](symbol) today
+- the price of [NTRSP](symbol) today
+- the price of [NTWK](symbol) today
+- the price of [NUAN](symbol) today
+- the price of [NURO](symbol) today
+- the price of [NUTR](symbol) today
+- the price of [NUVA](symbol) today
+- the price of [NVAX](symbol) today
+- the price of [NVCN](symbol) today
+- the price of [NVDA](symbol) today
+- the price of [NVDQ](symbol) today
+- the price of [NVEC](symbol) today
+- the price of [NVEE](symbol) today
+- the price of [NVEEW](symbol) today
+- the price of [NVFY](symbol) today
+- the price of [NVGN](symbol) today
+- the price of [NVMI](symbol) today
+- the price of [NVSL](symbol) today
+- the price of [NWBI](symbol) today
+- the price of [NWBO](symbol) today
+- the price of [NWBOW](symbol) today
+- the price of [NWFL](symbol) today
+- the price of [NWLI](symbol) today
+- the price of [NWPX](symbol) today
+- the price of [NWS](symbol) today
+- the price of [NWSA](symbol) today
+- the price of [NXPI](symbol) today
+- the price of [NXST](symbol) today
+- the price of [NXTD](symbol) today
+- the price of [NXTDW](symbol) today
+- the price of [NXTM](symbol) today
+- the price of [NYMT](symbol) today
+- the price of [NYMTP](symbol) today
+- the price of [NYMX](symbol) today
+- the price of [NYNY](symbol) today
+- the price of [OBAS](symbol) today
+- the price of [OBCI](symbol) today
+- the price of [OCC](symbol) today
+- the price of [OCFC](symbol) today
+- the price of [OCLR](symbol) today
+- the price of [OCLS](symbol) today
+- the price of [OCRX](symbol) today
+- the price of [OCUL](symbol) today
+- the price of [ODFL](symbol) today
+- the price of [ODP](symbol) today
+- the price of [OFED](symbol) today
+- the price of [OFIX](symbol) today
+- the price of [OFLX](symbol) today
+- the price of [OFS](symbol) today
+- the price of [OGXI](symbol) today
+- the price of [OHAI](symbol) today
+- the price of [OHGI](symbol) today
+- the price of [OHRP](symbol) today
+- the price of [OIIM](symbol) today
+- the price of [OKSB](symbol) today
+- the price of [OLBK](symbol) today
+- the price of [OLED](symbol) today
+- the price of [OMAB](symbol) today
+- the price of [OMCL](symbol) today
+- the price of [OMED](symbol) today
+- the price of [OMER](symbol) today
+- the price of [OMEX](symbol) today
+- the price of [ONB](symbol) today
+- the price of [ONCY](symbol) today
+- the price of [ONEQ](symbol) today
+- the price of [ONFC](symbol) today
+- the price of [ONNN](symbol) today
+- the price of [ONTX](symbol) today
+- the price of [ONTY](symbol) today
+- the price of [ONVI](symbol) today
+- the price of [OPB](symbol) today
+- the price of [OPHC](symbol) today
+- the price of [OPHT](symbol) today
+- the price of [OPOF](symbol) today
+- the price of [OPTT](symbol) today
+- the price of [OPXA](symbol) today
+- the price of [ORBC](symbol) today
+- the price of [ORBK](symbol) today
+- the price of [OREX](symbol) today
+- the price of [ORIG](symbol) today
+- the price of [ORIT](symbol) today
+- the price of [ORLY](symbol) today
+- the price of [ORMP](symbol) today
+- the price of [ORPN](symbol) today
+- the price of [ORRF](symbol) today
+- the price of [OSBC](symbol) today
+- the price of [OSBCP](symbol) today
+- the price of [OSHC](symbol) today
+- the price of [OSIR](symbol) today
+- the price of [OSIS](symbol) today
+- the price of [OSM](symbol) today
+- the price of [OSN](symbol) today
+- the price of [OSTK](symbol) today
+- the price of [OSUR](symbol) today
+- the price of [OTEL](symbol) today
+- the price of [OTEX](symbol) today
+- the price of [OTIC](symbol) today
+- the price of [OTIV](symbol) today
+- the price of [OTTR](symbol) today
+- the price of [OUTR](symbol) today
+- the price of [OVAS](symbol) today
+- the price of [OVBC](symbol) today
+- the price of [OVLY](symbol) today
+- the price of [OVTI](symbol) today
+- the price of [OXBR](symbol) today
+- the price of [OXBRW](symbol) today
+- the price of [OXFD](symbol) today
+- the price of [OXGN](symbol) today
+- the price of [OXLC](symbol) today
+- the price of [OXLCN](symbol) today
+- the price of [OXLCO](symbol) today
+- the price of [OXLCP](symbol) today
+- the price of [OZRK](symbol) today
+- the price of [PAAS](symbol) today
+- the price of [PACB](symbol) today
+- the price of [PACW](symbol) today
+- the price of [PAGG](symbol) today
+- the price of [PAHC](symbol) today
+- the price of [PANL](symbol) today
+- the price of [PARN](symbol) today
+- the price of [PATIV](symbol) today
+- the price of [PATK](symbol) today
+- the price of [PAYX](symbol) today
+- the price of [PBCP](symbol) today
+- the price of [PBCT](symbol) today
+- the price of [PBHC](symbol) today
+- the price of [PBIB](symbol) today
+- the price of [PBIP](symbol) today
+- the price of [PBMD](symbol) today
+- the price of [PBPB](symbol) today
+- the price of [PBSK](symbol) today
+- the price of [PCAR](symbol) today
+- the price of [PCBK](symbol) today
+- the price of [PCCC](symbol) today
+- the price of [PCH](symbol) today
+- the price of [PCLN](symbol) today
+- the price of [PCMI](symbol) today
+- the price of [PCO](symbol) today
+- the price of [PCOM](symbol) today
+- the price of [PCRX](symbol) today
+- the price of [PCTI](symbol) today
+- the price of [PCTY](symbol) today
+- the price of [PCYC](symbol) today
+- the price of [PCYG](symbol) today
+- the price of [PCYO](symbol) today
+- the price of [PDBC](symbol) today
+- the price of [PDCE](symbol) today
+- the price of [PDCO](symbol) today
+- the price of [PDEX](symbol) today
+- the price of [PDFS](symbol) today
+- the price of [PDII](symbol) today
+- the price of [PDLI](symbol) today
+- the price of [PEBK](symbol) today
+- the price of [PEBO](symbol) today
+- the price of [PEGA](symbol) today
+- the price of [PEGI](symbol) today
+- the price of [PEIX](symbol) today
+- the price of [PENN](symbol) today
+- the price of [PENX](symbol) today
+- the price of [PEOP](symbol) today
+- the price of [PERF](symbol) today
+- the price of [PERI](symbol) today
+- the price of [PERY](symbol) today
+- the price of [PESI](symbol) today
+- the price of [PETM](symbol) today
+- the price of [PETS](symbol) today
+- the price of [PETX](symbol) today
+- the price of [PFBC](symbol) today
+- the price of [PFBI](symbol) today
+- the price of [PFBX](symbol) today
+- the price of [PFIE](symbol) today
+- the price of [PFIN](symbol) today
+- the price of [PFIS](symbol) today
+- the price of [PFLT](symbol) today
+- the price of [PFMT](symbol) today
+- the price of [PFPT](symbol) today
+- the price of [PFSW](symbol) today
+- the price of [PGC](symbol) today
+- the price of [PGNX](symbol) today
+- the price of [PGTI](symbol) today
+- the price of [PHII](symbol) today
+- the price of [PHIIK](symbol) today
+- the price of [PHMD](symbol) today
+- the price of [PICO](symbol) today
+- the price of [PIH](symbol) today
+- the price of [PINC](symbol) today
+- the price of [PKBK](symbol) today
+- the price of [PKOH](symbol) today
+- the price of [PKT](symbol) today
+- the price of [PLAB](symbol) today
+- the price of [PLAY](symbol) today
+- the price of [PLBC](symbol) today
+- the price of [PLCE](symbol) today
+- the price of [PLCM](symbol) today
+- the price of [PLKI](symbol) today
+- the price of [PLMT](symbol) today
+- the price of [PLNR](symbol) today
+- the price of [PLPC](symbol) today
+- the price of [PLPM](symbol) today
+- the price of [PLTM](symbol) today
+- the price of [PLUG](symbol) today
+- the price of [PLUS](symbol) today
+- the price of [PLXS](symbol) today
+- the price of [PMBC](symbol) today
+- the price of [PMCS](symbol) today
+- the price of [PMD](symbol) today
+- the price of [PME](symbol) today
+- the price of [PMFG](symbol) today
+- the price of [PNBK](symbol) today
+- the price of [PNFP](symbol) today
+- the price of [PNNT](symbol) today
+- the price of [PNQI](symbol) today
+- the price of [PNRA](symbol) today
+- the price of [PNRG](symbol) today
+- the price of [PNTR](symbol) today
+- the price of [PODD](symbol) today
+- the price of [POOL](symbol) today
+- the price of [POPE](symbol) today
+- the price of [POWI](symbol) today
+- the price of [POWL](symbol) today
+- the price of [POZN](symbol) today
+- the price of [PPBI](symbol) today
+- the price of [PPC](symbol) today
+- the price of [PPHM](symbol) today
+- the price of [PPHMP](symbol) today
+- the price of [PPSI](symbol) today
+- the price of [PRAA](symbol) today
+- the price of [PRAH](symbol) today
+- the price of [PRAN](symbol) today
+- the price of [PRCP](symbol) today
+- the price of [PRFT](symbol) today
+- the price of [PRFZ](symbol) today
+- the price of [PRGN](symbol) today
+- the price of [PRGNL](symbol) today
+- the price of [PRGS](symbol) today
+- the price of [PRGX](symbol) today
+- the price of [PRIM](symbol) today
+- the price of [PRKR](symbol) today
+- the price of [PRLS](symbol) today
+- the price of [PRMW](symbol) today
+- the price of [PROV](symbol) today
+- the price of [PRPH](symbol) today
+- the price of [PRQR](symbol) today
+- the price of [PRSC](symbol) today
+- the price of [PRSS](symbol) today
+- the price of [PRTA](symbol) today
+- the price of [PRTK](symbol) today
+- the price of [PRTO](symbol) today
+- the price of [PRTS](symbol) today
+- the price of [PRXI](symbol) today
+- the price of [PRXL](symbol) today
+- the price of [PSAU](symbol) today
+- the price of [PSBH](symbol) today
+- the price of [PSCC](symbol) today
+- the price of [PSCD](symbol) today
+- the price of [PSCE](symbol) today
+- the price of [PSCF](symbol) today
+- the price of [PSCH](symbol) today
+- the price of [PSCI](symbol) today
+- the price of [PSCM](symbol) today
+- the price of [PSCT](symbol) today
+- the price of [PSCU](symbol) today
+- the price of [PSDV](symbol) today
+- the price of [PSEC](symbol) today
+- the price of [PSEM](symbol) today
+- the price of [PSIX](symbol) today
+- the price of [PSMT](symbol) today
+- the price of [PSTB](symbol) today
+- the price of [PSTI](symbol) today
+- the price of [PSTR](symbol) today
+- the price of [PSUN](symbol) today
+- the price of [PTBI](symbol) today
+- the price of [PTBIW](symbol) today
+- the price of [PTC](symbol) today
+- the price of [PTCT](symbol) today
+- the price of [PTEN](symbol) today
+- the price of [PTIE](symbol) today
+- the price of [PTLA](symbol) today
+- the price of [PTNR](symbol) today
+- the price of [PTNT](symbol) today
+- the price of [PTRY](symbol) today
+- the price of [PTSI](symbol) today
+- the price of [PTX](symbol) today
+- the price of [PULB](symbol) today
+- the price of [PVTB](symbol) today
+- the price of [PVTBP](symbol) today
+- the price of [PWOD](symbol) today
+- the price of [PWRD](symbol) today
+- the price of [PWX](symbol) today
+- the price of [PXLW](symbol) today
+- the price of [PZZA](symbol) today
+- the price of [QABA](symbol) today
+- the price of [QADA](symbol) today
+- the price of [QADB](symbol) today
+- the price of [QAT](symbol) today
+- the price of [QBAK](symbol) today
+- the price of [QCCO](symbol) today
+- the price of [QCLN](symbol) today
+- the price of [QCOM](symbol) today
+- the price of [QCRH](symbol) today
+- the price of [QDEL](symbol) today
+- the price of [QGEN](symbol) today
+- the price of [QINC](symbol) today
+- the price of [QIWI](symbol) today
+- the price of [QKLS](symbol) today
+- the price of [QLGC](symbol) today
+- the price of [QLIK](symbol) today
+- the price of [QLTI](symbol) today
+- the price of [QLTY](symbol) today
+- the price of [QLYS](symbol) today
+- the price of [QNST](symbol) today
+- the price of [QQEW](symbol) today
+- the price of [QQQ](symbol) today
+- the price of [QQQC](symbol) today
+- the price of [QQQX](symbol) today
+- the price of [QQXT](symbol) today
+- the price of [QRHC](symbol) today
+- the price of [QRVO](symbol) today
+- the price of [QSII](symbol) today
+- the price of [QTEC](symbol) today
+- the price of [QTNT](symbol) today
+- the price of [QTNTW](symbol) today
+- the price of [QTWW](symbol) today
+- the price of [QUIK](symbol) today
+- the price of [QUMU](symbol) today
+- the price of [QUNR](symbol) today
+- the price of [QURE](symbol) today
+- the price of [QVCA](symbol) today
+- the price of [QVCB](symbol) today
+- the price of [QYLD](symbol) today
+- the price of [RADA](symbol) today
+- the price of [RAIL](symbol) today
+- the price of [RAND](symbol) today
+- the price of [RARE](symbol) today
+- the price of [RAVE](symbol) today
+- the price of [RAVN](symbol) today
+- the price of [RBCAA](symbol) today
+- the price of [RBCN](symbol) today
+- the price of [RBPAA](symbol) today
+- the price of [RCII](symbol) today
+- the price of [RCKY](symbol) today
+- the price of [RCMT](symbol) today
+- the price of [RCON](symbol) today
+- the price of [RCPI](symbol) today
+- the price of [RCPT](symbol) today
+- the price of [RDCM](symbol) today
+- the price of [RDEN](symbol) today
+- the price of [RDHL](symbol) today
+- the price of [RDI](symbol) today
+- the price of [RDIB](symbol) today
+- the price of [RDNT](symbol) today
+- the price of [RDUS](symbol) today
+- the price of [RDVY](symbol) today
+- the price of [RDWR](symbol) today
+- the price of [RECN](symbol) today
+- the price of [REDF](symbol) today
+- the price of [REFR](symbol) today
+- the price of [REGI](symbol) today
+- the price of [REGN](symbol) today
+- the price of [REIS](symbol) today
+- the price of [RELL](symbol) today
+- the price of [RELV](symbol) today
+- the price of [REMY](symbol) today
+- the price of [RENT](symbol) today
+- the price of [REPH](symbol) today
+- the price of [RESN](symbol) today
+- the price of [REXI](symbol) today
+- the price of [REXX](symbol) today
+- the price of [RFIL](symbol) today
+- the price of [RGCO](symbol) today
+- the price of [RGDO](symbol) today
+- the price of [RGDX](symbol) today
+- the price of [RGEN](symbol) today
+- the price of [RGLD](symbol) today
+- the price of [RGLS](symbol) today
+- the price of [RGSE](symbol) today
+- the price of [RIBT](symbol) today
+- the price of [RIBTW](symbol) today
+- the price of [RICK](symbol) today
+- the price of [RIGL](symbol) today
+- the price of [RITT](symbol) today
+- the price of [RITTW](symbol) today
+- the price of [RIVR](symbol) today
+- the price of [RJET](symbol) today
+- the price of [RLJE](symbol) today
+- the price of [RLOC](symbol) today
+- the price of [RLOG](symbol) today
+- the price of [RLYP](symbol) today
+- the price of [RMBS](symbol) today
+- the price of [RMCF](symbol) today
+- the price of [RMGN](symbol) today
+- the price of [RMTI](symbol) today
+- the price of [RNA](symbol) today
+- the price of [RNET](symbol) today
+- the price of [RNST](symbol) today
+- the price of [RNWK](symbol) today
+- the price of [ROBO](symbol) today
+- the price of [ROCK](symbol) today
+- the price of [ROIA](symbol) today
+- the price of [ROIAK](symbol) today
+- the price of [ROIC](symbol) today
+- the price of [ROIQ](symbol) today
+- the price of [ROIQU](symbol) today
+- the price of [ROIQW](symbol) today
+- the price of [ROKA](symbol) today
+- the price of [ROLL](symbol) today
+- the price of [ROSE](symbol) today
+- the price of [ROSG](symbol) today
+- the price of [ROST](symbol) today
+- the price of [ROVI](symbol) today
+- the price of [ROYL](symbol) today
+- the price of [RP](symbol) today
+- the price of [RPRX](symbol) today
+- the price of [RPRXW](symbol) today
+- the price of [RPRXZ](symbol) today
+- the price of [RPTP](symbol) today
+- the price of [RPXC](symbol) today
+- the price of [RRD](symbol) today
+- the price of [RRGB](symbol) today
+- the price of [RRST](symbol) today
+- the price of [RSTI](symbol) today
+- the price of [RSYS](symbol) today
+- the price of [RTGN](symbol) today
+- the price of [RTIX](symbol) today
+- the price of [RTK](symbol) today
+- the price of [RTRX](symbol) today
+- the price of [RUSHA](symbol) today
+- the price of [RUSHB](symbol) today
+- the price of [RUTH](symbol) today
+- the price of [RVBD](symbol) today
+- the price of [RVLT](symbol) today
+- the price of [RVNC](symbol) today
+- the price of [RVSB](symbol) today
+- the price of [RWLK](symbol) today
+- the price of [RXDX](symbol) today
+- the price of [RXII](symbol) today
+- the price of [RYAAY](symbol) today
+- the price of [SAAS](symbol) today
+- the price of [SABR](symbol) today
+- the price of [SAEX](symbol) today
+- the price of [SAFM](symbol) today
+- the price of [SAFT](symbol) today
+- the price of [SAGE](symbol) today
+- the price of [SAIA](symbol) today
+- the price of [SAJA](symbol) today
+- the price of [SAL](symbol) today
+- the price of [SALE](symbol) today
+- the price of [SALM](symbol) today
+- the price of [SAMG](symbol) today
+- the price of [SANM](symbol) today
+- the price of [SANW](symbol) today
+- the price of [SANWZ](symbol) today
+- the price of [SAPE](symbol) today
+- the price of [SASR](symbol) today
+- the price of [SATS](symbol) today
+- the price of [SAVE](symbol) today
+- the price of [SBAC](symbol) today
+- the price of [SBBX](symbol) today
+- the price of [SBCF](symbol) today
+- the price of [SBCP](symbol) today
+- the price of [SBFG](symbol) today
+- the price of [SBGI](symbol) today
+- the price of [SBLK](symbol) today
+- the price of [SBLKL](symbol) today
+- the price of [SBNY](symbol) today
+- the price of [SBNYW](symbol) today
+- the price of [SBRA](symbol) today
+- the price of [SBRAP](symbol) today
+- the price of [SBSA](symbol) today
+- the price of [SBSI](symbol) today
+- the price of [SBUX](symbol) today
+- the price of [SCAI](symbol) today
+- the price of [SCHL](symbol) today
+- the price of [SCHN](symbol) today
+- the price of [SCLN](symbol) today
+- the price of [SCMP](symbol) today
+- the price of [SCOK](symbol) today
+- the price of [SCON](symbol) today
+- the price of [SCOR](symbol) today
+- the price of [SCSC](symbol) today
+- the price of [SCSS](symbol) today
+- the price of [SCTY](symbol) today
+- the price of [SCVL](symbol) today
+- the price of [SCYX](symbol) today
+- the price of [SEAC](symbol) today
+- the price of [SEED](symbol) today
+- the price of [SEIC](symbol) today
+- the price of [SEMI](symbol) today
+- the price of [SENEA](symbol) today
+- the price of [SENEB](symbol) today
+- the price of [SEV](symbol) today
+- the price of [SFBC](symbol) today
+- the price of [SFBS](symbol) today
+- the price of [SFLY](symbol) today
+- the price of [SFM](symbol) today
+- the price of [SFNC](symbol) today
+- the price of [SFST](symbol) today
+- the price of [SFXE](symbol) today
+- the price of [SGBK](symbol) today
+- the price of [SGC](symbol) today
+- the price of [SGEN](symbol) today
+- the price of [SGI](symbol) today
+- the price of [SGMA](symbol) today
+- the price of [SGMO](symbol) today
+- the price of [SGMS](symbol) today
+- the price of [SGNL](symbol) today
+- the price of [SGNT](symbol) today
+- the price of [SGOC](symbol) today
+- the price of [SGRP](symbol) today
+- the price of [SGYP](symbol) today
+- the price of [SGYPU](symbol) today
+- the price of [SGYPW](symbol) today
+- the price of [SHBI](symbol) today
+- the price of [SHEN](symbol) today
+- the price of [SHIP](symbol) today
+- the price of [SHLD](symbol) today
+- the price of [SHLDW](symbol) today
+- the price of [SHLM](symbol) today
+- the price of [SHLO](symbol) today
+- the price of [SHOO](symbol) today
+- the price of [SHOR](symbol) today
+- the price of [SHOS](symbol) today
+- the price of [SHPG](symbol) today
+- the price of [SIAL](symbol) today
+- the price of [SIBC](symbol) today
+- the price of [SIEB](symbol) today
+- the price of [SIEN](symbol) today
+- the price of [SIFI](symbol) today
+- the price of [SIFY](symbol) today
+- the price of [SIGA](symbol) today
+- the price of [SIGI](symbol) today
+- the price of [SIGM](symbol) today
+- the price of [SILC](symbol) today
+- the price of [SIMG](symbol) today
+- the price of [SIMO](symbol) today
+- the price of [SINA](symbol) today
+- the price of [SINO](symbol) today
+- the price of [SIRI](symbol) today
+- the price of [SIRO](symbol) today
+- the price of [SIVB](symbol) today
+- the price of [SIVBO](symbol) today
+- the price of [SIXD](symbol) today
+- the price of [SKBI](symbol) today
+- the price of [SKIS](symbol) today
+- the price of [SKOR](symbol) today
+- the price of [SKUL](symbol) today
+- the price of [SKYS](symbol) today
+- the price of [SKYW](symbol) today
+- the price of [SKYY](symbol) today
+- the price of [SLAB](symbol) today
+- the price of [SLCT](symbol) today
+- the price of [SLGN](symbol) today
+- the price of [SLM](symbol) today
+- the price of [SLMAP](symbol) today
+- the price of [SLMBP](symbol) today
+- the price of [SLP](symbol) today
+- the price of [SLRC](symbol) today
+- the price of [SLTC](symbol) today
+- the price of [SLVO](symbol) today
+- the price of [SLXP](symbol) today
+- the price of [SMAC](symbol) today
+- the price of [SMACR](symbol) today
+- the price of [SMACU](symbol) today
+- the price of [SMBC](symbol) today
+- the price of [SMCI](symbol) today
+- the price of [SMED](symbol) today
+- the price of [SMIT](symbol) today
+- the price of [SMLR](symbol) today
+- the price of [SMMF](symbol) today
+- the price of [SMPL](symbol) today
+- the price of [SMRT](symbol) today
+- the price of [SMSI](symbol) today
+- the price of [SMT](symbol) today
+- the price of [SMTC](symbol) today
+- the price of [SMTP](symbol) today
+- the price of [SMTX](symbol) today
+- the price of [SNAK](symbol) today
+- the price of [SNBC](symbol) today
+- the price of [SNC](symbol) today
+- the price of [SNCR](symbol) today
+- the price of [SNDK](symbol) today
+- the price of [SNFCA](symbol) today
+- the price of [SNHY](symbol) today
+- the price of [SNMX](symbol) today
+- the price of [SNPS](symbol) today
+- the price of [SNSS](symbol) today
+- the price of [SNTA](symbol) today
+- the price of [SOCB](symbol) today
+- the price of [SOCL](symbol) today
+- the price of [SODA](symbol) today
+- the price of [SOFO](symbol) today
+- the price of [SOHO](symbol) today
+- the price of [SOHOL](symbol) today
+- the price of [SOHOM](symbol) today
+- the price of [SOHU](symbol) today
+- the price of [SONA](symbol) today
+- the price of [SONC](symbol) today
+- the price of [SONS](symbol) today
+- the price of [SORL](symbol) today
+- the price of [SOXX](symbol) today
+- the price of [SP](symbol) today
+- the price of [SPAN](symbol) today
+- the price of [SPAR](symbol) today
+- the price of [SPCB](symbol) today
+- the price of [SPDC](symbol) today
+- the price of [SPEX](symbol) today
+- the price of [SPHS](symbol) today
+- the price of [SPIL](symbol) today
+- the price of [SPKE](symbol) today
+- the price of [SPLK](symbol) today
+- the price of [SPLS](symbol) today
+- the price of [SPNC](symbol) today
+- the price of [SPNS](symbol) today
+- the price of [SPOK](symbol) today
+- the price of [SPPI](symbol) today
+- the price of [SPPR](symbol) today
+- the price of [SPPRO](symbol) today
+- the price of [SPPRP](symbol) today
+- the price of [SPRO](symbol) today
+- the price of [SPRT](symbol) today
+- the price of [SPSC](symbol) today
+- the price of [SPTN](symbol) today
+- the price of [SPU](symbol) today
+- the price of [SPWH](symbol) today
+- the price of [SPWR](symbol) today
+- the price of [SQBG](symbol) today
+- the price of [SQBK](symbol) today
+- the price of [SQI](symbol) today
+- the price of [SQNM](symbol) today
+- the price of [SQQQ](symbol) today
+- the price of [SRCE](symbol) today
+- the price of [SRCL](symbol) today
+- the price of [SRDX](symbol) today
+- the price of [SREV](symbol) today
+- the price of [SRNE](symbol) today
+- the price of [SRPT](symbol) today
+- the price of [SRSC](symbol) today
+- the price of [SSB](symbol) today
+- the price of [SSBI](symbol) today
+- the price of [SSFN](symbol) today
+- the price of [SSH](symbol) today
+- the price of [SSNC](symbol) today
+- the price of [SSRG](symbol) today
+- the price of [SSRI](symbol) today
+- the price of [SSYS](symbol) today
+- the price of [STAA](symbol) today
+- the price of [STB](symbol) today
+- the price of [STBA](symbol) today
+- the price of [STBZ](symbol) today
+- the price of [STCK](symbol) today
+- the price of [STEM](symbol) today
+- the price of [STFC](symbol) today
+- the price of [STKL](symbol) today
+- the price of [STLD](symbol) today
+- the price of [STLY](symbol) today
+- the price of [STML](symbol) today
+- the price of [STMP](symbol) today
+- the price of [STNR](symbol) today
+- the price of [STPP](symbol) today
+- the price of [STRA](symbol) today
+- the price of [STRL](symbol) today
+- the price of [STRM](symbol) today
+- the price of [STRN](symbol) today
+- the price of [STRS](symbol) today
+- the price of [STRT](symbol) today
+- the price of [STRZA](symbol) today
+- the price of [STRZB](symbol) today
+- the price of [STX](symbol) today
+- the price of [STXS](symbol) today
+- the price of [SUBK](symbol) today
+- the price of [SUMR](symbol) today
+- the price of [SUNS](symbol) today
+- the price of [SUPN](symbol) today
+- the price of [SURG](symbol) today
+- the price of [SUSQ](symbol) today
+- the price of [SUTR](symbol) today
+- the price of [SVA](symbol) today
+- the price of [SVBI](symbol) today
+- the price of [SVVC](symbol) today
+- the price of [SWHC](symbol) today
+- the price of [SWIR](symbol) today
+- the price of [SWKS](symbol) today
+- the price of [SWSH](symbol) today
+- the price of [SYBT](symbol) today
+- the price of [SYKE](symbol) today
+- the price of [SYMC](symbol) today
+- the price of [SYMX](symbol) today
+- the price of [SYNA](symbol) today
+- the price of [SYNC](symbol) today
+- the price of [SYNL](symbol) today
+- the price of [SYNT](symbol) today
+- the price of [SYPR](symbol) today
+- the price of [SYRX](symbol) today
+- the price of [SYUT](symbol) today
+- the price of [SZMK](symbol) today
+- the price of [SZYM](symbol) today
+- the price of [TACT](symbol) today
+- the price of [TAIT](symbol) today
+- the price of [TAPR](symbol) today
+- the price of [TASR](symbol) today
+- the price of [TAST](symbol) today
+- the price of [TATT](symbol) today
+- the price of [TAX](symbol) today
+- the price of [TAXI](symbol) today
+- the price of [TAYD](symbol) today
+- the price of [TBBK](symbol) today
+- the price of [TBIO](symbol) today
+- the price of [TBK](symbol) today
+- the price of [TBNK](symbol) today
+- the price of [TBPH](symbol) today
+- the price of [TCBI](symbol) today
+- the price of [TCBIL](symbol) today
+- the price of [TCBIP](symbol) today
+- the price of [TCBIW](symbol) today
+- the price of [TCBK](symbol) today
+- the price of [TCCO](symbol) today
+- the price of [TCFC](symbol) today
+- the price of [TCPC](symbol) today
+- the price of [TCRD](symbol) today
+- the price of [TCX](symbol) today
+- the price of [TDIV](symbol) today
+- the price of [TEAR](symbol) today
+- the price of [TECD](symbol) today
+- the price of [TECH](symbol) today
+- the price of [TECU](symbol) today
+- the price of [TEDU](symbol) today
+- the price of [TENX](symbol) today
+- the price of [TERP](symbol) today
+- the price of [TESO](symbol) today
+- the price of [TESS](symbol) today
+- the price of [TFM](symbol) today
+- the price of [TFSC](symbol) today
+- the price of [TFSCR](symbol) today
+- the price of [TFSCU](symbol) today
+- the price of [TFSCW](symbol) today
+- the price of [TFSL](symbol) today
+- the price of [TGA](symbol) today
+- the price of [TGE](symbol) today
+- the price of [TGEN](symbol) today
+- the price of [TGLS](symbol) today
+- the price of [TGTX](symbol) today
+- the price of [THFF](symbol) today
+- the price of [THLD](symbol) today
+- the price of [THOR](symbol) today
+- the price of [THRM](symbol) today
+- the price of [THRX](symbol) today
+- the price of [THST](symbol) today
+- the price of [THTI](symbol) today
+- the price of [TICC](symbol) today
+- the price of [TIGR](symbol) today
+- the price of [TILE](symbol) today
+- the price of [TINY](symbol) today
+- the price of [TIPT](symbol) today
+- the price of [TISA](symbol) today
+- the price of [TITN](symbol) today
+- the price of [TIVO](symbol) today
+- the price of [TKAI](symbol) today
+- the price of [TKMR](symbol) today
+- the price of [TLF](symbol) today
+- the price of [TLMR](symbol) today
+- the price of [TLOG](symbol) today
+- the price of [TNAV](symbol) today
+- the price of [TNDM](symbol) today
+- the price of [TNGO](symbol) today
+- the price of [TNXP](symbol) today
+- the price of [TOPS](symbol) today
+- the price of [TORM](symbol) today
+- the price of [TOUR](symbol) today
+- the price of [TOWN](symbol) today
+- the price of [TQQQ](symbol) today
+- the price of [TRAK](symbol) today
+- the price of [TRCB](symbol) today
+- the price of [TRCH](symbol) today
+- the price of [TREE](symbol) today
+- the price of [TRGT](symbol) today
+- the price of [TRIB](symbol) today
+- the price of [TRIL](symbol) today
+- the price of [TRIP](symbol) today
+- the price of [TRIV](symbol) today
+- the price of [TRMB](symbol) today
+- the price of [TRMK](symbol) today
+- the price of [TRNS](symbol) today
+- the price of [TRNX](symbol) today
+- the price of [TROV](symbol) today
+- the price of [TROVU](symbol) today
+- the price of [TROVW](symbol) today
+- the price of [TROW](symbol) today
+- the price of [TRS](symbol) today
+- the price of [TRST](symbol) today
+- the price of [TRTL](symbol) today
+- the price of [TRTLU](symbol) today
+- the price of [TRTLW](symbol) today
+- the price of [TRUE](symbol) today
+- the price of [TRVN](symbol) today
+- the price of [TSBK](symbol) today
+- the price of [TSC](symbol) today
+- the price of [TSCO](symbol) today
+- the price of [TSEM](symbol) today
+- the price of [TSLA](symbol) today
+- the price of [TSRA](symbol) today
+- the price of [TSRE](symbol) today
+- the price of [TSRI](symbol) today
+- the price of [TSRO](symbol) today
+- the price of [TST](symbol) today
+- the price of [TSYS](symbol) today
+- the price of [TTEC](symbol) today
+- the price of [TTEK](symbol) today
+- the price of [TTGT](symbol) today
+- the price of [TTHI](symbol) today
+- the price of [TTMI](symbol) today
+- the price of [TTOO](symbol) today
+- the price of [TTPH](symbol) today
+- the price of [TTS](symbol) today
+- the price of [TTWO](symbol) today
+- the price of [TUBE](symbol) today
+- the price of [TUES](symbol) today
+- the price of [TUSA](symbol) today
+- the price of [TVIX](symbol) today
+- the price of [TVIZ](symbol) today
+- the price of [TWER](symbol) today
+- the price of [TWIN](symbol) today
+- the price of [TWMC](symbol) today
+- the price of [TWOU](symbol) today
+- the price of [TXN](symbol) today
+- the price of [TXRH](symbol) today
+- the price of [TYPE](symbol) today
+- the price of [TZOO](symbol) today
+- the price of [UACL](symbol) today
+- the price of [UAE](symbol) today
+- the price of [UBCP](symbol) today
+- the price of [UBFO](symbol) today
+- the price of [UBIC](symbol) today
+- the price of [UBNK](symbol) today
+- the price of [UBNT](symbol) today
+- the price of [UBOH](symbol) today
+- the price of [UBSH](symbol) today
+- the price of [UBSI](symbol) today
+- the price of [UCBA](symbol) today
+- the price of [UCBI](symbol) today
+- the price of [UCFC](symbol) today
+- the price of [UCTT](symbol) today
+- the price of [UDF](symbol) today
+- the price of [UEIC](symbol) today
+- the price of [UEPS](symbol) today
+- the price of [UFCS](symbol) today
+- the price of [UFPI](symbol) today
+- the price of [UFPT](symbol) today
+- the price of [UG](symbol) today
+- the price of [UGLD](symbol) today
+- the price of [UHAL](symbol) today
+- the price of [UIHC](symbol) today
+- the price of [ULBI](symbol) today
+- the price of [ULTA](symbol) today
+- the price of [ULTI](symbol) today
+- the price of [ULTR](symbol) today
+- the price of [UMBF](symbol) today
+- the price of [UMPQ](symbol) today
+- the price of [UNAM](symbol) today
+- the price of [UNB](symbol) today
+- the price of [UNFI](symbol) today
+- the price of [UNIS](symbol) today
+- the price of [UNTD](symbol) today
+- the price of [UNTY](symbol) today
+- the price of [UNXL](symbol) today
+- the price of [UPI](symbol) today
+- the price of [UPIP](symbol) today
+- the price of [UPLD](symbol) today
+- the price of [URBN](symbol) today
+- the price of [URRE](symbol) today
+- the price of [USAK](symbol) today
+- the price of [USAP](symbol) today
+- the price of [USAT](symbol) today
+- the price of [USATP](symbol) today
+- the price of [USBI](symbol) today
+- the price of [USCR](symbol) today
+- the price of [USEG](symbol) today
+- the price of [USLM](symbol) today
+- the price of [USLV](symbol) today
+- the price of [USMD](symbol) today
+- the price of [USTR](symbol) today
+- the price of [UTEK](symbol) today
+- the price of [UTHR](symbol) today
+- the price of [UTIW](symbol) today
+- the price of [UTMD](symbol) today
+- the price of [UTSI](symbol) today
+- the price of [UVSP](symbol) today
+- the price of [VA](symbol) today
+- the price of [VALU](symbol) today
+- the price of [VALX](symbol) today
+- the price of [VASC](symbol) today
+- the price of [VBFC](symbol) today
+- the price of [VBIV](symbol) today
+- the price of [VBLT](symbol) today
+- the price of [VBND](symbol) today
+- the price of [VBTX](symbol) today
+- the price of [VCEL](symbol) today
+- the price of [VCIT](symbol) today
+- the price of [VCLT](symbol) today
+- the price of [VCSH](symbol) today
+- the price of [VCYT](symbol) today
+- the price of [VDSI](symbol) today
+- the price of [VECO](symbol) today
+- the price of [VGGL](symbol) today
+- the price of [VGIT](symbol) today
+- the price of [VGLT](symbol) today
+- the price of [VGSH](symbol) today
+- the price of [VIA](symbol) today
+- the price of [VIAB](symbol) today
+- the price of [VIAS](symbol) today
+- the price of [VICL](symbol) today
+- the price of [VICR](symbol) today
+- the price of [VIDE](symbol) today
+- the price of [VIDI](symbol) today
+- the price of [VIEW](symbol) today
+- the price of [VIIX](symbol) today
+- the price of [VIIZ](symbol) today
+- the price of [VIMC](symbol) today
+- the price of [VIP](symbol) today
+- the price of [VIRC](symbol) today
+- the price of [VISN](symbol) today
+- the price of [VIVO](symbol) today
+- the price of [VLCCF](symbol) today
+- the price of [VLGEA](symbol) today
+- the price of [VLTC](symbol) today
+- the price of [VLYWW](symbol) today
+- the price of [VMBS](symbol) today
+- the price of [VNDA](symbol) today
+- the price of [VNET](symbol) today
+- the price of [VNOM](symbol) today
+- the price of [VNQI](symbol) today
+- the price of [VNR](symbol) today
+- the price of [VNRAP](symbol) today
+- the price of [VNRBP](symbol) today
+- the price of [VNRCP](symbol) today
+- the price of [VOD](symbol) today
+- the price of [VOLC](symbol) today
+- the price of [VONE](symbol) today
+- the price of [VONG](symbol) today
+- the price of [VONV](symbol) today
+- the price of [VOXX](symbol) today
+- the price of [VPCO](symbol) today
+- the price of [VRA](symbol) today
+- the price of [VRML](symbol) today
+- the price of [VRNG](symbol) today
+- the price of [VRNGW](symbol) today
+- the price of [VRNS](symbol) today
+- the price of [VRNT](symbol) today
+- the price of [VRSK](symbol) today
+- the price of [VRSN](symbol) today
+- the price of [VRTA](symbol) today
+- the price of [VRTB](symbol) today
+- the price of [VRTS](symbol) today
+- the price of [VRTU](symbol) today
+- the price of [VRTX](symbol) today
+- the price of [VSAR](symbol) today
+- the price of [VSAT](symbol) today
+- the price of [VSCI](symbol) today
+- the price of [VSCP](symbol) today
+- the price of [VSEC](symbol) today
+- the price of [VSTM](symbol) today
+- the price of [VTAE](symbol) today
+- the price of [VTHR](symbol) today
+- the price of [VTIP](symbol) today
+- the price of [VTL](symbol) today
+- the price of [VTNR](symbol) today
+- the price of [VTSS](symbol) today
+- the price of [VTWG](symbol) today
+- the price of [VTWO](symbol) today
+- the price of [VTWV](symbol) today
+- the price of [VUSE](symbol) today
+- the price of [VVUS](symbol) today
+- the price of [VWOB](symbol) today
+- the price of [VWR](symbol) today
+- the price of [VXUS](symbol) today
+- the price of [VYFC](symbol) today
+- the price of [WABC](symbol) today
+- the price of [WAFD](symbol) today
+- the price of [WAFDW](symbol) today
+- the price of [WASH](symbol) today
+- the price of [WATT](symbol) today
+- the price of [WAVX](symbol) today
+- the price of [WAYN](symbol) today
+- the price of [WB](symbol) today
+- the price of [WBA](symbol) today
+- the price of [WBB](symbol) today
+- the price of [WBKC](symbol) today
+- the price of [WBMD](symbol) today
+- the price of [WDC](symbol) today
+- the price of [WDFC](symbol) today
+- the price of [WEBK](symbol) today
+- the price of [WEN](symbol) today
+- the price of [WERN](symbol) today
+- the price of [WETF](symbol) today
+- the price of [WEYS](symbol) today
+- the price of [WFBI](symbol) today
+- the price of [WFD](symbol) today
+- the price of [WFM](symbol) today
+- the price of [WGBS](symbol) today
+- the price of [WHF](symbol) today
+- the price of [WHFBL](symbol) today
+- the price of [WHLM](symbol) today
+- the price of [WHLR](symbol) today
+- the price of [WHLRP](symbol) today
+- the price of [WHLRW](symbol) today
+- the price of [WIBC](symbol) today
+- the price of [WIFI](symbol) today
+- the price of [WILC](symbol) today
+- the price of [WILN](symbol) today
+- the price of [WIN](symbol) today
+- the price of [WINA](symbol) today
+- the price of [WIRE](symbol) today
+- the price of [WIX](symbol) today
+- the price of [WLB](symbol) today
+- the price of [WLBPZ](symbol) today
+- the price of [WLDN](symbol) today
+- the price of [WLFC](symbol) today
+- the price of [WLRH](symbol) today
+- the price of [WLRHU](symbol) today
+- the price of [WLRHW](symbol) today
+- the price of [WMAR](symbol) today
+- the price of [WMGI](symbol) today
+- the price of [WMGIZ](symbol) today
+- the price of [WOOD](symbol) today
+- the price of [WOOF](symbol) today
+- the price of [WPCS](symbol) today
+- the price of [WPPGY](symbol) today
+- the price of [WPRT](symbol) today
+- the price of [WRES](symbol) today
+- the price of [WRLD](symbol) today
+- the price of [WSBC](symbol) today
+- the price of [WSBF](symbol) today
+- the price of [WSCI](symbol) today
+- the price of [WSFS](symbol) today
+- the price of [WSFSL](symbol) today
+- the price of [WSTC](symbol) today
+- the price of [WSTG](symbol) today
+- the price of [WSTL](symbol) today
+- the price of [WTBA](symbol) today
+- the price of [WTFC](symbol) today
+- the price of [WTFCW](symbol) today
+- the price of [WTSL](symbol) today
+- the price of [WVFC](symbol) today
+- the price of [WVVI](symbol) today
+- the price of [WWD](symbol) today
+- the price of [WWWW](symbol) today
+- the price of [WYNN](symbol) today
+- the price of [XBKS](symbol) today
+- the price of [XCRA](symbol) today
+- the price of [XENE](symbol) today
+- the price of [XENT](symbol) today
+- the price of [XGTI](symbol) today
+- the price of [XGTIW](symbol) today
+- the price of [XIV](symbol) today
+- the price of [XLNX](symbol) today
+- the price of [XLRN](symbol) today
+- the price of [XNCR](symbol) today
+- the price of [XNET](symbol) today
+- the price of [XNPT](symbol) today
+- the price of [XOMA](symbol) today
+- the price of [XONE](symbol) today
+- the price of [XOOM](symbol) today
+- the price of [XPLR](symbol) today
+- the price of [XRAY](symbol) today
+- the price of [XTLB](symbol) today
+- the price of [XXIA](symbol) today
+- the price of [YDIV](symbol) today
+- the price of [YDLE](symbol) today
+- the price of [YHOO](symbol) today
+- the price of [YNDX](symbol) today
+- the price of [YOD](symbol) today
+- the price of [YORW](symbol) today
+- the price of [YPRO](symbol) today
+- the price of [YRCW](symbol) today
+- the price of [YY](symbol) today
+- the price of [Z](symbol) today
+- the price of [ZAGG](symbol) today
+- the price of [ZAZA](symbol) today
+- the price of [ZBRA](symbol) today
+- the price of [ZEUS](symbol) today
+- the price of [ZFGN](symbol) today
+- the price of [ZGNX](symbol) today
+- the price of [ZHNE](symbol) today
+- the price of [ZINC](symbol) today
+- the price of [ZION](symbol) today
+- the price of [ZIONW](symbol) today
+- the price of [ZIONZ](symbol) today
+- the price of [ZIOP](symbol) today
+- the price of [ZIV](symbol) today
+- the price of [ZIXI](symbol) today
+- the price of [ZLTQ](symbol) today
+- the price of [ZN](symbol) today
+- the price of [ZNGA](symbol) today
+- the price of [ZSPH](symbol) today
+- the price of [ZU](symbol) today
+- the price of [ZUMZ](symbol) today
 
 ## intent:ask_transfer_charge
 - Will I be charged for transferring money
