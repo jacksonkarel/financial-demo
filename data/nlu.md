@@ -9,6 +9,16 @@
 - yes please
 - yes plz
 
+## intent: stock_price
+- Tell me the price of [MSFT](symbol) before the opening
+- give me the price of [AAPL](symbol) yesterday
+- give me the price of [STFX](symbol) yesterday
+- the price of [DOW](symbol) today
+- the price of [VOO](symbol) today
+- the price of [MU](symbol) today
+- Find the price of [SPY](symbol)
+- Find the price of [AXP](symbol)
+
 ## intent:ask_transfer_charge
 - Will I be charged for transferring money
 - do transfers cost something?
