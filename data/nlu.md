@@ -9,8 +9,8 @@
 - yes please
 - yes plz
 
-## lookup:symbols
-data/test/lookup_tables/symbols.txt
+## lookup:symbol
+data/test/lookup_tables/symbol.txt
 
 ## intent:stock_price
 - Find the price of [AAIT](symbol)
