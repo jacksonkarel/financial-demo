@@ -1,419 +1,820 @@
-## lookup:symbol
-data/test/lookup_tables/symbol.txt
-
 ## intent:stock_price
-- Find the price of [AAPL](symbol)
-- Find the price of [ADBE](symbol)
-- Find the price of [ADI](symbol)
-- Find the price of [ADP](symbol)
-- Find the price of [ADSK](symbol)
-- Find the price of [ALGN](symbol)
-- Find the price of [ALXN](symbol)
-- Find the price of [AMAT](symbol)
-- Find the price of [AMD](symbol)
-- Find the price of [AMGN](symbol)
-- Find the price of [AMZN](symbol)
-- Find the price of [ANSS](symbol)
-- Find the price of [ASML](symbol)
-- Find the price of [ATVI](symbol)
-- Find the price of [AVGO](symbol)
-- Find the price of [BIDU](symbol)
-- Find the price of [BIIB](symbol)
-- Find the price of [BKNG](symbol)
-- Find the price of [BMRN](symbol)
-- Find the price of [CDNS](symbol)
-- Find the price of [CDW](symbol)
-- Find the price of [CERN](symbol)
-- Find the price of [CHKP](symbol)
-- Find the price of [CHTR](symbol)
-- Find the price of [CMCSA](symbol)
-- Find the price of [COST](symbol)
-- Find the price of [CPRT](symbol)
-- Find the price of [CSCO](symbol)
-- Find the price of [CSGP](symbol)
-- Find the price of [CSX](symbol)
-- Find the price of [CTAS](symbol)
-- Find the price of [CTSH](symbol)
-- Find the price of [CTXS](symbol)
-- Find the price of [DLTR](symbol)
-- Find the price of [DOCU](symbol)
-- Find the price of [DXCM](symbol)
-- Find the price of [EA](symbol)
-- Find the price of [EBAY](symbol)
-- Find the price of [EXC](symbol)
-- Find the price of [EXPE](symbol)
-- Find the price of [FAST](symbol)
-- Find the price of [FB](symbol)
-- Find the price of [FISV](symbol)
-- Find the price of [FOX](symbol)
-- Find the price of [FOXA](symbol)
-- Find the price of [GILD](symbol)
-- Find the price of [GOOG](symbol)
-- Find the price of [GOOGL](symbol)
-- Find the price of [IDXX](symbol)
-- Find the price of [ILMN](symbol)
-- Find the price of [INCY](symbol)
-- Find the price of [INTC](symbol)
-- Find the price of [INTU](symbol)
-- Find the price of [ISRG](symbol)
-- Find the price of [JD](symbol)
-- Find the price of [KHC](symbol)
-- Find the price of [KLAC](symbol)
-- Find the price of [LBTYA](symbol)
-- Find the price of [LBTYK](symbol)
-- Find the price of [LRCX](symbol)
-- Find the price of [LULU](symbol)
-- Find the price of [MAR](symbol)
-- Find the price of [MCHP](symbol)
-- Find the price of [MDLZ](symbol)
-- Find the price of [MELI](symbol)
-- Find the price of [MNST](symbol)
-- Find the price of [MSFT](symbol)
-- Find the price of [MU](symbol)
-- Find the price of [MXIM](symbol)
-- Find the price of [NFLX](symbol)
-- Find the price of [NTAP](symbol)
-- Find the price of [NTES](symbol)
-- Find the price of [NVDA](symbol)
-- Find the price of [NXPI](symbol)
-- Find the price of [ORLY](symbol)
-- Find the price of [PAYX](symbol)
-- Find the price of [PCAR](symbol)
-- Find the price of [PEP](symbol)
-- Find the price of [PYPL](symbol)
-- Find the price of [QCOM](symbol)
-- Find the price of [REGN](symbol)
-- Find the price of [ROST](symbol)
-- Find the price of [SBUX](symbol)
-- Find the price of [SGEN](symbol)
-- Find the price of [SIRI](symbol)
-- Find the price of [SNPS](symbol)
-- Find the price of [SPLK](symbol)
-- Find the price of [SWKS](symbol)
-- Find the price of [TCOM](symbol)
-- Find the price of [TMUS](symbol)
-- Find the price of [TSLA](symbol)
-- Find the price of [TTWO](symbol)
-- Find the price of [TXN](symbol)
-- Find the price of [ULTA](symbol)
-- Find the price of [VRSK](symbol)
-- Find the price of [VRSN](symbol)
-- Find the price of [VRTX](symbol)
-- Find the price of [WBA](symbol)
-- Find the price of [WDAY](symbol)
-- Find the price of [WDC](symbol)
-- Find the price of [XEL](symbol)
-- Find the price of [XLNX](symbol)
-- Find the price of [ZM](symbol)
-- Tell me the price of [AAPL](symbol) before the opening
-- Tell me the price of [ADBE](symbol) before the opening
-- Tell me the price of [ADI](symbol) before the opening
-- Tell me the price of [ADP](symbol) before the opening
-- Tell me the price of [ADSK](symbol) before the opening
-- Tell me the price of [ALGN](symbol) before the opening
-- Tell me the price of [ALXN](symbol) before the opening
-- Tell me the price of [AMAT](symbol) before the opening
-- Tell me the price of [AMD](symbol) before the opening
-- Tell me the price of [AMGN](symbol) before the opening
-- Tell me the price of [AMZN](symbol) before the opening
-- Tell me the price of [ANSS](symbol) before the opening
-- Tell me the price of [ASML](symbol) before the opening
-- Tell me the price of [ATVI](symbol) before the opening
-- Tell me the price of [AVGO](symbol) before the opening
-- Tell me the price of [BIDU](symbol) before the opening
-- Tell me the price of [BIIB](symbol) before the opening
-- Tell me the price of [BKNG](symbol) before the opening
-- Tell me the price of [BMRN](symbol) before the opening
-- Tell me the price of [CDNS](symbol) before the opening
-- Tell me the price of [CDW](symbol) before the opening
-- Tell me the price of [CERN](symbol) before the opening
-- Tell me the price of [CHKP](symbol) before the opening
-- Tell me the price of [CHTR](symbol) before the opening
-- Tell me the price of [CMCSA](symbol) before the opening
-- Tell me the price of [COST](symbol) before the opening
-- Tell me the price of [CPRT](symbol) before the opening
-- Tell me the price of [CSCO](symbol) before the opening
-- Tell me the price of [CSGP](symbol) before the opening
-- Tell me the price of [CSX](symbol) before the opening
-- Tell me the price of [CTAS](symbol) before the opening
-- Tell me the price of [CTSH](symbol) before the opening
-- Tell me the price of [CTXS](symbol) before the opening
-- Tell me the price of [DLTR](symbol) before the opening
-- Tell me the price of [DOCU](symbol) before the opening
-- Tell me the price of [DXCM](symbol) before the opening
-- Tell me the price of [EA](symbol) before the opening
-- Tell me the price of [EBAY](symbol) before the opening
-- Tell me the price of [EXC](symbol) before the opening
-- Tell me the price of [EXPE](symbol) before the opening
-- Tell me the price of [FAST](symbol) before the opening
-- Tell me the price of [FB](symbol) before the opening
-- Tell me the price of [FISV](symbol) before the opening
-- Tell me the price of [FOX](symbol) before the opening
-- Tell me the price of [FOXA](symbol) before the opening
-- Tell me the price of [GILD](symbol) before the opening
-- Tell me the price of [GOOG](symbol) before the opening
-- Tell me the price of [GOOGL](symbol) before the opening
-- Tell me the price of [IDXX](symbol) before the opening
-- Tell me the price of [ILMN](symbol) before the opening
-- Tell me the price of [INCY](symbol) before the opening
-- Tell me the price of [INTC](symbol) before the opening
-- Tell me the price of [INTU](symbol) before the opening
-- Tell me the price of [ISRG](symbol) before the opening
-- Tell me the price of [JD](symbol) before the opening
-- Tell me the price of [KHC](symbol) before the opening
-- Tell me the price of [KLAC](symbol) before the opening
-- Tell me the price of [LBTYA](symbol) before the opening
-- Tell me the price of [LBTYK](symbol) before the opening
-- Tell me the price of [LRCX](symbol) before the opening
-- Tell me the price of [LULU](symbol) before the opening
-- Tell me the price of [MAR](symbol) before the opening
-- Tell me the price of [MCHP](symbol) before the opening
-- Tell me the price of [MDLZ](symbol) before the opening
-- Tell me the price of [MELI](symbol) before the opening
-- Tell me the price of [MNST](symbol) before the opening
-- Tell me the price of [MSFT](symbol) before the opening
-- Tell me the price of [MU](symbol) before the opening
-- Tell me the price of [MXIM](symbol) before the opening
-- Tell me the price of [NFLX](symbol) before the opening
-- Tell me the price of [NTAP](symbol) before the opening
-- Tell me the price of [NTES](symbol) before the opening
-- Tell me the price of [NVDA](symbol) before the opening
-- Tell me the price of [NXPI](symbol) before the opening
-- Tell me the price of [ORLY](symbol) before the opening
-- Tell me the price of [PAYX](symbol) before the opening
-- Tell me the price of [PCAR](symbol) before the opening
-- Tell me the price of [PEP](symbol) before the opening
-- Tell me the price of [PYPL](symbol) before the opening
-- Tell me the price of [QCOM](symbol) before the opening
-- Tell me the price of [REGN](symbol) before the opening
-- Tell me the price of [ROST](symbol) before the opening
-- Tell me the price of [SBUX](symbol) before the opening
-- Tell me the price of [SGEN](symbol) before the opening
-- Tell me the price of [SIRI](symbol) before the opening
-- Tell me the price of [SNPS](symbol) before the opening
-- Tell me the price of [SPLK](symbol) before the opening
-- Tell me the price of [SWKS](symbol) before the opening
-- Tell me the price of [TCOM](symbol) before the opening
-- Tell me the price of [TMUS](symbol) before the opening
-- Tell me the price of [TSLA](symbol) before the opening
-- Tell me the price of [TTWO](symbol) before the opening
-- Tell me the price of [TXN](symbol) before the opening
-- Tell me the price of [ULTA](symbol) before the opening
-- Tell me the price of [VRSK](symbol) before the opening
-- Tell me the price of [VRSN](symbol) before the opening
-- Tell me the price of [VRTX](symbol) before the opening
-- Tell me the price of [WBA](symbol) before the opening
-- Tell me the price of [WDAY](symbol) before the opening
-- Tell me the price of [WDC](symbol) before the opening
-- Tell me the price of [XEL](symbol) before the opening
-- Tell me the price of [XLNX](symbol) before the opening
-- Tell me the price of [ZM](symbol) before the opening
-- give me the price of [AAPL](symbol) yesterday
-- give me the price of [ADBE](symbol) yesterday
-- give me the price of [ADI](symbol) yesterday
-- give me the price of [ADP](symbol) yesterday
-- give me the price of [ADSK](symbol) yesterday
-- give me the price of [ALGN](symbol) yesterday
-- give me the price of [ALXN](symbol) yesterday
-- give me the price of [AMAT](symbol) yesterday
-- give me the price of [AMD](symbol) yesterday
-- give me the price of [AMGN](symbol) yesterday
-- give me the price of [AMZN](symbol) yesterday
-- give me the price of [ANSS](symbol) yesterday
-- give me the price of [ASML](symbol) yesterday
-- give me the price of [ATVI](symbol) yesterday
-- give me the price of [AVGO](symbol) yesterday
-- give me the price of [BIDU](symbol) yesterday
-- give me the price of [BIIB](symbol) yesterday
-- give me the price of [BKNG](symbol) yesterday
-- give me the price of [BMRN](symbol) yesterday
-- give me the price of [CDNS](symbol) yesterday
-- give me the price of [CDW](symbol) yesterday
-- give me the price of [CERN](symbol) yesterday
-- give me the price of [CHKP](symbol) yesterday
-- give me the price of [CHTR](symbol) yesterday
-- give me the price of [CMCSA](symbol) yesterday
-- give me the price of [COST](symbol) yesterday
-- give me the price of [CPRT](symbol) yesterday
-- give me the price of [CSCO](symbol) yesterday
-- give me the price of [CSGP](symbol) yesterday
-- give me the price of [CSX](symbol) yesterday
-- give me the price of [CTAS](symbol) yesterday
-- give me the price of [CTSH](symbol) yesterday
-- give me the price of [CTXS](symbol) yesterday
-- give me the price of [DLTR](symbol) yesterday
-- give me the price of [DOCU](symbol) yesterday
-- give me the price of [DXCM](symbol) yesterday
-- give me the price of [EA](symbol) yesterday
-- give me the price of [EBAY](symbol) yesterday
-- give me the price of [EXC](symbol) yesterday
-- give me the price of [EXPE](symbol) yesterday
-- give me the price of [FAST](symbol) yesterday
-- give me the price of [FB](symbol) yesterday
-- give me the price of [FISV](symbol) yesterday
-- give me the price of [FOX](symbol) yesterday
-- give me the price of [FOXA](symbol) yesterday
-- give me the price of [GILD](symbol) yesterday
-- give me the price of [GOOG](symbol) yesterday
-- give me the price of [GOOGL](symbol) yesterday
-- give me the price of [IDXX](symbol) yesterday
-- give me the price of [ILMN](symbol) yesterday
-- give me the price of [INCY](symbol) yesterday
-- give me the price of [INTC](symbol) yesterday
-- give me the price of [INTU](symbol) yesterday
-- give me the price of [ISRG](symbol) yesterday
-- give me the price of [JD](symbol) yesterday
-- give me the price of [KHC](symbol) yesterday
-- give me the price of [KLAC](symbol) yesterday
-- give me the price of [LBTYA](symbol) yesterday
-- give me the price of [LBTYK](symbol) yesterday
-- give me the price of [LRCX](symbol) yesterday
-- give me the price of [LULU](symbol) yesterday
-- give me the price of [MAR](symbol) yesterday
-- give me the price of [MCHP](symbol) yesterday
-- give me the price of [MDLZ](symbol) yesterday
-- give me the price of [MELI](symbol) yesterday
-- give me the price of [MNST](symbol) yesterday
-- give me the price of [MSFT](symbol) yesterday
-- give me the price of [MU](symbol) yesterday
-- give me the price of [MXIM](symbol) yesterday
-- give me the price of [NFLX](symbol) yesterday
-- give me the price of [NTAP](symbol) yesterday
-- give me the price of [NTES](symbol) yesterday
-- give me the price of [NVDA](symbol) yesterday
-- give me the price of [NXPI](symbol) yesterday
-- give me the price of [ORLY](symbol) yesterday
-- give me the price of [PAYX](symbol) yesterday
-- give me the price of [PCAR](symbol) yesterday
-- give me the price of [PEP](symbol) yesterday
-- give me the price of [PYPL](symbol) yesterday
-- give me the price of [QCOM](symbol) yesterday
-- give me the price of [REGN](symbol) yesterday
-- give me the price of [ROST](symbol) yesterday
-- give me the price of [SBUX](symbol) yesterday
-- give me the price of [SGEN](symbol) yesterday
-- give me the price of [SIRI](symbol) yesterday
-- give me the price of [SNPS](symbol) yesterday
-- give me the price of [SPLK](symbol) yesterday
-- give me the price of [SWKS](symbol) yesterday
-- give me the price of [TCOM](symbol) yesterday
-- give me the price of [TMUS](symbol) yesterday
-- give me the price of [TSLA](symbol) yesterday
-- give me the price of [TTWO](symbol) yesterday
-- give me the price of [TXN](symbol) yesterday
-- give me the price of [ULTA](symbol) yesterday
-- give me the price of [VRSK](symbol) yesterday
-- give me the price of [VRSN](symbol) yesterday
-- give me the price of [VRTX](symbol) yesterday
-- give me the price of [WBA](symbol) yesterday
-- give me the price of [WDAY](symbol) yesterday
-- give me the price of [WDC](symbol) yesterday
-- give me the price of [XEL](symbol) yesterday
-- give me the price of [XLNX](symbol) yesterday
-- give me the price of [ZM](symbol) yesterday
-- the price of [AAPL](symbol) today
-- the price of [ADBE](symbol) today
-- the price of [ADI](symbol) today
-- the price of [ADP](symbol) today
-- the price of [ADSK](symbol) today
-- the price of [ALGN](symbol) today
-- the price of [ALXN](symbol) today
-- the price of [AMAT](symbol) today
-- the price of [AMD](symbol) today
-- the price of [AMGN](symbol) today
-- the price of [AMZN](symbol) today
-- the price of [ANSS](symbol) today
-- the price of [ASML](symbol) today
-- the price of [ATVI](symbol) today
-- the price of [AVGO](symbol) today
-- the price of [BIDU](symbol) today
-- the price of [BIIB](symbol) today
-- the price of [BKNG](symbol) today
-- the price of [BMRN](symbol) today
-- the price of [CDNS](symbol) today
-- the price of [CDW](symbol) today
-- the price of [CERN](symbol) today
-- the price of [CHKP](symbol) today
-- the price of [CHTR](symbol) today
-- the price of [CMCSA](symbol) today
-- the price of [COST](symbol) today
-- the price of [CPRT](symbol) today
-- the price of [CSCO](symbol) today
-- the price of [CSGP](symbol) today
-- the price of [CSX](symbol) today
-- the price of [CTAS](symbol) today
-- the price of [CTSH](symbol) today
-- the price of [CTXS](symbol) today
-- the price of [DLTR](symbol) today
-- the price of [DOCU](symbol) today
-- the price of [DXCM](symbol) today
-- the price of [EA](symbol) today
-- the price of [EBAY](symbol) today
-- the price of [EXC](symbol) today
-- the price of [EXPE](symbol) today
-- the price of [FAST](symbol) today
-- the price of [FB](symbol) today
-- the price of [FISV](symbol) today
-- the price of [FOX](symbol) today
-- the price of [FOXA](symbol) today
-- the price of [GILD](symbol) today
-- the price of [GOOG](symbol) today
-- the price of [GOOGL](symbol) today
-- the price of [IDXX](symbol) today
-- the price of [ILMN](symbol) today
-- the price of [INCY](symbol) today
-- the price of [INTC](symbol) today
-- the price of [INTU](symbol) today
-- the price of [ISRG](symbol) today
-- the price of [JD](symbol) today
-- the price of [KHC](symbol) today
-- the price of [KLAC](symbol) today
-- the price of [LBTYA](symbol) today
-- the price of [LBTYK](symbol) today
-- the price of [LRCX](symbol) today
-- the price of [LULU](symbol) today
-- the price of [MAR](symbol) today
-- the price of [MCHP](symbol) today
-- the price of [MDLZ](symbol) today
-- the price of [MELI](symbol) today
-- the price of [MNST](symbol) today
-- the price of [MSFT](symbol) today
-- the price of [MU](symbol) today
-- the price of [MXIM](symbol) today
-- the price of [NFLX](symbol) today
-- the price of [NTAP](symbol) today
-- the price of [NTES](symbol) today
-- the price of [NVDA](symbol) today
-- the price of [NXPI](symbol) today
-- the price of [ORLY](symbol) today
-- the price of [PAYX](symbol) today
-- the price of [PCAR](symbol) today
-- the price of [PEP](symbol) today
-- the price of [PYPL](symbol) today
-- the price of [QCOM](symbol) today
-- the price of [REGN](symbol) today
-- the price of [ROST](symbol) today
-- the price of [SBUX](symbol) today
-- the price of [SGEN](symbol) today
-- the price of [SIRI](symbol) today
-- the price of [SNPS](symbol) today
-- the price of [SPLK](symbol) today
-- the price of [SWKS](symbol) today
-- the price of [TCOM](symbol) today
-- the price of [TMUS](symbol) today
-- the price of [TSLA](symbol) today
-- the price of [TTWO](symbol) today
-- the price of [TXN](symbol) today
-- the price of [ULTA](symbol) today
-- the price of [VRSK](symbol) today
-- the price of [VRSN](symbol) today
-- the price of [VRTX](symbol) today
-- the price of [WBA](symbol) today
-- the price of [WDAY](symbol) today
-- the price of [WDC](symbol) today
-- the price of [XEL](symbol) today
-- the price of [XLNX](symbol) today
-- the price of [ZM](symbol) today
+- Find the price of AAPL
+- Find the price of ADBE
+- Find the price of ADI
+- Find the price of ADP
+- Find the price of ADSK
+- Find the price of ALGN
+- Find the price of ALXN
+- Find the price of AMAT
+- Find the price of AMD
+- Find the price of AMGN
+- Find the price of AMZN
+- Find the price of ANSS
+- Find the price of ANSYS
+- Find the price of ASML
+- Find the price of ASML Holding
+- Find the price of ATVI
+- Find the price of AVGO
+- Find the price of Adobe Inc.
+- Find the price of Advanced Micro Devices
+- Find the price of Alexion Pharmaceuticals
+- Find the price of Align Technology
+- Find the price of Alphabet Inc. (Class A)
+- Find the price of Alphabet Inc. (Class C)
+- Find the price of Amazon.com
+- Find the price of Amgen
+- Find the price of Analog Devices
+- Find the price of Apple Inc.
+- Find the price of Applied Materials, Inc.
+- Find the price of Autodesk
+- Find the price of Automatic Data Processing, Inc.
+- Find the price of BIDU
+- Find the price of BIIB
+- Find the price of BKNG
+- Find the price of BMRN
+- Find the price of Baidu
+- Find the price of BioMarin Pharmaceutical, Inc.
+- Find the price of Biogen
+- Find the price of Booking Holdings
+- Find the price of Broadcom Inc.
+- Find the price of CDNS
+- Find the price of CDW
+- Find the price of CERN
+- Find the price of CHKP
+- Find the price of CHTR
+- Find the price of CMCSA
+- Find the price of COST
+- Find the price of CPRT
+- Find the price of CSCO
+- Find the price of CSGP
+- Find the price of CSX
+- Find the price of CSX Corporation
+- Find the price of CTAS
+- Find the price of CTSH
+- Find the price of CTXS
+- Find the price of Cadence Design Systems
+- Find the price of Cerner Corporation
+- Find the price of Charter Communications, Inc.
+- Find the price of Check Point Software Technologies Ltd.
+- Find the price of Cintas Corporation
+- Find the price of Cisco Systems
+- Find the price of Citrix Systems
+- Find the price of CoStar Group
+- Find the price of Cognizant Technology Solutions Corporation
+- Find the price of Comcast Corporation
+- Find the price of Copart
+- Find the price of Costco Wholesale Corporation
+- Find the price of DLTR
+- Find the price of DOCU
+- Find the price of DXCM
+- Find the price of Dexcom
+- Find the price of DocuSign
+- Find the price of Dollar Tree, Inc.
+- Find the price of EA
+- Find the price of EBAY
+- Find the price of EXC
+- Find the price of EXPE
+- Find the price of Electronic Arts
+- Find the price of Exelon Corporation
+- Find the price of Expedia Group
+- Find the price of FAST
+- Find the price of FB
+- Find the price of FISV
+- Find the price of FOX
+- Find the price of FOXA
+- Find the price of Facebook, Inc.
+- Find the price of Fastenal Company
+- Find the price of Fiserv, Inc.
+- Find the price of Fox Corporation (Class A)
+- Find the price of Fox Corporation (Class B)
+- Find the price of GILD
+- Find the price of GOOG
+- Find the price of GOOGL
+- Find the price of Gilead Sciences, Inc.
+- Find the price of IDEXX Laboratories
+- Find the price of IDXX
+- Find the price of ILMN
+- Find the price of INCY
+- Find the price of INTC
+- Find the price of INTU
+- Find the price of ISRG
+- Find the price of Illumina, Inc.
+- Find the price of Incyte Corporation
+- Find the price of Intel Corporation
+- Find the price of Intuit
+- Find the price of Intuitive Surgical
+- Find the price of JD
+- Find the price of JD.com
+- Find the price of KHC
+- Find the price of KLA Corporation
+- Find the price of KLAC
+- Find the price of Kraft Heinz
+- Find the price of LBTYA
+- Find the price of LBTYK
+- Find the price of LRCX
+- Find the price of LULU
+- Find the price of Lam Research
+- Find the price of Liberty Global (Class A)
+- Find the price of Liberty Global (Class C)
+- Find the price of Lululemon Athletica
+- Find the price of MAR
+- Find the price of MCHP
+- Find the price of MDLZ
+- Find the price of MELI
+- Find the price of MNST
+- Find the price of MSFT
+- Find the price of MU
+- Find the price of MXIM
+- Find the price of Marriott International
+- Find the price of Maxim Integrated Products
+- Find the price of MercadoLibre
+- Find the price of Microchip Technology
+- Find the price of Micron Technology, Inc.
+- Find the price of Microsoft Corporation
+- Find the price of Mondelēz International
+- Find the price of Monster Beverage Corporation
+- Find the price of NFLX
+- Find the price of NTAP
+- Find the price of NTES
+- Find the price of NVDA
+- Find the price of NVIDIA Corporation
+- Find the price of NXP Semiconductors N.V.
+- Find the price of NXPI
+- Find the price of NetApp
+- Find the price of NetEase, Inc.
+- Find the price of Netflix
+- Find the price of O'Reilly Automotive, Inc.
+- Find the price of ORLY
+- Find the price of PACCAR Inc.
+- Find the price of PAYX
+- Find the price of PCAR
+- Find the price of PEP
+- Find the price of PYPL
+- Find the price of PayPal Holdings, Inc.
+- Find the price of Paychex, Inc.
+- Find the price of PepsiCo, Inc.
+- Find the price of QCOM
+- Find the price of QUALCOMM Incorporated
+- Find the price of REGN
+- Find the price of ROST
+- Find the price of Regeneron Pharmaceuticals
+- Find the price of Ross Stores Inc.
+- Find the price of SBUX
+- Find the price of SGEN
+- Find the price of SIRI
+- Find the price of SNPS
+- Find the price of SPLK
+- Find the price of SWKS
+- Find the price of Seattle Genetics
+- Find the price of Sirius XM Radio, Inc.
+- Find the price of Skyworks Solutions, Inc.
+- Find the price of Splunk
+- Find the price of Starbucks Corporation
+- Find the price of Synopsys, Inc.
+- Find the price of T-Mobile US
+- Find the price of TCOM
+- Find the price of TMUS
+- Find the price of TSLA
+- Find the price of TTWO
+- Find the price of TXN
+- Find the price of Take-Two Interactive, Inc.
+- Find the price of Tesla, Inc.
+- Find the price of Texas Instruments, Inc.
+- Find the price of Trip.com Group
+- Find the price of ULTA
+- Find the price of Ulta Beauty
+- Find the price of VRSK
+- Find the price of VRSN
+- Find the price of VRTX
+- Find the price of VeriSign
+- Find the price of Verisk Analytics
+- Find the price of Vertex Pharmaceuticals
+- Find the price of WBA
+- Find the price of WDAY
+- Find the price of WDC
+- Find the price of Walgreen Boots Alliance, Inc.
+- Find the price of Western Digital
+- Find the price of Workday, Inc.
+- Find the price of XEL
+- Find the price of XLNX
+- Find the price of Xcel Energy, Inc.
+- Find the price of Xilinx, Inc.
+- Find the price of ZM
+- Find the price of Zoom Video Communications
+- Find the price of eBay Inc.
+- Tell me the price of AAPL before the opening
+- Tell me the price of ADBE before the opening
+- Tell me the price of ADI before the opening
+- Tell me the price of ADP before the opening
+- Tell me the price of ADSK before the opening
+- Tell me the price of ALGN before the opening
+- Tell me the price of ALXN before the opening
+- Tell me the price of AMAT before the opening
+- Tell me the price of AMD before the opening
+- Tell me the price of AMGN before the opening
+- Tell me the price of AMZN before the opening
+- Tell me the price of ANSS before the opening
+- Tell me the price of ANSYS before the opening
+- Tell me the price of ASML Holding before the opening
+- Tell me the price of ASML before the opening
+- Tell me the price of ATVI before the opening
+- Tell me the price of AVGO before the opening
+- Tell me the price of Adobe Inc. before the opening
+- Tell me the price of Advanced Micro Devices before the opening
+- Tell me the price of Alexion Pharmaceuticals before the opening
+- Tell me the price of Align Technology before the opening
+- Tell me the price of Alphabet Inc. (Class A) before the opening
+- Tell me the price of Alphabet Inc. (Class C) before the opening
+- Tell me the price of Amazon.com before the opening
+- Tell me the price of Amgen before the opening
+- Tell me the price of Analog Devices before the opening
+- Tell me the price of Apple Inc. before the opening
+- Tell me the price of Applied Materials, Inc. before the opening
+- Tell me the price of Autodesk before the opening
+- Tell me the price of Automatic Data Processing, Inc. before the opening
+- Tell me the price of BIDU before the opening
+- Tell me the price of BIIB before the opening
+- Tell me the price of BKNG before the opening
+- Tell me the price of BMRN before the opening
+- Tell me the price of Baidu before the opening
+- Tell me the price of BioMarin Pharmaceutical, Inc. before the opening
+- Tell me the price of Biogen before the opening
+- Tell me the price of Booking Holdings before the opening
+- Tell me the price of Broadcom Inc. before the opening
+- Tell me the price of CDNS before the opening
+- Tell me the price of CDW before the opening
+- Tell me the price of CERN before the opening
+- Tell me the price of CHKP before the opening
+- Tell me the price of CHTR before the opening
+- Tell me the price of CMCSA before the opening
+- Tell me the price of COST before the opening
+- Tell me the price of CPRT before the opening
+- Tell me the price of CSCO before the opening
+- Tell me the price of CSGP before the opening
+- Tell me the price of CSX Corporation before the opening
+- Tell me the price of CSX before the opening
+- Tell me the price of CTAS before the opening
+- Tell me the price of CTSH before the opening
+- Tell me the price of CTXS before the opening
+- Tell me the price of Cadence Design Systems before the opening
+- Tell me the price of Cerner Corporation before the opening
+- Tell me the price of Charter Communications, Inc. before the opening
+- Tell me the price of Check Point Software Technologies Ltd. before the opening
+- Tell me the price of Cintas Corporation before the opening
+- Tell me the price of Cisco Systems before the opening
+- Tell me the price of Citrix Systems before the opening
+- Tell me the price of CoStar Group before the opening
+- Tell me the price of Cognizant Technology Solutions Corporation before the opening
+- Tell me the price of Comcast Corporation before the opening
+- Tell me the price of Copart before the opening
+- Tell me the price of Costco Wholesale Corporation before the opening
+- Tell me the price of DLTR before the opening
+- Tell me the price of DOCU before the opening
+- Tell me the price of DXCM before the opening
+- Tell me the price of Dexcom before the opening
+- Tell me the price of DocuSign before the opening
+- Tell me the price of Dollar Tree, Inc. before the opening
+- Tell me the price of EA before the opening
+- Tell me the price of EBAY before the opening
+- Tell me the price of EXC before the opening
+- Tell me the price of EXPE before the opening
+- Tell me the price of Electronic Arts before the opening
+- Tell me the price of Exelon Corporation before the opening
+- Tell me the price of Expedia Group before the opening
+- Tell me the price of FAST before the opening
+- Tell me the price of FB before the opening
+- Tell me the price of FISV before the opening
+- Tell me the price of FOX before the opening
+- Tell me the price of FOXA before the opening
+- Tell me the price of Facebook, Inc. before the opening
+- Tell me the price of Fastenal Company before the opening
+- Tell me the price of Fiserv, Inc. before the opening
+- Tell me the price of Fox Corporation (Class A) before the opening
+- Tell me the price of Fox Corporation (Class B) before the opening
+- Tell me the price of GILD before the opening
+- Tell me the price of GOOG before the opening
+- Tell me the price of GOOGL before the opening
+- Tell me the price of Gilead Sciences, Inc. before the opening
+- Tell me the price of IDEXX Laboratories before the opening
+- Tell me the price of IDXX before the opening
+- Tell me the price of ILMN before the opening
+- Tell me the price of INCY before the opening
+- Tell me the price of INTC before the opening
+- Tell me the price of INTU before the opening
+- Tell me the price of ISRG before the opening
+- Tell me the price of Illumina, Inc. before the opening
+- Tell me the price of Incyte Corporation before the opening
+- Tell me the price of Intel Corporation before the opening
+- Tell me the price of Intuit before the opening
+- Tell me the price of Intuitive Surgical before the opening
+- Tell me the price of JD before the opening
+- Tell me the price of JD.com before the opening
+- Tell me the price of KHC before the opening
+- Tell me the price of KLA Corporation before the opening
+- Tell me the price of KLAC before the opening
+- Tell me the price of Kraft Heinz before the opening
+- Tell me the price of LBTYA before the opening
+- Tell me the price of LBTYK before the opening
+- Tell me the price of LRCX before the opening
+- Tell me the price of LULU before the opening
+- Tell me the price of Lam Research before the opening
+- Tell me the price of Liberty Global (Class A) before the opening
+- Tell me the price of Liberty Global (Class C) before the opening
+- Tell me the price of Lululemon Athletica before the opening
+- Tell me the price of MAR before the opening
+- Tell me the price of MCHP before the opening
+- Tell me the price of MDLZ before the opening
+- Tell me the price of MELI before the opening
+- Tell me the price of MNST before the opening
+- Tell me the price of MSFT before the opening
+- Tell me the price of MU before the opening
+- Tell me the price of MXIM before the opening
+- Tell me the price of Marriott International before the opening
+- Tell me the price of Maxim Integrated Products before the opening
+- Tell me the price of MercadoLibre before the opening
+- Tell me the price of Microchip Technology before the opening
+- Tell me the price of Micron Technology, Inc. before the opening
+- Tell me the price of Microsoft Corporation before the opening
+- Tell me the price of Mondelēz International before the opening
+- Tell me the price of Monster Beverage Corporation before the opening
+- Tell me the price of NFLX before the opening
+- Tell me the price of NTAP before the opening
+- Tell me the price of NTES before the opening
+- Tell me the price of NVDA before the opening
+- Tell me the price of NVIDIA Corporation before the opening
+- Tell me the price of NXP Semiconductors N.V. before the opening
+- Tell me the price of NXPI before the opening
+- Tell me the price of NetApp before the opening
+- Tell me the price of NetEase, Inc. before the opening
+- Tell me the price of Netflix before the opening
+- Tell me the price of O'Reilly Automotive, Inc. before the opening
+- Tell me the price of ORLY before the opening
+- Tell me the price of PACCAR Inc. before the opening
+- Tell me the price of PAYX before the opening
+- Tell me the price of PCAR before the opening
+- Tell me the price of PEP before the opening
+- Tell me the price of PYPL before the opening
+- Tell me the price of PayPal Holdings, Inc. before the opening
+- Tell me the price of Paychex, Inc. before the opening
+- Tell me the price of PepsiCo, Inc. before the opening
+- Tell me the price of QCOM before the opening
+- Tell me the price of QUALCOMM Incorporated before the opening
+- Tell me the price of REGN before the opening
+- Tell me the price of ROST before the opening
+- Tell me the price of Regeneron Pharmaceuticals before the opening
+- Tell me the price of Ross Stores Inc. before the opening
+- Tell me the price of SBUX before the opening
+- Tell me the price of SGEN before the opening
+- Tell me the price of SIRI before the opening
+- Tell me the price of SNPS before the opening
+- Tell me the price of SPLK before the opening
+- Tell me the price of SWKS before the opening
+- Tell me the price of Seattle Genetics before the opening
+- Tell me the price of Sirius XM Radio, Inc. before the opening
+- Tell me the price of Skyworks Solutions, Inc. before the opening
+- Tell me the price of Splunk before the opening
+- Tell me the price of Starbucks Corporation before the opening
+- Tell me the price of Synopsys, Inc. before the opening
+- Tell me the price of T-Mobile US before the opening
+- Tell me the price of TCOM before the opening
+- Tell me the price of TMUS before the opening
+- Tell me the price of TSLA before the opening
+- Tell me the price of TTWO before the opening
+- Tell me the price of TXN before the opening
+- Tell me the price of Take-Two Interactive, Inc. before the opening
+- Tell me the price of Tesla, Inc. before the opening
+- Tell me the price of Texas Instruments, Inc. before the opening
+- Tell me the price of Trip.com Group before the opening
+- Tell me the price of ULTA before the opening
+- Tell me the price of Ulta Beauty before the opening
+- Tell me the price of VRSK before the opening
+- Tell me the price of VRSN before the opening
+- Tell me the price of VRTX before the opening
+- Tell me the price of VeriSign before the opening
+- Tell me the price of Verisk Analytics before the opening
+- Tell me the price of Vertex Pharmaceuticals before the opening
+- Tell me the price of WBA before the opening
+- Tell me the price of WDAY before the opening
+- Tell me the price of WDC before the opening
+- Tell me the price of Walgreen Boots Alliance, Inc. before the opening
+- Tell me the price of Western Digital before the opening
+- Tell me the price of Workday, Inc. before the opening
+- Tell me the price of XEL before the opening
+- Tell me the price of XLNX before the opening
+- Tell me the price of Xcel Energy, Inc. before the opening
+- Tell me the price of Xilinx, Inc. before the opening
+- Tell me the price of ZM before the opening
+- Tell me the price of Zoom Video Communications before the opening
+- Tell me the price of eBay Inc. before the opening
+- give me the price of AAPL yesterday
+- give me the price of ADBE yesterday
+- give me the price of ADI yesterday
+- give me the price of ADP yesterday
+- give me the price of ADSK yesterday
+- give me the price of ALGN yesterday
+- give me the price of ALXN yesterday
+- give me the price of AMAT yesterday
+- give me the price of AMD yesterday
+- give me the price of AMGN yesterday
+- give me the price of AMZN yesterday
+- give me the price of ANSS yesterday
+- give me the price of ANSYS yesterday
+- give me the price of ASML Holding yesterday
+- give me the price of ASML yesterday
+- give me the price of ATVI yesterday
+- give me the price of AVGO yesterday
+- give me the price of Adobe Inc. yesterday
+- give me the price of Advanced Micro Devices yesterday
+- give me the price of Alexion Pharmaceuticals yesterday
+- give me the price of Align Technology yesterday
+- give me the price of Alphabet Inc. (Class A) yesterday
+- give me the price of Alphabet Inc. (Class C) yesterday
+- give me the price of Amazon.com yesterday
+- give me the price of Amgen yesterday
+- give me the price of Analog Devices yesterday
+- give me the price of Apple Inc. yesterday
+- give me the price of Applied Materials, Inc. yesterday
+- give me the price of Autodesk yesterday
+- give me the price of Automatic Data Processing, Inc. yesterday
+- give me the price of BIDU yesterday
+- give me the price of BIIB yesterday
+- give me the price of BKNG yesterday
+- give me the price of BMRN yesterday
+- give me the price of Baidu yesterday
+- give me the price of BioMarin Pharmaceutical, Inc. yesterday
+- give me the price of Biogen yesterday
+- give me the price of Booking Holdings yesterday
+- give me the price of Broadcom Inc. yesterday
+- give me the price of CDNS yesterday
+- give me the price of CDW yesterday
+- give me the price of CERN yesterday
+- give me the price of CHKP yesterday
+- give me the price of CHTR yesterday
+- give me the price of CMCSA yesterday
+- give me the price of COST yesterday
+- give me the price of CPRT yesterday
+- give me the price of CSCO yesterday
+- give me the price of CSGP yesterday
+- give me the price of CSX Corporation yesterday
+- give me the price of CSX yesterday
+- give me the price of CTAS yesterday
+- give me the price of CTSH yesterday
+- give me the price of CTXS yesterday
+- give me the price of Cadence Design Systems yesterday
+- give me the price of Cerner Corporation yesterday
+- give me the price of Charter Communications, Inc. yesterday
+- give me the price of Check Point Software Technologies Ltd. yesterday
+- give me the price of Cintas Corporation yesterday
+- give me the price of Cisco Systems yesterday
+- give me the price of Citrix Systems yesterday
+- give me the price of CoStar Group yesterday
+- give me the price of Cognizant Technology Solutions Corporation yesterday
+- give me the price of Comcast Corporation yesterday
+- give me the price of Copart yesterday
+- give me the price of Costco Wholesale Corporation yesterday
+- give me the price of DLTR yesterday
+- give me the price of DOCU yesterday
+- give me the price of DXCM yesterday
+- give me the price of Dexcom yesterday
+- give me the price of DocuSign yesterday
+- give me the price of Dollar Tree, Inc. yesterday
+- give me the price of EA yesterday
+- give me the price of EBAY yesterday
+- give me the price of EXC yesterday
+- give me the price of EXPE yesterday
+- give me the price of Electronic Arts yesterday
+- give me the price of Exelon Corporation yesterday
+- give me the price of Expedia Group yesterday
+- give me the price of FAST yesterday
+- give me the price of FB yesterday
+- give me the price of FISV yesterday
+- give me the price of FOX yesterday
+- give me the price of FOXA yesterday
+- give me the price of Facebook, Inc. yesterday
+- give me the price of Fastenal Company yesterday
+- give me the price of Fiserv, Inc. yesterday
+- give me the price of Fox Corporation (Class A) yesterday
+- give me the price of Fox Corporation (Class B) yesterday
+- give me the price of GILD yesterday
+- give me the price of GOOG yesterday
+- give me the price of GOOGL yesterday
+- give me the price of Gilead Sciences, Inc. yesterday
+- give me the price of IDEXX Laboratories yesterday
+- give me the price of IDXX yesterday
+- give me the price of ILMN yesterday
+- give me the price of INCY yesterday
+- give me the price of INTC yesterday
+- give me the price of INTU yesterday
+- give me the price of ISRG yesterday
+- give me the price of Illumina, Inc. yesterday
+- give me the price of Incyte Corporation yesterday
+- give me the price of Intel Corporation yesterday
+- give me the price of Intuit yesterday
+- give me the price of Intuitive Surgical yesterday
+- give me the price of JD yesterday
+- give me the price of JD.com yesterday
+- give me the price of KHC yesterday
+- give me the price of KLA Corporation yesterday
+- give me the price of KLAC yesterday
+- give me the price of Kraft Heinz yesterday
+- give me the price of LBTYA yesterday
+- give me the price of LBTYK yesterday
+- give me the price of LRCX yesterday
+- give me the price of LULU yesterday
+- give me the price of Lam Research yesterday
+- give me the price of Liberty Global (Class A) yesterday
+- give me the price of Liberty Global (Class C) yesterday
+- give me the price of Lululemon Athletica yesterday
+- give me the price of MAR yesterday
+- give me the price of MCHP yesterday
+- give me the price of MDLZ yesterday
+- give me the price of MELI yesterday
+- give me the price of MNST yesterday
+- give me the price of MSFT yesterday
+- give me the price of MU yesterday
+- give me the price of MXIM yesterday
+- give me the price of Marriott International yesterday
+- give me the price of Maxim Integrated Products yesterday
+- give me the price of MercadoLibre yesterday
+- give me the price of Microchip Technology yesterday
+- give me the price of Micron Technology, Inc. yesterday
+- give me the price of Microsoft Corporation yesterday
+- give me the price of Mondelēz International yesterday
+- give me the price of Monster Beverage Corporation yesterday
+- give me the price of NFLX yesterday
+- give me the price of NTAP yesterday
+- give me the price of NTES yesterday
+- give me the price of NVDA yesterday
+- give me the price of NVIDIA Corporation yesterday
+- give me the price of NXP Semiconductors N.V. yesterday
+- give me the price of NXPI yesterday
+- give me the price of NetApp yesterday
+- give me the price of NetEase, Inc. yesterday
+- give me the price of Netflix yesterday
+- give me the price of O'Reilly Automotive, Inc. yesterday
+- give me the price of ORLY yesterday
+- give me the price of PACCAR Inc. yesterday
+- give me the price of PAYX yesterday
+- give me the price of PCAR yesterday
+- give me the price of PEP yesterday
+- give me the price of PYPL yesterday
+- give me the price of PayPal Holdings, Inc. yesterday
+- give me the price of Paychex, Inc. yesterday
+- give me the price of PepsiCo, Inc. yesterday
+- give me the price of QCOM yesterday
+- give me the price of QUALCOMM Incorporated yesterday
+- give me the price of REGN yesterday
+- give me the price of ROST yesterday
+- give me the price of Regeneron Pharmaceuticals yesterday
+- give me the price of Ross Stores Inc. yesterday
+- give me the price of SBUX yesterday
+- give me the price of SGEN yesterday
+- give me the price of SIRI yesterday
+- give me the price of SNPS yesterday
+- give me the price of SPLK yesterday
+- give me the price of SWKS yesterday
+- give me the price of Seattle Genetics yesterday
+- give me the price of Sirius XM Radio, Inc. yesterday
+- give me the price of Skyworks Solutions, Inc. yesterday
+- give me the price of Splunk yesterday
+- give me the price of Starbucks Corporation yesterday
+- give me the price of Synopsys, Inc. yesterday
+- give me the price of T-Mobile US yesterday
+- give me the price of TCOM yesterday
+- give me the price of TMUS yesterday
+- give me the price of TSLA yesterday
+- give me the price of TTWO yesterday
+- give me the price of TXN yesterday
+- give me the price of Take-Two Interactive, Inc. yesterday
+- give me the price of Tesla, Inc. yesterday
+- give me the price of Texas Instruments, Inc. yesterday
+- give me the price of Trip.com Group yesterday
+- give me the price of ULTA yesterday
+- give me the price of Ulta Beauty yesterday
+- give me the price of VRSK yesterday
+- give me the price of VRSN yesterday
+- give me the price of VRTX yesterday
+- give me the price of VeriSign yesterday
+- give me the price of Verisk Analytics yesterday
+- give me the price of Vertex Pharmaceuticals yesterday
+- give me the price of WBA yesterday
+- give me the price of WDAY yesterday
+- give me the price of WDC yesterday
+- give me the price of Walgreen Boots Alliance, Inc. yesterday
+- give me the price of Western Digital yesterday
+- give me the price of Workday, Inc. yesterday
+- give me the price of XEL yesterday
+- give me the price of XLNX yesterday
+- give me the price of Xcel Energy, Inc. yesterday
+- give me the price of Xilinx, Inc. yesterday
+- give me the price of ZM yesterday
+- give me the price of Zoom Video Communications yesterday
+- give me the price of eBay Inc. yesterday
+- the price of AAPL today
+- the price of ADBE today
+- the price of ADI today
+- the price of ADP today
+- the price of ADSK today
+- the price of ALGN today
+- the price of ALXN today
+- the price of AMAT today
+- the price of AMD today
+- the price of AMGN today
+- the price of AMZN today
+- the price of ANSS today
+- the price of ANSYS today
+- the price of ASML Holding today
+- the price of ASML today
+- the price of ATVI today
+- the price of AVGO today
+- the price of Adobe Inc. today
+- the price of Advanced Micro Devices today
+- the price of Alexion Pharmaceuticals today
+- the price of Align Technology today
+- the price of Alphabet Inc. (Class A) today
+- the price of Alphabet Inc. (Class C) today
+- the price of Amazon.com today
+- the price of Amgen today
+- the price of Analog Devices today
+- the price of Apple Inc. today
+- the price of Applied Materials, Inc. today
+- the price of Autodesk today
+- the price of Automatic Data Processing, Inc. today
+- the price of BIDU today
+- the price of BIIB today
+- the price of BKNG today
+- the price of BMRN today
+- the price of Baidu today
+- the price of BioMarin Pharmaceutical, Inc. today
+- the price of Biogen today
+- the price of Booking Holdings today
+- the price of Broadcom Inc. today
+- the price of CDNS today
+- the price of CDW today
+- the price of CERN today
+- the price of CHKP today
+- the price of CHTR today
+- the price of CMCSA today
+- the price of COST today
+- the price of CPRT today
+- the price of CSCO today
+- the price of CSGP today
+- the price of CSX Corporation today
+- the price of CSX today
+- the price of CTAS today
+- the price of CTSH today
+- the price of CTXS today
+- the price of Cadence Design Systems today
+- the price of Cerner Corporation today
+- the price of Charter Communications, Inc. today
+- the price of Check Point Software Technologies Ltd. today
+- the price of Cintas Corporation today
+- the price of Cisco Systems today
+- the price of Citrix Systems today
+- the price of CoStar Group today
+- the price of Cognizant Technology Solutions Corporation today
+- the price of Comcast Corporation today
+- the price of Copart today
+- the price of Costco Wholesale Corporation today
+- the price of DLTR today
+- the price of DOCU today
+- the price of DXCM today
+- the price of Dexcom today
+- the price of DocuSign today
+- the price of Dollar Tree, Inc. today
+- the price of EA today
+- the price of EBAY today
+- the price of EXC today
+- the price of EXPE today
+- the price of Electronic Arts today
+- the price of Exelon Corporation today
+- the price of Expedia Group today
+- the price of FAST today
+- the price of FB today
+- the price of FISV today
+- the price of FOX today
+- the price of FOXA today
+- the price of Facebook, Inc. today
+- the price of Fastenal Company today
+- the price of Fiserv, Inc. today
+- the price of Fox Corporation (Class A) today
+- the price of Fox Corporation (Class B) today
+- the price of GILD today
+- the price of GOOG today
+- the price of GOOGL today
+- the price of Gilead Sciences, Inc. today
+- the price of IDEXX Laboratories today
+- the price of IDXX today
+- the price of ILMN today
+- the price of INCY today
+- the price of INTC today
+- the price of INTU today
+- the price of ISRG today
+- the price of Illumina, Inc. today
+- the price of Incyte Corporation today
+- the price of Intel Corporation today
+- the price of Intuit today
+- the price of Intuitive Surgical today
+- the price of JD today
+- the price of JD.com today
+- the price of KHC today
+- the price of KLA Corporation today
+- the price of KLAC today
+- the price of Kraft Heinz today
+- the price of LBTYA today
+- the price of LBTYK today
+- the price of LRCX today
+- the price of LULU today
+- the price of Lam Research today
+- the price of Liberty Global (Class A) today
+- the price of Liberty Global (Class C) today
+- the price of Lululemon Athletica today
+- the price of MAR today
+- the price of MCHP today
+- the price of MDLZ today
+- the price of MELI today
+- the price of MNST today
+- the price of MSFT today
+- the price of MU today
+- the price of MXIM today
+- the price of Marriott International today
+- the price of Maxim Integrated Products today
+- the price of MercadoLibre today
+- the price of Microchip Technology today
+- the price of Micron Technology, Inc. today
+- the price of Microsoft Corporation today
+- the price of Mondelēz International today
+- the price of Monster Beverage Corporation today
+- the price of NFLX today
+- the price of NTAP today
+- the price of NTES today
+- the price of NVDA today
+- the price of NVIDIA Corporation today
+- the price of NXP Semiconductors N.V. today
+- the price of NXPI today
+- the price of NetApp today
+- the price of NetEase, Inc. today
+- the price of Netflix today
+- the price of O'Reilly Automotive, Inc. today
+- the price of ORLY today
+- the price of PACCAR Inc. today
+- the price of PAYX today
+- the price of PCAR today
+- the price of PEP today
+- the price of PYPL today
+- the price of PayPal Holdings, Inc. today
+- the price of Paychex, Inc. today
+- the price of PepsiCo, Inc. today
+- the price of QCOM today
+- the price of QUALCOMM Incorporated today
+- the price of REGN today
+- the price of ROST today
+- the price of Regeneron Pharmaceuticals today
+- the price of Ross Stores Inc. today
+- the price of SBUX today
+- the price of SGEN today
+- the price of SIRI today
+- the price of SNPS today
+- the price of SPLK today
+- the price of SWKS today
+- the price of Seattle Genetics today
+- the price of Sirius XM Radio, Inc. today
+- the price of Skyworks Solutions, Inc. today
+- the price of Splunk today
+- the price of Starbucks Corporation today
+- the price of Synopsys, Inc. today
+- the price of T-Mobile US today
+- the price of TCOM today
+- the price of TMUS today
+- the price of TSLA today
+- the price of TTWO today
+- the price of TXN today
+- the price of Take-Two Interactive, Inc. today
+- the price of Tesla, Inc. today
+- the price of Texas Instruments, Inc. today
+- the price of Trip.com Group today
+- the price of ULTA today
+- the price of Ulta Beauty today
+- the price of VRSK today
+- the price of VRSN today
+- the price of VRTX today
+- the price of VeriSign today
+- the price of Verisk Analytics today
+- the price of Vertex Pharmaceuticals today
+- the price of WBA today
+- the price of WDAY today
+- the price of WDC today
+- the price of Walgreen Boots Alliance, Inc. today
+- the price of Western Digital today
+- the price of Workday, Inc. today
+- the price of XEL today
+- the price of XLNX today
+- the price of Xcel Energy, Inc. today
+- the price of Xilinx, Inc. today
+- the price of ZM today
+- the price of Zoom Video Communications today
+- the price of eBay Inc. today
 
 ## intent:goodbye
 - see you later

@@ -1,4 +1,4 @@
-@[symbol]
+~[symbol]
     ATVI
     ADBE
     AMD
@@ -102,9 +102,111 @@
     XEL
     XLNX
     ZM
+    Adobe Inc.
+    Advanced Micro Devices
+    Alexion Pharmaceuticals
+    Align Technology
+    Alphabet Inc. (Class A)
+    Alphabet Inc. (Class C)
+    Amazon.com
+    Amgen
+    Analog Devices
+    ANSYS
+    Apple Inc.
+    Applied Materials, Inc.
+    ASML Holding
+    Autodesk
+    Automatic Data Processing, Inc.
+    Baidu
+    Biogen
+    BioMarin Pharmaceutical, Inc.
+    Booking Holdings
+    Broadcom Inc.
+    Cadence Design Systems
+    CDW
+    Cerner Corporation
+    Charter Communications, Inc.
+    Check Point Software Technologies Ltd.
+    Cintas Corporation
+    Cisco Systems
+    Citrix Systems
+    Cognizant Technology Solutions Corporation
+    Comcast Corporation
+    Copart
+    CoStar Group
+    Costco Wholesale Corporation
+    CSX Corporation
+    Dexcom
+    DocuSign
+    Dollar Tree, Inc.
+    eBay Inc.
+    Electronic Arts
+    Exelon Corporation
+    Expedia Group
+    Facebook, Inc.
+    Fastenal Company
+    Fiserv, Inc.
+    Fox Corporation (Class A)
+    Fox Corporation (Class B)
+    Gilead Sciences, Inc.
+    IDEXX Laboratories
+    Illumina, Inc.
+    Incyte Corporation
+    Intel Corporation
+    Intuit
+    Intuitive Surgical
+    JD.com
+    KLA Corporation
+    Kraft Heinz
+    Lam Research
+    Liberty Global (Class A)
+    Liberty Global (Class C)
+    Lululemon Athletica
+    Marriott International
+    Maxim Integrated Products
+    MercadoLibre
+    Microchip Technology
+    Micron Technology, Inc.
+    Microsoft Corporation
+    Mondelēz International
+    Monster Beverage Corporation
+    NetApp
+    NetEase, Inc.
+    Netflix
+    NVIDIA Corporation
+    NXP Semiconductors N.V.
+    O'Reilly Automotive, Inc.
+    PACCAR Inc.
+    Paychex, Inc.
+    PayPal Holdings, Inc.
+    PepsiCo, Inc.
+    QUALCOMM Incorporated
+    Regeneron Pharmaceuticals
+    Ross Stores Inc.
+    Seattle Genetics
+    Sirius XM Radio, Inc.
+    Skyworks Solutions, Inc.
+    Splunk
+    Starbucks Corporation
+    Synopsys, Inc.
+    T-Mobile US
+    Take-Two Interactive, Inc.
+    Tesla, Inc.
+    Texas Instruments, Inc.
+    Trip.com Group
+    Ulta Beauty
+    VeriSign
+    Verisk Analytics
+    Vertex Pharmaceuticals
+    Walgreen Boots Alliance, Inc.
+    Workday, Inc.
+    Western Digital
+    Xcel Energy, Inc.
+    Xilinx, Inc.
+    Zoom Video Communications
 
 %[stock_price]
-    Tell me the price of @[symbol] before the opening
-    give me the price of @[symbol] yesterday
-    the price of @[symbol] today
-    Find the price of @[symbol]
+    Tell me the price of ~[symbol] before the opening
+    give me the price of ~[symbol] yesterday
+    the price of ~[symbol] today
+    Find the price of ~[symbol]

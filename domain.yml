@@ -5,12 +5,7 @@ intents:
 - greet
 - goodbye
 
-entities:
-- symbol
-
 responses:
-  utter_stock_price:
-  - text: The stock price is $237.55.
   utter_goodbye:
   - text: Bye
   utter_greet:
