@@ -1,3 +1,3 @@
 # Stock Ticker Bot
 
-Remember to 'run rasa actions' before running this bot on your local machine.
+Remember to run 'rasa run actions' before running this bot on your local machine.
