@@ -5,8 +5,6 @@
 # https://rasa.com/docs/rasa/core/actions/#custom-actions/
 
 
-# This is a simple example for a custom action which utters "Hello World!"
-
 from typing import Any, Text, Dict, List
 
 import re
@@ -23,9 +21,16 @@ class ActionFindStockPrice(Action):
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-
+        
+        resp = ""
         txt = (tracker.latest_message)['text']
-        stock = re.search("(?<=find the price of ).*|$", txt).group()
-        dispatcher.utter_message(stock)
+        stock = re.search("(?<=the price of )[^?]*|$", txt).group()
+# To make the actual version of the ticker bot that calls an api, you're going to want to call an api and see if the variable 'stock' equals
+# a real stock symbol or name of a stock  
+        if stock != "":
+            resp = "The price of " + stock + " is $237.55."
+        else:
+            resp = "Sorry, I didn't catch that."
+        dispatcher.utter_message(resp)
 
         return []
