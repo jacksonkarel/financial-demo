@@ -1,177 +1,419 @@
-## intent:affirm
-- indeed
-- correct
-- that sounds good
-- yes
-- of course
-- yup
-- yeah
-- yes please
-- yes plz
-
 ## lookup:symbol
 data/test/lookup_tables/symbol.txt
 
 ## intent:stock_price
-- Find the price of [AAIT](symbol)
-- Find the price of [AAL](symbol)
-- Find the price of [AAME](symbol)
-- Find the price of [AAOI](symbol)
-- Find the price of [AAON](symbol)
 - Find the price of [AAPL](symbol)
-- Find the price of [AAVL](symbol)
-- Find the price of [AAWW](symbol)
-- Find the price of [AAXJ](symbol)
-- Find the price of [ABAC](symbol)
-- Find the price of [ABAX](symbol)
-- Find the price of [ABCB](symbol)
-- Find the price of [ABCD](symbol)
-- Find the price of [ABCO](symbol)
-- Find the price of [ABCW](symbol)
-- Find the price of [ABDC](symbol)
-- Find the price of [ABGB](symbol)
-- Find the price of [ABIO](symbol)
-- Find the price of [ABMD](symbol)
-- Find the price of [ABTL](symbol)
-- Find the price of [ABY](symbol)
-- Find the price of [ACAD](symbol)
-- Tell me the price of [AAIT](symbol) before the opening
-- Tell me the price of [AAL](symbol) before the opening
-- Tell me the price of [AAME](symbol) before the opening
-- Tell me the price of [AAOI](symbol) before the opening
-- Tell me the price of [AAON](symbol) before the opening
+- Find the price of [ADBE](symbol)
+- Find the price of [ADI](symbol)
+- Find the price of [ADP](symbol)
+- Find the price of [ADSK](symbol)
+- Find the price of [ALGN](symbol)
+- Find the price of [ALXN](symbol)
+- Find the price of [AMAT](symbol)
+- Find the price of [AMD](symbol)
+- Find the price of [AMGN](symbol)
+- Find the price of [AMZN](symbol)
+- Find the price of [ANSS](symbol)
+- Find the price of [ASML](symbol)
+- Find the price of [ATVI](symbol)
+- Find the price of [AVGO](symbol)
+- Find the price of [BIDU](symbol)
+- Find the price of [BIIB](symbol)
+- Find the price of [BKNG](symbol)
+- Find the price of [BMRN](symbol)
+- Find the price of [CDNS](symbol)
+- Find the price of [CDW](symbol)
+- Find the price of [CERN](symbol)
+- Find the price of [CHKP](symbol)
+- Find the price of [CHTR](symbol)
+- Find the price of [CMCSA](symbol)
+- Find the price of [COST](symbol)
+- Find the price of [CPRT](symbol)
+- Find the price of [CSCO](symbol)
+- Find the price of [CSGP](symbol)
+- Find the price of [CSX](symbol)
+- Find the price of [CTAS](symbol)
+- Find the price of [CTSH](symbol)
+- Find the price of [CTXS](symbol)
+- Find the price of [DLTR](symbol)
+- Find the price of [DOCU](symbol)
+- Find the price of [DXCM](symbol)
+- Find the price of [EA](symbol)
+- Find the price of [EBAY](symbol)
+- Find the price of [EXC](symbol)
+- Find the price of [EXPE](symbol)
+- Find the price of [FAST](symbol)
+- Find the price of [FB](symbol)
+- Find the price of [FISV](symbol)
+- Find the price of [FOX](symbol)
+- Find the price of [FOXA](symbol)
+- Find the price of [GILD](symbol)
+- Find the price of [GOOG](symbol)
+- Find the price of [GOOGL](symbol)
+- Find the price of [IDXX](symbol)
+- Find the price of [ILMN](symbol)
+- Find the price of [INCY](symbol)
+- Find the price of [INTC](symbol)
+- Find the price of [INTU](symbol)
+- Find the price of [ISRG](symbol)
+- Find the price of [JD](symbol)
+- Find the price of [KHC](symbol)
+- Find the price of [KLAC](symbol)
+- Find the price of [LBTYA](symbol)
+- Find the price of [LBTYK](symbol)
+- Find the price of [LRCX](symbol)
+- Find the price of [LULU](symbol)
+- Find the price of [MAR](symbol)
+- Find the price of [MCHP](symbol)
+- Find the price of [MDLZ](symbol)
+- Find the price of [MELI](symbol)
+- Find the price of [MNST](symbol)
+- Find the price of [MSFT](symbol)
+- Find the price of [MU](symbol)
+- Find the price of [MXIM](symbol)
+- Find the price of [NFLX](symbol)
+- Find the price of [NTAP](symbol)
+- Find the price of [NTES](symbol)
+- Find the price of [NVDA](symbol)
+- Find the price of [NXPI](symbol)
+- Find the price of [ORLY](symbol)
+- Find the price of [PAYX](symbol)
+- Find the price of [PCAR](symbol)
+- Find the price of [PEP](symbol)
+- Find the price of [PYPL](symbol)
+- Find the price of [QCOM](symbol)
+- Find the price of [REGN](symbol)
+- Find the price of [ROST](symbol)
+- Find the price of [SBUX](symbol)
+- Find the price of [SGEN](symbol)
+- Find the price of [SIRI](symbol)
+- Find the price of [SNPS](symbol)
+- Find the price of [SPLK](symbol)
+- Find the price of [SWKS](symbol)
+- Find the price of [TCOM](symbol)
+- Find the price of [TMUS](symbol)
+- Find the price of [TSLA](symbol)
+- Find the price of [TTWO](symbol)
+- Find the price of [TXN](symbol)
+- Find the price of [ULTA](symbol)
+- Find the price of [VRSK](symbol)
+- Find the price of [VRSN](symbol)
+- Find the price of [VRTX](symbol)
+- Find the price of [WBA](symbol)
+- Find the price of [WDAY](symbol)
+- Find the price of [WDC](symbol)
+- Find the price of [XEL](symbol)
+- Find the price of [XLNX](symbol)
+- Find the price of [ZM](symbol)
 - Tell me the price of [AAPL](symbol) before the opening
-- Tell me the price of [AAVL](symbol) before the opening
-- Tell me the price of [AAWW](symbol) before the opening
-- Tell me the price of [AAXJ](symbol) before the opening
-- Tell me the price of [ABAC](symbol) before the opening
-- Tell me the price of [ABAX](symbol) before the opening
-- Tell me the price of [ABCB](symbol) before the opening
-- Tell me the price of [ABCD](symbol) before the opening
-- Tell me the price of [ABCO](symbol) before the opening
-- Tell me the price of [ABCW](symbol) before the opening
-- Tell me the price of [ABDC](symbol) before the opening
-- Tell me the price of [ABGB](symbol) before the opening
-- Tell me the price of [ABIO](symbol) before the opening
-- Tell me the price of [ABMD](symbol) before the opening
-- Tell me the price of [ABTL](symbol) before the opening
-- Tell me the price of [ABY](symbol) before the opening
-- Tell me the price of [ACAD](symbol) before the opening
-- give me the price of [AAIT](symbol) yesterday
-- give me the price of [AAL](symbol) yesterday
-- give me the price of [AAME](symbol) yesterday
-- give me the price of [AAOI](symbol) yesterday
-- give me the price of [AAON](symbol) yesterday
+- Tell me the price of [ADBE](symbol) before the opening
+- Tell me the price of [ADI](symbol) before the opening
+- Tell me the price of [ADP](symbol) before the opening
+- Tell me the price of [ADSK](symbol) before the opening
+- Tell me the price of [ALGN](symbol) before the opening
+- Tell me the price of [ALXN](symbol) before the opening
+- Tell me the price of [AMAT](symbol) before the opening
+- Tell me the price of [AMD](symbol) before the opening
+- Tell me the price of [AMGN](symbol) before the opening
+- Tell me the price of [AMZN](symbol) before the opening
+- Tell me the price of [ANSS](symbol) before the opening
+- Tell me the price of [ASML](symbol) before the opening
+- Tell me the price of [ATVI](symbol) before the opening
+- Tell me the price of [AVGO](symbol) before the opening
+- Tell me the price of [BIDU](symbol) before the opening
+- Tell me the price of [BIIB](symbol) before the opening
+- Tell me the price of [BKNG](symbol) before the opening
+- Tell me the price of [BMRN](symbol) before the opening
+- Tell me the price of [CDNS](symbol) before the opening
+- Tell me the price of [CDW](symbol) before the opening
+- Tell me the price of [CERN](symbol) before the opening
+- Tell me the price of [CHKP](symbol) before the opening
+- Tell me the price of [CHTR](symbol) before the opening
+- Tell me the price of [CMCSA](symbol) before the opening
+- Tell me the price of [COST](symbol) before the opening
+- Tell me the price of [CPRT](symbol) before the opening
+- Tell me the price of [CSCO](symbol) before the opening
+- Tell me the price of [CSGP](symbol) before the opening
+- Tell me the price of [CSX](symbol) before the opening
+- Tell me the price of [CTAS](symbol) before the opening
+- Tell me the price of [CTSH](symbol) before the opening
+- Tell me the price of [CTXS](symbol) before the opening
+- Tell me the price of [DLTR](symbol) before the opening
+- Tell me the price of [DOCU](symbol) before the opening
+- Tell me the price of [DXCM](symbol) before the opening
+- Tell me the price of [EA](symbol) before the opening
+- Tell me the price of [EBAY](symbol) before the opening
+- Tell me the price of [EXC](symbol) before the opening
+- Tell me the price of [EXPE](symbol) before the opening
+- Tell me the price of [FAST](symbol) before the opening
+- Tell me the price of [FB](symbol) before the opening
+- Tell me the price of [FISV](symbol) before the opening
+- Tell me the price of [FOX](symbol) before the opening
+- Tell me the price of [FOXA](symbol) before the opening
+- Tell me the price of [GILD](symbol) before the opening
+- Tell me the price of [GOOG](symbol) before the opening
+- Tell me the price of [GOOGL](symbol) before the opening
+- Tell me the price of [IDXX](symbol) before the opening
+- Tell me the price of [ILMN](symbol) before the opening
+- Tell me the price of [INCY](symbol) before the opening
+- Tell me the price of [INTC](symbol) before the opening
+- Tell me the price of [INTU](symbol) before the opening
+- Tell me the price of [ISRG](symbol) before the opening
+- Tell me the price of [JD](symbol) before the opening
+- Tell me the price of [KHC](symbol) before the opening
+- Tell me the price of [KLAC](symbol) before the opening
+- Tell me the price of [LBTYA](symbol) before the opening
+- Tell me the price of [LBTYK](symbol) before the opening
+- Tell me the price of [LRCX](symbol) before the opening
+- Tell me the price of [LULU](symbol) before the opening
+- Tell me the price of [MAR](symbol) before the opening
+- Tell me the price of [MCHP](symbol) before the opening
+- Tell me the price of [MDLZ](symbol) before the opening
+- Tell me the price of [MELI](symbol) before the opening
+- Tell me the price of [MNST](symbol) before the opening
+- Tell me the price of [MSFT](symbol) before the opening
+- Tell me the price of [MU](symbol) before the opening
+- Tell me the price of [MXIM](symbol) before the opening
+- Tell me the price of [NFLX](symbol) before the opening
+- Tell me the price of [NTAP](symbol) before the opening
+- Tell me the price of [NTES](symbol) before the opening
+- Tell me the price of [NVDA](symbol) before the opening
+- Tell me the price of [NXPI](symbol) before the opening
+- Tell me the price of [ORLY](symbol) before the opening
+- Tell me the price of [PAYX](symbol) before the opening
+- Tell me the price of [PCAR](symbol) before the opening
+- Tell me the price of [PEP](symbol) before the opening
+- Tell me the price of [PYPL](symbol) before the opening
+- Tell me the price of [QCOM](symbol) before the opening
+- Tell me the price of [REGN](symbol) before the opening
+- Tell me the price of [ROST](symbol) before the opening
+- Tell me the price of [SBUX](symbol) before the opening
+- Tell me the price of [SGEN](symbol) before the opening
+- Tell me the price of [SIRI](symbol) before the opening
+- Tell me the price of [SNPS](symbol) before the opening
+- Tell me the price of [SPLK](symbol) before the opening
+- Tell me the price of [SWKS](symbol) before the opening
+- Tell me the price of [TCOM](symbol) before the opening
+- Tell me the price of [TMUS](symbol) before the opening
+- Tell me the price of [TSLA](symbol) before the opening
+- Tell me the price of [TTWO](symbol) before the opening
+- Tell me the price of [TXN](symbol) before the opening
+- Tell me the price of [ULTA](symbol) before the opening
+- Tell me the price of [VRSK](symbol) before the opening
+- Tell me the price of [VRSN](symbol) before the opening
+- Tell me the price of [VRTX](symbol) before the opening
+- Tell me the price of [WBA](symbol) before the opening
+- Tell me the price of [WDAY](symbol) before the opening
+- Tell me the price of [WDC](symbol) before the opening
+- Tell me the price of [XEL](symbol) before the opening
+- Tell me the price of [XLNX](symbol) before the opening
+- Tell me the price of [ZM](symbol) before the opening
 - give me the price of [AAPL](symbol) yesterday
-- give me the price of [AAVL](symbol) yesterday
-- give me the price of [AAWW](symbol) yesterday
-- give me the price of [AAXJ](symbol) yesterday
-- give me the price of [ABAC](symbol) yesterday
-- give me the price of [ABAX](symbol) yesterday
-- give me the price of [ABCB](symbol) yesterday
-- give me the price of [ABCD](symbol) yesterday
-- give me the price of [ABCO](symbol) yesterday
-- give me the price of [ABCW](symbol) yesterday
-- give me the price of [ABDC](symbol) yesterday
-- give me the price of [ABGB](symbol) yesterday
-- give me the price of [ABIO](symbol) yesterday
-- give me the price of [ABMD](symbol) yesterday
-- give me the price of [ABTL](symbol) yesterday
-- give me the price of [ABY](symbol) yesterday
-- give me the price of [ACAD](symbol) yesterday
-- the price of [AAIT](symbol) today
-- the price of [AAL](symbol) today
-- the price of [AAME](symbol) today
-- the price of [AAOI](symbol) today
-- the price of [AAON](symbol) today
+- give me the price of [ADBE](symbol) yesterday
+- give me the price of [ADI](symbol) yesterday
+- give me the price of [ADP](symbol) yesterday
+- give me the price of [ADSK](symbol) yesterday
+- give me the price of [ALGN](symbol) yesterday
+- give me the price of [ALXN](symbol) yesterday
+- give me the price of [AMAT](symbol) yesterday
+- give me the price of [AMD](symbol) yesterday
+- give me the price of [AMGN](symbol) yesterday
+- give me the price of [AMZN](symbol) yesterday
+- give me the price of [ANSS](symbol) yesterday
+- give me the price of [ASML](symbol) yesterday
+- give me the price of [ATVI](symbol) yesterday
+- give me the price of [AVGO](symbol) yesterday
+- give me the price of [BIDU](symbol) yesterday
+- give me the price of [BIIB](symbol) yesterday
+- give me the price of [BKNG](symbol) yesterday
+- give me the price of [BMRN](symbol) yesterday
+- give me the price of [CDNS](symbol) yesterday
+- give me the price of [CDW](symbol) yesterday
+- give me the price of [CERN](symbol) yesterday
+- give me the price of [CHKP](symbol) yesterday
+- give me the price of [CHTR](symbol) yesterday
+- give me the price of [CMCSA](symbol) yesterday
+- give me the price of [COST](symbol) yesterday
+- give me the price of [CPRT](symbol) yesterday
+- give me the price of [CSCO](symbol) yesterday
+- give me the price of [CSGP](symbol) yesterday
+- give me the price of [CSX](symbol) yesterday
+- give me the price of [CTAS](symbol) yesterday
+- give me the price of [CTSH](symbol) yesterday
+- give me the price of [CTXS](symbol) yesterday
+- give me the price of [DLTR](symbol) yesterday
+- give me the price of [DOCU](symbol) yesterday
+- give me the price of [DXCM](symbol) yesterday
+- give me the price of [EA](symbol) yesterday
+- give me the price of [EBAY](symbol) yesterday
+- give me the price of [EXC](symbol) yesterday
+- give me the price of [EXPE](symbol) yesterday
+- give me the price of [FAST](symbol) yesterday
+- give me the price of [FB](symbol) yesterday
+- give me the price of [FISV](symbol) yesterday
+- give me the price of [FOX](symbol) yesterday
+- give me the price of [FOXA](symbol) yesterday
+- give me the price of [GILD](symbol) yesterday
+- give me the price of [GOOG](symbol) yesterday
+- give me the price of [GOOGL](symbol) yesterday
+- give me the price of [IDXX](symbol) yesterday
+- give me the price of [ILMN](symbol) yesterday
+- give me the price of [INCY](symbol) yesterday
+- give me the price of [INTC](symbol) yesterday
+- give me the price of [INTU](symbol) yesterday
+- give me the price of [ISRG](symbol) yesterday
+- give me the price of [JD](symbol) yesterday
+- give me the price of [KHC](symbol) yesterday
+- give me the price of [KLAC](symbol) yesterday
+- give me the price of [LBTYA](symbol) yesterday
+- give me the price of [LBTYK](symbol) yesterday
+- give me the price of [LRCX](symbol) yesterday
+- give me the price of [LULU](symbol) yesterday
+- give me the price of [MAR](symbol) yesterday
+- give me the price of [MCHP](symbol) yesterday
+- give me the price of [MDLZ](symbol) yesterday
+- give me the price of [MELI](symbol) yesterday
+- give me the price of [MNST](symbol) yesterday
+- give me the price of [MSFT](symbol) yesterday
+- give me the price of [MU](symbol) yesterday
+- give me the price of [MXIM](symbol) yesterday
+- give me the price of [NFLX](symbol) yesterday
+- give me the price of [NTAP](symbol) yesterday
+- give me the price of [NTES](symbol) yesterday
+- give me the price of [NVDA](symbol) yesterday
+- give me the price of [NXPI](symbol) yesterday
+- give me the price of [ORLY](symbol) yesterday
+- give me the price of [PAYX](symbol) yesterday
+- give me the price of [PCAR](symbol) yesterday
+- give me the price of [PEP](symbol) yesterday
+- give me the price of [PYPL](symbol) yesterday
+- give me the price of [QCOM](symbol) yesterday
+- give me the price of [REGN](symbol) yesterday
+- give me the price of [ROST](symbol) yesterday
+- give me the price of [SBUX](symbol) yesterday
+- give me the price of [SGEN](symbol) yesterday
+- give me the price of [SIRI](symbol) yesterday
+- give me the price of [SNPS](symbol) yesterday
+- give me the price of [SPLK](symbol) yesterday
+- give me the price of [SWKS](symbol) yesterday
+- give me the price of [TCOM](symbol) yesterday
+- give me the price of [TMUS](symbol) yesterday
+- give me the price of [TSLA](symbol) yesterday
+- give me the price of [TTWO](symbol) yesterday
+- give me the price of [TXN](symbol) yesterday
+- give me the price of [ULTA](symbol) yesterday
+- give me the price of [VRSK](symbol) yesterday
+- give me the price of [VRSN](symbol) yesterday
+- give me the price of [VRTX](symbol) yesterday
+- give me the price of [WBA](symbol) yesterday
+- give me the price of [WDAY](symbol) yesterday
+- give me the price of [WDC](symbol) yesterday
+- give me the price of [XEL](symbol) yesterday
+- give me the price of [XLNX](symbol) yesterday
+- give me the price of [ZM](symbol) yesterday
 - the price of [AAPL](symbol) today
-- the price of [AAVL](symbol) today
-- the price of [AAWW](symbol) today
-- the price of [AAXJ](symbol) today
-- the price of [ABAC](symbol) today
-- the price of [ABAX](symbol) today
-- the price of [ABCB](symbol) today
-- the price of [ABCD](symbol) today
-- the price of [ABCO](symbol) today
-- the price of [ABCW](symbol) today
-- the price of [ABDC](symbol) today
-- the price of [ABGB](symbol) today
-- the price of [ABIO](symbol) today
-- the price of [ABMD](symbol) today
-- the price of [ABTL](symbol) today
-- the price of [ABY](symbol) today
-- the price of [ACAD](symbol) today
-
-## intent:ask_transfer_charge
-- Will I be charged for transferring money
-- do transfers cost something?
-- is there a transfer charge?
-- Is there a charge
-- will i be charged for a transaction?
-- do xfers cost something?
-- is there a transfer fee
-- is there a xfer fee
-- how much is the transfer fee
-
-## intent:check_balance
-- How much money is on my account?
-- what's my balance?
-- what's my current balance?
-- What's left on that account?
-- How much do I have on that account?
-- What's the balance on that account?
-- How much money is left on that account?
-- what is my account balance
-- what's my account balance?
-- what's my account balance
-- what's my balance?
-- whats my account balance
-- What's my [credit card](account_type) balance
-- What's my [credit](account_type) balance
-- How much money do I owe on my [credit cards](account_type)
-- Show me my [credit card](account_type) balance
-- What [credit accounts](account_type) do I have
-- Show me my [credit accounts](account_type)
-- Whats the balance on my [credit account](account_type)
-- What's my [credit account](account_type)
-- What's my [credit all](credit_card) balance
-- What's my [emblem](credit_card) card balance
-- What's the balance on the [credit all](credit_card) account
-- Show me my [iron bank](credit_card) balance
-- What's my [justice bank](credit_card) balance
-- What's the balance on the [justice bank](credit_card) account
-- what's my [emblm](credit_card) [credit card](account_type) balance?
-- what's my [credit card](account_type) balance?
-- what's my [credit card](account_type) account balance?
-- What is my [emblem](credit_card) card balance?
-- whats my [credit card](account_type) balance
-- What is my [emblem](credit_card) card balance?
-- What is my [emblem](credit_card) balance?
-- whats my [emblm](credit_card) card balance?
-- what's my [embelm](credit_card)'s card balance?
-- what's my [emblm](credit_card) account balance?
-
-## intent:check_earnings
-- How much money went into my account last month?
-- How much money did I make last year?
-- What did I earn last month?
-- How much did I make last month?
-- How much money did I make last week?
-- how much was deposited in my account last month?
-- how much was deposited in my account in the last two weeks?
-- check deposits for last week
-- total deposits over last year
-- how much was deposited in January
-- how much money have I earned?
-
-## intent:deny
-- not really
-- no
-- I don't think so
-- never
-- no way
-- nope
-- no thanks
+- the price of [ADBE](symbol) today
+- the price of [ADI](symbol) today
+- the price of [ADP](symbol) today
+- the price of [ADSK](symbol) today
+- the price of [ALGN](symbol) today
+- the price of [ALXN](symbol) today
+- the price of [AMAT](symbol) today
+- the price of [AMD](symbol) today
+- the price of [AMGN](symbol) today
+- the price of [AMZN](symbol) today
+- the price of [ANSS](symbol) today
+- the price of [ASML](symbol) today
+- the price of [ATVI](symbol) today
+- the price of [AVGO](symbol) today
+- the price of [BIDU](symbol) today
+- the price of [BIIB](symbol) today
+- the price of [BKNG](symbol) today
+- the price of [BMRN](symbol) today
+- the price of [CDNS](symbol) today
+- the price of [CDW](symbol) today
+- the price of [CERN](symbol) today
+- the price of [CHKP](symbol) today
+- the price of [CHTR](symbol) today
+- the price of [CMCSA](symbol) today
+- the price of [COST](symbol) today
+- the price of [CPRT](symbol) today
+- the price of [CSCO](symbol) today
+- the price of [CSGP](symbol) today
+- the price of [CSX](symbol) today
+- the price of [CTAS](symbol) today
+- the price of [CTSH](symbol) today
+- the price of [CTXS](symbol) today
+- the price of [DLTR](symbol) today
+- the price of [DOCU](symbol) today
+- the price of [DXCM](symbol) today
+- the price of [EA](symbol) today
+- the price of [EBAY](symbol) today
+- the price of [EXC](symbol) today
+- the price of [EXPE](symbol) today
+- the price of [FAST](symbol) today
+- the price of [FB](symbol) today
+- the price of [FISV](symbol) today
+- the price of [FOX](symbol) today
+- the price of [FOXA](symbol) today
+- the price of [GILD](symbol) today
+- the price of [GOOG](symbol) today
+- the price of [GOOGL](symbol) today
+- the price of [IDXX](symbol) today
+- the price of [ILMN](symbol) today
+- the price of [INCY](symbol) today
+- the price of [INTC](symbol) today
+- the price of [INTU](symbol) today
+- the price of [ISRG](symbol) today
+- the price of [JD](symbol) today
+- the price of [KHC](symbol) today
+- the price of [KLAC](symbol) today
+- the price of [LBTYA](symbol) today
+- the price of [LBTYK](symbol) today
+- the price of [LRCX](symbol) today
+- the price of [LULU](symbol) today
+- the price of [MAR](symbol) today
+- the price of [MCHP](symbol) today
+- the price of [MDLZ](symbol) today
+- the price of [MELI](symbol) today
+- the price of [MNST](symbol) today
+- the price of [MSFT](symbol) today
+- the price of [MU](symbol) today
+- the price of [MXIM](symbol) today
+- the price of [NFLX](symbol) today
+- the price of [NTAP](symbol) today
+- the price of [NTES](symbol) today
+- the price of [NVDA](symbol) today
+- the price of [NXPI](symbol) today
+- the price of [ORLY](symbol) today
+- the price of [PAYX](symbol) today
+- the price of [PCAR](symbol) today
+- the price of [PEP](symbol) today
+- the price of [PYPL](symbol) today
+- the price of [QCOM](symbol) today
+- the price of [REGN](symbol) today
+- the price of [ROST](symbol) today
+- the price of [SBUX](symbol) today
+- the price of [SGEN](symbol) today
+- the price of [SIRI](symbol) today
+- the price of [SNPS](symbol) today
+- the price of [SPLK](symbol) today
+- the price of [SWKS](symbol) today
+- the price of [TCOM](symbol) today
+- the price of [TMUS](symbol) today
+- the price of [TSLA](symbol) today
+- the price of [TTWO](symbol) today
+- the price of [TXN](symbol) today
+- the price of [ULTA](symbol) today
+- the price of [VRSK](symbol) today
+- the price of [VRSN](symbol) today
+- the price of [VRTX](symbol) today
+- the price of [WBA](symbol) today
+- the price of [WDAY](symbol) today
+- the price of [WDC](symbol) today
+- the price of [XEL](symbol) today
+- the price of [XLNX](symbol) today
+- the price of [ZM](symbol) today
 
 ## intent:goodbye
 - see you later
@@ -188,163 +430,3 @@ data/test/lookup_tables/symbol.txt
 - hey
 - good evening
 - hello
-
-## intent:inform
-- $10
-- 5000
-- 500
-- $100
-- $500
-- 100 dollars
-- 1000 dollars
-- tomorrow
-- next week
-- yesterday
-- for today
-- last week
-- the past month
-- the past two days
-- the last two weeks
-- at [amazon](vendor_name)
-- [starbucks](vendor_name)
-- at [target](vendor_name)
-- at [starbucks](vendor_name)
-- [target](vendor_name)
-- [Amazon](vendor_name)
-- [Starbucks](vendor_name)
-- [Target](vendor_name)
-- I want to pay the [current balance](payment_amount)
-- [current balance](payment_amount)
-- [minimum balance](payment_amount)
-- I want to pay the [minimum balance](payment_amount)
-- the [current balance](payment_amount)
-- the [minimum balance](payment_amount)
-- my [minimum balance](payment_amount)
-- my [current balance](payment_amount)
-- [emblem](credit_card) card
-- [credit all](credit_card) card
-- [iron bank](credit_card) card
-- [justice bank](credit_card) card
-- [emblem](credit_card)
-- [credit all](credit_card)
-- [iron bank](credit_card)
-- [justice bank](credit_card)
-- [emblem](credit_card) account
-- [credit all](credit_card) account
-- [iron bank](credit_card) account
-- [justice bank](credit_card) account
-- [emblem](credit_card) [credit card](account_type)
-- [credit all](credit_card) [credit card](account_type)
-- [iron bank](credit_card) [credit card](account_type)
-- [justice bank](credit_card) [credit card](account_type)
-- my [emblem](credit_card) [credit card](account_type)
-- my [credit all](credit_card) [credit card](account_type)
-- my [iron bank](credit_card) [credit card](account_type)
-- my [justice bank](credit_card) [credit card](account_type)
-- my [emblem](credit_card) card
-- my [credit all](credit_card) card
-- my [iron bank](credit_card) card
-- my [justice bank](credit_card) card
-- towards my [emblem](credit_card) card
-- towards my [credit all](credit_card) card
-- towards my [iron bank](credit_card) card
-- towards my [justice bank](credit_card) card
-- for sunday
-- for friday
-- for tomorrow
-- for saturday
-- I want to pay the [minimum balance](payment_amount) on my [emblem](credit_card) [credit card](account_type) today
-- today
-
-## intent:pay_cc
-- I would like to pay the [minimum balance](payment_amount) on my [embelm](credit_card) card
-- I want to pay my [credit card](account_type)
-- I want to pay my card
-- Pay my card
-- Pay my [credit all](credit_card) card
-- I want to pay my [justice bank](credit_card) bill
-- Pay my discover
-- I want to pay my [iron bank](credit_card) bill
-- Pay my visa
-- I want to pay my visa bill
-- Pay my mastercard
-- I want to pay my MasterCard bill
-- I want to pay my [credit card](account_type) bill
-- I want to pay the [current balance](payment_amount) on my [credit card](account_type)
-- can you help me pay the [current balance](payment_amount) on my [credit card](account_type)
-- i want to pay off my [credit all](credit_card) [credit card](account_type)
-- i want to pay off my [credit card](account_type)
-- I want to pay off my [credit card](account_type)
-- i want to pay my [credit card](account_type)
-- i want to pay off my [emblem](credit_card) [credit card](account_type)
-- I want to pay my [current balance](payment_amount) on my [embelm](credit_card) [credit card](account_type)
-- i want to pay my [current balance](payment_amount) on my [emblem](credit_card) [credit card](account_type)
-- I want to pay $500 on my [emblem](credit_card) [credit card](account_type) on Sunday
-- I want to pay my [current balance](payment_amount) on my [emblem](credit_card) [credit card](account_type) today
-- i need to pay off my [emblm](credit_card) [credit card](account_type)
-
-## intent:search_transactions
-- how much did I spend at [Target](vendor_name) this week?
-- what is my typical spending at [Amazon](vendor_name)?
-- I want to check my spending history
-- how much did I spend at [Starbucks](vendor_name) last week?
-- I need to check my spending history
-- I want to check my spending
-- I want to check my spending history at [starbucks](vendor_name)
-- i want to check my spending history
-- i want to see my transaction history
-- I want to search my past transactions
-- can I search my transaction history
-- can I look at past transactions
-- I want to search my transactions with [amazon](vendor_name)
-- can i seem my transactions with [target](vendor_name)
-
-## intent:thankyou
-- thank you goodbye
-- okay thank you goodbye
-- thank you bye
-- um okay thank you good bye
-- thank you
-- and thats all thank you and good bye
-- okay thank you
-- thanks
-- thanks goodbye
-- thank you and good bye
-
-## intent:transfer_money
-- I want to pay John
-- I want to transfer $100 to Bob
-- can i transfer money to Sally
-- I want to transfer money
-- I want to pay someone
-- can I pay someone
-- I need to transfer money to a friend
-- can I transfer money to my mom
-- I want to pay Bill
-- pay my friend
-- transfer money
-- I want to transfer $100 to John
-- i want to transfer $400 to Akela
-- I want to pay Paula Handy
-
-## intent:check_recipients
-- Who can I send money to?
-- Who are my known recipients
-- Show me my list of recipients
-- Show the recipient list
-- Show me people I can send money to
-- Who is a valid payee
-- who can I pay?
-- who can I transfer money?
-- who's in my recipient list?
-- who can I transfer money to?
-
-## synonym:emblem
-- emblm
-- embelm
-
-## synonym:credit
-- credit card
-- credit cards
-- credit account
-- credit accounts
