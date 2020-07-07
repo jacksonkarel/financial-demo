@@ -1,3 +1,11 @@
 # Stock Ticker Bot
 
-Remember to run 'rasa run actions' before running this bot on your local machine.
+install Rasa
+
+run 'rasa train'
+
+run 'rasa run actions'
+
+run 'rasa shell'
+
+type your message into rasa shell
