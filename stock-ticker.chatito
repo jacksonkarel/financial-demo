@@ -2,38 +2,17 @@
     ATVI
     ADBE
     AMD
-    ALXN
-    ALGN
     GOOGL
     GOOG
     AMZN
-    AMGN
-    ADI
-    ANSS
-    AAPL
-    AMAT
-    ASML
-    ADSK
-    ADP
     BIDU
     BIIB
     BMRN
     BKNG
-    AVGO
     CDNS
     CDW
     CERN
     CHTR
-    CHKP
-    CTAS
-    CSCO
-    CTXS
-    CTSH
-    CMCSA
-    CPRT
-    CSGP
-    COST
-    CSX
     DXCM
     DOCU
     DLTR
@@ -65,14 +44,10 @@
     MELI
     MCHP
     MU
-    MSFT
-    MDLZ
-    MNST
     NTAP
     NTES
     NFLX
     NVDA
-    NXPI
     ORLY
     PCAR
     PAYX
@@ -102,32 +77,27 @@
     XEL
     XLNX
     ZM
-    Adobe Inc.
+    Adobe
     Advanced Micro Devices
     Alexion Pharmaceuticals
     Align Technology
-    Alphabet Inc. (Class A)
-    Alphabet Inc. (Class C)
+    Alphabet
     Amazon.com
     Amgen
     Analog Devices
     ANSYS
-    Apple Inc.
-    Applied Materials, Inc.
+    Apple
+    Applied Materials
     ASML Holding
     Autodesk
-    Automatic Data Processing, Inc.
+    Automatic Data Processing
     Baidu
     Biogen
-    BioMarin Pharmaceutical, Inc.
+    BioMarin Pharmaceutical
     Booking Holdings
-    Broadcom Inc.
+    Broadcom
     Cadence Design Systems
     CDW
-    Cerner Corporation
-    Charter Communications, Inc.
-    Check Point Software Technologies Ltd.
-    Cintas Corporation
     Cisco Systems
     Citrix Systems
     Cognizant Technology Solutions Corporation
@@ -138,19 +108,19 @@
     CSX Corporation
     Dexcom
     DocuSign
-    Dollar Tree, Inc.
-    eBay Inc.
+    Dollar Tree
+    eBay
     Electronic Arts
     Exelon Corporation
     Expedia Group
-    Facebook, Inc.
+    Facebook
     Fastenal Company
-    Fiserv, Inc.
+    Fiserv
     Fox Corporation (Class A)
     Fox Corporation (Class B)
-    Gilead Sciences, Inc.
+    Gilead Sciences
     IDEXX Laboratories
-    Illumina, Inc.
+    Illumina
     Incyte Corporation
     Intel Corporation
     Intuit
@@ -166,44 +136,44 @@
     Maxim Integrated Products
     MercadoLibre
     Microchip Technology
-    Micron Technology, Inc.
-    Microsoft Corporation
-    Mondelēz International
-    Monster Beverage Corporation
+    Micron Technology
     NetApp
-    NetEase, Inc.
+    NetEase
     Netflix
     NVIDIA Corporation
     NXP Semiconductors N.V.
-    O'Reilly Automotive, Inc.
-    PACCAR Inc.
-    Paychex, Inc.
-    PayPal Holdings, Inc.
-    PepsiCo, Inc.
+    O'Reilly Automotive
+    PACCAR
+    Paychex
+    PayPal Holdings
+    PepsiCo
     QUALCOMM Incorporated
     Regeneron Pharmaceuticals
-    Ross Stores Inc.
+    Ross Stores
     Seattle Genetics
-    Sirius XM Radio, Inc.
-    Skyworks Solutions, Inc.
+    Sirius XM Radio
+    Skyworks Solutions
     Splunk
     Starbucks Corporation
-    Synopsys, Inc.
+    Synopsys
     T-Mobile US
-    Take-Two Interactive, Inc.
-    Tesla, Inc.
-    Texas Instruments, Inc.
+    Take-Two Interactive
+    Tesla
+    Texas Instruments
     Trip.com Group
     Ulta Beauty
     VeriSign
     Verisk Analytics
     Vertex Pharmaceuticals
-    Walgreen Boots Alliance, Inc.
-    Workday, Inc.
+    Walgreen Boots Alliance
+    Workday
     Western Digital
-    Xcel Energy, Inc.
-    Xilinx, Inc.
+    Xcel Energy
+    Xilinx
     Zoom Video Communications
+
+@[symbol]
+    ~[stock]
 
 %[stock_price]
     Tell me the price of ~[symbol] before the opening
