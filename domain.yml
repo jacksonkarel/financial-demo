@@ -5,6 +5,9 @@ intents:
 - greet
 - goodbye
 
+entities:
+- symbols
+
 responses:
   utter_goodbye:
   - text: Bye

@@ -1,182 +1,28 @@
-~[symbol]
+~[symbols]
     ATVI
-    ADBE
-    AMD
     GOOGL
-    GOOG
-    AMZN
     BIDU
-    BIIB
-    BMRN
-    BKNG
     CDNS
-    CDW
-    CERN
-    CHTR
     DXCM
-    DOCU
-    DLTR
-    EBAY
     EA
-    EXC
-    EXPE
-    FB
-    FAST
-    FISV
-    FOXA
     FOX
     GILD
-    IDXX
-    ILMN
-    INCY
-    INTC
-    INTU
-    ISRG
-    JD
-    KLAC
-    KHC
-    LRCX
-    LBTYA
-    LBTYK
-    LULU
-    MAR
-    MXIM
-    MELI
-    MCHP
-    MU
-    NTAP
-    NTES
-    NFLX
-    NVDA
-    ORLY
-    PCAR
-    PAYX
-    PYPL
-    PEP
-    QCOM
-    REGN
-    ROST
-    SGEN
-    SIRI
-    SWKS
-    SPLK
-    SBUX
-    SNPS
-    TMUS
-    TTWO
-    TSLA
-    TXN
-    TCOM
-    ULTA
-    VRSN
-    VRSK
-    VRTX
-    WBA
-    WDAY
-    WDC
-    XEL
-    XLNX
-    ZM
-    Adobe
-    Advanced Micro Devices
-    Alexion Pharmaceuticals
-    Align Technology
-    Alphabet
-    Amazon.com
-    Amgen
-    Analog Devices
-    ANSYS
-    Apple
-    Applied Materials
-    ASML Holding
-    Autodesk
-    Automatic Data Processing
-    Baidu
-    Biogen
-    BioMarin Pharmaceutical
-    Booking Holdings
-    Broadcom
-    Cadence Design Systems
-    CDW
-    Cisco Systems
-    Citrix Systems
-    Cognizant Technology Solutions Corporation
-    Comcast Corporation
-    Copart
-    CoStar Group
-    Costco Wholesale Corporation
-    CSX Corporation
-    Dexcom
-    DocuSign
-    Dollar Tree
-    eBay
-    Electronic Arts
-    Exelon Corporation
-    Expedia Group
-    Facebook
-    Fastenal Company
-    Fiserv
-    Fox Corporation (Class A)
-    Fox Corporation (Class B)
-    Gilead Sciences
-    IDEXX Laboratories
-    Illumina
-    Incyte Corporation
-    Intel Corporation
-    Intuit
-    Intuitive Surgical
-    JD.com
-    KLA Corporation
-    Kraft Heinz
-    Lam Research
-    Liberty Global (Class A)
-    Liberty Global (Class C)
-    Lululemon Athletica
-    Marriott International
-    Maxim Integrated Products
-    MercadoLibre
-    Microchip Technology
-    Micron Technology
-    NetApp
-    NetEase
-    Netflix
-    NVIDIA Corporation
-    NXP Semiconductors N.V.
-    O'Reilly Automotive
     PACCAR
-    Paychex
-    PayPal Holdings
-    PepsiCo
-    QUALCOMM Incorporated
+    QUALCOMM
     Regeneron Pharmaceuticals
-    Ross Stores
-    Seattle Genetics
     Sirius XM Radio
-    Skyworks Solutions
-    Splunk
-    Starbucks Corporation
-    Synopsys
     T-Mobile US
-    Take-Two Interactive
-    Tesla
-    Texas Instruments
-    Trip.com Group
     Ulta Beauty
     VeriSign
-    Verisk Analytics
-    Vertex Pharmaceuticals
-    Walgreen Boots Alliance
-    Workday
     Western Digital
     Xcel Energy
-    Xilinx
     Zoom Video Communications
 
-@[symbol]
-    ~[stock]
+@[symbols]
+    ~[symbols]
 
 %[stock_price]
-    Tell me the price of ~[symbol] before the opening
-    give me the price of ~[symbol] yesterday
-    the price of ~[symbol] today
-    Find the price of ~[symbol]
+    Tell me the price of @[symbols] before the opening
+    give me the price of @[symbols] yesterday
+    the price of @[symbols] today
+    Find the price of @[symbols]
